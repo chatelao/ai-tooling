@@ -26,4 +26,7 @@
 | Programmierung | OpenAPI Generator | Generierung von API-Clients, Server-Stubs und Dokumentation aus OpenAPI-Spezifikationen | `npm install @openapitools/openapi-generator-cli` | [Link](https://openapi-generator.tech/) |
 | Programmierung | Pawn Compiler | Skriptsprache für Embedded Systems | - | [Link](https://github.com/compuphase/pawn) |
 | Programmierung | PlatformIO Core | Build-System für Embedded-Entwicklung (XIAO RP2040, STM32G431) | `pip install platformio` | [Link](https://platformio.org/) |
+| Testing | Hurl | CLI-Tool zum Ausführen von HTTP-Anfragen (REST, SOAP, GraphQL) mit einfachem Textformat | `sudo add-apt-repository ppa:lepapareil/hurl; sudo apt update; sudo apt install hurl` | [Link](https://hurl.dev/) |
 | Testing | Playwright | E2E Testing für Webanwendungen | `npm install playwright` | [Link](https://playwright.dev/) |
+| Testing | Schemathesis | Eigenschaftsbasiertes Testen für OpenAPI- und GraphQL-Spezifikationen | `pip install schemathesis` | [Link](https://schemathesis.io/) |
+| Testing | Step CI | Deklaratives Open-Source-Framework für API-Tests (REST, OpenAPI, GraphQL) | `npm install -g stepci` | [Link](https://stepci.com/) |
