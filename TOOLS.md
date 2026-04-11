@@ -10,6 +10,11 @@
 | EDA | KiBot | Automatisierung für KiCAD | `pip install kibot` | [Link](https://github.com/INTI-CMNB/KiBot) |
 | EDA | KiCad 10.0 | Elektronik-Design-Automatisierung | `sudo add-apt-repository ppa:kicad/kicad-10.0-releases; sudo apt update; sudo apt install --install-recommends kicad` | [Link](https://www.kicad.org/) |
 | EDA | SKiDL | Schaltungsentwurf in Python | `pip install skidl` | [Link](https://devbisme.github.io/skidl/) |
+| Firmware-Analyse | Binwalk | Analyse von Binärdateien und Extraktion von Inhalten | `sudo apt install binwalk` | [Link](https://github.com/ReFirmLabs/binwalk) |
+| Firmware-Analyse | cve-bin-tool | Scannt Binärdateien auf bekannte Schwachstellen | `pip install cve-bin-tool` | [Link](https://github.com/intel/cve-bin-tool) |
+| Firmware-Analyse | EMBA | Sicherheitsanalysator für Firmware eingebetteter Geräte | `git clone https://github.com/e-m-b-a/emba.git` | [Link](https://github.com/e-m-b-a/emba) |
+| Firmware-Analyse | Radare2 | Reverse-Engineering-Framework | `sudo apt install radare2` | [Link](https://www.radare.org/) |
+| Firmware-Analyse | YARA | Musterabgleich für Malware-Forscher | `sudo apt install yara` | [Link](https://virustotal.github.io/yara/) |
 | Hardware-Simulation | Renode | Emulator für Hardware-Systeme | [Download](https://renode.io/#download) | [Link](https://renode.io/) |
 | Infrastruktur | Vast.ai SDK | Management von GPU-Instanzen | `pip install vastai` | [Link](https://github.com/Vast-ai/vast-python) |
 | KI-Inferenz | Ollama | Lokaler Betrieb von LLMs | `curl -fsSL https://ollama.com/install.sh \| sh` | [Link](https://ollama.com/) |
