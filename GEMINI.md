@@ -19,3 +19,9 @@ Diese Dokumentation dient als zentrale Anlaufstelle für KI-Agenten, um Werkzeug
 - **Format:** Die Datensammlungen werden ebenfalls in Tabellenform dokumentiert.
 - **Inhalte:** Jedes Sammlung wird mit Name, Zweck, Referenzhandbuch sowie Zugriffarten zum Beschaffung und/oder Abfrage beschrieben
 - **Abfragbarkeit:** Vor der Aufnahme in die Liste wird die Software auf Installierbarkeit geprüft.
+
+## 2. Liste der Werkzeuge
+
+| Name | Zweck | Referenzhandbuch | Installationsbefehle |
+| :--- | :--- | :--- | :--- |
+| CircuiTikZ | TeX/LaTeX-Paket zum Zeichnen von elektrischen Schaltungen | [Handbuch](https://mirror.init7.net/ctan/graphics/pgf/contrib/circuitikz/doc/circuitikzmanual.pdf) | `sudo apt-get install texlive-pictures` |
