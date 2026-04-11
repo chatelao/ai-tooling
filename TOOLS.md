@@ -16,6 +16,7 @@
 | KI-Inferenz | vLLM | LLM Inferenz-Engine | `pip install vllm` | [Link](https://github.com/vllm-project/vllm) |
 | Programmierung | Arduino CLI | CLI für Arduino-Projekte (XIAO RP2040, STM32G431) | `curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh \| BINDIR=$HOME/.local/bin sh` | [Link](https://arduino.github.io/arduino-cli/) |
 | Programmierung | Blockly | Visuelle Programmierung | `npm install blockly` | [Link](https://developers.google.com/blockly) |
+| Programmierung | OpenAPI Generator | Generierung von API-Clients, Server-Stubs und Dokumentation aus OpenAPI-Spezifikationen | `npm install @openapitools/openapi-generator-cli` | [Link](https://openapi-generator.tech/) |
 | Programmierung | Pawn Compiler | Skriptsprache für Embedded Systems | - | [Link](https://github.com/compuphase/pawn) |
 | Programmierung | PlatformIO Core | Build-System für Embedded-Entwicklung (XIAO RP2040, STM32G431) | `pip install platformio` | [Link](https://platformio.org/) |
 | Testing | Playwright | E2E Testing für Webanwendungen | `npm install playwright` | [Link](https://playwright.dev/) |
