@@ -7,7 +7,7 @@ Diese Dokumentation dient als zentrale Anlaufstelle für KI-Agenten, um Werkzeug
 ### Sammeln (Discovery)
 - **Automatisierter Scan:** Regelmäßige Überprüfung installierter Pakete über Paketmanager (`apt`), Sprach-Runtimes (`pip list`, `npm list -g`, `cargo install --list`) und Umgebungsvariablen.
 - **Repository-Analyse:** Durchsuchen lokaler Projekte nach Abhängigkeiten in `package.json`, `requirements.txt`, `go.mod` und `Cargo.toml`.
-- **System-Profiling:** Identifikation von Hardware-Ressourcen (CPU/GPU) zur Bestimmung der Eignung für lokale Inferenz.
+- **System-Profiling:** Identifikation von Hardware-Ressourcen (CPU/GPU) sowie möglicher MCP zur Bestimmung der Eignung für lokale Inferenz.
 
 ### Dokumentieren (Documentation)
 #### Werkzeuge
