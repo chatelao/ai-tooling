@@ -14,6 +14,8 @@
 | Infrastruktur | Vast.ai SDK | Management von GPU-Instanzen | `pip install vastai` | [Link](https://github.com/Vast-ai/vast-python) |
 | KI-Inferenz | Ollama | Lokaler Betrieb von LLMs | `curl -fsSL https://ollama.com/install.sh \| sh` | [Link](https://ollama.com/) |
 | KI-Inferenz | vLLM | LLM Inferenz-Engine | `pip install vllm` | [Link](https://github.com/vllm-project/vllm) |
+| Programmierung | Arduino CLI | CLI für Arduino-Projekte (XIAO RP2040, STM32G431) | `curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh \| BINDIR=$HOME/.local/bin sh` | [Link](https://arduino.github.io/arduino-cli/) |
 | Programmierung | Blockly | Visuelle Programmierung | `npm install blockly` | [Link](https://developers.google.com/blockly) |
 | Programmierung | Pawn Compiler | Skriptsprache für Embedded Systems | - | [Link](https://github.com/compuphase/pawn) |
+| Programmierung | PlatformIO Core | Build-System für Embedded-Entwicklung (XIAO RP2040, STM32G431) | `pip install platformio` | [Link](https://platformio.org/) |
 | Testing | Playwright | E2E Testing für Webanwendungen | `npm install playwright` | [Link](https://playwright.dev/) |
