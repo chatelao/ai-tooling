@@ -2,8 +2,10 @@
 
 | Gruppe | Name | Zweck | Installationsbefehle | Referenzhandbuch |
 | :--- | :--- | :--- | :--- | :--- |
+| CAD/3D | FreeCAD | Parametrischer 3D-Modellierer | `sudo add-apt-repository ppa:freecad-maintainers/freecad-stable; sudo apt update; sudo apt install freecad` | [Link](https://www.freecad.org/) |
 | CAD/3D | MCP-FreeCAD | Model Context Protocol für FreeCAD | - | [Link](https://github.com/jango-blockchained/mcp-freecad) |
 | CAD/3D | MeshLab | Bearbeitung von 3D-Meshes | `sudo apt install meshlab` | [Link](https://www.meshlab.net/) |
+| CAD/3D | OpenSCAD | Der Programmierer unter den 3D-CAD-Modellierern | `sudo apt install openscad` | [Link](https://openscad.org/) |
 | Dokumentation | Apache FOP | Print Formatter für XSL-FO | `sudo apt install fop` | [Link](https://xmlgraphics.apache.org/fop/) |
 | Dokumentation | PlantUML | UML-Diagramm-Renderer | `sudo apt install plantuml` | [Link](https://plantuml.com/) |
 | Dokumentation | WaveDrom | Zeitdiagramm-Renderer | `npm install wavedrom` | [Link](https://wavedrom.com/) |
