@@ -13,11 +13,11 @@ Diese Dokumentation dient als zentrale Anlaufstelle für KI-Agenten, um Werkzeug
 #### Werkzeuge
 - **Speicherort:** Führe die Werkzeuge  in [TOOLS.md](TOOLS.md)
 - **Format:** Die Werkzeuge werden in Tabellenform dokumentiert.
-- **Inhalte:** Jedes Werkzeug wird mit Name, Zweck, Referenzhandbuch, Installationsbefehle in der Tabelle geführt
+- **Inhalte:** Jedes Werkzeug wird mit Gruppe, Name, Zweck, Installationsbefehle in der Tabelle geführt, Referenzhandbuch
 - **Installierbarkeit:** Vor der Aufnahme in die Liste wird die Software auf Installierbarkeit geprüft.
 
 #### Datenquellen/-sammlungen
 - **Speicherort:** Führe die Werkzeuge  in [DATASOURCES.md](DATASOURCES.md)
 - **Format:** Die Datensammlungen werden ebenfalls in Tabellenform dokumentiert.
-- **Inhalte:** Jedes Sammlung wird mit Name, Zweck, Referenzhandbuch sowie Zugriffarten zum Beschaffung und/oder Abfrage beschrieben
+- **Inhalte:** Jedes Sammlung wird mit Gruppe, Name, Zweck, Zugriffarten zum Beschaffung und/oder Abfrage beschrieben, Referenzhandbuch
 - **Abfragbarkeit:** Vor der Aufnahme in die Liste wird die Software auf Installierbarkeit geprüft.
