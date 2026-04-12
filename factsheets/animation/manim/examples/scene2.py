@@ -1,0 +1,1 @@
+class S2(Scene): pass

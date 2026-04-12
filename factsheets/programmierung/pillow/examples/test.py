@@ -1,0 +1,1 @@
+from PIL import Image; img = Image.new('RGB', (10,10)); img.save('test.png')

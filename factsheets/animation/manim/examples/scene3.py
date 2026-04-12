@@ -1,0 +1,1 @@
+class S3(Scene): pass
