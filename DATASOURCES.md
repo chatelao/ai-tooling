@@ -2,6 +2,7 @@
 
 | Gruppe | Name | Zweck | Zugriff / Abfrage | Referenzhandbuch |
 | :--- | :--- | :--- | :--- | :--- |
+| Bioinformatik | Human Protein Atlas | Datenbank für die Lokalisierung und Expression von Proteinen in menschlichen Geweben und Zellen | Web-GUI / REST-API (JSON/XML/TSV) | [Link](https://www.proteinatlas.org/) |
 | Bioinformatik | NCBI GenBank | Umfassende Datenbank für öffentlich verfügbare DNA-Sequenzen | Web-GUI / E-Utilities API | [Link](https://www.ncbi.nlm.nih.gov/genbank/) |
 | Bioinformatik | UniProt | Datenbank für Proteinsequenzen und Funktionsinformationen | Web-GUI / REST-API | [Link](https://www.uniprot.org/) |
 | Finanzen | eCH-0196 | Schweizer Steuerauszug | XML Import | - |
