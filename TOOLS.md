@@ -25,6 +25,7 @@
 | Dokumentation | Apache FOP | Print Formatter für XSL-FO | `sudo apt install fop` | [Link](https://xmlgraphics.apache.org/fop/) | [Link](factsheets/dokumentation/apache-fop/README.md) |
 | Dokumentation | img2pdf | Verlustfreie Konvertierung von Bildern in PDF | `sudo apt install img2pdf` | [Link](https://github.com/josch/img2pdf) | [Link](factsheets/dokumentation/img2pdf/README.md) |
 | Dokumentation | PlantUML | UML-Diagramm-Renderer | `sudo apt install plantuml` | [Link](https://plantuml.com/) | [Link](factsheets/dokumentation/plantuml/README.md) |
+| Dokumentation | Redocly CLI | CLI für OpenAPI-Dokumentation, Linting und Bündelung | `npm install @redocly/cli` | [Link](https://redocly.com/docs/cli/) | [Link](factsheets/dokumentation/redocly-cli/README.md) |
 | Dokumentation | WaveDrom | Zeitdiagramm-Renderer | `npm install wavedrom` | [Link](https://wavedrom.com/) | [Link](factsheets/dokumentation/wavedrom/README.md) |
 | EDA | CircuiTikZ | TeX/LaTeX-Paket zum Zeichnen von elektrischen Schaltungen | `sudo apt install texlive-pictures` | [Link](https://mirror.init7.net/ctan/graphics/pgf/contrib/circuitikz/doc/circuitikzmanual.pdf) | [Link](factsheets/eda/circuitikz/README.md) |
 | EDA | KiBot | Automatisierung für KiCAD | `pip install kibot` | [Link](https://github.com/INTI-CMNB/KiBot) | [Link](factsheets/eda/kibot/README.md) |
@@ -57,5 +58,7 @@
 | Schnittstellen | Zeep | Moderne SOAP-Client-Bibliothek für Python | `sudo apt install python3-zeep` | [Link](https://docs.python-zeep.org/) | [Link](factsheets/schnittstellen/zeep/README.md) |
 | Testing | Hurl | CLI-Tool zum Ausführen von HTTP-Anfragen (REST, SOAP, GraphQL) mit einfachem Textformat | `sudo add-apt-repository ppa:lepapareil/hurl; sudo apt update; sudo apt install hurl` | [Link](https://hurl.dev/) | [Link](factsheets/testing/hurl/README.md) |
 | Testing | Playwright | E2E Testing für Webanwendungen | `npm install playwright` | [Link](https://playwright.dev/) | [Link](factsheets/testing/playwright/README.md) |
+| Testing | Prism | Mock-Server für OpenAPI-Spezifikationen | `npm install @stoplight/prism-cli` | [Link](https://stoplight.io/open-source/prism) | [Link](factsheets/testing/prism/README.md) |
 | Testing | Schemathesis | Eigenschaftsbasiertes Testen für OpenAPI- und GraphQL-Spezifikationen | `pip install schemathesis` | [Link](https://schemathesis.io/) | [Link](factsheets/testing/schemathesis/README.md) |
+| Testing | Spectral | Flexibler Linter für JSON/YAML, spezialisiert auf OpenAPI | `npm install @stoplight/spectral-cli` | [Link](https://stoplight.io/open-source/spectral) | [Link](factsheets/testing/spectral/README.md) |
 | Testing | Step CI | Deklaratives Open-Source-Framework für API-Tests (REST, OpenAPI, GraphQL) | `npm install -g stepci` | [Link](https://stepci.com/) | [Link](factsheets/testing/step-ci/README.md) |

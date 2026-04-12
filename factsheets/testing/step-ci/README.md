@@ -2,7 +2,9 @@
 
 ## Gruppe: Testing
 
-## Zweck: Step-ci ist ein Werkzeug für
+## Zweck: Step-ci ist ein Werkzeug für automatisierte API-Tests und Monitoring
+
+Step CI ist ein deklaratives Framework zum Testen und Überwachen von REST-, GraphQL- und gRPC-APIs. Tests werden in YAML oder JSON definiert und können einfach in CI/CD-Pipelines integriert werden.
 
 ## Installation (Ubuntu 24.04)
 
@@ -14,11 +16,11 @@ npm install -g stepci
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
-- `workflow.yml`
-- `test.js`
-- `config.json`
-- `env.env`
-- `output.txt`
+- `workflow.yml`: Definition des Test-Workflows.
+- `test.js`: Zusätzliche Testlogik in JavaScript.
+- `config.json`: Globale Konfiguration.
+- `env.env`: Umgebungsvariablen für Tests.
+- `output.txt`: Beispielhafte Testausgabe.
 
 ## Validierung
 

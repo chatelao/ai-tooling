@@ -2,7 +2,9 @@
 
 ## Gruppe: Programmierung
 
-## Zweck: Openapi-generator ist ein Werkzeug für
+## Zweck: Openapi-generator ist ein Werkzeug für die automatische Codegenerierung
+
+Das Tool ermöglicht die Generierung von API-Clients, Server-Stubs, Dokumentationen und Konfigurationsdateien aus OpenAPI-Spezifikationen (v2, v3). Es unterstützt eine Vielzahl von Programmiersprachen und Frameworks.
 
 ## Installation (Ubuntu 24.04)
 
@@ -14,12 +16,22 @@ npm install @openapitools/openapi-generator-cli
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
-- `api.yaml`
-- `config.json`
-- `out.sh`
-- `test.json`
-- `doc.md`
+- `api.yaml`: Eine Beispiel-OpenAPI-Spezifikation.
+- `config.json`: Konfiguration für den Generator.
+- `out.sh`: Skript zur Ausführung der Codegenerierung.
+- `test.json`: Beispieldaten für Tests.
+- `doc.md`: Generierte Dokumentationsvorschau.
 
 ## Validierung
 
-Hilfe anzeigen.
+Hilfe anzeigen:
+
+```bash
+npx @openapitools/openapi-generator-cli help
+```
+
+Verfügbare Generatoren auflisten:
+
+```bash
+npx @openapitools/openapi-generator-cli list
+```
