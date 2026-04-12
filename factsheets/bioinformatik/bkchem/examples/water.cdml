@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdml>
+  <molecule id="m1">
+    <atom id="a1" element="O" x="0" y="0"/>
+    <atom id="a2" element="H" x="0.75" y="0.5"/>
+    <atom id="a3" element="H" x="-0.75" y="0.5"/>
+    <bond id="b1" order="1" atoms="a1 a2"/>
+    <bond id="b2" order="1" atoms="a1 a3"/>
+  </molecule>
+</cdml>

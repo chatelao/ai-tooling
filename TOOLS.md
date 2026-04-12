@@ -13,6 +13,8 @@
 | App-Entwicklung | React | JavaScript-Bibliothek für Web-Benutzeroberflächen | `npm install react` | [Link](https://react.dev/) | [Link](factsheets/app-entwicklung/react/README.md) |
 | App-Entwicklung | React Native | Framework für native Cross-Plattform-Apps | `npm install react-native` | [Link](https://reactnative.dev/) | [Link](factsheets/app-entwicklung/react-native/README.md) |
 | Bioinformatik | Biopython | Werkzeuge für die biologische Datenverarbeitung | `sudo apt install python3-biopython` | [Link](https://biopython.org/) | [Link](factsheets/bioinformatik/biopython/README.md) |
+| Bioinformatik | BKChem | Editor für chemische Strukturen | `sudo apt install bkchem` | [Link](https://bkchem.zirael.org/) | [Link](factsheets/bioinformatik/bkchem/README.md) |
+| Bioinformatik | ChemFig | TeX/LaTeX-Paket zum Zeichnen von chemischen Strukturen | `sudo apt install texlive-science` | [Link](https://mirror.init7.net/ctan/macros/generic/chemfig/chemfig-en.pdf) | [Link](factsheets/bioinformatik/chemfig/README.md) |
 | Bioinformatik | Jmol | Java-basierter Viewer für chemische Strukturen in 3D | `sudo apt install jmol` | [Link](https://jmol.sourceforge.net/) | [Link](factsheets/bioinformatik/jmol/README.md) |
 | Bioinformatik | PyMOL | Molekulargrafiksystem zur Visualisierung von Makromolekülen | `sudo apt install pymol` | [Link](https://pymol.org/) | [Link](factsheets/bioinformatik/pymol/README.md) |
 | Bioinformatik | RDKit | Sammlung von Cheminformatik- und maschinellen Lernwerkzeugen | `sudo apt install python3-rdkit` | [Link](https://www.rdkit.org/) | [Link](factsheets/bioinformatik/rdkit/README.md) |
