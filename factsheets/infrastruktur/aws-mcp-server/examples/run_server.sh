@@ -1,0 +1,1 @@
+uvx awslabs.aws-api-mcp-server@latest

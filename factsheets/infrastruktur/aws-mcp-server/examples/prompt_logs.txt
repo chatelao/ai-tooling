@@ -1,0 +1,2 @@
+# Beispiel-Prompt für den Agenten
+"Analysiere die CloudWatch Logs der letzten 10 Minuten für die Funktion 'OrderProcessor'."

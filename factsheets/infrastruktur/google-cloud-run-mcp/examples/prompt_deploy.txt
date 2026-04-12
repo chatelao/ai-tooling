@@ -1,0 +1,2 @@
+# Beispiel-Prompt
+"Deploye den aktuellen Verzeichnisinhalt als neuen Cloud Run Service 'web-app'."
