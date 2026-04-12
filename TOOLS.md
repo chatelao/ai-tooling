@@ -51,6 +51,10 @@
 | Programmierung | Pawn Compiler | Skriptsprache für Embedded Systems | - | [Link](https://github.com/compuphase/pawn) | [Link](factsheets/programmierung/pawn-compiler/README.md) |
 | Programmierung | Pillow | Python Imaging Library | `pip install Pillow` | [Link](https://python-pillow.org/) | [Link](factsheets/programmierung/pillow/README.md) |
 | Programmierung | PlatformIO Core | Build-System für Embedded-Entwicklung (XIAO RP2040, STM32G431) | `pip install platformio` | [Link](https://platformio.org/) | [Link](factsheets/programmierung/platformio-core/README.md) |
+| Schnittstellen | xmllint | GNOME XML-Werkzeug zur Validierung und Formatierung | `sudo apt install libxml2-utils` | [Link](http://xmlsoft.org/xmllint.html) | [Link](factsheets/schnittstellen/xmllint/README.md) |
+| Schnittstellen | XMLStarlet | Toolkit zur XML-Verarbeitung von der Kommandozeile | `sudo apt install xmlstarlet` | [Link](https://xmlstar.sourceforge.net/) | [Link](factsheets/schnittstellen/xmlstarlet/README.md) |
+| Schnittstellen | xsltproc | Kommandozeilen-Prozessor für XSLT 1.0 | `sudo apt install xsltproc` | [Link](http://xmlsoft.org/XSLT/xsltproc2.html) | [Link](factsheets/schnittstellen/xsltproc/README.md) |
+| Schnittstellen | Zeep | Moderne SOAP-Client-Bibliothek für Python | `sudo apt install python3-zeep` | [Link](https://docs.python-zeep.org/) | [Link](factsheets/schnittstellen/zeep/README.md) |
 | Testing | Hurl | CLI-Tool zum Ausführen von HTTP-Anfragen (REST, SOAP, GraphQL) mit einfachem Textformat | `sudo add-apt-repository ppa:lepapareil/hurl; sudo apt update; sudo apt install hurl` | [Link](https://hurl.dev/) | [Link](factsheets/testing/hurl/README.md) |
 | Testing | Playwright | E2E Testing für Webanwendungen | `npm install playwright` | [Link](https://playwright.dev/) | [Link](factsheets/testing/playwright/README.md) |
 | Testing | Schemathesis | Eigenschaftsbasiertes Testen für OpenAPI- und GraphQL-Spezifikationen | `pip install schemathesis` | [Link](https://schemathesis.io/) | [Link](factsheets/testing/schemathesis/README.md) |

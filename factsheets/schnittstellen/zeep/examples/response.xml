@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stoc="http://example.com/stockquote.xsd">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stoc:TradePrice>
+         <stoc:price>150.25</stoc:price>
+      </stoc:TradePrice>
+   </soapenv:Body>
+</soapenv:Envelope>
