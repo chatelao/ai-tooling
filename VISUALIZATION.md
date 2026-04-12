@@ -9,6 +9,10 @@ Diese Dokumentation ordnet gewünschte Visualisierungsergebnisse den entsprechen
 | Mathematische Animationen | Manim | Animation |
 | 2D-Animationen | Pencil2D | Animation |
 | 2D-Animationen | Synfig Studio | Animation |
+| Mobile Apps | Flutter | App-Entwicklung |
+| Webanwendungen | Flutter | App-Entwicklung |
+| Webanwendungen | React | App-Entwicklung |
+| Mobile Apps | React Native | App-Entwicklung |
 | Molekülvisualisierung | Jmol | Bioinformatik |
 | Molekülvisualisierung | PyMOL | Bioinformatik |
 | 3D-CAD-Modelle | FreeCAD | CAD/3D |

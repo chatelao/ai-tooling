@@ -2,11 +2,6 @@
 
 | Gruppe | Name | Zweck | Installationsbefehle | Referenzhandbuch | Factsheet |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Bioinformatik | Biopython | Werkzeuge für die biologische Datenverarbeitung | `sudo apt install python3-biopython` | [Link](https://biopython.org/) | [Link](factsheets/bioinformatik/biopython/README.md) |
-| Bioinformatik | Jmol | Java-basierter Viewer für chemische Strukturen in 3D | `sudo apt install jmol` | [Link](https://jmol.sourceforge.net/) | [Link](factsheets/bioinformatik/jmol/README.md) |
-| Bioinformatik | PyMOL | Molekulargrafiksystem zur Visualisierung von Makromolekülen | `sudo apt install pymol` | [Link](https://pymol.org/) | [Link](factsheets/bioinformatik/pymol/README.md) |
-| Bioinformatik | RDKit | Sammlung von Cheminformatik- und maschinellen Lernwerkzeugen | `sudo apt install python3-rdkit` | [Link](https://www.rdkit.org/) | [Link](factsheets/bioinformatik/rdkit/README.md) |
-| Bioinformatik | SeqKit | Cross-Plattform-Toolkit zur Manipulation von FASTA/Q-Dateien | `sudo apt install seqkit` | [Link](https://bioinf.shenwei.me/seqkit/) | [Link](factsheets/bioinformatik/seqkit/README.md) |
 | Animation | Blender | Suite für 3D-Erstellung (Modellierung, Animation, Rendering) | `sudo apt install blender` | [Link](https://www.blender.org/) | [Link](factsheets/animation/blender/README.md) |
 | Animation | FFmpeg | Framework zum Dekodieren, Kodieren, Transkodieren und Streamen | `sudo apt install ffmpeg` | [Link](https://ffmpeg.org/) | [Link](factsheets/animation/ffmpeg/README.md) |
 | Animation | ImageMagick | Suite zum Erstellen, Bearbeiten und Konvertieren von Rasterbildern | `sudo apt install imagemagick` | [Link](https://imagemagick.org/) | [Link](factsheets/animation/imagemagick/README.md) |
@@ -14,6 +9,14 @@
 | Animation | Manim | Python-Bibliothek für mathematische Animationen | `pip install manim` | [Link](https://www.manim.community/) | [Link](factsheets/animation/manim/README.md) |
 | Animation | Pencil2D | Werkzeug für handgezeichnete 2D-Animationen (Raster und Vektor) | `sudo apt install pencil2d` | [Link](https://www.pencil2d.org/) | [Link](factsheets/animation/pencil2d/README.md) |
 | Animation | Synfig Studio | Vektorbasierte 2D-Animationssoftware | `sudo apt install synfigstudio` | [Link](https://www.synfig.org/) | [Link](factsheets/animation/synfig-studio/README.md) |
+| App-Entwicklung | Flutter | UI-Toolkit für nativ kompilierte Apps (Mobile, Web, Desktop) | `export PATH="$PATH:/opt/flutter/bin"` | [Link](https://flutter.dev/) | [Link](factsheets/app-entwicklung/flutter/README.md) |
+| App-Entwicklung | React | JavaScript-Bibliothek für Web-Benutzeroberflächen | `npm install react` | [Link](https://react.dev/) | [Link](factsheets/app-entwicklung/react/README.md) |
+| App-Entwicklung | React Native | Framework für native Cross-Plattform-Apps | `npm install react-native` | [Link](https://reactnative.dev/) | [Link](factsheets/app-entwicklung/react-native/README.md) |
+| Bioinformatik | Biopython | Werkzeuge für die biologische Datenverarbeitung | `sudo apt install python3-biopython` | [Link](https://biopython.org/) | [Link](factsheets/bioinformatik/biopython/README.md) |
+| Bioinformatik | Jmol | Java-basierter Viewer für chemische Strukturen in 3D | `sudo apt install jmol` | [Link](https://jmol.sourceforge.net/) | [Link](factsheets/bioinformatik/jmol/README.md) |
+| Bioinformatik | PyMOL | Molekulargrafiksystem zur Visualisierung von Makromolekülen | `sudo apt install pymol` | [Link](https://pymol.org/) | [Link](factsheets/bioinformatik/pymol/README.md) |
+| Bioinformatik | RDKit | Sammlung von Cheminformatik- und maschinellen Lernwerkzeugen | `sudo apt install python3-rdkit` | [Link](https://www.rdkit.org/) | [Link](factsheets/bioinformatik/rdkit/README.md) |
+| Bioinformatik | SeqKit | Cross-Plattform-Toolkit zur Manipulation von FASTA/Q-Dateien | `sudo apt install seqkit` | [Link](https://bioinf.shenwei.me/seqkit/) | [Link](factsheets/bioinformatik/seqkit/README.md) |
 | CAD/3D | FreeCAD | Parametrischer 3D-Modellierer | `sudo add-apt-repository ppa:freecad-maintainers/freecad-stable; sudo apt update; sudo apt install freecad` | [Link](https://www.freecad.org/) | [Link](factsheets/cad-3d/freecad/README.md) |
 | CAD/3D | LDView | 3D-Renderer für LDraw-Modelle | `curl -L http://download.opensuse.org/repositories/home:/pbartfai/xUbuntu_24.04/amd64/ldview-osmesa_4.7-1_amd64.deb -o ldview.deb; sudo apt install ./ldview.deb` | [Link](https://tc3d.com/ldview/) | [Link](factsheets/cad-3d/ldview/README.md) |
 | CAD/3D | MCP-FreeCAD | Model Context Protocol für FreeCAD | - | [Link](https://github.com/jango-blockchained/mcp-freecad) | [Link](factsheets/cad-3d/mcp-freecad/README.md) |
