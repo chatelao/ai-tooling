@@ -2,6 +2,11 @@
 
 | Gruppe | Name | Zweck | Installationsbefehle | Referenzhandbuch |
 | :--- | :--- | :--- | :--- | :--- |
+| Bioinformatik | Biopython | Werkzeuge für die biologische Datenverarbeitung | `sudo apt install python3-biopython` | [Link](https://biopython.org/) |
+| Bioinformatik | Jmol | Java-basierter Viewer für chemische Strukturen in 3D | `sudo apt install jmol` | [Link](https://jmol.sourceforge.net/) |
+| Bioinformatik | PyMOL | Molekulargrafiksystem zur Visualisierung von Makromolekülen | `sudo apt install pymol` | [Link](https://pymol.org/) |
+| Bioinformatik | RDKit | Sammlung von Cheminformatik- und maschinellen Lernwerkzeugen | `sudo apt install python3-rdkit` | [Link](https://www.rdkit.org/) |
+| Bioinformatik | SeqKit | Cross-Plattform-Toolkit zur Manipulation von FASTA/Q-Dateien | `sudo apt install seqkit` | [Link](https://bioinf.shenwei.me/seqkit/) |
 | CAD/3D | FreeCAD | Parametrischer 3D-Modellierer | `sudo add-apt-repository ppa:freecad-maintainers/freecad-stable; sudo apt update; sudo apt install freecad` | [Link](https://www.freecad.org/) |
 | CAD/3D | MCP-FreeCAD | Model Context Protocol für FreeCAD | - | [Link](https://github.com/jango-blockchained/mcp-freecad) |
 | CAD/3D | MeshLab | Bearbeitung von 3D-Meshes | `sudo apt install meshlab` | [Link](https://www.meshlab.net/) |
