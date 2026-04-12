@@ -22,7 +22,10 @@
 | Dokumentation | Apache FOP | Print Formatter für XSL-FO | `sudo apt install fop` | [Link](https://xmlgraphics.apache.org/fop/) |
 | Dokumentation | img2pdf | Verlustfreie Konvertierung von Bildern in PDF | `sudo apt install img2pdf` | [Link](https://github.com/josch/img2pdf) |
 | Dokumentation | PlantUML | UML-Diagramm-Renderer | `sudo apt install plantuml` | [Link](https://plantuml.com/) |
+| Dokumentation | TeX Live | Umfassende LaTeX-Distribution für das Satzwesen | `sudo apt install texlive-full` | [Link](https://www.tug.org/texlive/) |
+| Dokumentation | Typst | Moderne, Rust-basierte Satzsprache und Compiler | `cargo install typst-cli` | [Link](https://typst.app/) |
 | Dokumentation | WaveDrom | Zeitdiagramm-Renderer | `npm install wavedrom` | [Link](https://wavedrom.com/) |
+| EDA | CircuiTikZ | TeX/LaTeX-Paket zum Zeichnen von elektrischen Schaltungen | `sudo apt install texlive-pictures` | [Link](https://mirror.init7.net/ctan/graphics/pgf/contrib/circuitikz/doc/circuitikzmanual.pdf) |
 | EDA | KiBot | Automatisierung für KiCAD | `pip install kibot` | [Link](https://github.com/INTI-CMNB/KiBot) |
 | EDA | KiCad 10.0 | Elektronik-Design-Automatisierung | `sudo add-apt-repository ppa:kicad/kicad-10.0-releases; sudo apt update; sudo apt install --install-recommends kicad` | [Link](https://www.kicad.org/) |
 | EDA | SKiDL | Schaltungsentwurf in Python | `pip install skidl` | [Link](https://devbisme.github.io/skidl/) |
