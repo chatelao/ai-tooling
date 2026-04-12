@@ -1,0 +1,6 @@
+# Simple Yosys synthesis script
+read_verilog counter.v
+hierarchy -check -top counter
+proc; opt; fsm; opt; memory; opt
+techmap; opt
+write_verilog synth_output.v
