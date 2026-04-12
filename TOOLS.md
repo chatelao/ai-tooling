@@ -23,12 +23,17 @@
 | Dokumentation | img2pdf | Verlustfreie Konvertierung von Bildern in PDF | `sudo apt install img2pdf` | [Link](https://github.com/josch/img2pdf) |
 | Dokumentation | PlantUML | UML-Diagramm-Renderer | `sudo apt install plantuml` | [Link](https://plantuml.com/) |
 | Dokumentation | WaveDrom | Zeitdiagramm-Renderer | `npm install wavedrom` | [Link](https://wavedrom.com/) |
+| EDA | CircuiTikZ | TeX/LaTeX-Paket zum Zeichnen von elektrischen Schaltungen | `sudo apt install texlive-pictures` | [Link](https://mirror.init7.net/ctan/graphics/pgf/contrib/circuitikz/doc/circuitikzmanual.pdf) |
 | EDA | KiBot | Automatisierung für KiCAD | `pip install kibot` | [Link](https://github.com/INTI-CMNB/KiBot) |
 | EDA | KiCad 10.0 | Elektronik-Design-Automatisierung | `sudo add-apt-repository ppa:kicad/kicad-10.0-releases; sudo apt update; sudo apt install --install-recommends kicad` | [Link](https://www.kicad.org/) |
 | EDA | SKiDL | Schaltungsentwurf in Python | `pip install skidl` | [Link](https://devbisme.github.io/skidl/) |
 | Firmware-Analyse | Binwalk | Analyse von Binärdateien und Extraktion von Inhalten | `sudo apt install binwalk` | [Link](https://github.com/ReFirmLabs/binwalk) |
 | Firmware-Analyse | cve-bin-tool | Scannt Binärdateien auf bekannte Schwachstellen | `pip install cve-bin-tool` | [Link](https://github.com/intel/cve-bin-tool) |
 | Firmware-Analyse | EMBA | Sicherheitsanalysator für Firmware eingebetteter Geräte | `git clone https://github.com/e-m-b-a/emba.git` | [Link](https://github.com/e-m-b-a/emba) |
+| Firmware-Analyse | Ghidra | Software-Reverse-Engineering-Framework | [Download](https://ghidra-re.org/) | [Link](https://ghidra-re.org/) |
+| Firmware-Analyse | GNU Binutils | Sammlung von GNU-Werkzeugen zur Manipulation von Binärdateien (Assembler, Linker, etc.) | `sudo apt install binutils` | [Link](https://www.gnu.org/software/binutils/) |
+| Firmware-Analyse | Hexdump | Anzeige von Dateiinhalten in verschiedenen Formaten (Hexadezimal, Dezimal, Oktal, ASCII) | `sudo apt install bsdextrautils` | [Link](https://www.kernel.org/pub/linux/utils/util-linux/) |
+| Firmware-Analyse | PANDA | Plattform für Architektur-neutrale dynamische Analyse | `git clone https://github.com/panda-re/panda.git` | [Link](https://panda.re/) |
 | Firmware-Analyse | Radare2 | Reverse-Engineering-Framework | `sudo apt install radare2` | [Link](https://www.radare.org/) |
 | Firmware-Analyse | YARA | Musterabgleich für Malware-Forscher | `sudo apt install yara` | [Link](https://virustotal.github.io/yara/) |
 | Hardware-Simulation | Renode | Emulator für Hardware-Systeme | [Download](https://renode.io/#download) | [Link](https://renode.io/) |
@@ -38,6 +43,7 @@
 | KI-Inferenz | vLLM | LLM Inferenz-Engine | `pip install vllm` | [Link](https://github.com/vllm-project/vllm) |
 | Programmierung | Arduino CLI | CLI für Arduino-Projekte (XIAO RP2040, STM32G431) | `curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh \| BINDIR=$HOME/.local/bin sh` | [Link](https://arduino.github.io/arduino-cli/) |
 | Programmierung | Blockly | Visuelle Programmierung | `npm install blockly` | [Link](https://developers.google.com/blockly) |
+| Programmierung | GNU Toolchain for ARM | Cross-Compiler für ARM Cortex-R/M Prozessoren | `sudo apt install gcc-arm-none-eabi` | [Link](https://developer.arm.com/Tools%20and%20Software/GNU%20Toolchain) |
 | Programmierung | OpenAPI Generator | Generierung von API-Clients, Server-Stubs und Dokumentation aus OpenAPI-Spezifikationen | `npm install @openapitools/openapi-generator-cli` | [Link](https://openapi-generator.tech/) |
 | Programmierung | Pawn Compiler | Skriptsprache für Embedded Systems | - | [Link](https://github.com/compuphase/pawn) |
 | Programmierung | Pillow | Python Imaging Library | `pip install Pillow` | [Link](https://python-pillow.org/) |
