@@ -13,6 +13,8 @@ Diese Dokumentation ordnet gewünschte Visualisierungsergebnisse den entsprechen
 | Webanwendungen | Flutter | App-Entwicklung |
 | Webanwendungen | React | App-Entwicklung |
 | Mobile Apps | React Native | App-Entwicklung |
+| Chemische Strukturen | BKChem | Bioinformatik |
+| Chemische Strukturen | ChemFig | Bioinformatik |
 | Molekülvisualisierung | Jmol | Bioinformatik |
 | Molekülvisualisierung | PyMOL | Bioinformatik |
 | 3D-CAD-Modelle | FreeCAD | CAD/3D |
