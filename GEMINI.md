@@ -21,3 +21,8 @@ Diese Dokumentation dient als zentrale Anlaufstelle für KI-Agenten, um Werkzeug
 - **Format:** Die Datensammlungen werden ebenfalls in Tabellenform dokumentiert.
 - **Inhalte:** Jedes Sammlung wird mit Gruppe, Name, Zweck, Zugriffarten zum Beschaffung und/oder Abfrage beschrieben, Referenzhandbuch
 - **Abfragbarkeit:** Vor der Aufnahme in die Liste wird die Software auf Installierbarkeit geprüft.
+
+#### Visualisierungen
+- **Speicherort:** Führe die Mappings von Ergebnissen zu Werkzeugen in [VISUALIZATION.md](VISUALIZATION.md)
+- **Format:** Die Zuordnungen werden in Tabellenform dokumentiert.
+- **Inhalte:** Jeder Eintrag enthält den Visualisierungstyp, das Werkzeug und die Gruppe.
