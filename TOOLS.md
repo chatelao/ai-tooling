@@ -2,6 +2,11 @@
 
 | Gruppe | Name | Zweck | Installationsbefehle | Referenzhandbuch |
 | :--- | :--- | :--- | :--- | :--- |
+| Bioinformatik | Biopython | Werkzeuge für die biologische Datenverarbeitung | `sudo apt install python3-biopython` | [Link](https://biopython.org/) |
+| Bioinformatik | Jmol | Java-basierter Viewer für chemische Strukturen in 3D | `sudo apt install jmol` | [Link](https://jmol.sourceforge.net/) |
+| Bioinformatik | PyMOL | Molekulargrafiksystem zur Visualisierung von Makromolekülen | `sudo apt install pymol` | [Link](https://pymol.org/) |
+| Bioinformatik | RDKit | Sammlung von Cheminformatik- und maschinellen Lernwerkzeugen | `sudo apt install python3-rdkit` | [Link](https://www.rdkit.org/) |
+| Bioinformatik | SeqKit | Cross-Plattform-Toolkit zur Manipulation von FASTA/Q-Dateien | `sudo apt install seqkit` | [Link](https://bioinf.shenwei.me/seqkit/) |
 | Animation | Blender | Suite für 3D-Erstellung (Modellierung, Animation, Rendering) | `sudo apt install blender` | [Link](https://www.blender.org/) |
 | Animation | FFmpeg | Framework zum Dekodieren, Kodieren, Transkodieren und Streamen | `sudo apt install ffmpeg` | [Link](https://ffmpeg.org/) |
 | Animation | ImageMagick | Suite zum Erstellen, Bearbeiten und Konvertieren von Rasterbildern | `sudo apt install imagemagick` | [Link](https://imagemagick.org/) |

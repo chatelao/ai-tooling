@@ -2,6 +2,8 @@
 
 | Gruppe | Name | Zweck | Zugriff / Abfrage | Referenzhandbuch |
 | :--- | :--- | :--- | :--- | :--- |
+| Bioinformatik | NCBI GenBank | Umfassende Datenbank für öffentlich verfügbare DNA-Sequenzen | Web-GUI / E-Utilities API | [Link](https://www.ncbi.nlm.nih.gov/genbank/) |
+| Bioinformatik | UniProt | Datenbank für Proteinsequenzen und Funktionsinformationen | Web-GUI / REST-API | [Link](https://www.uniprot.org/) |
 | Finanzen | eCH-0196 | Schweizer Steuerauszug | XML Import | - |
 | Finanzen | ISO 20022 camt.053 | Bankkontoauszüge | XML Import | - |
 | Geodaten | Overpass Turbo | Webbasiertes Datensammelwerkzeug für OpenStreetMap | Overpass API / Web-GUI | [Link](https://wiki.openstreetmap.org/wiki/DE:Overpass_turbo) |
