@@ -10,10 +10,12 @@
 | Animation | Pencil2D | Werkzeug für handgezeichnete 2D-Animationen (Raster und Vektor) | `sudo apt install pencil2d` | [Link](https://www.pencil2d.org/) |
 | Animation | Synfig Studio | Vektorbasierte 2D-Animationssoftware | `sudo apt install synfigstudio` | [Link](https://www.synfig.org/) |
 | CAD/3D | FreeCAD | Parametrischer 3D-Modellierer | `sudo add-apt-repository ppa:freecad-maintainers/freecad-stable; sudo apt update; sudo apt install freecad` | [Link](https://www.freecad.org/) |
+| CAD/3D | LDView | 3D-Renderer für LDraw-Modelle | `curl -L http://download.opensuse.org/repositories/home:/pbartfai/xUbuntu_24.04/amd64/ldview-osmesa_4.7-1_amd64.deb -o ldview.deb; sudo apt install ./ldview.deb` | [Link](https://tc3d.com/ldview/) |
 | CAD/3D | MCP-FreeCAD | Model Context Protocol für FreeCAD | - | [Link](https://github.com/jango-blockchained/mcp-freecad) |
 | CAD/3D | MeshLab | Bearbeitung von 3D-Meshes | `sudo apt install meshlab` | [Link](https://www.meshlab.net/) |
 | CAD/3D | OpenSCAD | Der Programmierer unter den 3D-CAD-Modellierern | `sudo apt install openscad` | [Link](https://openscad.org/) |
 | Dokumentation | Apache FOP | Print Formatter für XSL-FO | `sudo apt install fop` | [Link](https://xmlgraphics.apache.org/fop/) |
+| Dokumentation | img2pdf | Verlustfreie Konvertierung von Bildern in PDF | `sudo apt install img2pdf` | [Link](https://github.com/josch/img2pdf) |
 | Dokumentation | PlantUML | UML-Diagramm-Renderer | `sudo apt install plantuml` | [Link](https://plantuml.com/) |
 | Dokumentation | WaveDrom | Zeitdiagramm-Renderer | `npm install wavedrom` | [Link](https://wavedrom.com/) |
 | EDA | KiBot | Automatisierung für KiCAD | `pip install kibot` | [Link](https://github.com/INTI-CMNB/KiBot) |
@@ -26,12 +28,14 @@
 | Firmware-Analyse | YARA | Musterabgleich für Malware-Forscher | `sudo apt install yara` | [Link](https://virustotal.github.io/yara/) |
 | Hardware-Simulation | Renode | Emulator für Hardware-Systeme | [Download](https://renode.io/#download) | [Link](https://renode.io/) |
 | Infrastruktur | Vast.ai SDK | Management von GPU-Instanzen | `pip install vastai` | [Link](https://github.com/Vast-ai/vast-python) |
+| Infrastruktur | Xvfb | Virtueller Framebuffer für X11 (Headless-Grafik) | `sudo apt install xvfb` | [Link](https://www.x.org/releases/X11R7.6/doc/man/man1/Xvfb.1.xhtml) |
 | KI-Inferenz | Ollama | Lokaler Betrieb von LLMs | `curl -fsSL https://ollama.com/install.sh \| sh` | [Link](https://ollama.com/) |
 | KI-Inferenz | vLLM | LLM Inferenz-Engine | `pip install vllm` | [Link](https://github.com/vllm-project/vllm) |
 | Programmierung | Arduino CLI | CLI für Arduino-Projekte (XIAO RP2040, STM32G431) | `curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh \| BINDIR=$HOME/.local/bin sh` | [Link](https://arduino.github.io/arduino-cli/) |
 | Programmierung | Blockly | Visuelle Programmierung | `npm install blockly` | [Link](https://developers.google.com/blockly) |
 | Programmierung | OpenAPI Generator | Generierung von API-Clients, Server-Stubs und Dokumentation aus OpenAPI-Spezifikationen | `npm install @openapitools/openapi-generator-cli` | [Link](https://openapi-generator.tech/) |
 | Programmierung | Pawn Compiler | Skriptsprache für Embedded Systems | - | [Link](https://github.com/compuphase/pawn) |
+| Programmierung | Pillow | Python Imaging Library | `pip install Pillow` | [Link](https://python-pillow.org/) |
 | Programmierung | PlatformIO Core | Build-System für Embedded-Entwicklung (XIAO RP2040, STM32G431) | `pip install platformio` | [Link](https://platformio.org/) |
 | Testing | Hurl | CLI-Tool zum Ausführen von HTTP-Anfragen (REST, SOAP, GraphQL) mit einfachem Textformat | `sudo add-apt-repository ppa:lepapareil/hurl; sudo apt update; sudo apt install hurl` | [Link](https://hurl.dev/) |
 | Testing | Playwright | E2E Testing für Webanwendungen | `npm install playwright` | [Link](https://playwright.dev/) |
