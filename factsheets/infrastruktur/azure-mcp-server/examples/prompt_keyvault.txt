@@ -1,0 +1,2 @@
+# Beispiel-Prompt
+"Liste alle Secrets in meinem Key Vault 'ProdVault' auf."

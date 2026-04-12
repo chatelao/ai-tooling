@@ -1,0 +1,2 @@
+# Beispiel-Prompt
+"Zeige mir alle Advisor-Empfehlungen für meine Azure-Infrastruktur."

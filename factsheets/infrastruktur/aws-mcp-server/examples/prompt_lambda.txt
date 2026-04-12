@@ -1,0 +1,2 @@
+# Beispiel-Prompt für den Agenten
+"Erstelle eine neue Lambda-Funktion 'HelloWorld' mit Python 3.11, die eine Nachricht ausgibt."

@@ -1,0 +1,2 @@
+# Beispiel-Prompt für den Agenten
+"Liste alle meine S3-Buckets auf und erkläre, welche davon öffentlich zugänglich sind."

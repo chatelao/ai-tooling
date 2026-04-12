@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "azure": {
+      "command": "uvx",
+      "args": ["--from", "msmcp-azure", "azmcp", "server", "start"]
+    }
+  }
+}

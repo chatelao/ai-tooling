@@ -1,0 +1,2 @@
+# Beispiel-Prompt
+"Wie ist der Status meiner Azure Kubernetes Service (AKS) Cluster?"

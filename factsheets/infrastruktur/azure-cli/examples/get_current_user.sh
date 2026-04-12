@@ -1,0 +1,1 @@
+az ad signed-in-user show

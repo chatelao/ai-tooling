@@ -1,0 +1,2 @@
+# Beispiel-Prompt
+"Zeige mir die letzten Fehlermeldungen für den Cloud Run Service 'api-backend'."
