@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<inventory>
+  <item id="1">
+    <name>Laptop</name>
+    <stock>10</stock>
+  </item>
+  <item id="2">
+    <name>Monitor</name>
+    <stock>25</stock>
+  </item>
+</inventory>

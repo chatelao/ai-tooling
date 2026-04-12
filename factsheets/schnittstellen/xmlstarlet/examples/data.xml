@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<data>
+  <record>
+    <id>1001</id>
+    <value>Alpha</value>
+  </record>
+  <record>
+    <id>1002</id>
+    <value>Beta</value>
+  </record>
+</data>
