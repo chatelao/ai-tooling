@@ -2,7 +2,9 @@
 
 ## Gruppe: Testing
 
-## Zweck: Schemathesis ist ein Werkzeug für
+## Zweck: Schemathesis ist ein Werkzeug für das eigenschaftsbasierte Testen von APIs
+
+Schemathesis nutzt die OpenAPI-Spezifikation einer API, um automatisch Testfälle zu generieren, die die API auf Konformität und Robustheit prüfen. Es findet Abstürze, unerwartete Fehlercodes und Abweichungen von der Spezifikation.
 
 ## Installation (Ubuntu 24.04)
 
@@ -14,11 +16,11 @@ pip install schemathesis
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
-- `api.yaml`
-- `test.py`
-- `config.json`
-- `report.txt`
-- `hooks.py`
+- `api.yaml`: OpenAPI-Schema als Testgrundlage.
+- `test.py`: Python-Skript für fortgeschrittene Schemathesis-Tests.
+- `config.json`: Testkonfiguration.
+- `report.txt`: Beispiel für einen Testbericht.
+- `hooks.py`: Benutzerdefinierte Hooks für den Testprozess.
 
 ## Validierung
 

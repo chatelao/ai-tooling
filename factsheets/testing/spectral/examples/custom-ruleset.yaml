@@ -1,0 +1,7 @@
+rules:
+  no-get-responses-without-200:
+    description: All GET requests should have a 200 response.
+    given: $.paths..get.responses
+    then:
+      field: '200'
+      function: truthy

@@ -19,6 +19,7 @@ Diese Dokumentation ordnet gewünschte Visualisierungsergebnisse den entsprechen
 | 3D-Modelle (LDraw) | LDView | CAD/3D |
 | 3D-Modelle (Meshes) | MeshLab | CAD/3D |
 | 3D-CAD-Modelle | OpenSCAD | CAD/3D |
+| API-Dokumentation | Redocly CLI | Dokumentation |
 | UML-Diagramme | PlantUML | Dokumentation |
 | Zeitdiagramme | WaveDrom | Dokumentation |
 | Elektrische Schaltungen | CircuiTikZ | EDA |
