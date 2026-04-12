@@ -1,0 +1,29 @@
+# Factsheet: Freecad
+
+## Gruppe: Cad/3d
+
+## Zweck: Freecad ist ein Werkzeug für
+
+## Installation (Ubuntu 24.04)
+
+```bash
+sudo add-apt-repository ppa:freecad-maintainers/freecad-stable; sudo apt update; sudo apt install freecad
+```
+
+## Beispieldaten
+
+Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
+
+- `test.fcstd`
+- `part1.step`
+- `part2.step`
+- `model.obj`
+- `script.py`
+
+## Validierung
+
+Version prüfen:
+
+```bash
+freecad --version
+```
