@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cocotb_config>
+    <project name="adder_test">
+        <simulator>icarus</simulator>
+    </project>
+</cocotb_config>

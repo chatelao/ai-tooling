@@ -29,8 +29,11 @@
 | Dokumentation | WaveDrom | Zeitdiagramm-Renderer | `npm install wavedrom` | [Link](https://wavedrom.com/) | [Link](factsheets/dokumentation/wavedrom/README.md) |
 | EDA | CircuiTikZ | TeX/LaTeX-Paket zum Zeichnen von elektrischen Schaltungen | `sudo apt install texlive-pictures` | [Link](https://mirror.init7.net/ctan/graphics/pgf/contrib/circuitikz/doc/circuitikzmanual.pdf) | [Link](factsheets/eda/circuitikz/README.md) |
 | EDA | KiBot | Automatisierung für KiCAD | `pip install kibot` | [Link](https://github.com/INTI-CMNB/KiBot) | [Link](factsheets/eda/kibot/README.md) |
+| EDA | cocotb | Python-basiertes Verifikations-Framework für VHDL/Verilog RTL | `pip install cocotb` | [Link](https://www.cocotb.org/) | [Link](factsheets/eda/cocotb/README.md) |
 | EDA | KiCad 10.0 | Elektronik-Design-Automatisierung | `sudo add-apt-repository ppa:kicad/kicad-10.0-releases; sudo apt update; sudo apt install --install-recommends kicad` | [Link](https://www.kicad.org/) | [Link](factsheets/eda/kicad-10-0/README.md) |
+| EDA | openFPGALoader | Universelles Werkzeug zum Programmieren von FPGAs | `sudo apt install openfpgaloader` | [Link](https://github.com/trabucayre/openFPGALoader) | [Link](factsheets/eda/openfpgaloader/README.md) |
 | EDA | SKiDL | Schaltungsentwurf in Python | `pip install skidl` | [Link](https://devbisme.github.io/skidl/) | [Link](factsheets/eda/skidl/README.md) |
+| EDA | Yosys | Framework für Verilog RTL-Synthese | `sudo apt install yosys` | [Link](https://yosyshq.net/yosys/) | [Link](factsheets/eda/yosys/README.md) |
 | Firmware-Analyse | Binwalk | Analyse von Binärdateien und Extraktion von Inhalten | `sudo apt install binwalk` | [Link](https://github.com/ReFirmLabs/binwalk) | [Link](factsheets/firmware-analyse/binwalk/README.md) |
 | Firmware-Analyse | cve-bin-tool | Scannt Binärdateien auf bekannte Schwachstellen | `pip install cve-bin-tool` | [Link](https://github.com/intel/cve-bin-tool) | [Link](factsheets/firmware-analyse/cve-bin-tool/README.md) |
 | Firmware-Analyse | EMBA | Sicherheitsanalysator für Firmware eingebetteter Geräte | `git clone https://github.com/e-m-b-a/emba.git` | [Link](https://github.com/e-m-b-a/emba) | [Link](factsheets/firmware-analyse/emba/README.md) |
@@ -52,9 +55,11 @@
 | KI-Inferenz | Ollama | Lokaler Betrieb von LLMs | `curl -fsSL https://ollama.com/install.sh \| sh` | [Link](https://ollama.com/) | [Link](factsheets/ki-inferenz/ollama/README.md) |
 | KI-Inferenz | vLLM | LLM Inferenz-Engine | `pip install vllm` | [Link](https://github.com/vllm-project/vllm) | [Link](factsheets/ki-inferenz/vllm/README.md) |
 | Programmierung | Arduino CLI | CLI für Arduino-Projekte (XIAO RP2040, STM32G431) | `curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh \| BINDIR=$HOME/.local/bin sh` | [Link](https://arduino.github.io/arduino-cli/) | [Link](factsheets/programmierung/arduino-cli/README.md) |
+| Programmierung | ARM GDB | Debugger für ARM Cortex-M/R Prozessoren | `sudo apt install gdb-multiarch` | [Link](https://www.gnu.org/software/gdb/) | [Link](factsheets/programmierung/arm-gdb/README.md) |
 | Programmierung | Blockly | Visuelle Programmierung | `npm install blockly` | [Link](https://developers.google.com/blockly) | [Link](factsheets/programmierung/blockly/README.md) |
 | Programmierung | GNU Toolchain for ARM | Cross-Compiler für ARM Cortex-R/M Prozessoren | `sudo apt install gcc-arm-none-eabi` | [Link](https://developer.arm.com/Tools%20and%20Software/GNU%20Toolchain) | [Link](factsheets/programmierung/gnu-toolchain-for-arm/README.md) |
 | Programmierung | OpenAPI Generator | Generierung von API-Clients, Server-Stubs und Dokumentation aus OpenAPI-Spezifikationen | `npm install @openapitools/openapi-generator-cli` | [Link](https://openapi-generator.tech/) | [Link](factsheets/programmierung/openapi-generator/README.md) |
+| Programmierung | OpenOCD | JTAG/SWD Debug-Lösung für Embedded-Geräte | `sudo apt install openocd` | [Link](https://openocd.org/) | [Link](factsheets/programmierung/openocd/README.md) |
 | Programmierung | Pawn Compiler | Skriptsprache für Embedded Systems | - | [Link](https://github.com/compuphase/pawn) | [Link](factsheets/programmierung/pawn-compiler/README.md) |
 | Programmierung | Pillow | Python Imaging Library | `pip install Pillow` | [Link](https://python-pillow.org/) | [Link](factsheets/programmierung/pillow/README.md) |
 | Programmierung | PlatformIO Core | Build-System für Embedded-Entwicklung (XIAO RP2040, STM32G431) | `pip install platformio` | [Link](https://platformio.org/) | [Link](factsheets/programmierung/platformio-core/README.md) |

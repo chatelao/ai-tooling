@@ -24,4 +24,6 @@ Diese Dokumentation ordnet gewünschte Visualisierungsergebnisse den entsprechen
 | Zeitdiagramme | WaveDrom | Dokumentation |
 | Elektrische Schaltungen | CircuiTikZ | EDA |
 | Elektronik-Design (PCB) | KiCad 10.0 | EDA |
+| FPGA-Programmierung | openFPGALoader | EDA |
+| RTL-Synthese (Netzlisten) | Yosys | EDA |
 | Visuelle Programmierung | Blockly | Programmierung |
