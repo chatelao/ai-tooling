@@ -14,6 +14,8 @@ zwischen Mensch, KI und technischem System zu verbessern.
   Referenzhandbüchern.
 - **[DATASOURCES.md](DATASOURCES.md)**: Eine Übersicht über relevante
   Datenquellen, deren Zweck und die Art des Zugriffs.
+- **[Factsheets](factsheets/README.md)**: Hierarchisch strukturierte
+  Zusammenfassungen aller verfügbaren Werkzeuge nach Gruppen geordnet.
 
 ## Zweck des Repositories
 
