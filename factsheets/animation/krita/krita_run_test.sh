@@ -2,4 +2,4 @@
 set -e
 cd "$(dirname "$0")"
 
-krita --version
+xvfb-run -a krita --version
