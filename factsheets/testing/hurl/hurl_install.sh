@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
 cd "$(dirname "$0")"
+export DEBIAN_FRONTEND=noninteractive
 
-sudo add-apt-repository ppa:lepapareil/hurl; sudo apt update; sudo apt install hurl
+sudo add-apt-repository ppa:lepapareil/hurl; sudo apt update; sudo apt install -y hurl

@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
 cd "$(dirname "$0")"
+export DEBIAN_FRONTEND=noninteractive
 
-sudo apt install openfpgaloader
+sudo apt install -y openfpgaloader

@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
 cd "$(dirname "$0")"
+export DEBIAN_FRONTEND=noninteractive
 
-sudo apt install python3-zeep
+sudo apt install -y python3-zeep

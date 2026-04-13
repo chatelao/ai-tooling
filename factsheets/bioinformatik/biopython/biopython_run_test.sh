@@ -2,4 +2,4 @@
 set -e
 cd "$(dirname "$0")"
 
-python3 examples/validate_biopython.py
+ /usr/bin/python3 examples/validate_biopython.py

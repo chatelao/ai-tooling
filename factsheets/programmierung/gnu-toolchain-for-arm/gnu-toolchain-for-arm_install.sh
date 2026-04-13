@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
 cd "$(dirname "$0")"
+export DEBIAN_FRONTEND=noninteractive
 
-sudo apt install gcc-arm-none-eabi
+sudo apt install -y gcc-arm-none-eabi

@@ -2,4 +2,4 @@
 set -e
 cd "$(dirname "$0")"
 
-jmol examples/molecule.pdb
+ /usr/bin/jmol examples/molecule.pdb

@@ -2,4 +2,4 @@
 set -e
 cd "$(dirname "$0")"
 
-meshlab examples/mesh.obj
+ /usr/bin/meshlab examples/mesh.obj

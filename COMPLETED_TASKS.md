@@ -12,6 +12,16 @@ This report shows the three most recent completed tasks (tool installations and 
 - **react-native** (2026-04-13)
 - **flutter** (2026-04-13)
 
+## Project: Bioinformatik
+- **seqkit** (2026-04-13)
+- **rdkit** (2026-04-13)
+- **biopython** (2026-04-13)
+
+## Project: CAD/3D
+- **meshlab** (2026-04-13)
+- **mcp-freecad** (2026-04-13)
+- **ldview** (2026-04-13)
+
 ## Project: Dokumentation
 - **wavedrom** (2026-04-13)
 - **redocly-cli** (2026-04-13)
