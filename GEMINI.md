@@ -41,6 +41,13 @@ halten.
 - **Beispiele:** Zu jedem Werkzeug werden 5-10 Beispieldaten im Ordner
   `examples/` des jeweiligen Factsheets bereitgestellt.
 
+#### Zusammenfassungen (Summaries)
+
+- **Hierarchie:** Erstelle in jedem Verzeichnis eine Zusammenfassung als
+  `README.md`.
+- **Vorgehensweise:** Beginne in den untersten Verzeichnissen und aggregiere
+  die Informationen nach oben (Bottom-Up-Prinzip).
+
 #### Datenquellen/-sammlungen
 
 - **Speicherort:** Führe die Werkzeuge  in [DATASOURCES.md](DATASOURCES.md)
