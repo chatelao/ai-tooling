@@ -28,8 +28,9 @@ halten.
   Installierbarkeit geprüft.
 - **Validierung:** Nach erfolgreicher Installation wird ein Log-File
   `<script_name>.log` neben dem Installationsskript erstellt. Zur Bestätigung
-  eines validen Skripts wird zudem eine Datei mit dem SHA256-Hash des Skripts im
-  Format `<hash>.verified..hash` im selben Verzeichnis abgelegt.
+  eines validen Skripts wird zudem eine Datei im Format
+  `<installer>.hash.<algo>` (z. B. `hurl_install.sh.hash.sha256`) im selben
+  Verzeichnis abgelegt, die den entsprechenden Hash-Wert enthält.
 
 #### Factsheets
 
