@@ -8,6 +8,19 @@ openFPGALoader ist ein universelles Hilfsprogramm zum Programmieren von FPGAs.
 Es unterstützt viele verschiedene FPGA-Hersteller (wie Xilinx, Altera, Lattice,
 Gowin, Efinix, Anlogic) und verschiedene Programmierkabel (JTAG, USB).
 
+
+## Reifegrad
+
+Stabil
+
+## Technische Schulden
+
+Gering
+
+## Erwartetes Lebensende
+
+Kein EOL bekannt
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

@@ -8,6 +8,19 @@
 - die Erstellung von komplexen Molekülen, Mechanismen und Schemata.
 - die Anpassung von Bindungswinkeln, Längen und Beschriftungen.
 
+
+## Reifegrad
+
+Stabil
+
+## Technische Schulden
+
+Gering
+
+## Erwartetes Lebensende
+
+Kein EOL bekannt
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

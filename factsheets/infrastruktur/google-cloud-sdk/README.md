@@ -7,6 +7,19 @@ Google Cloud-Ressourcen verwalten können. Es ist das primäre Werkzeug für
 KI-Agenten, um Compute Engine Instanzen zu steuern, Cloud Run Services zu
 verwalten oder BigQuery-Daten abzufragen.
 
+
+## Reifegrad
+
+Stabil
+
+## Technische Schulden
+
+Gering
+
+## Erwartetes Lebensende
+
+Kein EOL bekannt
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

@@ -1,1 +1,0 @@
-npx -y @google-cloud/cloud-run-mcp

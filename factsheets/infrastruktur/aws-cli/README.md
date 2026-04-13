@@ -8,6 +8,19 @@ Für KI-Agenten ist es besonders wertvoll, da es eine skriptfähige Schnittstell
 bietet, um Cloud-Ressourcen zu provisionieren, Daten in S3 zu verwalten oder
 Lambda-Funktionen aufzurufen.
 
+
+## Reifegrad
+
+Stabil
+
+## Technische Schulden
+
+Gering
+
+## Erwartetes Lebensende
+
+Kein EOL bekannt
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

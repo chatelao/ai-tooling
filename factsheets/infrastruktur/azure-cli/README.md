@@ -8,6 +8,19 @@ Azure-Ressourcen. KI-Agenten nutzen die Azure CLI, um Abfragen über die
 Infrastruktur zu tätigen, Ressourcen zu skalieren oder DevOps-Pipelines zu
 steuern.
 
+
+## Reifegrad
+
+Stabil
+
+## Technische Schulden
+
+Gering
+
+## Erwartetes Lebensende
+
+Kein EOL bekannt
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

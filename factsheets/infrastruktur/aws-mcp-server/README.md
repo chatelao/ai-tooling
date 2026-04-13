@@ -9,6 +9,19 @@ Gegensatz zur reinen CLI bietet der MCP Server dem Agenten Werkzeuge (Tools)
 mit Metadaten an, die es dem Modell erleichtern, die richtigen Parameter zu
 wählen und Best Practices einzuhalten.
 
+
+## Reifegrad
+
+Stabil
+
+## Technische Schulden
+
+Gering
+
+## Erwartetes Lebensende
+
+Kein EOL bekannt
+
 ## Installation (Ubuntu 24.04)
 
 Voraussetzung: [uv](https://github.com/astral-sh/uv) muss installiert sein.

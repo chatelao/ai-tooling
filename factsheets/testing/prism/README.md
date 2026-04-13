@@ -9,6 +9,19 @@ automatisch Mock-Server zu erstellen. Diese Server können API-Anfragen
 validieren und basierend auf dem Schema realistische Beispiel-Antworten
 generieren.
 
+
+## Reifegrad
+
+Stabil
+
+## Technische Schulden
+
+Gering
+
+## Erwartetes Lebensende
+
+Kein EOL bekannt
+
 ## Installation (Ubuntu 24.04)
 
 ```bash
