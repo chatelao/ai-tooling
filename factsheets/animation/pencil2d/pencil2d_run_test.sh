@@ -2,4 +2,4 @@
 set -e
 cd "$(dirname "$0")"
 
-pencil2d --version
+xvfb-run -a pencil2d --version

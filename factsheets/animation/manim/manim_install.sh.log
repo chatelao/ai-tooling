@@ -1,0 +1,414 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 https://download.docker.com/linux/ubuntu noble InRelease
+Hit:2 http://us-central1.gce.archive.ubuntu.com/ubuntu noble InRelease
+Hit:3 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:4 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-backports InRelease
+Hit:5 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-security InRelease
+Hit:6 https://dl.google.com/linux/chrome/deb stable InRelease
+Hit:7 https://ppa.launchpadcontent.net/git-core/ppa/ubuntu noble InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+113 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+ffmpeg is already the newest version (7:6.1.1-3ubuntu5).
+The following additional packages will be installed:
+  bsdutils gir1.2-freedesktop gir1.2-freedesktop-dev gir1.2-glib-2.0-dev
+  gir1.2-harfbuzz-0.0 gir1.2-pango-1.0 icu-devtools libblkid-dev libblkid1
+  libdatrie-dev libfdisk1 libfribidi-dev libgirepository-2.0-0 libglib2.0-dev
+  libglib2.0-dev-bin libgraphite2-dev libharfbuzz-cairo0 libharfbuzz-dev
+  libharfbuzz-gobject0 libharfbuzz-subset0 libice-dev libicu-dev libmount-dev
+  libmount1 libpangoxft-1.0-0 libpcre2-32-0 libpcre2-dev libpcre2-posix3
+  libpixman-1-dev libselinux1-dev libsepol-dev libsm-dev libsmartcols1
+  libthai-dev libuuid1 libxcb-render0-dev libxcb-shm0-dev mount pango1.0-tools
+  util-linux uuid-dev
+Suggested packages:
+  libcairo2-doc libdatrie-doc libglib2.0-doc libgdk-pixbuf2.0-bin
+  libxml2-utils libgraphite2-utils libice-doc icu-doc cryptsetup-bin
+  libpango1.0-doc libsm-doc libthai-doc nfs-common graphicsmagick dosfstools
+  kbd util-linux-extra util-linux-locales
+Recommended packages:
+  bsdextrautils uuid-runtime
+The following NEW packages will be installed:
+  gir1.2-freedesktop gir1.2-freedesktop-dev gir1.2-glib-2.0-dev
+  gir1.2-harfbuzz-0.0 gir1.2-pango-1.0 icu-devtools libblkid-dev libcairo2-dev
+  libdatrie-dev libfribidi-dev libgirepository-2.0-0 libglib2.0-dev
+  libglib2.0-dev-bin libgraphite2-dev libharfbuzz-cairo0 libharfbuzz-dev
+  libharfbuzz-gobject0 libharfbuzz-subset0 libice-dev libicu-dev libmount-dev
+  libpango1.0-dev libpangoxft-1.0-0 libpcre2-32-0 libpcre2-dev libpcre2-posix3
+  libpixman-1-dev libselinux1-dev libsepol-dev libsm-dev libthai-dev
+  libxcb-render0-dev libxcb-shm0-dev pango1.0-tools
+The following packages will be upgraded:
+  bsdutils libblkid1 libfdisk1 libmount1 libsmartcols1 libuuid1 mount
+  util-linux uuid-dev
+9 upgraded, 34 newly installed, 0 to remove and 104 not upgraded.
+Need to get 20.2 MB of archives.
+After this operation, 88.4 MB of additional disk space will be used.
+Get:1 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 bsdutils amd64 1:2.39.3-9ubuntu6.5 [96.1 kB]
+Get:2 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 util-linux amd64 2.39.3-9ubuntu6.5 [1128 kB]
+Get:3 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 mount amd64 2.39.3-9ubuntu6.5 [118 kB]
+Get:4 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libblkid1 amd64 2.39.3-9ubuntu6.5 [123 kB]
+Get:5 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libmount1 amd64 2.39.3-9ubuntu6.5 [134 kB]
+Get:6 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libsmartcols1 amd64 2.39.3-9ubuntu6.5 [65.8 kB]
+Get:7 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 uuid-dev amd64 2.39.3-9ubuntu6.5 [33.5 kB]
+Get:8 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libuuid1 amd64 2.39.3-9ubuntu6.5 [36.1 kB]
+Get:9 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libfdisk1 amd64 2.39.3-9ubuntu6.5 [146 kB]
+Get:10 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 gir1.2-freedesktop amd64 1.80.1-1 [49.7 kB]
+Get:11 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 gir1.2-glib-2.0-dev amd64 2.80.0-6ubuntu3.8 [848 kB]
+Get:12 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 gir1.2-freedesktop-dev amd64 1.80.1-1 [28.8 kB]
+Get:13 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libharfbuzz-gobject0 amd64 8.3.0-2build2 [34.3 kB]
+Get:14 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 gir1.2-harfbuzz-0.0 amd64 8.3.0-2build2 [44.5 kB]
+Get:15 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libpangoxft-1.0-0 amd64 1.52.1+ds-1build1 [20.3 kB]
+Get:16 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 gir1.2-pango-1.0 amd64 1.52.1+ds-1build1 [34.8 kB]
+Get:17 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 icu-devtools amd64 74.2-1ubuntu3.1 [212 kB]
+Get:18 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libglib2.0-dev-bin amd64 2.80.0-6ubuntu3.8 [138 kB]
+Get:19 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libblkid-dev amd64 2.39.3-9ubuntu6.5 [204 kB]
+Get:20 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libsepol-dev amd64 3.5-2build1 [384 kB]
+Get:21 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libpcre2-32-0 amd64 10.42-4ubuntu2.1 [197 kB]
+Get:22 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libpcre2-posix3 amd64 10.42-4ubuntu2.1 [6748 B]
+Get:23 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libpcre2-dev amd64 10.42-4ubuntu2.1 [736 kB]
+Get:24 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libselinux1-dev amd64 3.5-2ubuntu2.1 [164 kB]
+Get:25 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libmount-dev amd64 2.39.3-9ubuntu6.5 [14.9 kB]
+Get:26 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libgirepository-2.0-0 amd64 2.80.0-6ubuntu3.8 [73.6 kB]
+Get:27 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libglib2.0-dev amd64 2.80.0-6ubuntu3.8 [1860 kB]
+Get:28 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libpixman-1-dev amd64 0.42.2-1build1 [296 kB]
+Get:29 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libice-dev amd64 2:1.0.10-1build3 [51.0 kB]
+Get:30 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libsm-dev amd64 2:1.2.3-1build3 [17.8 kB]
+Get:31 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libxcb-render0-dev amd64 1.15-1ubuntu2 [19.6 kB]
+Get:32 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libxcb-shm0-dev amd64 1.15-1ubuntu2 [8246 B]
+Get:33 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libcairo2-dev amd64 1.18.0-3build1 [41.1 kB]
+Get:34 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libdatrie-dev amd64 0.2.13-3build1 [19.4 kB]
+Get:35 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libfribidi-dev amd64 1.0.13-3build1 [64.8 kB]
+Get:36 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libgraphite2-dev amd64 1.3.14-2build1 [14.7 kB]
+Get:37 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libharfbuzz-cairo0 amd64 8.3.0-2build2 [26.2 kB]
+Get:38 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libharfbuzz-subset0 amd64 8.3.0-2build2 [448 kB]
+Get:39 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libicu-dev amd64 74.2-1ubuntu3.1 [11.9 MB]
+Get:40 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libharfbuzz-dev amd64 8.3.0-2build2 [142 kB]
+Get:41 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libthai-dev amd64 0.1.29-2build1 [26.6 kB]
+Get:42 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 pango1.0-tools amd64 1.52.1+ds-1build1 [36.7 kB]
+Get:43 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libpango1.0-dev amd64 1.52.1+ds-1build1 [147 kB]
+debconf: unable to initialize frontend: Dialog
+debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 79, <STDIN> line 43.)
+debconf: falling back to frontend: Readline
+Fetched 20.2 MB in 1s (27.6 MB/s)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 115536 files and directories currently installed.)
+Preparing to unpack .../bsdutils_1%3a2.39.3-9ubuntu6.5_amd64.deb ...
+Unpacking bsdutils (1:2.39.3-9ubuntu6.5) over (1:2.39.3-9ubuntu6.4) ...
+Setting up bsdutils (1:2.39.3-9ubuntu6.5) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 115536 files and directories currently installed.)
+Preparing to unpack .../util-linux_2.39.3-9ubuntu6.5_amd64.deb ...
+Unpacking util-linux (2.39.3-9ubuntu6.5) over (2.39.3-9ubuntu6.4) ...
+Setting up util-linux (2.39.3-9ubuntu6.5) ...
+/usr/sbin/policy-rc.d returned 101, not running 'restart fstrim.timer'
+/usr/sbin/policy-rc.d returned 101, not running 'restart fstrim.service'
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 115536 files and directories currently installed.)
+Preparing to unpack .../mount_2.39.3-9ubuntu6.5_amd64.deb ...
+Unpacking mount (2.39.3-9ubuntu6.5) over (2.39.3-9ubuntu6.4) ...
+Preparing to unpack .../libblkid1_2.39.3-9ubuntu6.5_amd64.deb ...
+Unpacking libblkid1:amd64 (2.39.3-9ubuntu6.5) over (2.39.3-9ubuntu6.4) ...
+Setting up libblkid1:amd64 (2.39.3-9ubuntu6.5) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 115536 files and directories currently installed.)
+Preparing to unpack .../libmount1_2.39.3-9ubuntu6.5_amd64.deb ...
+Unpacking libmount1:amd64 (2.39.3-9ubuntu6.5) over (2.39.3-9ubuntu6.4) ...
+Setting up libmount1:amd64 (2.39.3-9ubuntu6.5) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 115536 files and directories currently installed.)
+Preparing to unpack .../libsmartcols1_2.39.3-9ubuntu6.5_amd64.deb ...
+Unpacking libsmartcols1:amd64 (2.39.3-9ubuntu6.5) over (2.39.3-9ubuntu6.4) ...
+Setting up libsmartcols1:amd64 (2.39.3-9ubuntu6.5) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 115536 files and directories currently installed.)
+Preparing to unpack .../uuid-dev_2.39.3-9ubuntu6.5_amd64.deb ...
+Unpacking uuid-dev:amd64 (2.39.3-9ubuntu6.5) over (2.39.3-9ubuntu6.4) ...
+Preparing to unpack .../libuuid1_2.39.3-9ubuntu6.5_amd64.deb ...
+Unpacking libuuid1:amd64 (2.39.3-9ubuntu6.5) over (2.39.3-9ubuntu6.4) ...
+Setting up libuuid1:amd64 (2.39.3-9ubuntu6.5) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 115536 files and directories currently installed.)
+Preparing to unpack .../00-libfdisk1_2.39.3-9ubuntu6.5_amd64.deb ...
+Unpacking libfdisk1:amd64 (2.39.3-9ubuntu6.5) over (2.39.3-9ubuntu6.4) ...
+Selecting previously unselected package gir1.2-freedesktop:amd64.
+Preparing to unpack .../01-gir1.2-freedesktop_1.80.1-1_amd64.deb ...
+Unpacking gir1.2-freedesktop:amd64 (1.80.1-1) ...
+Selecting previously unselected package gir1.2-glib-2.0-dev:amd64.
+Preparing to unpack .../02-gir1.2-glib-2.0-dev_2.80.0-6ubuntu3.8_amd64.deb ...
+Unpacking gir1.2-glib-2.0-dev:amd64 (2.80.0-6ubuntu3.8) ...
+Selecting previously unselected package gir1.2-freedesktop-dev:amd64.
+Preparing to unpack .../03-gir1.2-freedesktop-dev_1.80.1-1_amd64.deb ...
+Unpacking gir1.2-freedesktop-dev:amd64 (1.80.1-1) ...
+Selecting previously unselected package libharfbuzz-gobject0:amd64.
+Preparing to unpack .../04-libharfbuzz-gobject0_8.3.0-2build2_amd64.deb ...
+Unpacking libharfbuzz-gobject0:amd64 (8.3.0-2build2) ...
+Selecting previously unselected package gir1.2-harfbuzz-0.0:amd64.
+Preparing to unpack .../05-gir1.2-harfbuzz-0.0_8.3.0-2build2_amd64.deb ...
+Unpacking gir1.2-harfbuzz-0.0:amd64 (8.3.0-2build2) ...
+Selecting previously unselected package libpangoxft-1.0-0:amd64.
+Preparing to unpack .../06-libpangoxft-1.0-0_1.52.1+ds-1build1_amd64.deb ...
+Unpacking libpangoxft-1.0-0:amd64 (1.52.1+ds-1build1) ...
+Selecting previously unselected package gir1.2-pango-1.0:amd64.
+Preparing to unpack .../07-gir1.2-pango-1.0_1.52.1+ds-1build1_amd64.deb ...
+Unpacking gir1.2-pango-1.0:amd64 (1.52.1+ds-1build1) ...
+Selecting previously unselected package icu-devtools.
+Preparing to unpack .../08-icu-devtools_74.2-1ubuntu3.1_amd64.deb ...
+Unpacking icu-devtools (74.2-1ubuntu3.1) ...
+Selecting previously unselected package libglib2.0-dev-bin.
+Preparing to unpack .../09-libglib2.0-dev-bin_2.80.0-6ubuntu3.8_amd64.deb ...
+Unpacking libglib2.0-dev-bin (2.80.0-6ubuntu3.8) ...
+Selecting previously unselected package libblkid-dev:amd64.
+Preparing to unpack .../10-libblkid-dev_2.39.3-9ubuntu6.5_amd64.deb ...
+Unpacking libblkid-dev:amd64 (2.39.3-9ubuntu6.5) ...
+Selecting previously unselected package libsepol-dev:amd64.
+Preparing to unpack .../11-libsepol-dev_3.5-2build1_amd64.deb ...
+Unpacking libsepol-dev:amd64 (3.5-2build1) ...
+Selecting previously unselected package libpcre2-32-0:amd64.
+Preparing to unpack .../12-libpcre2-32-0_10.42-4ubuntu2.1_amd64.deb ...
+Unpacking libpcre2-32-0:amd64 (10.42-4ubuntu2.1) ...
+Selecting previously unselected package libpcre2-posix3:amd64.
+Preparing to unpack .../13-libpcre2-posix3_10.42-4ubuntu2.1_amd64.deb ...
+Unpacking libpcre2-posix3:amd64 (10.42-4ubuntu2.1) ...
+Selecting previously unselected package libpcre2-dev:amd64.
+Preparing to unpack .../14-libpcre2-dev_10.42-4ubuntu2.1_amd64.deb ...
+Unpacking libpcre2-dev:amd64 (10.42-4ubuntu2.1) ...
+Selecting previously unselected package libselinux1-dev:amd64.
+Preparing to unpack .../15-libselinux1-dev_3.5-2ubuntu2.1_amd64.deb ...
+Unpacking libselinux1-dev:amd64 (3.5-2ubuntu2.1) ...
+Selecting previously unselected package libmount-dev:amd64.
+Preparing to unpack .../16-libmount-dev_2.39.3-9ubuntu6.5_amd64.deb ...
+Unpacking libmount-dev:amd64 (2.39.3-9ubuntu6.5) ...
+Selecting previously unselected package libgirepository-2.0-0:amd64.
+Preparing to unpack .../17-libgirepository-2.0-0_2.80.0-6ubuntu3.8_amd64.deb ...
+Unpacking libgirepository-2.0-0:amd64 (2.80.0-6ubuntu3.8) ...
+Selecting previously unselected package libglib2.0-dev:amd64.
+Preparing to unpack .../18-libglib2.0-dev_2.80.0-6ubuntu3.8_amd64.deb ...
+Unpacking libglib2.0-dev:amd64 (2.80.0-6ubuntu3.8) ...
+Selecting previously unselected package libpixman-1-dev:amd64.
+Preparing to unpack .../19-libpixman-1-dev_0.42.2-1build1_amd64.deb ...
+Unpacking libpixman-1-dev:amd64 (0.42.2-1build1) ...
+Selecting previously unselected package libice-dev:amd64.
+Preparing to unpack .../20-libice-dev_2%3a1.0.10-1build3_amd64.deb ...
+Unpacking libice-dev:amd64 (2:1.0.10-1build3) ...
+Selecting previously unselected package libsm-dev:amd64.
+Preparing to unpack .../21-libsm-dev_2%3a1.2.3-1build3_amd64.deb ...
+Unpacking libsm-dev:amd64 (2:1.2.3-1build3) ...
+Selecting previously unselected package libxcb-render0-dev:amd64.
+Preparing to unpack .../22-libxcb-render0-dev_1.15-1ubuntu2_amd64.deb ...
+Unpacking libxcb-render0-dev:amd64 (1.15-1ubuntu2) ...
+Selecting previously unselected package libxcb-shm0-dev:amd64.
+Preparing to unpack .../23-libxcb-shm0-dev_1.15-1ubuntu2_amd64.deb ...
+Unpacking libxcb-shm0-dev:amd64 (1.15-1ubuntu2) ...
+Selecting previously unselected package libcairo2-dev:amd64.
+Preparing to unpack .../24-libcairo2-dev_1.18.0-3build1_amd64.deb ...
+Unpacking libcairo2-dev:amd64 (1.18.0-3build1) ...
+Selecting previously unselected package libdatrie-dev:amd64.
+Preparing to unpack .../25-libdatrie-dev_0.2.13-3build1_amd64.deb ...
+Unpacking libdatrie-dev:amd64 (0.2.13-3build1) ...
+Selecting previously unselected package libfribidi-dev:amd64.
+Preparing to unpack .../26-libfribidi-dev_1.0.13-3build1_amd64.deb ...
+Unpacking libfribidi-dev:amd64 (1.0.13-3build1) ...
+Selecting previously unselected package libgraphite2-dev:amd64.
+Preparing to unpack .../27-libgraphite2-dev_1.3.14-2build1_amd64.deb ...
+Unpacking libgraphite2-dev:amd64 (1.3.14-2build1) ...
+Selecting previously unselected package libharfbuzz-cairo0:amd64.
+Preparing to unpack .../28-libharfbuzz-cairo0_8.3.0-2build2_amd64.deb ...
+Unpacking libharfbuzz-cairo0:amd64 (8.3.0-2build2) ...
+Selecting previously unselected package libharfbuzz-subset0:amd64.
+Preparing to unpack .../29-libharfbuzz-subset0_8.3.0-2build2_amd64.deb ...
+Unpacking libharfbuzz-subset0:amd64 (8.3.0-2build2) ...
+Selecting previously unselected package libicu-dev:amd64.
+Preparing to unpack .../30-libicu-dev_74.2-1ubuntu3.1_amd64.deb ...
+Unpacking libicu-dev:amd64 (74.2-1ubuntu3.1) ...
+Selecting previously unselected package libharfbuzz-dev:amd64.
+Preparing to unpack .../31-libharfbuzz-dev_8.3.0-2build2_amd64.deb ...
+Unpacking libharfbuzz-dev:amd64 (8.3.0-2build2) ...
+Selecting previously unselected package libthai-dev:amd64.
+Preparing to unpack .../32-libthai-dev_0.1.29-2build1_amd64.deb ...
+Unpacking libthai-dev:amd64 (0.1.29-2build1) ...
+Selecting previously unselected package pango1.0-tools.
+Preparing to unpack .../33-pango1.0-tools_1.52.1+ds-1build1_amd64.deb ...
+Unpacking pango1.0-tools (1.52.1+ds-1build1) ...
+Selecting previously unselected package libpango1.0-dev:amd64.
+Preparing to unpack .../34-libpango1.0-dev_1.52.1+ds-1build1_amd64.deb ...
+Unpacking libpango1.0-dev:amd64 (1.52.1+ds-1build1) ...
+Setting up libglib2.0-dev-bin (2.80.0-6ubuntu3.8) ...
+Setting up gir1.2-freedesktop:amd64 (1.80.1-1) ...
+Setting up libpixman-1-dev:amd64 (0.42.2-1build1) ...
+Setting up libpangoxft-1.0-0:amd64 (1.52.1+ds-1build1) ...
+Setting up libice-dev:amd64 (2:1.0.10-1build3) ...
+Setting up libgirepository-2.0-0:amd64 (2.80.0-6ubuntu3.8) ...
+Setting up libsm-dev:amd64 (2:1.2.3-1build3) ...
+Setting up libfribidi-dev:amd64 (1.0.13-3build1) ...
+Setting up pango1.0-tools (1.52.1+ds-1build1) ...
+Setting up libharfbuzz-gobject0:amd64 (8.3.0-2build2) ...
+Setting up gir1.2-harfbuzz-0.0:amd64 (8.3.0-2build2) ...
+Setting up libxcb-shm0-dev:amd64 (1.15-1ubuntu2) ...
+Setting up libgraphite2-dev:amd64 (1.3.14-2build1) ...
+Setting up gir1.2-pango-1.0:amd64 (1.52.1+ds-1build1) ...
+Setting up libpcre2-32-0:amd64 (10.42-4ubuntu2.1) ...
+Setting up libharfbuzz-cairo0:amd64 (8.3.0-2build2) ...
+Setting up uuid-dev:amd64 (2.39.3-9ubuntu6.5) ...
+Setting up icu-devtools (74.2-1ubuntu3.1) ...
+Setting up libsepol-dev:amd64 (3.5-2build1) ...
+Setting up libxcb-render0-dev:amd64 (1.15-1ubuntu2) ...
+Setting up libfdisk1:amd64 (2.39.3-9ubuntu6.5) ...
+Setting up libpcre2-posix3:amd64 (10.42-4ubuntu2.1) ...
+Setting up mount (2.39.3-9ubuntu6.5) ...
+Setting up libdatrie-dev:amd64 (0.2.13-3build1) ...
+Setting up gir1.2-glib-2.0-dev:amd64 (2.80.0-6ubuntu3.8) ...
+Setting up libharfbuzz-subset0:amd64 (8.3.0-2build2) ...
+Setting up libicu-dev:amd64 (74.2-1ubuntu3.1) ...
+Setting up libblkid-dev:amd64 (2.39.3-9ubuntu6.5) ...
+Setting up libpcre2-dev:amd64 (10.42-4ubuntu2.1) ...
+Setting up libselinux1-dev:amd64 (3.5-2ubuntu2.1) ...
+Setting up gir1.2-freedesktop-dev:amd64 (1.80.1-1) ...
+Setting up libthai-dev:amd64 (0.1.29-2build1) ...
+Setting up libmount-dev:amd64 (2.39.3-9ubuntu6.5) ...
+Setting up libglib2.0-dev:amd64 (2.80.0-6ubuntu3.8) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.7) ...
+Processing triggers for libglib2.0-0t64:amd64 (2.80.0-6ubuntu3.8) ...
+Setting up libcairo2-dev:amd64 (1.18.0-3build1) ...
+Setting up libharfbuzz-dev:amd64 (8.3.0-2build2) ...
+Setting up libpango1.0-dev:amd64 (1.52.1+ds-1build1) ...
+Collecting manim
+  Downloading manim-0.20.1-py3-none-any.whl.metadata (10 kB)
+Collecting av>=15.0 (from manim)
+  Downloading av-17.0.0-cp311-abi3-manylinux_2_28_x86_64.whl.metadata (4.6 kB)
+Collecting beautifulsoup4>=4.12 (from manim)
+  Downloading beautifulsoup4-4.14.3-py3-none-any.whl.metadata (3.8 kB)
+Collecting click>=8.0 (from manim)
+  Downloading click-8.3.2-py3-none-any.whl.metadata (2.6 kB)
+Collecting cloup>=2.0.0 (from manim)
+  Downloading cloup-3.0.9-py2.py3-none-any.whl.metadata (6.4 kB)
+Collecting decorator>=4.3.2 (from manim)
+  Downloading decorator-5.2.1-py3-none-any.whl.metadata (3.9 kB)
+Collecting isosurfaces>=0.1.1 (from manim)
+  Downloading isosurfaces-0.1.2-py3-none-any.whl.metadata (3.3 kB)
+Collecting manimpango<1.0.0,>=0.6.1 (from manim)
+  Downloading manimpango-0.6.1.tar.gz (4.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.1/4.1 MB 13.1 MB/s  0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting mapbox-earcut>=1.0.0 (from manim)
+  Downloading mapbox_earcut-2.0.0-cp312-cp312-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl.metadata (2.5 kB)
+Collecting moderngl-window>=2.0.0 (from manim)
+  Downloading moderngl_window-3.1.1-py3-none-any.whl.metadata (9.0 kB)
+Collecting moderngl<6.0.0,>=5.7.0 (from manim)
+  Downloading moderngl-5.12.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (7.8 kB)
+Collecting networkx>=2.6 (from manim)
+  Downloading networkx-3.6.1-py3-none-any.whl.metadata (6.8 kB)
+Collecting numpy>=2.1 (from manim)
+  Downloading numpy-2.4.4-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl.metadata (6.6 kB)
+Collecting pillow>=11.0 (from manim)
+  Downloading pillow-12.2.0-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl.metadata (8.8 kB)
+Collecting pycairo<2.0.0,>=1.14 (from manim)
+  Downloading pycairo-1.29.0.tar.gz (665 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 665.9/665.9 kB 17.9 MB/s  0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pydub>=0.22.0 (from manim)
+  Downloading pydub-0.25.1-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting pygments>=2.17 (from manim)
+  Downloading pygments-2.20.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting rich>=12.0.0 (from manim)
+  Downloading rich-15.0.0-py3-none-any.whl.metadata (18 kB)
+Collecting scipy>=1.13.0 (from manim)
+  Downloading scipy-1.17.1-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl.metadata (62 kB)
+Collecting screeninfo>=0.7.0 (from manim)
+  Downloading screeninfo-0.8.1-py3-none-any.whl.metadata (2.9 kB)
+Collecting skia-pathops>=0.9.0 (from manim)
+  Downloading skia_pathops-0.9.2-cp310-abi3-manylinux2014_x86_64.manylinux_2_17_x86_64.whl.metadata (2.5 kB)
+Collecting srt>=3.0.0 (from manim)
+  Downloading srt-3.5.3.tar.gz (28 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting svgelements>=1.9.0 (from manim)
+  Downloading svgelements-1.9.6-py2.py3-none-any.whl.metadata (44 kB)
+Collecting tqdm>=4.21.0 (from manim)
+  Downloading tqdm-4.67.3-py3-none-any.whl.metadata (57 kB)
+Requirement already satisfied: typing-extensions>=4.12.0 in /home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages (from manim) (4.15.0)
+Collecting watchdog>=2.0.0 (from manim)
+  Downloading watchdog-6.0.0-py3-none-manylinux2014_x86_64.whl.metadata (44 kB)
+Collecting glcontext>=3.0.0 (from moderngl<6.0.0,>=5.7.0->manim)
+  Downloading glcontext-3.0.0-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (6.0 kB)
+Collecting soupsieve>=1.6.1 (from beautifulsoup4>=4.12->manim)
+  Downloading soupsieve-2.8.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting pyglet>=2.0.0 (from moderngl-window>=2.0.0->manim)
+  Downloading pyglet-2.1.14-py3-none-any.whl.metadata (7.7 kB)
+Collecting pyglm<3,>=2.7.0 (from moderngl-window>=2.0.0->manim)
+  Downloading pyglm-2.8.3-cp312-cp312-manylinux_2_34_x86_64.whl.metadata (13 kB)
+Collecting markdown-it-py>=2.2.0 (from rich>=12.0.0->manim)
+  Downloading markdown_it_py-4.0.0-py3-none-any.whl.metadata (7.3 kB)
+Collecting mdurl~=0.1 (from markdown-it-py>=2.2.0->rich>=12.0.0->manim)
+  Downloading mdurl-0.1.2-py3-none-any.whl.metadata (1.6 kB)
+Downloading manim-0.20.1-py3-none-any.whl (652 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 652.1/652.1 kB 15.8 MB/s  0:00:00
+Downloading moderngl-5.12.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (296 kB)
+Downloading av-17.0.0-cp311-abi3-manylinux_2_28_x86_64.whl (36.4 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 36.4/36.4 MB 61.7 MB/s  0:00:00
+Downloading beautifulsoup4-4.14.3-py3-none-any.whl (107 kB)
+Downloading click-8.3.2-py3-none-any.whl (108 kB)
+Downloading cloup-3.0.9-py2.py3-none-any.whl (54 kB)
+Downloading decorator-5.2.1-py3-none-any.whl (9.2 kB)
+Downloading glcontext-3.0.0-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (51 kB)
+Downloading isosurfaces-0.1.2-py3-none-any.whl (11 kB)
+Downloading mapbox_earcut-2.0.0-cp312-cp312-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl (59 kB)
+Downloading moderngl_window-3.1.1-py3-none-any.whl (382 kB)
+Downloading pyglm-2.8.3-cp312-cp312-manylinux_2_34_x86_64.whl (11.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 11.7/11.7 MB 108.2 MB/s  0:00:00
+Downloading networkx-3.6.1-py3-none-any.whl (2.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 104.6 MB/s  0:00:00
+Downloading numpy-2.4.4-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (16.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 16.6/16.6 MB 40.8 MB/s  0:00:00
+Downloading pillow-12.2.0-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (7.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 7.1/7.1 MB 80.0 MB/s  0:00:00
+Downloading pydub-0.25.1-py2.py3-none-any.whl (32 kB)
+Downloading pyglet-2.1.14-py3-none-any.whl (1.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.0/1.0 MB 65.5 MB/s  0:00:00
+Downloading pygments-2.20.0-py3-none-any.whl (1.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 92.5 MB/s  0:00:00
+Downloading rich-15.0.0-py3-none-any.whl (310 kB)
+Downloading markdown_it_py-4.0.0-py3-none-any.whl (87 kB)
+Downloading mdurl-0.1.2-py3-none-any.whl (10.0 kB)
+Downloading scipy-1.17.1-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (35.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 35.2/35.2 MB 38.1 MB/s  0:00:00
+Downloading screeninfo-0.8.1-py3-none-any.whl (12 kB)
+Downloading skia_pathops-0.9.2-cp310-abi3-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (3.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.3/3.3 MB 99.8 MB/s  0:00:00
+Downloading soupsieve-2.8.3-py3-none-any.whl (37 kB)
+Downloading svgelements-1.9.6-py2.py3-none-any.whl (137 kB)
+Downloading tqdm-4.67.3-py3-none-any.whl (78 kB)
+Downloading watchdog-6.0.0-py3-none-manylinux2014_x86_64.whl (79 kB)
+Building wheels for collected packages: manimpango, pycairo, srt
+  Building wheel for manimpango (pyproject.toml): started
+  Building wheel for manimpango (pyproject.toml): finished with status 'done'
+  Created wheel for manimpango: filename=manimpango-0.6.1-cp312-cp312-linux_x86_64.whl size=562301 sha256=1d1dbf15bdaa2cd113043d79fd7eab48f6a75c62d0be5ee2fe82cf3bfe0bd81c
+  Stored in directory: /home/jules/.cache/pip/wheels/16/12/15/2b8b37e4dd2e61b3e23176182a94e7d71f226d06240af8b9ec
+  Building wheel for pycairo (pyproject.toml): started
+  Building wheel for pycairo (pyproject.toml): finished with status 'done'
+  Created wheel for pycairo: filename=pycairo-1.29.0-cp312-cp312-linux_x86_64.whl size=133811 sha256=68f799372e32f4618655c94d5099df1a84e65b4178460f2a29fe3bc4ef07318e
+  Stored in directory: /home/jules/.cache/pip/wheels/c2/b5/c9/d810ed5a32d4b48af508383b5084496753574ded51b82ab6e7
+  Building wheel for srt (pyproject.toml): started
+  Building wheel for srt (pyproject.toml): finished with status 'done'
+  Created wheel for srt: filename=srt-3.5.3-py3-none-any.whl size=22511 sha256=c44fea184d6b66c2465c16725f7c0ed8f57e06cdd0439c36408b399ddd9f8a76
+  Stored in directory: /home/jules/.cache/pip/wheels/7e/75/5b/e1d5c3756631e4bda806f6cc9640153b39484bb6f7b0b8def3
+Successfully built manimpango pycairo srt
+Installing collected packages: svgelements, pyglm, pydub, glcontext, watchdog, tqdm, srt, soupsieve, skia-pathops, screeninfo, pygments, pyglet, pycairo, pillow, numpy, networkx, moderngl, mdurl, manimpango, decorator, click, av, scipy, moderngl-window, markdown-it-py, mapbox-earcut, isosurfaces, cloup, beautifulsoup4, rich, manim
+
+Successfully installed av-17.0.0 beautifulsoup4-4.14.3 click-8.3.2 cloup-3.0.9 decorator-5.2.1 glcontext-3.0.0 isosurfaces-0.1.2 manim-0.20.1 manimpango-0.6.1 mapbox-earcut-2.0.0 markdown-it-py-4.0.0 mdurl-0.1.2 moderngl-5.12.0 moderngl-window-3.1.1 networkx-3.6.1 numpy-2.4.4 pillow-12.2.0 pycairo-1.29.0 pydub-0.25.1 pyglet-2.1.14 pyglm-2.8.3 pygments-2.20.0 rich-15.0.0 scipy-1.17.1 screeninfo-0.8.1 skia-pathops-0.9.2 soupsieve-2.8.3 srt-3.5.3 svgelements-1.9.6 tqdm-4.67.3 watchdog-6.0.0

@@ -2,4 +2,6 @@
 set -e
 cd "$(dirname "$0")"
 
-identify examples/test.png
+convert -size 10x10 xc:white test_output.png
+identify test_output.png
+rm test_output.png
