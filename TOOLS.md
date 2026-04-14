@@ -1,7 +1,7 @@
 # Werkzeuge
 
 | Gruppe | Name | Zweck | Installationsbefehle | Referenzhandbuch | Reifegrad | Technische Schulden | Erwartetes Lebensende | Factsheet |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Animation | Blender | Suite für 3D-Erstellung (Modellierung, Animation, Rendering) | `sudo apt install blender` | [Link](https://www.blender.org/) | Stabil | Gering | Kein EOL bekannt | [Link](factsheets/animation/blender/README.md) |
 | Animation | FFmpeg | Framework zum Dekodieren, Kodieren, Transkodieren und Streamen | `sudo apt install ffmpeg` | [Link](https://ffmpeg.org/) | Stabil | Gering | Kein EOL bekannt | [Link](factsheets/animation/ffmpeg/README.md) |
 | Animation | ImageMagick | Suite zum Erstellen, Bearbeiten und Konvertieren von Rasterbildern | `sudo apt install imagemagick` | [Link](https://imagemagick.org/) | Stabil | Gering | Kein EOL bekannt | [Link](factsheets/animation/imagemagick/README.md) |
