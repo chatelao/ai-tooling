@@ -8,6 +8,19 @@ Der GNU Debugger (GDB) in der Multiarch-Variante ermöglicht das Debuggen von
 Anwendungen für verschiedene Architekturen, insbesondere ARM Cortex-M und
 Cortex-R Mikrocontroller.
 
+
+## Reifegrad
+
+Stabil
+
+## Technische Schulden
+
+Gering
+
+## Erwartetes Lebensende
+
+Kein EOL bekannt
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

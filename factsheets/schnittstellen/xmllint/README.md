@@ -4,6 +4,19 @@
 
 ## Zweck: xmllint ist ein Werkzeug aus dem libxml2-Paket zur Validierung, Formatierung und Analyse von XML-Dateien.
 
+
+## Reifegrad
+
+Stabil
+
+## Technische Schulden
+
+Gering
+
+## Erwartetes Lebensende
+
+Kein EOL bekannt
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

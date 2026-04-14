@@ -8,6 +8,19 @@ Redocly CLI bietet Werkzeuge zum Validieren (Linting), Bündeln (Bundling) und
 Rendern von OpenAPI-Spezifikationen. Es kann statische HTML-Dokumentationen
 generieren und APIs in der Vorschau anzeigen.
 
+
+## Reifegrad
+
+Stabil
+
+## Technische Schulden
+
+Gering
+
+## Erwartetes Lebensende
+
+Kein EOL bekannt
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

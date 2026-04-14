@@ -4,6 +4,19 @@
 
 ## Zweck: XMLStarlet ist ein Toolkit zur XML-Verarbeitung von der Kommandozeile (Validierung, Abfrage, Transformation, Bearbeitung).
 
+
+## Reifegrad
+
+Stabil
+
+## Technische Schulden
+
+Gering
+
+## Erwartetes Lebensende
+
+Kein EOL bekannt
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

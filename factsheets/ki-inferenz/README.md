@@ -2,7 +2,7 @@
 
 ## Verfügbare Werkzeuge
 
-| Werkzeug | Zweck | Link |
-| :--- | :--- | :--- |
-| Ollama | Ollama ist ein Werkzeug für | [Link](ollama/README.md) |
-| Vllm | Vllm ist ein Werkzeug für | [Link](vllm/README.md) |
+| Werkzeug | Zweck | Reifegrad | Technische Schulden | Erwartetes Lebensende | Link |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Ollama | Ollama ist ein Werkzeug für | Stabil | Gering | Kein EOL bekannt | [Link](ollama/README.md) |
+| Vllm | Vllm ist ein Werkzeug für | Stabil | Gering | Kein EOL bekannt | [Link](vllm/README.md) |

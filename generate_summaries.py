@@ -9,22 +9,39 @@ def extract_info(filepath):
     name_match = re.search(r'^# (?:Factsheet:)?\s*(.*)', content, re.MULTILINE)
 
     # Extract purpose from ## Zweck: ... or ## Zweck ...
-    # We look for the section header and take the following paragraph
     zweck = ""
     zweck_header_match = re.search(r'^## Zweck:?\s*(.*)', content, re.MULTILINE)
     if zweck_header_match:
-        zweck = zweck_header_match.group(1).strip()
-        if not zweck:
-            # If Zweck header is empty, take the next non-empty line
+        val = zweck_header_match.group(1).strip()
+        if val:
+            zweck = val
+        else:
             lines = content[zweck_header_match.end():].splitlines()
             for line in lines:
+                if line.strip().startswith('##'): break
                 if line.strip():
                     zweck = line.strip()
                     break
 
     name = name_match.group(1).strip() if name_match else os.path.basename(os.path.dirname(filepath))
 
-    return name, zweck
+    def extract_section(header):
+        match = re.search(rf'^## {header}:?\s*(.*)', content, re.MULTILINE)
+        if not match: return ""
+        val = match.group(1).strip()
+        if val: return val
+        lines = content[match.end():].splitlines()
+        for line in lines:
+            if line.strip().startswith('##'): break
+            if line.strip():
+                return line.strip()
+        return ""
+
+    reifegrad = extract_section("Reifegrad")
+    schulden = extract_section("Technische Schulden")
+    eol = extract_section("Erwartetes Lebensende")
+
+    return name, zweck, reifegrad, schulden, eol
 
 def generate_summaries():
     factsheets_dir = 'factsheets'
@@ -42,10 +59,13 @@ def generate_summaries():
             readme_path = os.path.join(tool_path, 'README.md')
 
             if os.path.isfile(readme_path):
-                name, zweck = extract_info(readme_path)
+                name, zweck, reifegrad, schulden, eol = extract_info(readme_path)
                 tools.append({
                     'name': name,
                     'zweck': zweck,
+                    'reifegrad': reifegrad,
+                    'schulden': schulden,
+                    'eol': eol,
                     'path': tool_name
                 })
 
@@ -55,14 +75,13 @@ def generate_summaries():
             # Generate group README.md
             group_readme_content = f"# Gruppe: {group_name.capitalize()}\n\n"
             group_readme_content += "## Verfügbare Werkzeuge\n\n"
-            group_readme_content += "| Werkzeug | Zweck | Link |\n"
-            group_readme_content += "| :--- | :--- | :--- |\n"
+            group_readme_content += "| Werkzeug | Zweck | Reifegrad | Technische Schulden | Erwartetes Lebensende | Link |\n"
+            group_readme_content += "| :--- | :--- | :--- | :--- | :--- | :--- |\n"
             for tool in tools:
-                # Limit zweck length and remove pipes to avoid breaking table
                 short_zweck = tool['zweck'].replace('|', '\\|')
                 if len(short_zweck) > 100:
                     short_zweck = short_zweck[:97] + "..."
-                group_readme_content += f"| {tool['name']} | {short_zweck} | [Link]({tool['path']}/README.md) |\n"
+                group_readme_content += f"| {tool['name']} | {short_zweck} | {tool['reifegrad']} | {tool['schulden']} | {tool['eol']} | [Link]({tool['path']}/README.md) |\n"
 
             with open(os.path.join(group_path, 'README.md'), 'w', encoding='utf-8') as f:
                 f.write(group_readme_content)

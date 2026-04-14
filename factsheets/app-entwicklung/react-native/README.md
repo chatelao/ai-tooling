@@ -7,6 +7,19 @@
 React Native ist ein Framework zum Erstellen nativer Apps für Android und iOS
 unter Verwendung von React.
 
+
+## Reifegrad
+
+Stabil
+
+## Technische Schulden
+
+Gering
+
+## Erwartetes Lebensende
+
+Kein EOL bekannt
+
 ## Installation (Ubuntu 24.04)
 
 React Native erfordert Node.js und JDK. Die CLI kann über npm ausgeführt werden.

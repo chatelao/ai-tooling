@@ -7,6 +7,19 @@ ihrer Umgebung auf Google Cloud Run zu deployen. Er bietet Tools zum Listen von
 Services, Abrufen von Logs und zum Deployment von Code, was ihn zu einem
 idealen Werkzeug für Agenten macht, die Web-Apps oder Microservices entwickeln.
 
+
+## Reifegrad
+
+Stabil
+
+## Technische Schulden
+
+Gering
+
+## Erwartetes Lebensende
+
+Kein EOL bekannt
+
 ## Installation (Ubuntu 24.04)
 
 Voraussetzung: [Node.js](https://nodejs.org/) und `gcloud` müssen installiert

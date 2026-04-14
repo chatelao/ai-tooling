@@ -7,6 +7,19 @@
 React ist eine JavaScript-Bibliothek zum Erstellen von Benutzeroberflächen,
 insbesondere für Single-Page-Webanwendungen.
 
+
+## Reifegrad
+
+Stabil
+
+## Technische Schulden
+
+Gering
+
+## Erwartetes Lebensende
+
+Kein EOL bekannt
+
 ## Installation (Ubuntu 24.04)
 
 React wird üblicherweise über `npm` oder `yarn` in ein Projekt eingebunden.

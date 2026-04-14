@@ -1,1 +1,0 @@
-uvx --from msmcp-azure azmcp server start
