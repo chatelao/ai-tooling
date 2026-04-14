@@ -27,6 +27,13 @@ def refine_commands(code, tool_path):
 
     code = re.sub(tool_path_esc, '', code)
 
+    # Use apt-get -y and set DEBIAN_FRONTEND=noninteractive
+    code = re.sub(r'sudo apt (update|install|upgrade|dist-upgrade|autoremove|purge)', r'sudo DEBIAN_FRONTEND=noninteractive apt-get -y \1', code)
+
+    # Enforce /usr/bin/python3 for commands, but not in package names
+    # Only replace if it's a standalone word or at start of line
+    code = re.sub(r'(^|(?<=\s))python3(?=\s|$)', r'/usr/bin/python3', code)
+
     # Fix google-cloud-sdk exec -l $SHELL
     code = code.replace('exec -l $SHELL', '# exec -l $SHELL (skipped in automated script)')
 
@@ -34,7 +41,7 @@ def refine_commands(code, tool_path):
 
 def create_script(filepath, content, script_type, tool_path):
     with open(filepath, 'w') as f:
-        f.write("#!/bin/bash\nset -e\ncd \"$(dirname \"$0\")\"\n\n")
+        f.write("#!/bin/bash\nset -e\nexport DEBIAN_FRONTEND=noninteractive\ncd \"$(dirname \"$0\")\"\n\n")
         if content:
             code = extract_code_blocks(content)
             if code:

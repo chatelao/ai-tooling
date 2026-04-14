@@ -1,6 +1,7 @@
 #!/bin/bash
 set -e
+export DEBIAN_FRONTEND=noninteractive
 cd "$(dirname "$0")"
 
-sudo apt update
-sudo apt install python3-biopython
+sudo DEBIAN_FRONTEND=noninteractive apt-get -y update
+sudo DEBIAN_FRONTEND=noninteractive apt-get -y install python3-biopython

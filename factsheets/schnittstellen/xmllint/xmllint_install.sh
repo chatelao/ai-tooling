@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
+export DEBIAN_FRONTEND=noninteractive
 cd "$(dirname "$0")"
 
-sudo apt install libxml2-utils
+sudo DEBIAN_FRONTEND=noninteractive apt-get -y install libxml2-utils
