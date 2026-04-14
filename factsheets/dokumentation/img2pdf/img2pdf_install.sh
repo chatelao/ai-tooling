@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
+export DEBIAN_FRONTEND=noninteractive
 cd "$(dirname "$0")"
 
-sudo apt install img2pdf
+sudo DEBIAN_FRONTEND=noninteractive apt-get -y install img2pdf

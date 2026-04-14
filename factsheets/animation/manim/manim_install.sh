@@ -1,7 +1,8 @@
 #!/bin/bash
 set -e
+export DEBIAN_FRONTEND=noninteractive
 cd "$(dirname "$0")"
 
-sudo apt update
-sudo apt install ffmpeg libcairo2-dev libpango1.0-dev
+sudo DEBIAN_FRONTEND=noninteractive apt-get -y update
+sudo DEBIAN_FRONTEND=noninteractive apt-get -y install ffmpeg libcairo2-dev libpango1.0-dev
 pip install manim

@@ -1,0 +1,41 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 http://us-central1.gce.archive.ubuntu.com/ubuntu noble InRelease
+Hit:2 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:3 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-backports InRelease
+Hit:4 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-security InRelease
+Hit:5 https://download.docker.com/linux/ubuntu noble InRelease
+Hit:6 https://dl.google.com/linux/chrome/deb stable InRelease
+Hit:7 https://ppa.launchpadcontent.net/git-core/ppa/ubuntu noble InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+113 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  fonts-dejavu-extra fonts-urw-base35 libimagequant0 libmbedtls14t64
+  libmbedx509-1t64 libraqm0 ncbi-blast+ ncbi-data python-biopython-doc
+  python3-cairo python3-chardet python3-freetype python3-numpy python3-olefile
+  python3-pil python3-reportlab python3-rlpycairo w3c-sgml-lib
+Suggested packages:
+  fonts-texgyre python3-tk bwa clustalo clustalw dialign dssp emboss fasttree
+  mafft muscle3 phylip phyml prank probcons python3-mysqldb python3-matplotlib
+  python3-mmtf python3-rdflib python3-psycopg2 python3-scipy raxml samtools
+  t-coffee wise gfortran python3-dev python3-pytest python-pil-doc pdf-viewer
+  python3-egenix-mxtexttools python-reportlab-doc rl-accel rl-renderpm
+The following NEW packages will be installed:
+  fonts-dejavu-extra fonts-urw-base35 libimagequant0 libmbedtls14t64
+  libmbedx509-1t64 libraqm0 ncbi-blast+ ncbi-data python-biopython-doc
+  python3-biopython python3-cairo python3-chardet python3-freetype
+  python3-numpy python3-olefile python3-pil python3-reportlab
+  python3-rlpycairo w3c-sgml-lib
+0 upgraded, 19 newly installed, 0 to remove and 113 not upgraded.
+Need to get 55.6 MB of archives.
+After this operation, 166 MB of additional disk space will be used.
+Do you want to continue? [Y/n] Abort.
