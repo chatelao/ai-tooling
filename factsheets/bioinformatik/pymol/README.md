@@ -7,15 +7,24 @@
 
 ## Reifegrad
 
-Stabil
+Problematisch (Repo-Version inkompatibel mit Python 3.12)
+
+
+
 
 ## Technische Schulden
 
-Gering
+Mittel
+
+
+
 
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
+
+
+
 
 ## Installation (Ubuntu 24.04)
 

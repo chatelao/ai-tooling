@@ -12,13 +12,22 @@ das Testen von VHDL- und Verilog-Hardware-Designs mit Python.
 
 Stabil
 
+
+
+
 ## Technische Schulden
 
 Gering
 
+
+
+
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
+
+
+
 
 ## Installation (Ubuntu 24.04)
 

@@ -2,20 +2,34 @@
 
 ## Gruppe: Programmierung
 
-## Zweck: Pillow ist ein Werkzeug für
+## Zweck
+
+Pillow ist die freundliche Abspaltung der Python Imaging Library (PIL) und
+bietet umfassende Funktionen zur Bildbearbeitung in Python. KI-Agenten nutzen
+Pillow zur Vorverarbeitung von Trainingsdaten, zur Formatanpassung oder zur
+Generierung von Visualisierungen.
 
 
 ## Reifegrad
 
-Stabil
+Stabil (Aktiv gewartet, v12.2.0 Stand April 2026)
+
+
+
 
 ## Technische Schulden
 
 Gering
 
+
+
+
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
+
+
+
 
 ## Installation (Ubuntu 24.04)
 

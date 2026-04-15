@@ -9,15 +9,24 @@ Das Tool ermöglicht die Generierung von API-Clients, Server-Stubs, Dokumentatio
 
 ## Reifegrad
 
-Stabil
+Stabil (Aktiv gewartet, v7.21.0 Stand März 2026)
+
+
+
 
 ## Technische Schulden
 
 Gering
 
+
+
+
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
+
+
+
 
 ## Installation (Ubuntu 24.04)
 

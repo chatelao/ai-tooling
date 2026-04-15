@@ -10,15 +10,24 @@ verwalten oder BigQuery-Daten abzufragen.
 
 ## Reifegrad
 
-Stabil
+Stabil (Aktiv gewartet, Stand April 2026)
+
+
+
 
 ## Technische Schulden
 
 Gering
 
+
+
+
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
+
+
+
 
 ## Installation (Ubuntu 24.04)
 

@@ -11,15 +11,24 @@ steuern.
 
 ## Reifegrad
 
-Stabil
+Stabil (Aktiv gewartet, v2.85.0 Stand April 2026)
+
+
+
 
 ## Technische Schulden
 
 Gering
 
+
+
+
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
+
+
+
 
 ## Installation (Ubuntu 24.04)
 
