@@ -13,13 +13,22 @@ Cortex-R Mikrocontroller.
 
 Stabil
 
+
+
+
 ## Technische Schulden
 
 Gering
 
+
+
+
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
+
+
+
 
 ## Installation (Ubuntu 24.04)
 

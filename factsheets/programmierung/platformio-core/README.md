@@ -2,20 +2,35 @@
 
 ## Gruppe: Programmierung
 
-## Zweck: Platformio-core ist ein Werkzeug für
+## Zweck
+
+PlatformIO Core ist das Herzstück des PlatformIO-Ökosystems, ein
+plattformübergreifendes Build-System und Bibliotheksmanager für die
+Embedded-Entwicklung. KI-Agenten nutzen PIO Core, um Hardware-Projekte für
+Hunderte von Boards (Arduino, ESP32, STM32 etc.) automatisiert zu konfigurieren
+und zu kompilieren.
 
 
 ## Reifegrad
 
-Stabil
+Stabil (Aktiv gewartet, v6.1.19 Stand April 2026)
+
+
+
 
 ## Technische Schulden
 
 Gering
 
+
+
+
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
+
+
+
 
 ## Installation (Ubuntu 24.04)
 

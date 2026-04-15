@@ -2,20 +2,35 @@
 
 ## Gruppe: Programmierung
 
-## Zweck: Pawn-compiler ist ein Werkzeug für
+## Zweck
+
+Pawn ist eine einfache, typenlose 32-Bit-Skriptsprache mit einer C-ähnlichen
+Syntax. Der Pawn-Compiler übersetzt Quellcode in ein kompaktes P-Code-Format
+(AMX), das auf einer abstrakten Maschine ausgeführt wird. KI-Agenten nutzen
+Pawn oft für eingebettete Systeme oder zur Erweiterung von Anwendungen durch
+Skripting.
 
 
 ## Reifegrad
 
-Stabil
+Stabil (Eingeschränkte Wartung)
+
+
+
 
 ## Technische Schulden
 
 Gering
 
+
+
+
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
+
+
+
 
 ## Installation (Ubuntu 24.04)
 

@@ -2,20 +2,34 @@
 
 ## Gruppe: Programmierung
 
-## Zweck: Gnu-toolchain-for-arm ist ein Werkzeug für
+## Zweck
+
+Die GNU Toolchain for ARM (gcc-arm-none-eabi) ist eine Sammlung von Compilern,
+Linkern und Utilities zum Erstellen von Software für ARM Cortex-M und Cortex-R
+Mikrocontroller ("Bare-Metal"). Sie ist das Standardwerkzeug für die
+Embedded-Entwicklung auf Linux-Systemen.
 
 
 ## Reifegrad
 
 Stabil
 
+
+
+
 ## Technische Schulden
 
 Gering
 
+
+
+
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
+
+
+
 
 ## Installation (Ubuntu 24.04)
 

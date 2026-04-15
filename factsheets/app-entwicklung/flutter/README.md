@@ -12,13 +12,22 @@ Anwendungen für Mobile, Web und Desktop aus einer einzigen Codebasis.
 
 Stabil
 
+
+
+
 ## Technische Schulden
 
 Gering
 
+
+
+
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
+
+
+
 
 ## Installation (Ubuntu 24.04)
 

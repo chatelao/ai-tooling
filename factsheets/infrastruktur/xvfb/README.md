@@ -2,20 +2,35 @@
 
 ## Gruppe: Infrastruktur
 
-## Zweck: Xvfb ist ein Werkzeug für
+## Zweck
+
+Xvfb (X Virtual Framebuffer) ist ein Display-Server, der das X11-Protokoll
+implementiert, aber alle grafischen Operationen im virtuellen Speicher ausführt,
+ohne eine physische Grafikhalle oder einen Monitor zu benötigen. Er ist
+essenziell für KI-Agenten, die GUI-basierte Werkzeuge (wie Krita, Pencil2D oder
+Bioinformatik-Viewer) in Headless-Umgebungen (CI/CD, Server) validieren müssen.
 
 
 ## Reifegrad
 
 Stabil
 
+
+
+
 ## Technische Schulden
 
 Gering
 
+
+
+
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
+
+
+
 
 ## Installation (Ubuntu 24.04)
 

@@ -11,15 +11,24 @@
 
 ## Reifegrad
 
-Stabil
+Veraltet (Inkompatibel mit Python 3.12)
+
+
+
 
 ## Technische Schulden
 
-Gering
+Hoch
+
+
+
 
 ## Erwartetes Lebensende
 
-Kein EOL bekannt
+Projekt eingestellt
+
+
+
 
 ## Installation (Ubuntu 24.04)
 

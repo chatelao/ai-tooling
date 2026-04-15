@@ -12,13 +12,22 @@ idealen Werkzeug für Agenten macht, die Web-Apps oder Microservices entwickeln.
 
 Stabil
 
+
+
+
 ## Technische Schulden
 
 Gering
 
+
+
+
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
+
+
+
 
 ## Installation (Ubuntu 24.04)
 

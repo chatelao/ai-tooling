@@ -2,20 +2,35 @@
 
 ## Gruppe: Ki/inferenz
 
-## Zweck: Vllm ist ein Werkzeug für
+## Zweck
+
+vLLM ist eine hocheffiziente Bibliothek für die Inferenz und das Serving von
+LLMs. Sie zeichnet sich durch PagedAttention aus, was den Speicherbedarf
+erheblich reduziert und den Durchsatz maximiert. KI-Agenten nutzen vLLM als
+Backend, um Modelle mit OpenAI-kompatibler API schnell und skalierbar
+bereitzustellen.
 
 
 ## Reifegrad
 
-Stabil
+Stabil (Aktiv gewartet, v0.19.0 Stand April 2026)
+
+
+
 
 ## Technische Schulden
 
 Gering
 
+
+
+
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
+
+
+
 
 ## Installation (Ubuntu 24.04)
 
