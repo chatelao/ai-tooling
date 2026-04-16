@@ -10,27 +10,21 @@ ermöglicht es KI-Agenten, Firmware für Mikrocontroller autonom zu entwickeln,
 zu bauen und auf Hardware zu flashen, ohne auf eine grafische Oberfläche
 angewiesen zu sein.
 
-
 ## Reifegrad
 
 Stabil (Aktiv gewartet, v1.4.1 Stand Jan 2026)
-
-
-
 
 ## Technische Schulden
 
 Gering
 
-
-
-
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
 
+## Wikipedia
 
-
+[Link](https://de.wikipedia.org/wiki/Arduino_(Plattform))
 
 ## Installation (Ubuntu 24.04)
 

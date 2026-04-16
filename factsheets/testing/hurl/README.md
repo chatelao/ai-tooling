@@ -10,27 +10,17 @@ auch für Web-Tests verwendet werden und zeichnet sich durch seine Schnelligkeit
 und einfache Syntax aus. KI-Agenten nutzen Hurl, um REST- oder SOAP-Endpunkte
 autonom zu validieren.
 
-
 ## Reifegrad
 
 Stabil (Aktiv gewartet, v7.1.0 Stand Nov 2025)
-
-
-
 
 ## Technische Schulden
 
 Gering
 
-
-
-
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
-
-
-
 
 ## Installation (Ubuntu 24.04)
 

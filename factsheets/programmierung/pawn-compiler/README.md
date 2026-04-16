@@ -10,27 +10,21 @@ Syntax. Der Pawn-Compiler übersetzt Quellcode in ein kompaktes P-Code-Format
 Pawn oft für eingebettete Systeme oder zur Erweiterung von Anwendungen durch
 Skripting.
 
-
 ## Reifegrad
 
 Stabil (Eingeschränkte Wartung)
-
-
-
 
 ## Technische Schulden
 
 Gering
 
-
-
-
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
 
+## Wikipedia
 
-
+[Link](https://de.wikipedia.org/wiki/Pawn_(Programmiersprache))
 
 ## Installation (Ubuntu 24.04)
 

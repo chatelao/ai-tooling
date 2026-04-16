@@ -6,27 +6,17 @@
 
 Schemathesis nutzt die OpenAPI-Spezifikation einer API, um automatisch Testfälle zu generieren, die die API auf Konformität und Robustheit prüfen. Es findet Abstürze, unerwartete Fehlercodes und Abweichungen von der Spezifikation.
 
-
 ## Reifegrad
 
 Stabil
-
-
-
 
 ## Technische Schulden
 
 Gering
 
-
-
-
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
-
-
-
 
 ## Installation (Ubuntu 24.04)
 

@@ -8,27 +8,21 @@ Open On-Chip Debugger (OpenOCD) bietet Debugging-, systemnahe Programmierung und
 Boundary-Scan-Tests für eingebettete Zielgeräte. Es unterstützt eine Vielzahl
 von Hardware-Adaptern und Zielarchitekturen.
 
-
 ## Reifegrad
 
 Stabil
-
-
-
 
 ## Technische Schulden
 
 Gering
 
-
-
-
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
 
+## Wikipedia
 
-
+[Link](https://en.wikipedia.org/wiki/OpenOCD)
 
 ## Installation (Ubuntu 24.04)
 

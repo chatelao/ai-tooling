@@ -4,27 +4,21 @@
 
 ## Zweck: Ffmpeg ist ein Werkzeug für
 
-
 ## Reifegrad
 
 Stabil
-
-
-
 
 ## Technische Schulden
 
 Gering
 
-
-
-
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
 
+## Wikipedia
 
-
+[Link](https://de.wikipedia.org/wiki/FFmpeg)
 
 ## Installation (Ubuntu 24.04)
 

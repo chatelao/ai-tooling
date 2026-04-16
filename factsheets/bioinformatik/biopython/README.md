@@ -4,27 +4,21 @@
 
 ## Zweck: Biopython ist ein Werkzeug für
 
-
 ## Reifegrad
 
 Stabil
-
-
-
 
 ## Technische Schulden
 
 Gering
 
-
-
-
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
 
+## Wikipedia
 
-
+[Link](https://en.wikipedia.org/wiki/Biopython)
 
 ## Installation (Ubuntu 24.04)
 
