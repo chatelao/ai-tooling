@@ -1,0 +1,37 @@
+Hit:1 https://download.docker.com/linux/ubuntu noble InRelease
+Hit:2 https://dl.google.com/linux/chrome/deb stable InRelease
+Hit:3 http://us-central1.gce.archive.ubuntu.com/ubuntu noble InRelease
+Hit:4 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:5 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-backports InRelease
+Hit:6 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-security InRelease
+Hit:7 https://ppa.launchpadcontent.net/git-core/ppa/ubuntu noble InRelease
+Hit:8 https://ppa.launchpadcontent.net/lepapareil/hurl/ubuntu noble InRelease
+Reading package lists...
+Repository: 'Types: deb
+URIs: https://ppa.launchpadcontent.net/lepapareil/hurl/ubuntu/
+Suites: noble
+Components: main
+'
+Description:
+Hurl is a command line tool that runs HTTP requests defined in a simple plain text format.
+
+It can chain requests, capture values and evaluate queries on headers and body response. Hurl is very versatile: it can be used for both fetching data and testing HTTP sessions.
+
+Hurl makes it easy to work with HTML content, REST / SOAP / GraphQL APIs, or any other XML / JSON based APIs
+More info: https://launchpad.net/~lepapareil/+archive/ubuntu/hurl
+Adding repository.
+Found existing deb entry in /etc/apt/sources.list.d/lepapareil-ubuntu-hurl-noble.sources
+Hit:1 http://us-central1.gce.archive.ubuntu.com/ubuntu noble InRelease
+Hit:2 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:3 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-backports InRelease
+Hit:4 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-security InRelease
+Hit:5 https://download.docker.com/linux/ubuntu noble InRelease
+Hit:6 https://dl.google.com/linux/chrome/deb stable InRelease
+Hit:7 https://ppa.launchpadcontent.net/git-core/ppa/ubuntu noble InRelease
+Hit:8 https://ppa.launchpadcontent.net/lepapareil/hurl/ubuntu noble InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+hurl is already the newest version (7.1.0+0noble).
+0 upgraded, 0 newly installed, 0 to remove and 116 not upgraded.
