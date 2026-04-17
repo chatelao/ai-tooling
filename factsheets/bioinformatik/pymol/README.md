@@ -4,27 +4,21 @@
 
 ## Zweck: Pymol ist ein Werkzeug für
 
-
 ## Reifegrad
 
 Problematisch (Repo-Version inkompatibel mit Python 3.12)
-
-
-
 
 ## Technische Schulden
 
 Mittel
 
-
-
-
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
 
+## Wikipedia
 
-
+[Link](https://de.wikipedia.org/wiki/PyMOL)
 
 ## Installation (Ubuntu 24.04)
 

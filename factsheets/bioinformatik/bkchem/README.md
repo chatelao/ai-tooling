@@ -8,27 +8,21 @@
 - den Export von Strukturen in verschiedene Formate (SVG, PDF, PNG, CDML).
 - die Bearbeitung von Moleküleigenschaften.
 
-
 ## Reifegrad
 
 Veraltet (Inkompatibel mit Python 3.12)
-
-
-
 
 ## Technische Schulden
 
 Hoch
 
-
-
-
 ## Erwartetes Lebensende
 
 Projekt eingestellt
 
+## Wikipedia
 
-
+[Link](https://de.wikipedia.org/wiki/BKChem)
 
 ## Installation (Ubuntu 24.04)
 

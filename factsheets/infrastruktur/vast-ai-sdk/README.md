@@ -9,27 +9,17 @@ Vast.ai, einen Marktplatz für das Mieten von GPU-Rechenleistung. KI-Agenten
 nutzen dieses Tool, um Instanzen zu suchen, zu mieten, zu verwalten und
 Daten/Modelle auf Remote-GPUs zu übertragen.
 
-
 ## Reifegrad
 
 Stabil
-
-
-
 
 ## Technische Schulden
 
 Gering
 
-
-
-
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
-
-
-
 
 ## Installation (Ubuntu 24.04)
 

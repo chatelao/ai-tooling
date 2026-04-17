@@ -4,27 +4,21 @@
 
 ## Zweck: Krita ist ein Werkzeug für
 
-
 ## Reifegrad
 
 Stabil
-
-
-
 
 ## Technische Schulden
 
 Gering
 
-
-
-
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
 
+## Wikipedia
 
-
+[Link](https://de.wikipedia.org/wiki/Krita)
 
 ## Installation (Ubuntu 24.04)
 

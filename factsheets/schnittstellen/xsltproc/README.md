@@ -4,27 +4,21 @@
 
 ## Zweck: xsltproc ist ein Kommandozeilen-Werkzeug zur Anwendung von XSLT-Stylesheets auf XML-Dokumente.
 
-
 ## Reifegrad
 
 Stabil
-
-
-
 
 ## Technische Schulden
 
 Gering
 
-
-
-
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
 
+## Wikipedia
 
-
+[Link](https://en.wikipedia.org/wiki/Libxslt)
 
 ## Installation (Ubuntu 24.04)
 

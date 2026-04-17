@@ -4,27 +4,17 @@
 
 ## Zweck: Mcp-freecad ist ein Werkzeug für
 
-
 ## Reifegrad
 
 Stabil
-
-
-
 
 ## Technische Schulden
 
 Gering
 
-
-
-
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
-
-
-
 
 ## Installation (Ubuntu 24.04)
 
