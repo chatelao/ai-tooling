@@ -1,0 +1,4 @@
+[warning] /usr/bin/fop: Unable to locate serializer in /usr/share/java
+[warning] /usr/bin/fop: Unable to locate xalan2 in /usr/share/java
+[warning] /usr/bin/fop: Unable to locate xercesImpl in /usr/share/java
+[INFO] FOUserAgent - Rendered page #1.
