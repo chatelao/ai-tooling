@@ -8,3 +8,13 @@ plantuml 1.2020.02
 seqkit v2.3.0
 rdkit 2023.09.3
 ollama 0.21.0
+ffmpeg version 6.1.1
+yosys 0.33
+openFPGALoader v0.12.0
+Biopython 1.83
+Pillow 12.2.0
+openapi-generator 7.21.0
+arm-gdb 15.1
+arduino-cli 1.4.1
+openocd 0.12.0
+radare2 5.5.0
