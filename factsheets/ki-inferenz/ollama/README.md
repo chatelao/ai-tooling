@@ -29,6 +29,7 @@ Kein EOL bekannt
 ## Installation (Ubuntu 24.04)
 
 ```bash
+sudo apt install pciutils lshw zstd
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 

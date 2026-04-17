@@ -1,1 +1,11 @@
 version: '1.1'
+name: Test Workflow
+tests:
+  get-docs:
+    steps:
+      - name: Get Docs
+        http:
+          url: http://localhost/docs
+          method: GET
+        check:
+          status: 200

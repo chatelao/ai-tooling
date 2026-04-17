@@ -2,7 +2,7 @@
 
 ## Gruppe: Schnittstellen
 
-## Zweck: xsltproc ist ein Kommandozeilen-Werkzeug zur Anwendung von XSLT-Stylesheets auf XML-Dokumente.
+## Zweck: xsltproc ist ein Kommandozeilen-Werkzeug zur Anwendung von XSLT-Stylesheets auf XML-Dokumente
 
 ## Reifegrad
 

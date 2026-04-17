@@ -23,7 +23,7 @@ Kein EOL bekannt
 ## Installation (Ubuntu 24.04)
 
 ```bash
-sudo apt install fop
+sudo apt install fop libxalan2-java libxerces2-java libserializer-java
 ```
 
 ## Beispieldaten

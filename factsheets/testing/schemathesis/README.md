@@ -39,5 +39,5 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 OpenAPI-Schema testen:
 
 ```bash
-schemathesis run factsheets/testing/schemathesis/examples/api.yaml
+schemathesis run --url http://localhost factsheets/testing/schemathesis/examples/api.yaml
 ```

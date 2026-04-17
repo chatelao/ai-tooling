@@ -2,9 +2,20 @@ openapi: 3.0.0
 info:
   title: Redocly API
   version: 1.0.0
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+servers:
+  - url: https://api.redocly.com
 paths:
   /docs:
     get:
+      summary: Get documentation
+      operationId: getDocs
       responses:
         '200':
           description: Returns documentation info
+        '404':
+          description: Not found
+security:
+  - {}
