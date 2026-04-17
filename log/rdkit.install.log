@@ -1,0 +1,33 @@
+Hit:1 http://us-central1.gce.archive.ubuntu.com/ubuntu noble InRelease
+Hit:2 https://download.docker.com/linux/ubuntu noble InRelease
+Hit:3 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:4 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-backports InRelease
+Hit:5 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-security InRelease
+Hit:6 https://dl.google.com/linux/chrome/deb stable InRelease
+Hit:7 https://ppa.launchpadcontent.net/git-core/ppa/ubuntu noble InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  libboost-iostreams1.83.0 libboost-python1.83.0 libboost-serialization1.83.0
+  libcoordgen3 libmaeparser1 librdkit1 python3-numpy rdkit-data
+Suggested packages:
+  gfortran python3-dev python3-pytest rdkit-doc
+The following NEW packages will be installed:
+  libboost-iostreams1.83.0 libboost-python1.83.0 libboost-serialization1.83.0
+  libcoordgen3 libmaeparser1 librdkit1 python3-numpy python3-rdkit rdkit-data
+0 upgraded, 9 newly installed, 0 to remove and 116 not upgraded.
+Need to get 28.0 MB of archives.
+After this operation, 146 MB of additional disk space will be used.
+Get:1 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libboost-iostreams1.83.0 amd64 1.83.0-2.1ubuntu3.2 [260 kB]
+Get:2 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libboost-python1.83.0 amd64 1.83.0-2.1ubuntu3.2 [312 kB]
+Get:3 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libboost-serialization1.83.0 amd64 1.83.0-2.1ubuntu3.2 [341 kB]
+Get:4 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/universe amd64 libcoordgen3 amd64 3.0.2-1 [215 kB]
+Get:5 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/universe amd64 libmaeparser1 amd64 1.3.1-1build1 [90.2 kB]
+Get:6 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/universe amd64 librdkit1 amd64 202309.3-3build2 [5109 kB]
+Get:7 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 python3-numpy amd64 1:1.26.4+ds-6ubuntu1 [4437 kB]
+Get:8 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/universe amd64 rdkit-data all 202309.3-3build2 [12.6 MB]
+Get:9 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/universe amd64 python3-rdkit amd64 202309.3-3build2 [4687 kB]
+Fetched 28.0 MB in 3s (9448 kB/s)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 106272 files and directories currently installed.)

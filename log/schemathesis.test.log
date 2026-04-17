@@ -1,0 +1,8 @@
+Schemathesis v4.15.2
+━━━━━━━━━━━━━━━━━━━━
+
+
+Usage: schemathesis run [OPTIONS] LOCATION
+Try 'schemathesis run -h' for help.
+
+Error: The `--url` option is required when specifying a schema via a file.
