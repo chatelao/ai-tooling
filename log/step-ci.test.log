@@ -1,0 +1,13 @@
+
+ⓘ  Anonymous usage data collected. Learn more on https://step.ci/privacy
+
+/home/jules/.nvm/versions/node/v22.22.1/lib/node_modules/stepci/node_modules/@stepci/runner/dist/index.js:82
+    const concurrency = options?.concurrency || workflow.config?.concurrency || Object.keys(workflow.tests).length;
+                                                                                       ^
+
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at run (/home/jules/.nvm/versions/node/v22.22.1/lib/node_modules/stepci/node_modules/@stepci/runner/dist/index.js:82:88)
+    at runFromYAML (/home/jules/.nvm/versions/node/v22.22.1/lib/node_modules/stepci/node_modules/@stepci/runner/dist/index.js:47:12)
+
+Node.js v22.22.1
