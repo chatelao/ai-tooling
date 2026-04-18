@@ -14,6 +14,16 @@ openapi-generator 7.21.0
 openocd 0.12.0
 plantuml 1.2020.02
 radare2 5.5.0
+openscad OpenSCAD version 2021.01
+meshlab 2020.09
+apache-fop FOP Version 2.8
+img2pdf img2pdf 0.5.1
+plantuml PlantUML version 1.2020.02 (Sun Mar 01 10:22:07 UTC 2020)
+redocly-cli 2.28.1
+wavedrom 3.2.0
+circuitikz 2024/02/09
+kibot KiBot 1.8.5 - Copyright 2018-2025, Salvador E. Tropea/INTI/John Beard - License: AGPL v3
+cocotb 2.0.1
 rdkit 2023.09.3
 schemathesis 4.15.2
 seqkit v2.3.0

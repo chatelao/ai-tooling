@@ -2,5 +2,4 @@
 set -e
 export DEBIAN_FRONTEND=noninteractive
 cd "$(dirname "$0")"
-
-# CLI-Version verwenden (falls installiert) oder Editor öffnen.
+npx wavedrom-cli -i examples/test.json -s examples/test.svg
