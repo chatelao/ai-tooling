@@ -1,0 +1,108 @@
+Hit:1 http://us-central1.gce.archive.ubuntu.com/ubuntu noble InRelease
+Hit:2 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:3 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-backports InRelease
+Hit:4 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-security InRelease
+Hit:5 https://dl.google.com/linux/chrome/deb stable InRelease
+Hit:6 https://download.docker.com/linux/ubuntu noble InRelease
+Hit:7 https://ppa.launchpadcontent.net/git-core/ppa/ubuntu noble InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+build-essential is already the newest version (12.10ubuntu1).
+cmake is already the newest version (3.28.3-1build7).
+git is already the newest version (1:2.53.0-0ppa1~ubuntu24.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 116 not upgraded.
+CMake Deprecation Warning at CMakeLists.txt:3 (CMAKE_MINIMUM_REQUIRED):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at compiler/CMakeLists.txt:3 (CMAKE_MINIMUM_REQUIRED):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at amx/CMakeLists.txt:3 (CMAKE_MINIMUM_REQUIRED):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Could NOT find Dyncall (missing: Dyncall_LIBRARIES Dyncall_INCLUDE_DIR)
+The extension module amxProcess requires 'dyncall' (foreign function interface); see http://www.dyncall.org/.
+You may continue with this build, but without dyncall, the module amxProcess will lack some functionality.
+Note: unpack the 'dyncall' archive in the Pawn source directory (and build it).
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /app/factsheets/programmierung/pawn-compiler/pawn/build
+[ 19%] Built target pawnc
+[ 39%] Built target pawncc
+[ 42%] Built target stategraph
+[ 45%] Built target pawndisasm
+[ 48%] Built target amxArgs
+[ 51%] Built target amxDGram
+[ 54%] Built target amxFile
+[ 58%] Built target amxFixed
+[ 61%] Built target amxFloat
+[ 64%] Built target amxProcess
+[ 69%] Built target amxString
+[ 72%] Built target amxTime
+[ 81%] Built target pawnrun
+[ 90%] Built target pawndbg
+[100%] Built target amx
+[ 19%] Built target pawnc
+[ 39%] Built target pawncc
+[ 42%] Built target stategraph
+[ 45%] Built target pawndisasm
+[ 48%] Built target amxArgs
+[ 51%] Built target amxDGram
+[ 54%] Built target amxFile
+[ 58%] Built target amxFixed
+[ 61%] Built target amxFloat
+[ 64%] Built target amxProcess
+[ 69%] Built target amxString
+[ 72%] Built target amxTime
+[ 81%] Built target pawnrun
+[ 90%] Built target pawndbg
+[100%] Built target amx
+Install the project...
+-- Install configuration: ""
+-- Up-to-date: /pkgconfig/pawnc.pc
+-- Up-to-date: /usr/local/lib/libpawnc.so.4.1.7222
+-- Up-to-date: /usr/local/lib/libpawnc.so.4
+-- Up-to-date: /usr/local/lib/libpawnc.so
+-- Up-to-date: /usr/local/bin/pawncc
+-- Up-to-date: /usr/local/bin/stategraph
+-- Up-to-date: /usr/local/bin/pawndisasm
+-- Up-to-date: /usr/local/include/pawn/compiler/sc.h
+-- Up-to-date: /usr/local/include/pawn/compiler/memfile.h
+-- Up-to-date: /usr/local/include/pawn/linux/sclinux.h
+-- Up-to-date: /usr/local/include/pawn/linux/getch.h
+-- Up-to-date: /usr/local/lib/amxArgs.so
+-- Up-to-date: /usr/local/lib/amxDGram.so
+-- Up-to-date: /usr/local/lib/amxFile.so
+-- Up-to-date: /usr/local/lib/amxFixed.so
+-- Up-to-date: /usr/local/lib/amxFloat.so
+-- Up-to-date: /usr/local/lib/amxProcess.so
+-- Up-to-date: /usr/local/lib/amxString.so
+-- Up-to-date: /usr/local/lib/amxTime.so
+-- Up-to-date: /usr/local/bin/pawnrun
+-- Up-to-date: /usr/local/bin/pawndbg
+-- Up-to-date: /usr/local/lib/libamx.so.4.0.0
+-- Up-to-date: /usr/local/lib/libamx.so.4
+-- Up-to-date: /usr/local/lib/libamx.so
+-- Up-to-date: /pkgconfig/amx.pc
+-- Up-to-date: /usr/local/include/pawn/amx/amx.h
+-- Up-to-date: /usr/local/include/pawn/amx/amxaux.h
+-- Up-to-date: /usr/local/include/pawn/amx/amxdbg.h
+-- Up-to-date: /usr/local/include/pawn/amx/osdefs.h
+Pawn compiler installed successfully.
