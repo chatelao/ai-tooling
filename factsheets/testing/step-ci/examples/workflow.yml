@@ -1,1 +1,10 @@
-version: '1.1'
+version: "1.1"
+tests:
+  example-test:
+    steps:
+      - name: Get Google
+        http:
+          url: https://www.google.com
+          method: GET
+        check:
+          status: 200

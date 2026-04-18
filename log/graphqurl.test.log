@@ -1,0 +1,69 @@
+graphqurl/2.0.0 linux-x64 node-v22.22.1
+GraphQURL: cURL for GraphQL
+
+USAGE
+  $ gq ENDPOINT [-q QUERY]
+
+ARGUMENTS
+  ENDPOINT  graphql endpoint
+
+OPTIONS
+  -H, --header=header                request header
+  -h, --help                         show CLI help
+  -j, --variablesJSON=variablesJSON  query variables as JSON string
+
+  -l, --singleLine                   show output in a single line, do not
+                                     prettify
+
+  -q, --query=query                  graphql query to execute
+
+  -v, --variable=variable            query variables as key=value
+
+  --format=json|graphql              [default: graphql] output format for
+                                     graphql schema after introspection
+
+  --introspect                       introspect the endpoint and get schema
+
+  --operationName=operationName      name of the operation to execute from the
+                                     query file
+
+  --queryFile=queryFile              file to read the query from
+
+  --variablesFile=variablesFile      JSON file to read the query variables from
+
+  --version                          show CLI version
+
+DESCRIPTION
+  • Execute GraphQL queries from terminal
+  • Supports queries, mutations, subscriptions, with headers and variables
+  • Auto-complete queries on the CLI
+
+  # Examples:
+
+  # Make a simple query
+  gq https://my-graphql-endpoint -q 'query { table { column } }'
+
+  # Make a query with CLI auto complete (this will show a gql prompt)
+  gq https://my-graphql-endpoint
+
+  # Add a custom header
+  gq https://my-graphql-endpoint \
+     -H 'Authorization: token token-value' \
+     -q 'query { table { column } }'
+
+  # Execute a mutation with variables
+  gq https://my-graphql-endpoint \
+     -q 'mutation { insert_table(objects:[{ column: $var }]) { returning {
+  column } } }' \
+     -v 'var=abcd'
+
+  # Execute a live query (prints out each event data to stdout)
+  gq https://my-graphql-endpoint \
+     -q 'subscription { table { column } }'
+
+  # Execute a live query (print each event line by line)
+  gq https://my-graphql-endpoint \
+     -l -q 'subscription { table { column } }'
+
+  # Export GraphQL schema from an endpoint
+  gq https://my-graphql-endpoint --introspect > schema.gql
