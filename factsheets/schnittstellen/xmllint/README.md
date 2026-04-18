@@ -2,7 +2,9 @@
 
 ## Gruppe: Schnittstellen
 
-## Zweck: xmllint ist ein Werkzeug aus dem libxml2-Paket zur Validierung, Formatierung und Analyse von XML-Dateien
+## Zweck
+
+xmllint ist ein Werkzeug aus dem libxml2-Paket zur Validierung, Formatierung und Analyse von XML-Dateien.
 
 ## Reifegrad
 
