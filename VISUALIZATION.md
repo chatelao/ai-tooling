@@ -29,3 +29,5 @@ Diese Dokumentation ordnet gewünschte Visualisierungsergebnisse den entsprechen
 | FPGA-Programmierung | [openFPGALoader](factsheets/eda/openfpgaloader/README.md) | EDA |
 | RTL-Synthese (Netzlisten) | [Yosys](factsheets/eda/yosys/README.md) | EDA |
 | Visuelle Programmierung | [Blockly](factsheets/programmierung/blockly/README.md) | Programmierung |
+| Semantische Datenabfragen | [Rasqal](factsheets/schnittstellen/rasqal/README.md) | Schnittstellen |
+| Semantische Datenabfragen | [SPARQLWrapper](factsheets/schnittstellen/sparqlwrapper/README.md) | Schnittstellen |
