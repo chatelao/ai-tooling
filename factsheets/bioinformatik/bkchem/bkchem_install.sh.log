@@ -1,0 +1,111 @@
+Hit:1 https://dl.google.com/linux/chrome/deb stable InRelease
+Hit:2 https://download.docker.com/linux/ubuntu noble InRelease
+Hit:3 http://us-central1.gce.archive.ubuntu.com/ubuntu noble InRelease
+Hit:4 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:5 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-backports InRelease
+Hit:6 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-security InRelease
+Hit:7 https://ppa.launchpadcontent.net/git-core/ppa/ubuntu noble InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following NEW packages will be installed:
+  bkchem
+0 upgraded, 1 newly installed, 0 to remove and 116 not upgraded.
+Need to get 717 kB of archives.
+After this operation, 3897 kB of additional disk space will be used.
+Get:1 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/universe amd64 bkchem all 0.14.0~pre4+git20211228-3 [717 kB]
+Fetched 717 kB in 0s (2148 kB/s)
+Selecting previously unselected package bkchem.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 110232 files and directories currently installed.)
+Preparing to unpack .../bkchem_0.14.0~pre4+git20211228-3_all.deb ...
+Unpacking bkchem (0.14.0~pre4+git20211228-3) ...
+Setting up bkchem (0.14.0~pre4+git20211228-3) ...
+/usr/share/bkchem/bkchem/arrow.py:431: SyntaxWarning: invalid escape sequence '\ '
+  """arrow head at 2
+/usr/share/bkchem/bkchem/dom_extensions.py:81: SyntaxWarning: invalid escape sequence '\s'
+  empty = re.compile('^\s*$')
+/usr/share/bkchem/bkchem/edit_pool.py:152: SyntaxWarning: invalid escape sequence '\d'
+  self._setText( re.sub( "\d+", '<sub>\g<0></sub>', self.editPool.get()))
+/usr/share/bkchem/bkchem/edit_pool.py:152: SyntaxWarning: invalid escape sequence '\g'
+  self._setText( re.sub( "\d+", '<sub>\g<0></sub>', self.editPool.get()))
+/usr/share/bkchem/bkchem/group.py:132: SyntaxWarning: invalid escape sequence '\d'
+  x = re.sub( "\d+", '<sub>\g<0></sub>', self.symbol)
+/usr/share/bkchem/bkchem/group.py:132: SyntaxWarning: invalid escape sequence '\g'
+  x = re.sub( "\d+", '<sub>\g<0></sub>', self.symbol)
+/usr/share/bkchem/bkchem/group.py:133: SyntaxWarning: invalid escape sequence '\g'
+  x = re.sub( "[+-]", '<sup>\g<0></sup>', x)
+/usr/share/bkchem/bkchem/misc.py:104: SyntaxWarning: invalid escape sequence '\d'
+  cutter = re.compile( "([+-]?\d*\.?\d*)\s*([a-zA-Z]*)")
+/usr/share/bkchem/bkchem/oasa/oasa/coords_generator.py:532: SyntaxWarning: invalid escape sequence '\O'
+  sm = "C/C(Cl)=C(\O)C"
+/usr/share/bkchem/bkchem/oasa/oasa/dom_extensions.py:80: SyntaxWarning: invalid escape sequence '\s'
+  empty = re.compile('^\s*$')
+/usr/share/bkchem/bkchem/oasa/oasa/inchi.py:282: SyntaxWarning: invalid escape sequence '\('
+  re_for_brackets = "\([H\d,\-]+?\)"
+/usr/share/bkchem/bkchem/oasa/oasa/inchi.py:299: SyntaxWarning: invalid escape sequence '\('
+  re_for_brackets = "\([H\d,\-]+?\)"
+/usr/share/bkchem/bkchem/oasa/oasa/inchi.py:498: SyntaxWarning: invalid escape sequence '\d'
+  for a1,a2,sign in re.findall( "(\d+)-(\d+)([-+?u])", layer):
+/usr/share/bkchem/bkchem/oasa/oasa/inchi.py:536: SyntaxWarning: invalid escape sequence '\('
+  re_for_brackets = "\([H\d,\-]+?\)"
+/usr/share/bkchem/bkchem/oasa/oasa/inchi_key.py:1278: SyntaxWarning: invalid escape sequence '\d'
+  m = re.match( "(\d)(S)?", parts[0])
+/usr/share/bkchem/bkchem/oasa/oasa/misc.py:115: SyntaxWarning: invalid escape sequence '\d'
+  cutter = re.compile( "([+-]?\d*\.?\d*)\s*([a-zA-Z]*)")
+/usr/share/bkchem/bkchem/oasa/oasa/molfile.py:101: SyntaxWarning: invalid escape sequence '\s'
+  m = re.match( "M\s+RAD\s+(\d+)(.*)", prop)
+/usr/share/bkchem/bkchem/oasa/oasa/molfile.py:103: SyntaxWarning: invalid escape sequence '\d'
+  for at,rad in re.findall( "(\d+)\s+(\d+)", m.group( 2)):
+/usr/share/bkchem/bkchem/oasa/oasa/molfile.py:107: SyntaxWarning: invalid escape sequence '\s'
+  m = re.match( "M\s+CHG\s+(\d+)(.*)", prop)
+/usr/share/bkchem/bkchem/oasa/oasa/molfile.py:109: SyntaxWarning: invalid escape sequence '\d'
+  for at,chg in re.findall( "(\d+)\s+(-?\d+)", m.group( 2)):
+/usr/share/bkchem/bkchem/oasa/oasa/periodic_table.py:347: SyntaxWarning: invalid escape sequence '\d'
+  a = re.match( '^([a-z]{1,2})(h)(\d*)$', text.lower())
+/usr/share/bkchem/bkchem/oasa/oasa/periodic_table.py:352: SyntaxWarning: invalid escape sequence '\d'
+  a = re.match( '^(h)(\d*)([a-z]{1,2})$', text.lower())
+/usr/share/bkchem/bkchem/oasa/oasa/query_atom.py:111: SyntaxWarning: invalid escape sequence '\['
+  matcher = re.compile( "\[([A-Z][a-z]?,)*[A-Z][a-z]?\]")
+/usr/share/bkchem/bkchem/oasa/oasa/smiles.py:97: SyntaxWarning: invalid escape sequence '\['
+  chunks = re.split( "(\[.*?\]|[A-Z][a-z]?|%[0-9]{1,2}|[^A-Z]|[a-z])", text)
+/usr/share/bkchem/bkchem/oasa/oasa/smiles.py:193: SyntaxWarning: invalid escape sequence '\['
+  bracketed_atom = re.compile("^\[(\d*)([A-z][a-z]?)(.*?)\]")
+/usr/share/bkchem/bkchem/oasa/oasa/smiles.py:206: SyntaxWarning: invalid escape sequence '\d'
+  _hydrogens = re.search( "H(\d*)", rest)
+/usr/share/bkchem/bkchem/oasa/oasa/smiles.py:224: SyntaxWarning: invalid escape sequence '\d'
+  _charge = re.search( "([-+])(\d?)", rest)
+/usr/share/bkchem/bkchem/oasa/oasa/structure_database.py:166: SyntaxWarning: invalid escape sequence '\['
+  if re.search( "\[\d", smile):
+/usr/share/bkchem/bkchem/oasa/test.py:19: SyntaxWarning: invalid escape sequence '\C'
+  mol = oasa.smiles.text_to_mol( "c1ccccc1\C=C/CC")
+/usr/share/bkchem/bkchem/plugins/piddle/pdfgen.py:173: SyntaxWarning: invalid escape sequence '\('
+  s = string.replace(s, '(','\(')
+/usr/share/bkchem/bkchem/plugins/piddle/pdfgen.py:174: SyntaxWarning: invalid escape sequence '\)'
+  s = string.replace(s, ')','\)')
+/usr/share/bkchem/bkchem/plugins/piddle/pdfutils.py:57: SyntaxWarning: invalid escape sequence '\m'
+  """accepts either a filespec ('C:\mydir\*.jpg') or a list
+/usr/share/bkchem/bkchem/plugins/piddle/pdfutils.py:101: SyntaxWarning: invalid escape sequence '\('
+  s = string.replace(s, '(','\(')
+/usr/share/bkchem/bkchem/plugins/piddle/pdfutils.py:102: SyntaxWarning: invalid escape sequence '\)'
+  s = string.replace(s, ')','\)')
+/usr/share/bkchem/bkchem/plugins/piddle/piddlePDF.py:257: SyntaxWarning: invalid escape sequence '\('
+  s = string.replace(s, '(','\(')
+/usr/share/bkchem/bkchem/plugins/piddle/piddlePDF.py:258: SyntaxWarning: invalid escape sequence '\)'
+  s = string.replace(s, ')','\)')
+/usr/share/bkchem/bkchem/plugins/piddle/piddlePS.py:562: SyntaxWarning: invalid escape sequence '\('
+  str = string.replace(str, '(', '\(' )
+/usr/share/bkchem/bkchem/plugins/piddle/piddlePS.py:563: SyntaxWarning: invalid escape sequence '\)'
+  str = string.replace(str, ')', '\)')
+/usr/share/bkchem/bkchem/widgets.py:487: SyntaxWarning: invalid escape sequence '\d'
+  self.text = re.sub( "\d+", '<sub>\g<0></sub>', self.text)
+/usr/share/bkchem/bkchem/widgets.py:487: SyntaxWarning: invalid escape sequence '\g'
+  self.text = re.sub( "\d+", '<sub>\g<0></sub>', self.text)
+/usr/share/bkchem/bkchem/widgets.py:491: SyntaxWarning: invalid escape sequence '\+'
+  self.text = re.sub( "(\+|\.|-)+", '<sup>\g<0></sup>', self.text)
+/usr/share/bkchem/bkchem/widgets.py:491: SyntaxWarning: invalid escape sequence '\g'
+  self.text = re.sub( "(\+|\.|-)+", '<sup>\g<0></sup>', self.text)
+/usr/share/bkchem/bkchem/widgets.py:526: SyntaxWarning: invalid escape sequence '\d'
+  if re.match( "^\d+$", input):
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for shared-mime-info (2.4-4) ...
