@@ -18,6 +18,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://openapi-generator.tech/)
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

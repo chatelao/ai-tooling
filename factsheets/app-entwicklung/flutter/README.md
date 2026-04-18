@@ -19,6 +19,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://flutter.dev/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/Flutter_(Software))

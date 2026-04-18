@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://www.rdkit.org/)
+
 ## Wikipedia
 
 [Link](https://en.wikipedia.org/wiki/RDKit)

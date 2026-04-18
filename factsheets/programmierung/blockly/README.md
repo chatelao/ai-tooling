@@ -21,6 +21,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://developers.google.com/blockly)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/Blockly)

@@ -20,6 +20,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://docs.microsoft.com/en-us/cli/azure/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/Microsoft_Azure)

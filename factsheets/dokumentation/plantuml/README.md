@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://plantuml.com/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/PlantUML)

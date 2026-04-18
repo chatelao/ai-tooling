@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://github.com/e-m-b-a/emba)
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

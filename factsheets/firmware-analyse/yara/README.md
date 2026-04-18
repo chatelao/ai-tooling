@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://virustotal.github.io/yara/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/YARA)

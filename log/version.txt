@@ -20,3 +20,12 @@ seqkit v2.3.0
 stepci 2.8.2
 yara 4.5.0
 yosys 0.33
+blender 4.0.2
+imagemagick 6.9.12-98
+krita 5.2.2
+manim v0.20.1
+pencil2d 0.6.6
+synfig 1.5.1
+flutter 3.41.2
+react 19.2.5
+react-native 0.85.1

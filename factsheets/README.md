@@ -12,7 +12,7 @@
 | Eda | 7 | [Link](eda/README.md) |
 | Firmware-analyse | 9 | [Link](firmware-analyse/README.md) |
 | Hardware-simulation | 1 | [Link](hardware-simulation/README.md) |
-| Infrastruktur | 8 | [Link](infrastruktur/README.md) |
+| Infrastruktur | 11 | [Link](infrastruktur/README.md) |
 | Ki-inferenz | 2 | [Link](ki-inferenz/README.md) |
 | Programmierung | 9 | [Link](programmierung/README.md) |
 | Schnittstellen | 4 | [Link](schnittstellen/README.md) |

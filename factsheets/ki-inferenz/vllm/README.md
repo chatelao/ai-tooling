@@ -22,6 +22,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://github.com/vllm-project/vllm)
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

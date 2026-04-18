@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://www.manim.community/)
+
 ## Wikipedia
 
 [Link](https://en.wikipedia.org/wiki/Manim)

@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://tc3d.com/ldview/)
+
 ## Wikipedia
 
 [Link](https://en.wikipedia.org/wiki/LDraw)

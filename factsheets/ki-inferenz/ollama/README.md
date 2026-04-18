@@ -22,6 +22,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://ollama.com/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/Ollama)

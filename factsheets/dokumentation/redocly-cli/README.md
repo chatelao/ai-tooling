@@ -20,6 +20,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://redocly.com/docs/cli/)
+
 ## Wikipedia
 
 [Link](https://en.wikipedia.org/wiki/OpenAPI_Specification)

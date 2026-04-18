@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://www.pencil2d.org/)
+
 ## Wikipedia
 
 [Link](https://en.wikipedia.org/wiki/Pencil2D)

@@ -1,0 +1,8 @@
+npm warn exec The following package was not found and will be installed: react-native@0.85.1
+
+⚠️ react-native depends on @react-native-community/cli for cli commands. To fix update your package.json to include:
+
+
+  "devDependencies": {
+    "@react-native-community/cli": "latest",
+  }

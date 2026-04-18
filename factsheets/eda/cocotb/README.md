@@ -19,6 +19,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://www.cocotb.org/)
+
 ## Installation (Ubuntu 24.04)
 
 ```bash
