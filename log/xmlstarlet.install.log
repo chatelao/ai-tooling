@@ -1,5 +1,15 @@
 Reading package lists...
 Building dependency tree...
 Reading state information...
-xmlstarlet is already the newest version (1.6.1-4).
-0 upgraded, 0 newly installed, 0 to remove and 116 not upgraded.
+The following NEW packages will be installed:
+  xmlstarlet
+0 upgraded, 1 newly installed, 0 to remove and 110 not upgraded.
+Need to get 213 kB of archives.
+After this operation, 571 kB of additional disk space will be used.
+Get:1 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/universe amd64 xmlstarlet amd64 1.6.1-4 [213 kB]
+Fetched 213 kB in 0s (731 kB/s)
+Selecting previously unselected package xmlstarlet.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 105911 files and directories currently installed.)
+Preparing to unpack .../xmlstarlet_1.6.1-4_amd64.deb ...
+Unpacking xmlstarlet (1.6.1-4) ...
+Setting up xmlstarlet (1.6.1-4) ...

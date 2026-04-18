@@ -1,0 +1,78 @@
+ARM GDB
+AWS CLI
+AWS MCP Server
+Apache FOP
+Arduino CLI
+Azure CLI
+Azure MCP Server
+BKChem
+Binwalk
+Biopython
+Blender
+Blockly
+ChemFig
+CircuiTikZ
+Docker
+Docker Compose
+EMBA
+FFmpeg
+Flutter
+FreeCAD
+GNU Binutils
+GNU Toolchain for ARM
+Ghidra
+Google Cloud Run MCP
+Google Cloud SDK
+Hexdump
+Hurl
+ImageMagick
+Jmol
+KiBot
+KiCad 10.0
+Krita
+Kubernetes (kubectl)
+LDView
+MCP-FreeCAD
+Manim
+MeshLab
+Ollama
+OpenAPI Generator
+OpenOCD
+OpenSCAD
+PANDA
+Pawn Compiler
+Pencil2D
+Pillow
+PlantUML
+PlatformIO Core
+Playwright
+Prism
+PyMOL
+RDKit
+Radare2
+React
+React Native
+Redocly CLI
+Renode
+SKiDL
+Schemathesis
+SeqKit
+Spectral
+Step CI
+Synfig Studio
+Vast.ai SDK
+WaveDrom
+XMLStarlet
+Xvfb
+YARA
+Yosys
+Zeep
+cocotb
+cve-bin-tool
+graphqurl
+grpcurl
+img2pdf
+openFPGALoader
+vLLM
+xmllint
+xsltproc

@@ -1,0 +1,47 @@
+Get:1 https://download.docker.com/linux/ubuntu noble InRelease [48.5 kB]
+Get:2 https://dl.google.com/linux/chrome/deb stable InRelease [1825 B]
+Get:3 https://dl.google.com/linux/chrome/deb stable/main amd64 Packages [1215 B]
+Hit:4 https://ppa.launchpadcontent.net/git-core/ppa/ubuntu noble InRelease
+Get:5 https://download.docker.com/linux/ubuntu noble/stable amd64 Packages [60.8 kB]
+Hit:6 http://us-central1.gce.archive.ubuntu.com/ubuntu noble InRelease
+Get:7 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]
+Get:8 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-backports InRelease [126 kB]
+Get:9 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-security InRelease [126 kB]
+Get:10 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 Packages [38.4 kB]
+Get:11 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/restricted amd64 Packages [3752 kB]
+Get:12 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages [2156 kB]
+Get:13 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages [2402 kB]
+Get:14 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-backports/universe amd64 Packages [36.1 kB]
+Get:15 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-backports/main amd64 Packages [49.5 kB]
+Get:16 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-backports/multiverse amd64 Packages [695 B]
+Get:17 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-security/restricted amd64 Packages [3581 kB]
+Get:18 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-security/main amd64 Packages [2025 kB]
+Get:19 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-security/universe amd64 Packages [1507 kB]
+Fetched 16.0 MB in 1min 28s (182 kB/s)
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  docker-ce-cli
+Suggested packages:
+  cgroupfs-mount | cgroup-lite kmod docker-model-plugin
+Recommended packages:
+  apparmor docker-ce-rootless-extras pigz
+The following packages will be upgraded:
+  docker-ce docker-ce-cli
+2 upgraded, 0 newly installed, 0 to remove and 114 not upgraded.
+Need to get 39.6 MB of archives.
+After this operation, 2690 kB of additional disk space will be used.
+Get:1 https://download.docker.com/linux/ubuntu noble/stable amd64 docker-ce-cli amd64 5:29.4.0-1~ubuntu.24.04~noble [16.9 MB]
+Get:2 https://download.docker.com/linux/ubuntu noble/stable amd64 docker-ce amd64 5:29.4.0-1~ubuntu.24.04~noble [22.7 MB]
+Fetched 39.6 MB in 1s (39.9 MB/s)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 105347 files and directories currently installed.)
+Preparing to unpack .../docker-ce-cli_5%3a29.4.0-1~ubuntu.24.04~noble_amd64.deb ...
+Unpacking docker-ce-cli (5:29.4.0-1~ubuntu.24.04~noble) over (5:29.2.1-1~ubuntu.24.04~noble) ...
+Preparing to unpack .../docker-ce_5%3a29.4.0-1~ubuntu.24.04~noble_amd64.deb ...
+Unpacking docker-ce (5:29.4.0-1~ubuntu.24.04~noble) over (5:29.2.1-1~ubuntu.24.04~noble) ...
+Setting up docker-ce-cli (5:29.4.0-1~ubuntu.24.04~noble) ...
+Setting up docker-ce (5:29.4.0-1~ubuntu.24.04~noble) ...
+invoke-rc.d: policy-rc.d denied execution of restart.
+/usr/sbin/policy-rc.d returned 101, not running 'restart docker.service docker.socket'
