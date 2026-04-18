@@ -2,7 +2,7 @@
 
 ## Gruppe: Schnittstellen
 
-## Zweck: Zeep ist eine moderne SOAP-Client-Bibliothek für Python, die WSDL-Dateien parst und eine komfortable API bietet.
+## Zweck: Zeep ist eine moderne SOAP-Client-Bibliothek für Python, die WSDL-Dateien parst und eine komfortable API bietet
 
 ## Reifegrad
 
@@ -15,6 +15,10 @@ Gering
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
+
+## Referenzhandbuch
+
+[Link](https://docs.python-zeep.org/)
 
 ## Wikipedia
 

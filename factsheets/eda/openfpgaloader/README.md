@@ -20,6 +20,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://github.com/trabucayre/openFPGALoader)
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

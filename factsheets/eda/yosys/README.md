@@ -20,6 +20,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://yosyshq.net/yosys/)
+
 ## Wikipedia
 
 [Link](https://en.wikipedia.org/wiki/Yosys)

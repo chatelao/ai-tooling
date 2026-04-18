@@ -20,6 +20,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://aws.amazon.com/cli/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/Amazon_Web_Services)

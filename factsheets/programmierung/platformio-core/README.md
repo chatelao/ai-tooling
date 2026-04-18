@@ -22,6 +22,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://platformio.org/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/PlatformIO)

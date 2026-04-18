@@ -19,6 +19,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://github.com/GoogleCloudPlatform/cloud-run-mcp)
+
 ## Installation (Ubuntu 24.04)
 
 Voraussetzung: [Node.js](https://nodejs.org/) und `gcloud` müssen installiert

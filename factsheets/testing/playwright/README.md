@@ -22,6 +22,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://playwright.dev/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/Playwright_(Software))

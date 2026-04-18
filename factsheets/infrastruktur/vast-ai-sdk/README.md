@@ -21,6 +21,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://github.com/Vast-ai/vast-python)
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

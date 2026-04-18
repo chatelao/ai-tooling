@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://imagemagick.org/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/ImageMagick)

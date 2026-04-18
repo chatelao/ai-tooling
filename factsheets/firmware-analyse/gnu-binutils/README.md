@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://www.gnu.org/software/binutils/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/GNU_Binutils)
