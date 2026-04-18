@@ -18,3 +18,12 @@ arm-gdb 15.1
 arduino-cli 1.4.1
 openocd 0.12.0
 radare2 5.5.0
+blender 4.0.2
+imagemagick 6.9.12-98
+krita 5.2.2
+manim v0.20.1
+pencil2d 0.6.6
+synfig 1.5.1
+flutter 3.41.2
+react 19.2.5
+react-native 0.85.1
