@@ -1,0 +1,13 @@
+Collecting SPARQLWrapper
+  Using cached SPARQLWrapper-2.0.0-py3-none-any.whl.metadata (2.0 kB)
+Collecting rdflib>=6.1.1 (from SPARQLWrapper)
+  Using cached rdflib-7.6.0-py3-none-any.whl.metadata (12 kB)
+Collecting pyparsing<4,>=2.1.0 (from rdflib>=6.1.1->SPARQLWrapper)
+  Using cached pyparsing-3.3.2-py3-none-any.whl.metadata (5.8 kB)
+Downloading SPARQLWrapper-2.0.0-py3-none-any.whl (28 kB)
+Downloading rdflib-7.6.0-py3-none-any.whl (615 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 615.4/615.4 kB 923.3 kB/s  0:00:00
+Downloading pyparsing-3.3.2-py3-none-any.whl (122 kB)
+Installing collected packages: pyparsing, rdflib, SPARQLWrapper
+
+Successfully installed SPARQLWrapper-2.0.0 pyparsing-3.3.2 rdflib-7.6.0
