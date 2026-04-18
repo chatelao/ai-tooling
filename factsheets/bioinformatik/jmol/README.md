@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://jmol.sourceforge.net/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/Jmol)

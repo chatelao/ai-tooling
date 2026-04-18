@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://renode.io/)
+
 ## Installation (Ubuntu 24.04)
 
 Download von renode.io.

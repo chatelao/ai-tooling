@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://biopython.org/)
+
 ## Wikipedia
 
 [Link](https://en.wikipedia.org/wiki/Biopython)

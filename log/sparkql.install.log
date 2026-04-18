@@ -1,0 +1,7 @@
+npm warn deprecated sparqljs@3.7.4: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
+npm warn deprecated node-domexception@1.0.0: Use your platform's native DOMException instead
+
+added 38 packages in 3s
+
+8 packages are looking for funding
+  run `npm fund` for details

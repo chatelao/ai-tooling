@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://mirror.init7.net/ctan/graphics/pgf/contrib/circuitikz/doc/circuitikzmanual.pdf)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/PGF/TikZ)

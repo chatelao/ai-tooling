@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://devbisme.github.io/skidl/)
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

@@ -20,6 +20,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://openocd.org/)
+
 ## Wikipedia
 
 [Link](https://en.wikipedia.org/wiki/OpenOCD)

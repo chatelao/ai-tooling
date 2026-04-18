@@ -2,7 +2,9 @@
 
 ## Gruppe: Schnittstellen
 
-## Zweck: XMLStarlet ist ein Toolkit zur XML-Verarbeitung von der Kommandozeile (Validierung, Abfrage, Transformation, Bearbeitung).
+## Zweck
+
+XMLStarlet ist ein Toolkit zur XML-Verarbeitung von der Kommandozeile (Validierung, Abfrage, Transformation, Bearbeitung).
 
 ## Reifegrad
 
@@ -15,6 +17,10 @@ Gering
 ## Erwartetes Lebensende
 
 Kein EOL bekannt
+
+## Referenzhandbuch
+
+[Link](https://xmlstar.sourceforge.net/)
 
 ## Wikipedia
 

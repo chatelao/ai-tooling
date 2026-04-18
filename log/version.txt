@@ -1,22 +1,18 @@
-binwalk v2.3.3
-objdump GNU objdump (GNU Binutils for Ubuntu) 2.42
-yara 4.5.0
-hexdump from util-linux 2.39.3
-stepci 2.8.2
-schemathesis 4.15.2
-plantuml 1.2020.02
-seqkit v2.3.0
-rdkit 2023.09.3
-ollama 0.21.0
-ffmpeg version 6.1.1
-yosys 0.33
-openFPGALoader v0.12.0
 Biopython 1.83
+FreeCAD
+Jmol 14.32.83
 Pillow 12.2.0
-openapi-generator 7.21.0
-arm-gdb 15.1
 arduino-cli 1.4.1
+arm-gdb 15.1
+binwalk v2.3.3
+ffmpeg version 6.1.1
+hexdump from util-linux 2.39.3
+objdump GNU objdump (GNU Binutils for Ubuntu) 2.42
+ollama 0.21.0
+openFPGALoader v0.12.0
+openapi-generator 7.21.0
 openocd 0.12.0
+plantuml 1.2020.02
 radare2 5.5.0
 openscad OpenSCAD version 2021.01
 meshlab 2020.09
@@ -28,3 +24,18 @@ wavedrom 3.2.0
 circuitikz 2024/02/09
 kibot KiBot 1.8.5 - Copyright 2018-2025, Salvador E. Tropea/INTI/John Beard - License: AGPL v3
 cocotb 2.0.1
+rdkit 2023.09.3
+schemathesis 4.15.2
+seqkit v2.3.0
+stepci 2.8.2
+yara 4.5.0
+yosys 0.33
+blender 4.0.2
+imagemagick 6.9.12-98
+krita 5.2.2
+manim v0.20.1
+pencil2d 0.6.6
+synfig 1.5.1
+flutter 3.41.2
+react 19.2.5
+react-native 0.85.1

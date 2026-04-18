@@ -20,6 +20,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://github.com/trabucayre/openFPGALoader)
+
 ## Installation (Ubuntu 24.04)
 
 ```bash
@@ -45,5 +49,5 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 openFPGALoader-Version prüfen:
 
 ```bash
-openfpgaloader --version
+openFPGALoader --version
 ```

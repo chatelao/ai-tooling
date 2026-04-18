@@ -21,6 +21,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://python-pillow.org/)
+
 ## Wikipedia
 
 [Link](https://en.wikipedia.org/wiki/Python_Imaging_Library)

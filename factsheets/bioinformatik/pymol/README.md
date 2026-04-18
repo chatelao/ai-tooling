@@ -16,6 +16,10 @@ Mittel
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://pymol.org/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/PyMOL)

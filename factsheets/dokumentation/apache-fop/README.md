@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://xmlgraphics.apache.org/fop/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/Apache_FOP)

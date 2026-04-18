@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://openscad.org/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/OpenSCAD)

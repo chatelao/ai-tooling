@@ -22,6 +22,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://hurl.dev/)
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

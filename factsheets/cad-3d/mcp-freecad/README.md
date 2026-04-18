@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://github.com/jango-blockchained/mcp-freecad)
+
 ## Installation (Ubuntu 24.04)
 
 Siehe GitHub-Repository für MCP-Setup.

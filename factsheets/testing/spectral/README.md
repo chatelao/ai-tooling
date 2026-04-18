@@ -20,6 +20,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://stoplight.io/open-source/spectral)
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

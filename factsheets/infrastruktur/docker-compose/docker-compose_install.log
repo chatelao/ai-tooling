@@ -1,0 +1,23 @@
+Hit:1 http://us-central1.gce.archive.ubuntu.com/ubuntu noble InRelease
+Hit:2 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:3 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-backports InRelease
+Hit:4 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-security InRelease
+Hit:6 https://download.docker.com/linux/ubuntu noble InRelease
+Hit:7 https://dl.google.com/linux/chrome/deb stable InRelease
+Hit:5 https://prod-cdn.packages.k8s.io/repositories/isv:/kubernetes:/core:/stable:/v1.30/deb  InRelease
+Hit:8 https://ppa.launchpadcontent.net/git-core/ppa/ubuntu noble InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages will be upgraded:
+  docker-compose-plugin
+1 upgraded, 0 newly installed, 0 to remove and 108 not upgraded.
+Need to get 8023 kB of archives.
+After this operation, 837 kB of additional disk space will be used.
+Get:1 https://download.docker.com/linux/ubuntu noble/stable amd64 docker-compose-plugin amd64 5.1.3-1~ubuntu.24.04~noble [8023 kB]
+Fetched 8023 kB in 0s (26.1 MB/s)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 105731 files and directories currently installed.)
+Preparing to unpack .../docker-compose-plugin_5.1.3-1~ubuntu.24.04~noble_amd64.deb ...
+Unpacking docker-compose-plugin (5.1.3-1~ubuntu.24.04~noble) over (5.1.0-1~ubuntu.24.04~noble) ...
+Setting up docker-compose-plugin (5.1.3-1~ubuntu.24.04~noble) ...
