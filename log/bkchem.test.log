@@ -1,0 +1,12 @@
+Could not load module pdf_cairo
+Could not load module png_cairo
+Could not load module svg_cairo
+Could not load module ps_cairo
+Traceback (most recent call last):
+  File "/usr/share/bkchem/bkchem/bkchem.py", line 185, in <module>
+    myapp.initialize()
+  File "/usr/share/bkchem/bkchem/main.py", line 116, in initialize
+    self.init_modes()
+  File "/usr/share/bkchem/bkchem/main.py", line 490, in init_modes
+    import imp
+ModuleNotFoundError: No module named 'imp'
