@@ -1,0 +1,24 @@
+Manim Community v0.20.1
+
+[04/18/26 17:33:39] INFO     Animation 0 : Using cached     cairo_renderer.py:94
+                             data (hash :
+                             1584795214_513577100_223132457
+                             )
+Animation 0: Create(Square):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                      INFO     Animation 1 : Using cached     cairo_renderer.py:94
+                             data (hash :
+                             4072820271_1911431882_55788043
+                             7)
+Animation 1: Transform(Square):   0%|          | 0/1 [00:00<?, ?it/s]                                                                                         INFO     Animation 2 : Using cached     cairo_renderer.py:94
+                             data (hash :
+                             4072820271_2688965532_24155389
+                             17)
+                    INFO     Combining to Movie file.   scene_file_writer.py:753
+                    INFO                                scene_file_writer.py:904
+                             File ready at
+                             '/app/factsheets/animation
+                             /manim/media/videos/exampl
+                             e/480p15/SquareToCircle.mp
+                             4'
+
+                    INFO     Rendered SquareToCircle                scene.py:278
+                             Played 3 animations
