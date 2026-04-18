@@ -22,6 +22,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://github.com/compuphase/pawn)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/Pawn_(Programmiersprache))

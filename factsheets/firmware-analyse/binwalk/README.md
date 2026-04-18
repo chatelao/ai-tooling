@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://github.com/ReFirmLabs/binwalk)
+
 ## Wikipedia
 
 [Link](https://en.wikipedia.org/wiki/Binwalk)

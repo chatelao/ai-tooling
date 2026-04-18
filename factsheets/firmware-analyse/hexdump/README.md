@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://www.kernel.org/pub/linux/utils/util-linux/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/Hexdump)

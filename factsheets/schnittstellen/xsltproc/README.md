@@ -18,6 +18,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](http://xmlsoft.org/XSLT/xsltproc2.html)
+
 ## Wikipedia
 
 [Link](https://en.wikipedia.org/wiki/Libxslt)

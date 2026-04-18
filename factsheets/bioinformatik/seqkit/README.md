@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://bioinf.shenwei.me/seqkit/)
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

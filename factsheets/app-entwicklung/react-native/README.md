@@ -19,6 +19,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://reactnative.dev/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/React_Native)

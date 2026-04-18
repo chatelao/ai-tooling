@@ -16,6 +16,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://www.blender.org/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/Blender_(Software))

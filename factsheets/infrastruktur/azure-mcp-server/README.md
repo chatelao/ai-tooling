@@ -20,6 +20,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://github.com/microsoft/mcp)
+
 ## Installation (Ubuntu 24.04)
 
 Voraussetzung: [uv](https://github.com/astral-sh/uv) muss installiert sein.

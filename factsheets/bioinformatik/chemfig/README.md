@@ -20,6 +20,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://mirror.init7.net/ctan/macros/generic/chemfig/chemfig-en.pdf)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/LaTeX)

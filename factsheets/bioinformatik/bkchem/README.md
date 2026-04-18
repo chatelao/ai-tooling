@@ -20,6 +20,10 @@ Hoch
 
 Projekt eingestellt
 
+## Referenzhandbuch
+
+[Link](https://bkchem.zirael.org/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/BKChem)

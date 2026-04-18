@@ -18,6 +18,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://xmlstar.sourceforge.net/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/XMLStarlet)

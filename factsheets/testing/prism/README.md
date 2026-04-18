@@ -21,6 +21,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://stoplight.io/open-source/prism)
+
 ## Installation (Ubuntu 24.04)
 
 ```bash

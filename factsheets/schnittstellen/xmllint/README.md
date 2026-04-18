@@ -18,6 +18,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](http://xmlsoft.org/xmllint.html)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/Libxml2)

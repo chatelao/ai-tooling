@@ -18,6 +18,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://docs.python-zeep.org/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/SOAP)

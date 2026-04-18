@@ -19,6 +19,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://cloud.google.com/sdk)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/Google_Cloud_Platform)

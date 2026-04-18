@@ -22,6 +22,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://arduino.github.io/arduino-cli/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/Arduino_(Plattform))

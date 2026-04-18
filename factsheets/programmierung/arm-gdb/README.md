@@ -20,6 +20,10 @@ Gering
 
 Kein EOL bekannt
 
+## Referenzhandbuch
+
+[Link](https://www.gnu.org/software/gdb/)
+
 ## Wikipedia
 
 [Link](https://de.wikipedia.org/wiki/GNU_Debugger)
