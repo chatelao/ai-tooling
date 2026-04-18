@@ -45,5 +45,5 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 openFPGALoader-Version prüfen:
 
 ```bash
-openfpgaloader --version
+openFPGALoader --version
 ```
