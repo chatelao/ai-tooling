@@ -1,0 +1,73 @@
+Hit:1 http://us-central1.gce.archive.ubuntu.com/ubuntu noble InRelease
+Get:2 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]
+Get:3 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-backports InRelease [126 kB]
+Get:4 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-security InRelease [126 kB]
+Get:5 https://download.docker.com/linux/ubuntu noble InRelease [48.5 kB]
+Get:6 https://dl.google.com/linux/chrome/deb stable InRelease [1825 B]
+Get:7 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages [2156 kB]
+Hit:8 https://ppa.launchpadcontent.net/git-core/ppa/ubuntu noble InRelease
+Get:9 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages [2402 kB]
+Get:10 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 Packages [38.4 kB]
+Get:11 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/restricted amd64 Packages [3752 kB]
+Get:12 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-backports/main amd64 Packages [49.5 kB]
+Get:13 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-backports/multiverse amd64 Packages [695 B]
+Get:14 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-backports/universe amd64 Packages [36.1 kB]
+Get:15 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-security/main amd64 Packages [2025 kB]
+Get:16 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-security/restricted amd64 Packages [3581 kB]
+Get:17 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-security/universe amd64 Packages [1507 kB]
+Get:18 https://download.docker.com/linux/ubuntu noble/stable amd64 Packages [60.8 kB]
+Get:19 https://dl.google.com/linux/chrome/deb stable/main amd64 Packages [1216 B]
+Fetched 16.0 MB in 2s (7844 kB/s)
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  libavdevice60 libcdio-cdda2t64 libcdio-paranoia2t64 libcdio19t64
+  libxcb-shape0 libxv1
+Suggested packages:
+  ffmpeg-doc
+The following NEW packages will be installed:
+  ffmpeg libavdevice60 libcdio-cdda2t64 libcdio-paranoia2t64 libcdio19t64
+  libxcb-shape0 libxv1
+0 upgraded, 7 newly installed, 0 to remove and 116 not upgraded.
+Need to get 2073 kB of archives.
+After this operation, 3171 kB of additional disk space will be used.
+Get:1 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates/main amd64 libcdio19t64 amd64 2.1.0-4.1ubuntu1.2 [62.4 kB]
+Get:2 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libcdio-cdda2t64 amd64 10.2+2.0.1-1.1build2 [16.5 kB]
+Get:3 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libcdio-paranoia2t64 amd64 10.2+2.0.1-1.1build2 [16.6 kB]
+Get:4 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libxcb-shape0 amd64 1.15-1ubuntu2 [6100 B]
+Get:5 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/main amd64 libxv1 amd64 2:1.0.11-1.1build1 [10.7 kB]
+Get:6 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/universe amd64 libavdevice60 amd64 7:6.1.1-3ubuntu5 [82.3 kB]
+Get:7 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/universe amd64 ffmpeg amd64 7:6.1.1-3ubuntu5 [1879 kB]
+Fetched 2073 kB in 0s (11.3 MB/s)
+Selecting previously unselected package libcdio19t64:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 105347 files and directories currently installed.)
+Preparing to unpack .../0-libcdio19t64_2.1.0-4.1ubuntu1.2_amd64.deb ...
+Unpacking libcdio19t64:amd64 (2.1.0-4.1ubuntu1.2) ...
+Selecting previously unselected package libcdio-cdda2t64:amd64.
+Preparing to unpack .../1-libcdio-cdda2t64_10.2+2.0.1-1.1build2_amd64.deb ...
+Unpacking libcdio-cdda2t64:amd64 (10.2+2.0.1-1.1build2) ...
+Selecting previously unselected package libcdio-paranoia2t64:amd64.
+Preparing to unpack .../2-libcdio-paranoia2t64_10.2+2.0.1-1.1build2_amd64.deb ...
+Unpacking libcdio-paranoia2t64:amd64 (10.2+2.0.1-1.1build2) ...
+Selecting previously unselected package libxcb-shape0:amd64.
+Preparing to unpack .../3-libxcb-shape0_1.15-1ubuntu2_amd64.deb ...
+Unpacking libxcb-shape0:amd64 (1.15-1ubuntu2) ...
+Selecting previously unselected package libxv1:amd64.
+Preparing to unpack .../4-libxv1_2%3a1.0.11-1.1build1_amd64.deb ...
+Unpacking libxv1:amd64 (2:1.0.11-1.1build1) ...
+Selecting previously unselected package libavdevice60:amd64.
+Preparing to unpack .../5-libavdevice60_7%3a6.1.1-3ubuntu5_amd64.deb ...
+Unpacking libavdevice60:amd64 (7:6.1.1-3ubuntu5) ...
+Selecting previously unselected package ffmpeg.
+Preparing to unpack .../6-ffmpeg_7%3a6.1.1-3ubuntu5_amd64.deb ...
+Unpacking ffmpeg (7:6.1.1-3ubuntu5) ...
+Setting up libxcb-shape0:amd64 (1.15-1ubuntu2) ...
+Setting up libcdio19t64:amd64 (2.1.0-4.1ubuntu1.2) ...
+Setting up libcdio-cdda2t64:amd64 (10.2+2.0.1-1.1build2) ...
+Setting up libcdio-paranoia2t64:amd64 (10.2+2.0.1-1.1build2) ...
+Setting up libxv1:amd64 (2:1.0.11-1.1build1) ...
+Setting up libavdevice60:amd64 (7:6.1.1-3ubuntu5) ...
+Setting up ffmpeg (7:6.1.1-3ubuntu5) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.7) ...
