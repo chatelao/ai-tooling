@@ -1,12 +1,7 @@
 npm warn deprecated whatwg-encoding@3.1.1: Use @exodus/bytes instead for a more spec-conformant and faster implementation
 npm warn deprecated json-schema-ref-parser@6.1.0: Please switch to @apidevtools/json-schema-ref-parser
 
-added 284 packages in 22s
+added 284 packages in 18s
 
 89 packages are looking for funding
   run `npm fund` for details
-npm notice
-npm notice New minor version of npm available! 11.11.0 -> 11.12.1
-npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.12.1
-npm notice To update run: npm install -g npm@11.12.1
-npm notice

@@ -2,7 +2,58 @@ Schemathesis v4.15.2
 ━━━━━━━━━━━━━━━━━━━━
 
 
-Usage: schemathesis run [OPTIONS] LOCATION
-Try 'schemathesis run -h' for help.
+ ✅  Loaded specification from examples/api.yaml (in 0.43s)
 
-Error: The `--url` option is required when specifying a schema via a file.
+     Base URL:         http://localhost
+     Specification:    Open API 3.0.0
+     Operations:       1 selected / 1 total
+
+
+ ✅  API capabilities:
+
+     Supports NULL byte in headers:    ✘
+
+ ⏭   Examples (in 0.11s)
+
+     ⏭  1 skipped
+
+ 🚫  Coverage (in 0.25s)
+
+     🚫 1 error
+
+ 🚫  Fuzzing (in 0.18s)
+
+     🚫 1 error
+
+==================================== ERRORS ====================================
+__________________________________ GET /hello __________________________________
+Network Error
+
+Connection failed
+
+    Failed to establish a new connection: [Errno 111] Connection refused
+
+Need more help?
+    Join our Discord server: https://discord.gg/R9ASRAmHnA
+=================================== SUMMARY ====================================
+
+API Operations:
+  Selected: 1/1
+  Tested: 0
+  Errored: 1
+
+Test Phases:
+  ⏭  Examples
+  🚫 Coverage
+  🚫 Fuzzing
+  ⏭  Stateful (not applicable)
+
+Errors:
+  🚫 Network Error: 1
+
+Test cases:
+  10 generated, 10 skipped
+
+Seed: 62561428005310380661264326925386475194
+
+=============================== 1 error in 0.61s ===============================

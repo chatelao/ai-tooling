@@ -13,7 +13,7 @@ Collecting hypothesis-jsonschema<0.24,>=0.23.1 (from schemathesis)
 Collecting hypothesis<7,>=6.108.0 (from schemathesis)
   Downloading hypothesis-6.152.1-py3-none-any.whl.metadata (5.6 kB)
 Collecting jsonschema-rs>=0.44.1 (from schemathesis)
-  Downloading jsonschema_rs-0.46.0-cp310-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (26 kB)
+  Downloading jsonschema_rs-0.46.1-cp310-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (26 kB)
 Collecting jsonschema<5.0,>=4.18.0 (from schemathesis)
   Downloading jsonschema-4.26.0-py3-none-any.whl.metadata (7.6 kB)
 Collecting junit-xml<2.0,>=1.9 (from schemathesis)
@@ -85,7 +85,7 @@ Downloading harfile-0.4.0-py3-none-any.whl (6.9 kB)
 Using cached httpx-0.28.1-py3-none-any.whl (73 kB)
 Using cached httpcore-1.0.9-py3-none-any.whl (78 kB)
 Downloading hypothesis-6.152.1-py3-none-any.whl (530 kB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 530.8/530.8 kB 1.6 MB/s  0:00:00
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 530.8/530.8 kB 16.6 MB/s  0:00:00
 Downloading hypothesis_graphql-0.12.0-py3-none-any.whl (20 kB)
 Downloading graphql_core-3.2.8-py3-none-any.whl (207 kB)
 Downloading hypothesis_jsonschema-0.23.1-py3-none-any.whl (29 kB)
@@ -107,13 +107,13 @@ Downloading attrs-26.1.0-py3-none-any.whl (67 kB)
 Using cached certifi-2026.2.25-py3-none-any.whl (153 kB)
 Using cached h11-0.16.0-py3-none-any.whl (37 kB)
 Using cached iniconfig-2.3.0-py3-none-any.whl (7.5 kB)
-Downloading jsonschema_rs-0.46.0-cp310-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (4.0 MB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.0/4.0 MB 49.8 MB/s  0:00:00
+Downloading jsonschema_rs-0.46.1-cp310-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (4.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.0/4.0 MB 33.5 MB/s  0:00:00
 Downloading jsonschema_specifications-2025.9.1-py3-none-any.whl (18 kB)
 Using cached markupsafe-3.0.3-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (22 kB)
 Downloading packaging-26.1-py3-none-any.whl (95 kB)
 Downloading pygments-2.20.0-py3-none-any.whl (1.2 MB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 42.6 MB/s  0:00:00
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 55.7 MB/s  0:00:00
 Downloading referencing-0.37.0-py3-none-any.whl (26 kB)
 Downloading rich-15.0.0-py3-none-any.whl (310 kB)
 Downloading markdown_it_py-4.0.0-py3-none-any.whl (87 kB)
@@ -124,4 +124,4 @@ Downloading anyio-4.13.0-py3-none-any.whl (114 kB)
 Using cached six-1.17.0-py2.py3-none-any.whl (11 kB)
 Installing collected packages: sortedcontainers, urllib3, tenacity, six, rpds-py, pyyaml, pyrate-limiter, pygments, pluggy, packaging, mdurl, markupsafe, jsonschema-rs, iniconfig, idna, hypothesis, harfile, h11, graphql-core, click, charset_normalizer, certifi, attrs, werkzeug, requests, referencing, pytest, markdown-it-py, junit-xml, hypothesis-graphql, httpcore, anyio, starlette, rich, jsonschema-specifications, httpx, starlette-testclient, jsonschema, hypothesis-jsonschema, schemathesis
 
-Successfully installed anyio-4.13.0 attrs-26.1.0 certifi-2026.2.25 charset_normalizer-3.4.7 click-8.3.2 graphql-core-3.2.8 h11-0.16.0 harfile-0.4.0 httpcore-1.0.9 httpx-0.28.1 hypothesis-6.152.1 hypothesis-graphql-0.12.0 hypothesis-jsonschema-0.23.1 idna-3.11 iniconfig-2.3.0 jsonschema-4.26.0 jsonschema-rs-0.46.0 jsonschema-specifications-2025.9.1 junit-xml-1.9 markdown-it-py-4.0.0 markupsafe-3.0.3 mdurl-0.1.2 packaging-26.1 pluggy-1.6.0 pygments-2.20.0 pyrate-limiter-4.1.0 pytest-9.0.3 pyyaml-6.0.3 referencing-0.37.0 requests-2.33.1 rich-15.0.0 rpds-py-0.30.0 schemathesis-4.15.2 six-1.17.0 sortedcontainers-2.4.0 starlette-1.0.0 starlette-testclient-0.4.1 tenacity-9.1.4 urllib3-2.6.3 werkzeug-3.1.8
+Successfully installed anyio-4.13.0 attrs-26.1.0 certifi-2026.2.25 charset_normalizer-3.4.7 click-8.3.2 graphql-core-3.2.8 h11-0.16.0 harfile-0.4.0 httpcore-1.0.9 httpx-0.28.1 hypothesis-6.152.1 hypothesis-graphql-0.12.0 hypothesis-jsonschema-0.23.1 idna-3.11 iniconfig-2.3.0 jsonschema-4.26.0 jsonschema-rs-0.46.1 jsonschema-specifications-2025.9.1 junit-xml-1.9 markdown-it-py-4.0.0 markupsafe-3.0.3 mdurl-0.1.2 packaging-26.1 pluggy-1.6.0 pygments-2.20.0 pyrate-limiter-4.1.0 pytest-9.0.3 pyyaml-6.0.3 referencing-0.37.0 requests-2.33.1 rich-15.0.0 rpds-py-0.30.0 schemathesis-4.15.2 six-1.17.0 sortedcontainers-2.4.0 starlette-1.0.0 starlette-testclient-0.4.1 tenacity-9.1.4 urllib3-2.6.3 werkzeug-3.1.8
