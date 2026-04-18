@@ -1,0 +1,10 @@
+Name: cocotb
+Version: 2.0.1
+Summary: cocotb is a coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python.
+Home-page: https://www.cocotb.org
+Author: Chris Higgs, Stuart Hodgson
+Author-email:
+License: BSD-3-Clause
+Location: /home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages
+Requires: find_libpython
+Required-by:

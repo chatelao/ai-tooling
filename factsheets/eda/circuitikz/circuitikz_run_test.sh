@@ -2,5 +2,4 @@
 set -e
 export DEBIAN_FRONTEND=noninteractive
 cd "$(dirname "$0")"
-
-# LaTeX-Dokument kompilieren.
+pdflatex -interaction=nonstopmode -output-directory=examples examples/test.tex

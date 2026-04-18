@@ -1,0 +1,5 @@
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-jules'
+Current Plugins Dir is: /usr/lib/x86_64-linux-gnu/meshlab/plugins
+Shader directory found '/usr/share/meshlab/shaders', and it contains 19 gdp files
+LOG: 0 Opened mesh examples/mesh.obj in 18 msec
+LOG: 0 All files opened in 19 msec
