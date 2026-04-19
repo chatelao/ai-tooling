@@ -42,4 +42,8 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
 ## Validierung
 
-KiCad öffnen.
+KiCad-Version prüfen:
+
+```bash
+kicad-cli --version
+```

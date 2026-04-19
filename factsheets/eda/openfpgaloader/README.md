@@ -49,5 +49,5 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 openFPGALoader-Version prüfen:
 
 ```bash
-openFPGALoader --version
+openFPGALoader -V
 ```
