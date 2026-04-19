@@ -47,5 +47,5 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 Starten Sie BKChem über die Kommandozeile oder das Anwendungsmenü:
 
 ```bash
-bkchem
+PYTHONPATH=../../../scripts xvfb-run -a /usr/bin/python3 /usr/share/bkchem/bkchem/bkchem.py --help
 ```

@@ -3,4 +3,5 @@ set -e
 export DEBIAN_FRONTEND=noninteractive
 cd "$(dirname "$0")"
 
-ldview examples/model.ldr
+mkdir -p ~/.config/LDView && touch ~/.config/LDView/ldviewrc
+xvfb-run -a ldview examples/model.ldr

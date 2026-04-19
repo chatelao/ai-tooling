@@ -46,5 +46,5 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 Starten Sie PyMOL:
 
 ```bash
-pymol factsheets/bioinformatik/pymol/examples/protein.pdb
+PYTHONPATH=../../../scripts xvfb-run -a /usr/bin/python3 -m pymol -c factsheets/bioinformatik/pymol/examples/protein.pdb
 ```

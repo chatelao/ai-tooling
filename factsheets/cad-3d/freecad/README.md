@@ -45,5 +45,5 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 Version prüfen:
 
 ```bash
-freecad --version
+xvfb-run -a freecad --version 2>&1 | grep -v "libEGL warning"
 ```

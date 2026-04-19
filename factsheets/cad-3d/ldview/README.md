@@ -27,6 +27,8 @@ Kein EOL bekannt
 ## Installation (Ubuntu 24.04)
 
 ```bash
+sudo apt update
+sudo apt install -y libosmesa6
 curl -L http://download.opensuse.org/repositories/home:/pbartfai/xUbuntu_24.04/amd64/ldview-osmesa_4.7-1_amd64.deb -o ldview.deb; sudo apt install ./ldview.deb
 ```
 
@@ -45,5 +47,6 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 LDView ausführen:
 
 ```bash
-ldview factsheets/cad-3d/ldview/examples/model.ldr
+mkdir -p ~/.config/LDView && touch ~/.config/LDView/ldviewrc
+xvfb-run -a ldview factsheets/cad-3d/ldview/examples/model.ldr
 ```
