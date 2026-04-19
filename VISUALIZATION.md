@@ -41,3 +41,8 @@ Diese Dokumentation ordnet gewünschte Visualisierungsergebnisse den entsprechen
 | Relationales Datenbankmanagement | [MSSQL Express](factsheets/datenbanken/mssql/README.md) | Datenbanken |
 | Relationales Datenbankmanagement | [Oracle Database Free](factsheets/datenbanken/oracle/README.md) | Datenbanken |
 | Relationales Datenbankmanagement | [PostgreSQL](factsheets/datenbanken/postgresql/README.md) | Datenbanken |
+| Interaktive Kartenbearbeitung | [JOSM](factsheets/geodaten/josm/README.md) | Geodaten |
+| Geodatenverarbeitung | [osm2pgsql](factsheets/geodaten/osm2pgsql/README.md) | Geodaten |
+| Geodatenverarbeitung | [osmium-tool](factsheets/geodaten/osmium-tool/README.md) | Geodaten |
+| Geodatenverarbeitung | [Osmosis](factsheets/geodaten/osmosis/README.md) | Geodaten |
+| Räumliche Datenhaltung | [PostGIS](factsheets/geodaten/postgis/README.md) | Geodaten |

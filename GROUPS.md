@@ -12,3 +12,4 @@
 | 16ca16e0 | Schemathesis, Spectral, Step CI, Rasqal, SPARQLWrapper, sparkql,  graphqurl, grpcurl, Schemathesis, Spectral, Step CI |
 | a445068e | GNU Radio, Gqrx SDR, Inspectrum, Node-RED, rtl-sdr, Universal Radio Hacker (URH) |
 | 88b35326 | MariaDB, MSSQL Express, Oracle Database Free, PostgreSQL |
+| cc4ed927 | JOSM, osm2pgsql, osmium-tool, Osmosis, PostGIS |
