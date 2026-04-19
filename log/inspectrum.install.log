@@ -1,0 +1,37 @@
+Hit:1 http://us-central1.gce.archive.ubuntu.com/ubuntu noble InRelease
+Hit:2 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:3 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-backports InRelease
+Hit:4 http://us-central1.gce.archive.ubuntu.com/ubuntu noble-security InRelease
+Hit:5 https://download.docker.com/linux/ubuntu noble InRelease
+Hit:6 https://dl.google.com/linux/chrome/deb stable InRelease
+Hit:7 https://ppa.launchpadcontent.net/git-core/ppa/ubuntu noble InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  libfec0 libliquid1
+The following NEW packages will be installed:
+  inspectrum libfec0 libliquid1
+0 upgraded, 3 newly installed, 0 to remove and 97 not upgraded.
+Need to get 469 kB of archives.
+After this operation, 1379 kB of additional disk space will be used.
+Get:1 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/universe amd64 libfec0 amd64 1.0-26-gc5d935f-1 [21.6 kB]
+Get:2 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/universe amd64 libliquid1 amd64 1.6.0-3 [355 kB]
+Get:3 http://us-central1.gce.archive.ubuntu.com/ubuntu noble/universe amd64 inspectrum amd64 0.3.1-1build2 [92.3 kB]
+Fetched 469 kB in 1s (676 kB/s)
+Selecting previously unselected package libfec0:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 180414 files and directories currently installed.)
+Preparing to unpack .../libfec0_1.0-26-gc5d935f-1_amd64.deb ...
+Unpacking libfec0:amd64 (1.0-26-gc5d935f-1) ...
+Selecting previously unselected package libliquid1:amd64.
+Preparing to unpack .../libliquid1_1.6.0-3_amd64.deb ...
+Unpacking libliquid1:amd64 (1.6.0-3) ...
+Selecting previously unselected package inspectrum.
+Preparing to unpack .../inspectrum_0.3.1-1build2_amd64.deb ...
+Unpacking inspectrum (0.3.1-1build2) ...
+Setting up libfec0:amd64 (1.0-26-gc5d935f-1) ...
+Setting up libliquid1:amd64 (1.6.0-3) ...
+Setting up inspectrum (0.3.1-1build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.7) ...

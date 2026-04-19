@@ -1,0 +1,33 @@
+Collecting urh
+  Downloading urh-2.10.0-cp312-cp312-manylinux_2_34_x86_64.whl.metadata (8.9 kB)
+Collecting numpy<3.0 (from urh)
+  Downloading numpy-2.4.4-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl.metadata (6.6 kB)
+Collecting psutil (from urh)
+  Downloading psutil-7.2.2-cp36-abi3-manylinux2010_x86_64.manylinux_2_12_x86_64.manylinux_2_28_x86_64.whl.metadata (22 kB)
+Collecting cython (from urh)
+  Downloading cython-3.2.4-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (7.5 kB)
+Collecting setuptools (from urh)
+  Downloading setuptools-82.0.1-py3-none-any.whl.metadata (6.5 kB)
+Collecting PyQt6 (from urh)
+  Downloading pyqt6-6.11.0-cp310-abi3-manylinux_2_34_x86_64.whl.metadata (2.1 kB)
+Collecting PyQt6-sip<14,>=13.8 (from PyQt6->urh)
+  Downloading pyqt6_sip-13.11.1-cp312-cp312-manylinux1_x86_64.manylinux_2_5_x86_64.whl.metadata (495 bytes)
+Collecting PyQt6-Qt6<6.12.0,>=6.11.0 (from PyQt6->urh)
+  Downloading pyqt6_qt6-6.11.0-py3-none-manylinux_2_34_x86_64.whl.metadata (535 bytes)
+Downloading urh-2.10.0-cp312-cp312-manylinux_2_34_x86_64.whl (21.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 21.0/21.0 MB 100.7 MB/s  0:00:00
+Downloading numpy-2.4.4-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (16.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 16.6/16.6 MB 124.7 MB/s  0:00:00
+Downloading cython-3.2.4-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (3.4 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.4/3.4 MB 125.5 MB/s  0:00:00
+Downloading psutil-7.2.2-cp36-abi3-manylinux2010_x86_64.manylinux_2_12_x86_64.manylinux_2_28_x86_64.whl (155 kB)
+Downloading pyqt6-6.11.0-cp310-abi3-manylinux_2_34_x86_64.whl (8.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.3/8.3 MB 111.6 MB/s  0:00:00
+Downloading pyqt6_qt6-6.11.0-py3-none-manylinux_2_34_x86_64.whl (85.8 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 85.8/85.8 MB 36.1 MB/s  0:00:02
+Downloading pyqt6_sip-13.11.1-cp312-cp312-manylinux1_x86_64.manylinux_2_5_x86_64.whl (299 kB)
+Downloading setuptools-82.0.1-py3-none-any.whl (1.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.0/1.0 MB 75.4 MB/s  0:00:00
+Installing collected packages: PyQt6-Qt6, setuptools, PyQt6-sip, psutil, numpy, cython, PyQt6, urh
+
+Successfully installed PyQt6-6.11.0 PyQt6-Qt6-6.11.0 PyQt6-sip-13.11.1 cython-3.2.4 numpy-2.4.4 psutil-7.2.2 setuptools-82.0.1 urh-2.10.0

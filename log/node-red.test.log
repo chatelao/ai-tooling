@@ -1,0 +1,19 @@
+Node-RED v4.1.8
+Usage: node-red [-v] [-?] [--settings settings.js] [--userDir DIR]
+                [--port PORT] [--title TITLE] [--safe] [flows.json]
+       node-red admin <command> [args] [-?] [--userDir DIR] [--json]
+
+Options:
+  -p, --port     PORT  port to listen on
+  -s, --settings FILE  use specified settings file
+      --title    TITLE process window title
+  -u, --userDir  DIR   use specified user directory
+  -v, --verbose        enable verbose output
+      --safe           enable safe mode
+  -D, --define   X=Y   overwrite value in settings file
+      --version        show version information
+      --no-telemetry   do not share usage data with the Node-RED project
+  -?, --help           show this help
+  admin <command>      run an admin command
+
+Documentation can be found at https://nodered.org
