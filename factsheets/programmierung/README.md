@@ -8,7 +8,6 @@
 | ARM GDB | Debugger für ARM Cortex-M/R Prozessoren | Stabil | Gering | Kein EOL bekannt | [Link](arm-gdb/README.md) |
 | Blockly | Blockly ist eine von Google entwickelte Bibliothek zum Erstellen von | Stabil (Aktiv gewartet, v12.5.1 Stand April 2026) | Gering | Kein EOL bekannt | [Link](blockly/README.md) |
 | Gnu toolchain for arm | Die GNU Toolchain for ARM (gcc-arm-none-eabi) ist eine Sammlung von Compilern, | Stabil | Gering | Kein EOL bekannt | [Link](gnu-toolchain-for-arm/README.md) |
-| Openapi generator | Openapi-generator ist ein Werkzeug für die automatische Codegenerierung | Stabil (Aktiv gewartet, v7.21.0 Stand März 2026) | Gering | Kein EOL bekannt | [Link](openapi-generator/README.md) |
 | OpenOCD | JTAG/SWD Debug-Lösung für Embedded-Geräte | Stabil | Gering | Kein EOL bekannt | [Link](openocd/README.md) |
 | Pawn compiler | Pawn ist eine einfache, typenlose 32-Bit-Skriptsprache mit einer C-ähnlichen | Stabil (Eingeschränkte Wartung) | Gering | Kein EOL bekannt | [Link](pawn-compiler/README.md) |
 | Pillow | Pillow ist die freundliche Abspaltung der Python Imaging Library (PIL) und | Stabil (Aktiv gewartet, v12.2.0 Stand April 2026) | Gering | Kein EOL bekannt | [Link](pillow/README.md) |
