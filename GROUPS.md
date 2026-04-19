@@ -11,3 +11,4 @@
 | 8e4c24e8 | Pawn Compiler, Pillow, PlatformIO Core, xmllint, XMLStarlet, xsltproc, Zeep, Hurl, Playwright, Prism |
 | 16ca16e0 | Schemathesis, Spectral, Step CI, Rasqal, SPARQLWrapper, sparkql,  graphqurl, grpcurl, Schemathesis, Spectral, Step CI |
 | 88b35326 | MariaDB, MSSQL Express, Oracle Database Free, PostgreSQL |
+| cc4ed927 | JOSM, osm2pgsql, osmium-tool, Osmosis, PostGIS |
