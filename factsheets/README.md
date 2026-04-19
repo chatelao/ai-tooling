@@ -14,6 +14,6 @@
 | Hardware-simulation | 1 | [Link](hardware-simulation/README.md) |
 | Infrastruktur | 11 | [Link](infrastruktur/README.md) |
 | Ki-inferenz | 2 | [Link](ki-inferenz/README.md) |
-| Programmierung | 9 | [Link](programmierung/README.md) |
-| Schnittstellen | 9 | [Link](schnittstellen/README.md) |
+| Programmierung | 8 | [Link](programmierung/README.md) |
+| Schnittstellen | 10 | [Link](schnittstellen/README.md) |
 | Testing | 6 | [Link](testing/README.md) |

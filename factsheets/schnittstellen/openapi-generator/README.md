@@ -1,6 +1,6 @@
 # Factsheet: Openapi generator
 
-## Gruppe: Programmierung
+## Gruppe: Schnittstellen
 
 ## Zweck: Openapi-generator ist ein Werkzeug für die automatische Codegenerierung
 
