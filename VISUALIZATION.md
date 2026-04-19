@@ -29,6 +29,12 @@ Diese Dokumentation ordnet gewünschte Visualisierungsergebnisse den entsprechen
 | FPGA-Programmierung | [openFPGALoader](factsheets/eda/openfpgaloader/README.md) | EDA |
 | RTL-Synthese (Netzlisten) | [Yosys](factsheets/eda/yosys/README.md) | EDA |
 | Visuelle Programmierung | [Blockly](factsheets/programmierung/blockly/README.md) | Programmierung |
+| Funkempfang | [rtl-sdr](factsheets/funktechnik/rtl-sdr/README.md) | Funktechnik |
+| Signalverarbeitung | [GNU Radio](factsheets/funktechnik/gnuradio/README.md) | Funktechnik |
+| Signalverarbeitung | [Inspectrum](factsheets/funktechnik/inspectrum/README.md) | Funktechnik |
+| Spektrumanalyse | [Gqrx SDR](factsheets/funktechnik/gqrx-sdr/README.md) | Funktechnik |
+| Dashboards | [Node-RED](factsheets/funktechnik/node-red/README.md) | Funktechnik |
+| Protokollanalyse | [Universal Radio Hacker (URH)](factsheets/funktechnik/urh/README.md) | Funktechnik |
 | Semantische Datenabfragen | [Rasqal](factsheets/schnittstellen/rasqal/README.md) | Schnittstellen |
 | Semantische Datenabfragen | [SPARQLWrapper](factsheets/schnittstellen/sparqlwrapper/README.md) | Schnittstellen |
 | Relationales Datenbankmanagement | [MariaDB](factsheets/datenbanken/mariadb/README.md) | Datenbanken |
