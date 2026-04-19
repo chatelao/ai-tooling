@@ -32,7 +32,7 @@ Kein EOL bekannt
 
 ```bash
 sudo apt update
-sudo apt install texlive-science
+sudo apt install texlive-science texlive-latex-extra texlive-fonts-recommended
 ```
 
 ## Beispieldaten

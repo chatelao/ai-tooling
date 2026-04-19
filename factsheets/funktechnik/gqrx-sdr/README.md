@@ -28,6 +28,7 @@ Kein EOL bekannt
 
 ```bash
 sudo apt update
+sudo touch /etc/modules
 sudo apt install -y gqrx-sdr
 ```
 

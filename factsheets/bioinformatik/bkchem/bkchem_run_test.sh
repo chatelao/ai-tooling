@@ -3,4 +3,4 @@ set -e
 export DEBIAN_FRONTEND=noninteractive
 cd "$(dirname "$0")"
 
-bkchem
+PYTHONPATH=../../../scripts xvfb-run -a /usr/bin/python3 /usr/share/bkchem/bkchem/bkchem.py --help
