@@ -11,3 +11,6 @@ venv/
 .DS_Store
 .hypothesis/
 package-lock.json
+factsheets/firmware-analyse/emba/emba/
+factsheets/firmware-analyse/ghidra/ghidra_12.0.4_PUBLIC/
+factsheets/firmware-analyse/ghidra/*.zip

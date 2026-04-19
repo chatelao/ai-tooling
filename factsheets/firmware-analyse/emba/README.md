@@ -38,4 +38,8 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
 ## Validierung
 
-EMBA starten.
+EMBA Hilfe anzeigen:
+
+```bash
+./emba/emba -h
+```
