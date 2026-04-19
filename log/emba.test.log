@@ -1,0 +1,61 @@
+==> [0;32mImported 14 helper files[0m
+
+
+==> [0;32mImported 91 module/s[0m
+
+[1m╔═══════════════════════════════════════════════════════════════╗[0m
+[1m║[0;34m[1m[3m                            E M B A                            [0m[1m║[0m
+[1m║                   EMBEDDED FIRMWARE ANALYZER                  [0m[1m║[0m
+[1m╚═══════════════════════════════════════════════════════════════╝[0m
+
+[0;36mUSAGE[0m
+
+Test firmware
+[0;36m-l [~/path][0m       Log path
+[0;36m-f [~/path][0m       Firmware path
+[0;36m-m [MODULE_NO.][0m   Test only with set modules [e.g. -m p05 -m s10 ... or -m p to run all p modules]
+                                    (multiple usage possible, case insensitive)
+[0;36m-p [PROFILE][0m      EMBA starts with a pre-defined profile (stored in ./scan-profiles)
+[0;36m-P[0m                Overwrite auto MAX_MODS (maximum modules in parallel) configuration
+[0;36m-T[0m                Overwrite auto MAX_MOD_THREADS (maximum threads per module) configuration
+
+Developer options
+[0;36m-D[0m                Developer mode - EMBA runs on the host without container protection (deprecated)
+[0;36m-S[0m                STRICT mode - developer option to improve code quality (not enabled by default)
+[0;36m-y[0m                Overwrite log directory automaticially, even if it is not empty
+
+System check
+[0;36m-d [1/2][0m          Only checks dependencies (1 - on host and in container, 2 - only container)
+[0;36m-F[0m                Checks dependencies but ignore errors
+[0;36m-U[0m                Check and apply available updates and exit
+[0;36m-V[0m                Show EMBA version
+
+Special tests
+[0;36m-k [~/config][0m     Kernel config path
+[0;36m-C [container id][0m Extract and analyze a local docker container via container id
+[0;36m-r[0m                Remove temporary firmware directory after testing
+[0;36m-b[0m                Just print a random banner and exit
+[0;36m-o [~/path][0m       2nd Firmware path to diff against the main firmware file - diff mode only (no other firmware analysis)
+[0;36m-c[0m                Enable extended binary analysis
+[0;36m-E[0m                Enables automated qemu user emulation tests (WARNING this module could harm your host!)
+[0;36m-Q[0m                Enables automated qemu system emulation tests (WARNING this module could harm your host!)
+[0;36m-q[0m                Disables the deep-extractor module
+[0;36m-R[0m                Rescans existing SBOM (-l required) and generates a new VEX JSON
+[0;36m-a [MIPS][0m         Architecture of the linux firmware [MIPS, ARM, x86, x64, PPC] (usually not needed)
+[0;36m-A [MIPS][0m         Force Architecture of the linux firmware [MIPS, ARM, x86, x64, PPC] (disable architecture check - usually not needed)
+[0;36m-e [./path][0m       Exclude paths from testing (multiple usage possible - usually not needed)
+
+Reporter options
+[0;36m-W[0m                Activates web report creation in log path (overwrites -z)
+[0;36m-g[0m                Create grep-able log file in [log_path]/fw_grep.log
+[0;36m-s[0m                Prints only relative paths
+[0;36m-z[0m                Adds ANSI color codes to log
+
+Firmware details
+[0;36m-X [version][0m      Firmware version (versions aka 1.2.3-a:b only)
+[0;36m-Y [vendor][0m       Firmware vendor (alphanumerical values only)
+[0;36m-Z [device][0m       Device (alphanumerical values only)
+[0;36m-N [notes][0m        Testing notes (alphanumerical values only)
+
+Help
+[0;36m-h[0m                Prints this help message

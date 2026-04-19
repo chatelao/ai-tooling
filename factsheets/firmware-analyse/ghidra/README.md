@@ -26,7 +26,11 @@ Kein EOL bekannt
 
 ## Installation (Ubuntu 24.04)
 
-Download von ghidra-re.org und Entpacken.
+```bash
+sudo apt-get update && sudo apt-get install -y openjdk-21-jdk-headless wget unzip
+wget https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_12.0.4_build/ghidra_12.0.4_PUBLIC_20260303.zip
+unzip ghidra_12.0.4_PUBLIC_20260303.zip
+```
 
 ## Beispieldaten
 
@@ -40,4 +44,8 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
 ## Validierung
 
-Ghidra starten.
+Ghidra headless Modus verifizieren:
+
+```bash
+./ghidra_12.0.4_PUBLIC/support/analyzeHeadless . temp -noanalysis -deleteProject
+```

@@ -1,3 +1,7 @@
-hurl 7.1.0 (unknown) libcurl/8.17.0-DEV OpenSSL/3.0.13 zlib/1.3.1
-Features (libcurl):  alt-svc AsynchDNS HSTS IPv6 libz SSL UnixSockets
-Features (built-in): brotli
+error: Assert status code
+  --> examples/test.hurl:2:6
+   |
+   | GET https://google.com
+ 2 | HTTP 200
+   |      ^^^ actual value is <301>
+   |
