@@ -8,6 +8,7 @@
 | App-entwicklung | 3 | [Link](app-entwicklung/README.md) |
 | Bioinformatik | 7 | [Link](bioinformatik/README.md) |
 | Cad-3d | 5 | [Link](cad-3d/README.md) |
+| Datenbanken | 4 | [Link](datenbanken/README.md) |
 | Dokumentation | 5 | [Link](dokumentation/README.md) |
 | Eda | 7 | [Link](eda/README.md) |
 | Firmware-analyse | 9 | [Link](firmware-analyse/README.md) |
