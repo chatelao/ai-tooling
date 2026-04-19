@@ -31,3 +31,7 @@ Diese Dokumentation ordnet gewünschte Visualisierungsergebnisse den entsprechen
 | Visuelle Programmierung | [Blockly](factsheets/programmierung/blockly/README.md) | Programmierung |
 | Semantische Datenabfragen | [Rasqal](factsheets/schnittstellen/rasqal/README.md) | Schnittstellen |
 | Semantische Datenabfragen | [SPARQLWrapper](factsheets/schnittstellen/sparqlwrapper/README.md) | Schnittstellen |
+| Relationales Datenbankmanagement | [MariaDB](factsheets/datenbanken/mariadb/README.md) | Datenbanken |
+| Relationales Datenbankmanagement | [MSSQL Express](factsheets/datenbanken/mssql/README.md) | Datenbanken |
+| Relationales Datenbankmanagement | [Oracle Database Free](factsheets/datenbanken/oracle/README.md) | Datenbanken |
+| Relationales Datenbankmanagement | [PostgreSQL](factsheets/datenbanken/postgresql/README.md) | Datenbanken |
