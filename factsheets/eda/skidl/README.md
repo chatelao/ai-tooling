@@ -41,5 +41,5 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 Python-Skript ausführen:
 
 ```bash
-python3 factsheets/eda/skidl/examples/test.py
+python3 examples/test.py
 ```
