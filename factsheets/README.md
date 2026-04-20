@@ -5,7 +5,7 @@
 | Gruppe | Anzahl Werkzeuge | Link |
 | :--- | :---: | :--- |
 | Animation | 7 | [Link](animation/README.md) |
-| App-entwicklung | 3 | [Link](app-entwicklung/README.md) |
+| App-entwicklung | 4 | [Link](app-entwicklung/README.md) |
 | Bioinformatik | 7 | [Link](bioinformatik/README.md) |
 | Cad-3d | 5 | [Link](cad-3d/README.md) |
 | Datenbanken | 4 | [Link](datenbanken/README.md) |
