@@ -12,6 +12,7 @@ Diese Dokumentation ordnet gewünschte Visualisierungsergebnisse den entsprechen
 | Mobile Apps | [Flutter](factsheets/app-entwicklung/flutter/README.md) | App-Entwicklung |
 | Webanwendungen | [Flutter](factsheets/app-entwicklung/flutter/README.md) | App-Entwicklung |
 | Webanwendungen | [React](factsheets/app-entwicklung/react/README.md) | App-Entwicklung |
+| Webanwendungen | [Spring Boot](factsheets/app-entwicklung/spring-boot/README.md) | App-Entwicklung |
 | Mobile Apps | [React Native](factsheets/app-entwicklung/react-native/README.md) | App-Entwicklung |
 | Chemische Strukturen | [BKChem](factsheets/bioinformatik/bkchem/README.md) | Bioinformatik |
 | Chemische Strukturen | [ChemFig](factsheets/bioinformatik/chemfig/README.md) | Bioinformatik |

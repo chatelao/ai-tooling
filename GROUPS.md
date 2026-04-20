@@ -2,7 +2,7 @@
 
 | Group Hash | Tools |
 | :--- | :--- |
-| bc0e1cad | Blender, FFmpeg, ImageMagick, Krita, Manim, Pencil2D, Synfig Studio, Flutter, React, React Native |
+| bc0e1cad | Blender, FFmpeg, ImageMagick, Krita, Manim, Pencil2D, Synfig Studio, Flutter, React, React Native, Spring Boot |
 | 650e7cab | Biopython, BKChem, ChemFig, Jmol, PyMOL, RDKit, SeqKit, FreeCAD, LDView, MCP-FreeCAD |
 | 7dab3dde | MeshLab, OpenSCAD, Apache FOP, img2pdf, PlantUML, Redocly CLI, WaveDrom, CircuiTikZ, KiBot, cocotb |
 | c41c66db | KiCad 10.0, openFPGALoader, SKiDL, Yosys, Binwalk, cve-bin-tool, EMBA, Ghidra, GNU Binutils, Hexdump |
