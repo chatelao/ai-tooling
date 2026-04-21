@@ -47,3 +47,14 @@ Diese Dokumentation ordnet gewünschte Visualisierungsergebnisse den entsprechen
 | Geodatenverarbeitung | [osmium-tool](factsheets/geodaten/osmium-tool/README.md) | Geodaten |
 | Geodatenverarbeitung | [Osmosis](factsheets/geodaten/osmosis/README.md) | Geodaten |
 | Räumliche Datenhaltung | [PostGIS](factsheets/geodaten/postgis/README.md) | Geodaten |
+| HTML-Rendering | [Jinja2](factsheets/template-engines/jinja2/README.md) | Template-Engines |
+| HTML-Rendering | [Twig](factsheets/template-engines/twig/README.md) | Template-Engines |
+| HTML-Rendering | [Blade](factsheets/template-engines/blade/README.md) | Template-Engines |
+| HTML-Rendering | [Mustache](factsheets/template-engines/mustache/README.md) | Template-Engines |
+| HTML-Rendering | [Handlebars](factsheets/template-engines/handlebars/README.md) | Template-Engines |
+| HTML-Rendering | [EJS (Embedded JS)](factsheets/template-engines/ejs/README.md) | Template-Engines |
+| HTML-Rendering | [Pug](factsheets/template-engines/pug/README.md) | Template-Engines |
+| HTML-Rendering | [Razor](factsheets/template-engines/razor/README.md) | Template-Engines |
+| HTML-Rendering | [Thymeleaf](factsheets/template-engines/thymeleaf/README.md) | Template-Engines |
+| HTML-Rendering | [Liquid](factsheets/template-engines/liquid/README.md) | Template-Engines |
+| HTML-Rendering | [ERB (Embedded Ruby)](factsheets/template-engines/erb/README.md) | Template-Engines |
