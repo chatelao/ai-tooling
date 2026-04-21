@@ -34,5 +34,5 @@ sudo apt install -y josm
 ## Validierung
 
 ```bash
-josm --help
+xvfb-run -a josm --help
 ```

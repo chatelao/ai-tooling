@@ -34,5 +34,5 @@ sudo apt install -y osmosis
 ## Validierung
 
 ```bash
-osmosis --version
+osmosis --help
 ```
