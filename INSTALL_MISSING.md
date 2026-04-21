@@ -19,16 +19,13 @@ Diese Liste enthält alle Werkzeuge aus `TOOLS.md`, die entweder keine Verifizie
 | Google Cloud SDK | `factsheets/infrastruktur/google-cloud-sdk` | Verifizierungsdatei fehlt (.hash.sha256) |
 | Gqrx SDR | `factsheets/funktechnik/gqrx-sdr` | In FIXME.md gelistet |
 | Hexdump | `factsheets/firmware-analyse/hexdump` | Verifizierungsdatei fehlt (.hash.sha256) |
-| JOSM | `factsheets/geodaten/josm` | Verifizierungsdatei fehlt (.hash.sha256) |
 | KiCad 10.0 | `factsheets/eda/kicad-10-0` | Verifizierungsdatei fehlt (.hash.sha256) |
 | LDView | `factsheets/cad-3d/ldview` | In FIXME.md gelistet; Test-Fehler: libEGL warning: DRI3 error: Could not get DRI3 device |
 | MCP-FreeCAD | `factsheets/cad-3d/mcp-freecad` | In FIXME.md gelistet |
 | MSSQL Express | `factsheets/datenbanken/mssql` | Verifizierungsdatei fehlt (.hash.sha256) |
 | MariaDB | `factsheets/datenbanken/mariadb` | Verifizierungsdatei fehlt (.hash.sha256) |
 | Oracle Database Free | `factsheets/datenbanken/oracle` | Verifizierungsdatei fehlt (.hash.sha256) |
-| Osmosis | `factsheets/geodaten/osmosis` | Verifizierungsdatei fehlt (.hash.sha256) |
 | PANDA | `factsheets/firmware-analyse/panda` | Verifizierungsdatei fehlt (.hash.sha256) |
-| PostGIS | `factsheets/geodaten/postgis` | Verifizierungsdatei fehlt (.hash.sha256) |
 | PostgreSQL | `factsheets/datenbanken/postgresql` | Verifizierungsdatei fehlt (.hash.sha256) |
 | PyMOL | `factsheets/bioinformatik/pymol` | In FIXME.md gelistet; Test-Fehler: Python Traceback detected |
 | Radare2 | `factsheets/firmware-analyse/radare2` | Verifizierungsdatei fehlt (.hash.sha256) |
@@ -40,5 +37,3 @@ Diese Liste enthält alle Werkzeuge aus `TOOLS.md`, die entweder keine Verifizie
 | Yosys | `factsheets/eda/yosys` | Verifizierungsdatei fehlt (.hash.sha256) |
 | cve-bin-tool | `factsheets/firmware-analyse/cve-bin-tool` | Verifizierungsdatei fehlt (.hash.sha256) |
 | openFPGALoader | `factsheets/eda/openfpgaloader` | Verifizierungsdatei fehlt (.hash.sha256) |
-| osm2pgsql | `factsheets/geodaten/osm2pgsql` | Verifizierungsdatei fehlt (.hash.sha256) |
-| osmium-tool | `factsheets/geodaten/osmium-tool` | Verifizierungsdatei fehlt (.hash.sha256) |
