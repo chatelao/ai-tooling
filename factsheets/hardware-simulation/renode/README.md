@@ -2,7 +2,7 @@
 
 ## Gruppe: Hardware/simulation
 
-## Zweck: Renode ist ein Werkzeug für
+## Zweck: Renode ist ein Werkzeug für die Simulation von eingebetteten Systemen.
 
 ## Reifegrad
 
@@ -22,7 +22,12 @@ Kein EOL bekannt
 
 ## Installation (Ubuntu 24.04)
 
-Download von renode.io.
+```bash
+sudo apt-get update
+wget https://github.com/renode/renode/releases/download/v1.16.1/renode_1.16.1_amd64.deb
+sudo apt-get install -y ./renode_1.16.1_amd64.deb
+rm renode_1.16.1_amd64.deb
+```
 
 ## Beispieldaten
 
@@ -36,8 +41,7 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
 ## Validierung
 
-Renode-Skript ausführen:
-
 ```bash
 renode factsheets/hardware-simulation/renode/examples/test.resc
+renode --version
 ```
