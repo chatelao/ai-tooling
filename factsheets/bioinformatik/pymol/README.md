@@ -6,11 +6,11 @@
 
 ## Reifegrad
 
-Problematisch (Repo-Version inkompatibel mit Python 3.12)
+Stabil (gepatched für Python 3.12 Kompatibilität)
 
 ## Technische Schulden
 
-Mittel
+Gering
 
 ## Erwartetes Lebensende
 
@@ -46,5 +46,5 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 Starten Sie PyMOL:
 
 ```bash
-PYTHONPATH=../../../scripts xvfb-run -a /usr/bin/python3 -m pymol -c factsheets/bioinformatik/pymol/examples/protein.pdb
+xvfb-run -a /usr/bin/python3 -m pymol -c factsheets/bioinformatik/pymol/examples/protein.pdb
 ```
