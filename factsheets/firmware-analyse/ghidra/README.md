@@ -47,5 +47,5 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 Ghidra headless Modus verifizieren:
 
 ```bash
-./ghidra_12.0.4_PUBLIC/support/analyzeHeadless . temp -noanalysis -deleteProject
+./ghidra_12.0.4_PUBLIC/support/analyzeHeadless . temp -noanalysis -deleteProject -preScript HelloWorldScript.java
 ```
