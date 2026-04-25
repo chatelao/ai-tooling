@@ -7,4 +7,4 @@
 | Flutter | Flutter ist ein UI-Toolkit von Google für die Entwicklung nativ kompilierter | Stabil | Gering | Kein EOL bekannt | [Link](flutter/README.md) |
 | React | React ist eine JavaScript-Bibliothek zum Erstellen von Benutzeroberflächen, | Stabil | Gering | Kein EOL bekannt | [Link](react/README.md) |
 | React Native | React Native ist ein Framework zum Erstellen nativer Apps für Android und iOS | Stabil | Gering | Kein EOL bekannt | [Link](react-native/README.md) |
-| Spring Boot | Spring Boot ist ein Java-basiertes Framework zur Erstellung von produktionsreifen Anwendungen. | Stabil | Gering | Kein EOL bekannt | [Link](spring-boot/README.md) |
+| Spring Boot | Spring Boot ist ein Java-basiertes Framework zur Erstellung von produktionsreifen, eigenständigen... | Stabil | Gering | Kein EOL bekannt | [Link](spring-boot/README.md) |
