@@ -44,4 +44,8 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
 ```bash
 psql --version
+# Starten des Services (falls erforderlich)
+sudo service postgresql start || sudo /etc/init.d/postgresql start
+# Test-Abfrage als postgres-Benutzer
+sudo -u postgres psql -c "SELECT 1;"
 ```
