@@ -11,7 +11,6 @@ Diese Liste enthält alle Werkzeuge aus `TOOLS.md`, die entweder keine Verifizie
 | BKChem | `factsheets/bioinformatik/bkchem` | Log-Fehler: ModuleNotFoundError, Python Traceback |
 | ChemFig | `factsheets/bioinformatik/chemfig` | Log-Fehler: LaTeX Error |
 | FreeCAD | `factsheets/cad-3d/freecad` | In FIXME.md gelistet |
-| Ghidra | `factsheets/firmware-analyse/ghidra` | Log-Fehler: Fehlgeschlagen |
 | Google Cloud Run MCP | `factsheets/infrastruktur/google-cloud-run-mcp` | Verifizierungsdatei fehlt (.hash.sha256) |
 | Google Cloud SDK | `factsheets/infrastruktur/google-cloud-sdk` | Verifizierungsdatei fehlt (.hash.sha256) |
 | MSSQL Express | `factsheets/datenbanken/mssql` | Verifizierungsdatei fehlt (.hash.sha256) |
