@@ -7,7 +7,7 @@ Diese Roadmap dokumentiert den aktuellen Stand der Werkzeug-Factsheets und defin
 Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite identifiziert:
 
 - **Gesamtanzahl Factsheets:** 114 (geschätzt)
-- **Factsheets mit Verbesserungsbedarf:** 95
+- **Factsheets mit Verbesserungsbedarf:** 90
 - **Hauptprobleme:**
     - Platzhalter-Beschreibungen (Zweck-Sektion unvollständig)
     - Fehlende oder unzureichende Beispieldaten (weniger als 5 Beispiele)
@@ -33,13 +33,8 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 
 | Gruppe | Werkzeug | Notwendige Verbesserungen |
 | :--- | :--- | :--- |
-| Animation | blender | Placeholder purpose |
-| Animation | ffmpeg | Placeholder purpose, Few examples (4) |
-| Animation | imagemagick | Placeholder purpose |
-| Animation | krita | Placeholder purpose, Few examples (4) |
-| Animation | manim | Placeholder purpose |
-| Animation | pencil2d | Placeholder purpose |
-| Animation | synfig-studio | Placeholder purpose |
+| Animation | ffmpeg | Few examples (4) |
+| Animation | krita | Few examples (4) |
 | App-entwicklung | flutter | Few examples (4) |
 | App-entwicklung | react | No examples, Minimal/Missing validation |
 | App-entwicklung | react-native | Few examples (4) |

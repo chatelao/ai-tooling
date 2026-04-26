@@ -2,7 +2,7 @@
 
 ## Gruppe: Animation
 
-## Zweck: Imagemagick ist ein Werkzeug für
+## Zweck: ImageMagick ist eine vielseitige Software-Suite zum Erstellen, Bearbeiten, Konvertieren und Anzeigen von Bitmap-Bildern.
 
 ## Reifegrad
 

@@ -2,7 +2,7 @@
 
 ## Gruppe: Animation
 
-## Zweck: Manim ist ein Werkzeug für
+## Zweck: Manim ist eine von Grant Sanderson (3Blue1Brown) entwickelte Python-Bibliothek zur Erstellung präziser mathematischer Animationen.
 
 ## Reifegrad
 

@@ -2,7 +2,7 @@
 
 ## Gruppe: Animation
 
-## Zweck: Ffmpeg ist ein Werkzeug für
+## Zweck: FFmpeg ist ein leistungsstarkes Framework zum Aufzeichnen, Konvertieren und Streamen von Audio- und Videodateien in nahezu jedem Format.
 
 ## Reifegrad
 
