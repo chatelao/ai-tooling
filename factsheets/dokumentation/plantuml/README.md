@@ -2,7 +2,7 @@
 
 ## Gruppe: Dokumentation
 
-## Zweck: Plantuml ist ein Werkzeug für
+## Zweck: PlantUML ist ein Werkzeug, das die Erstellung von UML-Diagrammen aus einer einfachen und intuitiven Textbeschreibung ermöglicht.
 
 ## Reifegrad
 

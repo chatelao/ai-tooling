@@ -2,7 +2,7 @@
 
 ## Gruppe: Dokumentation
 
-## Zweck: Apache-fop ist ein Werkzeug für
+## Zweck: Apache FOP (Formatting Objects Processor) ist ein Java-basierter Print-Formatter, der XSL-Formatting-Objects (XSL-FO) in verschiedene Ausgabeformate wie PDF, PostScript oder PCL konvertiert.
 
 ## Reifegrad
 
