@@ -7,7 +7,7 @@ Diese Roadmap dokumentiert den aktuellen Stand der Werkzeug-Factsheets und defin
 Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite identifiziert:
 
 - **Gesamtanzahl Factsheets:** 114 (geschätzt)
-- **Factsheets mit Verbesserungsbedarf:** 85
+- **Factsheets mit Verbesserungsbedarf:** 84
 - **Hauptprobleme:**
     - Platzhalter-Beschreibungen (Zweck-Sektion unvollständig)
     - Fehlende oder unzureichende Beispieldaten (weniger als 5 Beispiele)
@@ -60,7 +60,6 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Eda | kicad-10-0 | Placeholder purpose |
 | Eda | openfpgaloader | Few examples (2) |
 | Eda | skidl | Placeholder purpose |
-| Firmware-analyse | binwalk | Placeholder purpose |
 | Firmware-analyse | cve-bin-tool | Placeholder purpose |
 | Firmware-analyse | emba | Placeholder purpose, Few examples (4) |
 | Firmware-analyse | ghidra | Placeholder purpose |
