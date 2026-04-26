@@ -57,6 +57,11 @@ def create_script(filepath, content, script_type, tool_path):
 def main():
     factsheets_dir = 'factsheets'
     for root, dirs, files in os.walk(factsheets_dir):
+        # Only process tool-level directories (depth 2: factsheets/category/tool)
+        rel_path = os.path.relpath(root, factsheets_dir)
+        if rel_path == '.' or os.sep not in rel_path:
+            continue
+
         if 'README.md' in files:
             tool_name = os.path.basename(root)
             readme_path = os.path.join(root, 'README.md')
@@ -67,13 +72,18 @@ def main():
             install_content = extract_section_content(content, "Installation")
             test_content = extract_section_content(content, "Validierung")
 
-            install_script_path = os.path.join(root, f"{tool_name}_install.sh")
-            test_script_path = os.path.join(root, f"{tool_name}_run_test.sh")
+            install_code = extract_code_blocks(install_content)
+            test_code = extract_code_blocks(test_content)
 
-            create_script(install_script_path, install_content, "installation", root)
-            create_script(test_script_path, test_content, "validation", root)
+            if install_code:
+                install_script_path = os.path.join(root, f"{tool_name}_install.sh")
+                create_script(install_script_path, install_content, "installation", root)
+                print(f"Generated installation script for {tool_name}")
 
-            print(f"Generated scripts for {tool_name}")
+            if test_code:
+                test_script_path = os.path.join(root, f"{tool_name}_run_test.sh")
+                create_script(test_script_path, test_content, "validation", root)
+                print(f"Generated test script for {tool_name}")
 
 if __name__ == "__main__":
     main()

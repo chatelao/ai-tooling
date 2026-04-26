@@ -4,7 +4,7 @@
 
 | Werkzeug | Zweck | Reifegrad | Technische Schulden | Erwartetes Lebensende | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Binwalk | Binwalk ist ein Werkzeug für | Stabil | Gering | Kein EOL bekannt | [Link](binwalk/README.md) |
+| Binwalk | Binwalk ist ein Werkzeug zur Analyse, Reverse Engineering und Extraktion von Firmware-Images. | Stabil | Gering | Kein EOL bekannt | [Link](binwalk/README.md) |
 | Cve bin tool | Cve-bin-tool ist ein Werkzeug für | Stabil | Gering | Kein EOL bekannt | [Link](cve-bin-tool/README.md) |
 | Emba | Emba ist ein Werkzeug für | Stabil | Gering | Kein EOL bekannt | [Link](emba/README.md) |
 | Ghidra | Ghidra ist ein Werkzeug für | Stabil | Gering | Kein EOL bekannt | [Link](ghidra/README.md) |

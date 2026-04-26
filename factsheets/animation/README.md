@@ -4,10 +4,10 @@
 
 | Werkzeug | Zweck | Reifegrad | Technische Schulden | Erwartetes Lebensende | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Blender | Blender ist ein Werkzeug für | Stabil | Gering | Kein EOL bekannt | [Link](blender/README.md) |
-| Ffmpeg | Ffmpeg ist ein Werkzeug für | Stabil | Gering | Kein EOL bekannt | [Link](ffmpeg/README.md) |
-| Imagemagick | Imagemagick ist ein Werkzeug für | Stabil | Gering | Kein EOL bekannt | [Link](imagemagick/README.md) |
-| Krita | Krita ist ein Werkzeug für | Stabil | Gering | Kein EOL bekannt | [Link](krita/README.md) |
-| Manim | Manim ist ein Werkzeug für | Stabil | Gering | Kein EOL bekannt | [Link](manim/README.md) |
-| Pencil2d | Pencil2d ist ein Werkzeug für | Stabil | Gering | Kein EOL bekannt | [Link](pencil2d/README.md) |
-| Synfig-studio | Synfig-studio ist ein Werkzeug für | Stabil | Gering | Kein EOL bekannt | [Link](synfig-studio/README.md) |
+| Blender | Blender ist eine freie, quelloffene 3D-Grafiksuite, die für die Modellierung, Animation, Simulati... | Stabil | Gering | Kein EOL bekannt | [Link](blender/README.md) |
+| Ffmpeg | FFmpeg ist ein leistungsstarkes Framework zum Aufzeichnen, Konvertieren und Streamen von Audio- u... | Stabil | Gering | Kein EOL bekannt | [Link](ffmpeg/README.md) |
+| Imagemagick | ImageMagick ist eine vielseitige Software-Suite zum Erstellen, Bearbeiten, Konvertieren und Anzei... | Stabil | Gering | Kein EOL bekannt | [Link](imagemagick/README.md) |
+| Krita | Krita ist ein professionelles, freies Malprogramm für digitale Künstler, spezialisiert auf Konzep... | Stabil | Gering | Kein EOL bekannt | [Link](krita/README.md) |
+| Manim | Manim ist eine von Grant Sanderson (3Blue1Brown) entwickelte Python-Bibliothek zur Erstellung prä... | Stabil | Gering | Kein EOL bekannt | [Link](manim/README.md) |
+| Pencil2d | Pencil2D ist ein einfaches und intuitives Open-Source-Werkzeug für die Erstellung von traditionel... | Stabil | Gering | Kein EOL bekannt | [Link](pencil2d/README.md) |
+| Synfig-studio | Synfig Studio ist eine freie 2D-Vektor-Animationssoftware, die für die Erstellung von Animationen... | Stabil | Gering | Kein EOL bekannt | [Link](synfig-studio/README.md) |

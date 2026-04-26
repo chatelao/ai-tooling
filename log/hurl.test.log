@@ -1,7 +1,0 @@
-error: Assert status code
-  --> examples/test.hurl:2:6
-   |
-   | GET https://google.com
- 2 | HTTP 200
-   |      ^^^ actual value is <301>
-   |
