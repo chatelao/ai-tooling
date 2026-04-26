@@ -2,7 +2,7 @@
 
 ## Gruppe: Dokumentation
 
-## Zweck: Wavedrom ist ein Werkzeug für
+## Zweck: WaveDrom ist eine JavaScript-Engine zur Darstellung digitaler Zeitverlaufsdiagramme (Waveforms) aus einer JSON-basierten Textbeschreibung.
 
 ## Reifegrad
 

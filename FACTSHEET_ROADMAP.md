@@ -7,7 +7,7 @@ Diese Roadmap dokumentiert den aktuellen Stand der Werkzeug-Factsheets und defin
 Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite identifiziert:
 
 - **Gesamtanzahl Factsheets:** 114 (geschätzt)
-- **Factsheets mit Verbesserungsbedarf:** 81
+- **Factsheets mit Verbesserungsbedarf:** 77
 - **Hauptprobleme:**
     - Platzhalter-Beschreibungen (Zweck-Sektion unvollständig)
     - Fehlende oder unzureichende Beispieldaten (weniger als 5 Beispiele)
@@ -47,11 +47,7 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Datenbanken | mssql | Few examples (1), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Datenbanken | oracle | Few examples (1), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Datenbanken | postgresql | Few examples (2), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
-| Dokumentation | apache-fop | Placeholder purpose |
-| Dokumentation | img2pdf | Placeholder purpose |
-| Dokumentation | plantuml | Placeholder purpose |
 | Dokumentation | redocly-cli | Few examples (2) |
-| Dokumentation | wavedrom | Placeholder purpose |
 | Eda | circuitikz | Placeholder purpose |
 | Eda | kibot | Placeholder purpose |
 | Eda | kicad-10-0 | Placeholder purpose |

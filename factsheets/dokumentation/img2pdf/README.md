@@ -2,7 +2,7 @@
 
 ## Gruppe: Dokumentation
 
-## Zweck: Img2pdf ist ein Werkzeug für
+## Zweck: Img2pdf ist ein Werkzeug, das Bilddateien verlustfrei und ohne Neukodierung der Pixeldaten in PDF-Dokumente konvertiert.
 
 ## Reifegrad
 
