@@ -2,7 +2,7 @@
 
 ## Gruppe: Bioinformatik
 
-## Zweck: Pymol ist ein Werkzeug für
+## Zweck: PyMOL ist ein leistungsstarkes molekulares Grafiksystem zur Visualisierung und Erstellung hochwertiger 3D-Bilder von kleinen Molekülen und biologischen Makromolekülen wie Proteinen.
 
 ## Reifegrad
 

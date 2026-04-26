@@ -2,7 +2,7 @@
 
 ## Gruppe: Bioinformatik
 
-## Zweck: Seqkit ist ein Werkzeug für
+## Zweck: SeqKit ist ein schnelles und vielseitiges Kommandozeilenwerkzeug zur Manipulation und Analyse von Sequenzdaten in den Formaten FASTA und FASTQ.
 
 ## Reifegrad
 

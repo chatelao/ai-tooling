@@ -2,7 +2,7 @@
 
 ## Gruppe: Bioinformatik
 
-## Zweck: Rdkit ist ein Werkzeug für
+## Zweck: RDKit ist eine Open-Source-Sammlung von Software für die Chemoinformatik und das maschinelle Lernen, die Funktionen für die Manipulation chemischer Strukturen und die Deskriptorberechnung bietet.
 
 ## Reifegrad
 

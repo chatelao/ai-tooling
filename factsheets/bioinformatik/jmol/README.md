@@ -2,7 +2,7 @@
 
 ## Gruppe: Bioinformatik
 
-## Zweck: Jmol ist ein Werkzeug für
+## Zweck: Jmol ist ein Open-Source-Java-Viewer für chemische Strukturen in 3D mit Funktionen für Moleküle, Kristalle, Materialien und Biomoleküle.
 
 ## Reifegrad
 

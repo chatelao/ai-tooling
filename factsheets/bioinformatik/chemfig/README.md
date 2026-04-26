@@ -2,7 +2,7 @@
 
 ## Gruppe: Bioinformatik
 
-## Zweck: ChemFig ist ein Werkzeug für
+## Zweck: ChemFig ist ein LaTeX-Paket, das die Erstellung chemischer Strukturformeln mit einer intuitiven Syntax direkt innerhalb von Dokumenten ermöglicht.
 
 - das Zeichnen chemischer 2D-Strukturen direkt in LaTeX.
 - die Erstellung von komplexen Molekülen, Mechanismen und Schemata.
