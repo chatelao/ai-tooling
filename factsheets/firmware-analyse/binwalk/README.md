@@ -2,7 +2,7 @@
 
 ## Gruppe: Firmware/analyse
 
-## Zweck: Binwalk ist ein Werkzeug für
+## Zweck: Binwalk ist ein Werkzeug zur Analyse, Reverse Engineering und Extraktion von Firmware-Images.
 
 ## Reifegrad
 
@@ -34,11 +34,11 @@ sudo apt install binwalk
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
-- `firmware.bin`
-- `test.bin`
-- `image.bin`
-- `data.bin`
-- `old.bin`
+- `firmware.bin`: Eine Beispieldatei mit GZIP-Signatur.
+- `test.bin`: Ein ZIP-Archiv mit einer Textdatei.
+- `image.bin`: Eine Beispieldatei mit PNG-Signatur.
+- `data.bin`: Eine Beispieldatei mit ELF-Signatur (64-bit LSB executable).
+- `old.bin`: Eine Beispieldatei mit JPEG-Signatur.
 
 ## Validierung
 
