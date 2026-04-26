@@ -2,7 +2,7 @@
 
 ## Gruppe: Bioinformatik
 
-## Zweck: BKChem ist ein Werkzeug für
+## Zweck: BKChem ist ein freier Editor für chemische Strukturen, der in Python geschrieben ist und den Export in verschiedene Formate wie SVG, EPS oder PNG ermöglicht.
 
 - das Zeichnen chemischer Strukturen in 2D.
 - den Export von Strukturen in verschiedene Formate (SVG, PDF, PNG, CDML).

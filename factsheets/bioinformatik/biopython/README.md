@@ -2,7 +2,7 @@
 
 ## Gruppe: Bioinformatik
 
-## Zweck: Biopython ist ein Werkzeug für
+## Zweck: Biopython ist eine Sammlung von frei verfügbaren Python-Werkzeugen für die biologische Datenverarbeitung (Bioinformatik), die Funktionen für Sequenzanalyse, Strukturdaten und Zugriff auf Online-Datenbanken bietet.
 
 ## Reifegrad
 
