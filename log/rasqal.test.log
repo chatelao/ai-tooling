@@ -1,4 +1,0 @@
-roqet: Running query from file examples/example.rq
-roqet: Query has a variable bindings result
-roqet: Query returned 1 results
-row: [s=uri<http://example.org/subject>, p=uri<http://example.org/predicate>, o=uri<http://example.org/object>]

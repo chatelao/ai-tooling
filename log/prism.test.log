@@ -1,5 +1,0 @@
-[8:59:04 PM] › [CLI] …  awaiting  Starting Prism…
-(node:42069) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
-(Use `node --trace-deprecation ...` to show where the warning was created)
-[8:59:04 PM] › [CLI] ℹ  info      GET        http://127.0.0.1:4010/hello
-[8:59:04 PM] › [CLI] ▶  start     Prism is listening on http://127.0.0.1:4010
