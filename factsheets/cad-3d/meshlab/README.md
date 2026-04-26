@@ -2,7 +2,7 @@
 
 ## Gruppe: Cad/3d
 
-## Zweck: Meshlab ist ein Werkzeug für
+## Zweck: MeshLab ist ein Open-Source-System zur Verarbeitung und Bearbeitung großer, unstrukturierter 3D-Netze.
 
 ## Reifegrad
 

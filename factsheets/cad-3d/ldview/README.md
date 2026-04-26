@@ -2,7 +2,7 @@
 
 ## Gruppe: Cad/3d
 
-## Zweck: Ldview ist ein Werkzeug für
+## Zweck: LDView ist ein Echtzeit-3D-Viewer für LDraw-LEGO-Modelle mit Hardware-Beschleunigung.
 
 ## Reifegrad
 

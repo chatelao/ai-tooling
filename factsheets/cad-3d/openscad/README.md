@@ -2,7 +2,7 @@
 
 ## Gruppe: Cad/3d
 
-## Zweck: Openscad ist ein Werkzeug für
+## Zweck: OpenSCAD ist eine skriptbasierte 3D-CAD-Software zur Erstellung von festen Konstruktionsobjekten.
 
 ## Reifegrad
 
