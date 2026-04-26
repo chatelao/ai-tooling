@@ -2,7 +2,7 @@
 
 ## Gruppe: Animation
 
-## Zweck: Blender ist ein Werkzeug für
+## Zweck: Blender ist eine freie, quelloffene 3D-Grafiksuite, die für die Modellierung, Animation, Simulation, Rendering und Videobearbeitung verwendet wird.
 
 ## Reifegrad
 

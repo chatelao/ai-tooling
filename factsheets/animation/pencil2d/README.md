@@ -2,7 +2,7 @@
 
 ## Gruppe: Animation
 
-## Zweck: Pencil2d ist ein Werkzeug für
+## Zweck: Pencil2D ist ein einfaches und intuitives Open-Source-Werkzeug für die Erstellung von traditionellen 2D-Handzeichnungen und Animationen.
 
 ## Reifegrad
 

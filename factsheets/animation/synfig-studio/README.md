@@ -2,7 +2,7 @@
 
 ## Gruppe: Animation
 
-## Zweck: Synfig-studio ist ein Werkzeug für
+## Zweck: Synfig Studio ist eine freie 2D-Vektor-Animationssoftware, die für die Erstellung von Animationen in Filmqualität mit weniger Ressourcen konzipiert ist.
 
 ## Reifegrad
 

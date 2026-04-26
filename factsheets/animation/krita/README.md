@@ -2,7 +2,7 @@
 
 ## Gruppe: Animation
 
-## Zweck: Krita ist ein Werkzeug für
+## Zweck: Krita ist ein professionelles, freies Malprogramm für digitale Künstler, spezialisiert auf Konzeptkunst, Illustration sowie Textur- und Matte-Painting.
 
 ## Reifegrad
 
