@@ -2,7 +2,7 @@
 
 ## Gruppe: Cad/3d
 
-## Zweck: Mcp-freecad ist ein Werkzeug für
+## Zweck: MCP-FreeCAD ist ein Model Context Protocol Server zur Fernsteuerung und Automatisierung von FreeCAD.
 
 ## Reifegrad
 

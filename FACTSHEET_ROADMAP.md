@@ -7,7 +7,7 @@ Diese Roadmap dokumentiert den aktuellen Stand der Werkzeug-Factsheets und defin
 Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite identifiziert:
 
 - **Gesamtanzahl Factsheets:** 114 (geschätzt)
-- **Factsheets mit Verbesserungsbedarf:** 84
+- **Factsheets mit Verbesserungsbedarf:** 81
 - **Hauptprobleme:**
     - Platzhalter-Beschreibungen (Zweck-Sektion unvollständig)
     - Fehlende oder unzureichende Beispieldaten (weniger als 5 Beispiele)
@@ -41,11 +41,8 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | App-entwicklung | spring-boot | No examples |
 | Bioinformatik | bkchem | Few examples (2), Installation issue: Log-Fehler: ModuleNotFoundError, Python Traceback |
 | Bioinformatik | chemfig | Few examples (1), Installation issue: Log-Fehler: LaTeX Error |
-| Cad-3d | freecad | Placeholder purpose, Installation issue: In FIXME.md gelistet, Listed in FIXME.md |
-| Cad-3d | ldview | Placeholder purpose |
-| Cad-3d | mcp-freecad | Placeholder purpose, Few examples (4) |
-| Cad-3d | meshlab | Placeholder purpose |
-| Cad-3d | openscad | Placeholder purpose |
+| Cad-3d | freecad | Installation issue: In FIXME.md gelistet, Listed in FIXME.md |
+| Cad-3d | mcp-freecad | Few examples (4) |
 | Datenbanken | mariadb | Few examples (2), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Datenbanken | mssql | Few examples (1), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Datenbanken | oracle | Few examples (1), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |

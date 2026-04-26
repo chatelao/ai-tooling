@@ -2,7 +2,7 @@
 
 ## Gruppe: Cad/3d
 
-## Zweck: Freecad ist ein Werkzeug für
+## Zweck: FreeCAD ist ein quelloffener, parametrischer 3D-CAD-Modellierer zur Konstruktion realer Objekte.
 
 ## Reifegrad
 
