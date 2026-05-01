@@ -7,7 +7,7 @@ Diese Roadmap dokumentiert den aktuellen Stand der Werkzeug-Factsheets und defin
 Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite identifiziert:
 
 - **Gesamtanzahl Factsheets:** 114 (geschätzt)
-- **Factsheets mit Verbesserungsbedarf:** 68
+- **Factsheets mit Verbesserungsbedarf:** 63
 - **Hauptprobleme:**
     - Platzhalter-Beschreibungen (Zweck-Sektion unvollständig)
     - Fehlende oder unzureichende Beispieldaten (weniger als 5 Beispiele)
@@ -36,7 +36,6 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Animation | ffmpeg | Few examples (4) |
 | Animation | krita | Few examples (4) |
 | App-entwicklung | flutter | Few examples (4) |
-| App-entwicklung | react | No examples, Minimal/Missing validation |
 | App-entwicklung | react-native | Few examples (4) |
 | App-entwicklung | spring-boot | No examples |
 | Bioinformatik | bkchem | Few examples (2), Installation issue: Log-Fehler: ModuleNotFoundError, Python Traceback |
@@ -68,11 +67,8 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Infrastruktur | aws-mcp-server | Few examples (4), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Infrastruktur | azure-cli | No examples, Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Infrastruktur | azure-mcp-server | Few examples (4), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
-| Infrastruktur | docker | No examples, Minimal/Missing validation |
-| Infrastruktur | docker-compose | No examples, Minimal/Missing validation |
 | Infrastruktur | google-cloud-run-mcp | Few examples (4), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Infrastruktur | google-cloud-sdk | No examples, Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
-| Infrastruktur | kubernetes | No examples, Minimal/Missing validation |
 | Infrastruktur | vast-ai-sdk | Few examples (4) |
 | Infrastruktur | xvfb | Few examples (3) |
 | Ki-inferenz | vllm | Few examples (4) |
@@ -91,7 +87,6 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Template-engines | ejs | No examples |
 | Template-engines | erb | No examples |
 | Template-engines | handlebars | No examples |
-| Template-engines | jinja2 | No examples |
 | Template-engines | liquid | No examples |
 | Template-engines | mustache | No examples |
 | Template-engines | pug | No examples |

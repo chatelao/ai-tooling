@@ -1,0 +1,12 @@
+<div class="user-profile">
+    <h2>{{ user.username | upper }}</h2>
+    <p>Email: {{ user.email }}</p>
+    {% if user.bio %}
+    <div class="bio">{{ user.bio }}</div>
+    {% endif %}
+    <ul>
+    {% for interest in user.interests %}
+        <li>{{ interest }}</li>
+    {% endfor %}
+    </ul>
+</div>

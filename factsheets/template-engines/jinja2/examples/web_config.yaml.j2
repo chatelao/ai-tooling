@@ -1,0 +1,8 @@
+server:
+  port: {{ port | default(8080) }}
+  debug: {{ debug | lower }}
+database:
+  url: {{ db_url }}
+  pool_size: {{ pool_size | default(10) }}
+logging:
+  level: {{ log_level | upper }}

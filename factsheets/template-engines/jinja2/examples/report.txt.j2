@@ -1,0 +1,11 @@
+Daily Report: {{ date }}
+==========================
+
+Summary of activities:
+{% for item in activities %}
+- {{ item.time }}: {{ item.description }}
+{% else %}
+No activities recorded today.
+{% endfor %}
+
+Total hours: {{ total_hours | default(0) }}

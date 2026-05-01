@@ -34,14 +34,22 @@ def analyze():
 
     roadmap_data = []
 
-    for root, dirs, files in os.walk(factsheets_root):
-        if 'README.md' in files and root.count(os.sep) >= 2:
-            rel_path = os.path.relpath(root, factsheets_root)
-            parts = rel_path.split(os.sep)
-            if len(parts) < 2: continue
-            group, tool_name = parts[0], parts[1]
+    for category in os.listdir(factsheets_root):
+        cat_path = os.path.join(factsheets_root, category)
+        if not os.path.isdir(cat_path):
+            continue
 
-            readme_path = os.path.join(root, 'README.md')
+        for tool in os.listdir(cat_path):
+            tool_path = os.path.join(cat_path, tool)
+            if not os.path.isdir(tool_path):
+                continue
+
+            readme_path = os.path.join(tool_path, 'README.md')
+            if not os.path.exists(readme_path):
+                continue
+
+            group, tool_name = category, tool
+
             with open(readme_path, 'r') as f:
                 content = f.read()
 
@@ -57,7 +65,7 @@ def analyze():
                         break
 
             # Check Examples
-            examples_dir = os.path.join(root, 'examples')
+            examples_dir = os.path.join(tool_path, 'examples')
             example_count = 0
             if os.path.exists(examples_dir):
                 example_count = len([f for f in os.listdir(examples_dir) if os.path.isfile(os.path.join(examples_dir, f))])
@@ -72,7 +80,7 @@ def analyze():
                 issues.append('Minimal/Missing validation')
 
             # Check INSTALL_MISSING
-            rel_root = os.path.relpath(root, '.')
+            rel_root = os.path.relpath(tool_path, '.')
             if rel_root in missing_info:
                 issues.append(f'Installation issue: {missing_info[rel_root]}')
 
