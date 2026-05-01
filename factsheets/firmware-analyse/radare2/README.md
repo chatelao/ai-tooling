@@ -2,7 +2,7 @@
 
 ## Gruppe: Firmware/analyse
 
-## Zweck: Radare2 ist ein Werkzeug für
+## Zweck: Radare2 ist ein quelloffenes Framework für Reverse Engineering und die Analyse von Binärdateien.
 
 ## Reifegrad
 

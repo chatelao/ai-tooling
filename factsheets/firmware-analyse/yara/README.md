@@ -2,7 +2,7 @@
 
 ## Gruppe: Firmware/analyse
 
-## Zweck: Yara ist ein Werkzeug für
+## Zweck: YARA ist ein Werkzeug zur Identifizierung und Klassifizierung von Malware-Mustern basierend auf textuellen oder binären Regeln.
 
 ## Reifegrad
 

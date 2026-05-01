@@ -2,7 +2,7 @@
 
 ## Gruppe: Firmware/analyse
 
-## Zweck: Hexdump ist ein Werkzeug für
+## Zweck: Hexdump ist ein Dienstprogramm zur Anzeige von Dateiinhalten in hexadezimaler, dezimaler, oktaler oder ASCII-Darstellung.
 
 ## Reifegrad
 

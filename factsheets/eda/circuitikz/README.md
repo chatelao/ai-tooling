@@ -2,7 +2,7 @@
 
 ## Gruppe: Eda
 
-## Zweck: Circuitikz ist ein Werkzeug für
+## Zweck: CircuiTikZ ist ein LaTeX-Paket zur Erstellung von elektronischen Schaltkreisen mit TikZ.
 
 ## Reifegrad
 
