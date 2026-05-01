@@ -2,7 +2,7 @@
 
 ## Gruppe: Firmware/analyse
 
-## Zweck: Panda ist ein Werkzeug für
+## Zweck: PANDA (Platform for Architecture-Neutral Dynamic Analysis) ist ein Framework für die dynamische Analyse von Programmen.
 
 ## Reifegrad
 

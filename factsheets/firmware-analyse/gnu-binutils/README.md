@@ -2,7 +2,7 @@
 
 ## Gruppe: Firmware/analyse
 
-## Zweck: Gnu-binutils ist ein Werkzeug für
+## Zweck: Die GNU Binutils sind eine Sammlung von Werkzeugen zur Manipulation von Objektdateien (z.B. ld, as, objdump, nm).
 
 ## Reifegrad
 

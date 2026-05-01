@@ -2,7 +2,7 @@
 
 ## Gruppe: Firmware/analyse
 
-## Zweck: Emba ist ein Werkzeug für
+## Zweck: EMBA ist ein Sicherheitsanalysator für Firmware von eingebetteten Geräten, der automatisierte Penetrationstests durchführt.
 
 ## Reifegrad
 

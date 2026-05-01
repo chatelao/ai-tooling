@@ -7,7 +7,7 @@ Diese Roadmap dokumentiert den aktuellen Stand der Werkzeug-Factsheets und defin
 Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite identifiziert:
 
 - **Gesamtanzahl Factsheets:** 114 (geschätzt)
-- **Factsheets mit Verbesserungsbedarf:** 77
+- **Factsheets mit Verbesserungsbedarf:** 68
 - **Hauptprobleme:**
     - Platzhalter-Beschreibungen (Zweck-Sektion unvollständig)
     - Fehlende oder unzureichende Beispieldaten (weniger als 5 Beispiele)
@@ -47,20 +47,11 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Datenbanken | mssql | Few examples (1), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Datenbanken | oracle | Few examples (1), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Datenbanken | postgresql | Few examples (2), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
+| Dokumentation | img2pdf | Few examples (1) |
 | Dokumentation | redocly-cli | Few examples (2) |
-| Eda | circuitikz | Placeholder purpose |
-| Eda | kibot | Placeholder purpose |
-| Eda | kicad-10-0 | Placeholder purpose |
 | Eda | openfpgaloader | Few examples (2) |
-| Eda | skidl | Placeholder purpose |
-| Firmware-analyse | cve-bin-tool | Placeholder purpose |
-| Firmware-analyse | emba | Placeholder purpose, Few examples (4) |
-| Firmware-analyse | ghidra | Placeholder purpose |
-| Firmware-analyse | gnu-binutils | Placeholder purpose |
-| Firmware-analyse | hexdump | Placeholder purpose |
-| Firmware-analyse | panda | Placeholder purpose, Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
-| Firmware-analyse | radare2 | Placeholder purpose |
-| Firmware-analyse | yara | Placeholder purpose |
+| Firmware-analyse | emba | Few examples (4) |
+| Firmware-analyse | panda | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Funktechnik | gnuradio | No examples |
 | Funktechnik | gqrx-sdr | No examples |
 | Funktechnik | inspectrum | No examples |

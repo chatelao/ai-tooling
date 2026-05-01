@@ -2,7 +2,7 @@
 
 ## Gruppe: Eda
 
-## Zweck: Kicad-10-0 ist ein Werkzeug für
+## Zweck: KiCad 10.0 ist eine Suite für das Design von elektronischen Schaltungen und Leiterplatten (EDA).
 
 ## Reifegrad
 

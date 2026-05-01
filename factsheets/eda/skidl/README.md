@@ -2,7 +2,7 @@
 
 ## Gruppe: Eda
 
-## Zweck: Skidl ist ein Werkzeug für
+## Zweck: SKiDL ist eine Python-Bibliothek, die es ermöglicht, elektronische Schaltungen skriptbasiert zu entwerfen, anstatt sie grafisch zu zeichnen.
 
 ## Reifegrad
 

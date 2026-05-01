@@ -2,7 +2,7 @@
 
 ## Gruppe: Firmware/analyse
 
-## Zweck: Ghidra ist ein Werkzeug für
+## Zweck: Ghidra ist ein von der NSA entwickeltes Framework für Software-Reverse-Engineering (SRE) mit Decompiler-Unterstützung.
 
 ## Reifegrad
 

@@ -2,7 +2,7 @@
 
 ## Gruppe: Eda
 
-## Zweck: Kibot ist ein Werkzeug für
+## Zweck: KiBot ist ein Werkzeug zur Automatisierung von KiCad-Workflows, wie der Generierung von Fertigungsdaten.
 
 ## Reifegrad
 
