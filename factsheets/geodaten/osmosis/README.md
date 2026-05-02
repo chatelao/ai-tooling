@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://wiki.openstreetmap.org/wiki/Osmosis) |
-| Wikipedia | [Link](https://en.wikipedia.org/wiki/Osmosis_(software)) |
+| Referenzhandbuch | [wiki.openstreetmap.org/wiki/Osmosis](https://wiki.openstreetmap.org/wiki/Osmosis) |
+| Wikipedia | [en.wikipedia.org/wiki/Osmosis_(software](https://en.wikipedia.org/wiki/Osmosis_(software)) |
 
 ## Installation (Ubuntu 24.04)
 

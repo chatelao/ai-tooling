@@ -11,7 +11,7 @@ Setzt auf eine stark abstrahierte, einrückungsbasierte Syntax komplett ohne sch
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://pugjs.org/) |
+| Referenzhandbuch | [pugjs.org](https://pugjs.org/) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://openscad.org/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/OpenSCAD) |
+| Referenzhandbuch | [openscad.org](https://openscad.org/) |
+| Wikipedia | [de.wikipedia.org/wiki/OpenSCAD](https://de.wikipedia.org/wiki/OpenSCAD) |
 
 ## Installation (Ubuntu 24.04)
 

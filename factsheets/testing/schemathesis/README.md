@@ -11,7 +11,7 @@ Schemathesis nutzt die OpenAPI-Spezifikation einer API, um automatisch Testfäll
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://schemathesis.io/) |
+| Referenzhandbuch | [schemathesis.io](https://schemathesis.io/) |
 
 ## Installation (Ubuntu 24.04)
 

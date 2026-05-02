@@ -9,7 +9,7 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://panda.re/) |
+| Referenzhandbuch | [panda.re](https://panda.re/) |
 
 ## Installation (Ubuntu 24.04)
 

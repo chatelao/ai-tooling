@@ -13,8 +13,8 @@ Hardware-Beschreibungen.
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://yosyshq.net/yosys/) |
-| Wikipedia | [Link](https://en.wikipedia.org/wiki/Yosys) |
+| Referenzhandbuch | [yosyshq.net/yosys](https://yosyshq.net/yosys/) |
+| Wikipedia | [en.wikipedia.org/wiki/Yosys](https://en.wikipedia.org/wiki/Yosys) |
 
 ## Installation (Ubuntu 24.04)
 

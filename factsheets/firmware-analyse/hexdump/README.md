@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://www.kernel.org/pub/linux/utils/util-linux/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Hexdump) |
+| Referenzhandbuch | [www.kernel.org/pub/linux/utils/util-linux](https://www.kernel.org/pub/linux/utils/util-linux/) |
+| Wikipedia | [de.wikipedia.org/wiki/Hexdump](https://de.wikipedia.org/wiki/Hexdump) |
 
 ## Installation (Ubuntu 24.04)
 

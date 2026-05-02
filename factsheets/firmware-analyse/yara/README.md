@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://virustotal.github.io/yara/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/YARA) |
+| Referenzhandbuch | [virustotal.github.io/yara](https://virustotal.github.io/yara/) |
+| Wikipedia | [de.wikipedia.org/wiki/YARA](https://de.wikipedia.org/wiki/YARA) |
 
 ## Installation (Ubuntu 24.04)
 

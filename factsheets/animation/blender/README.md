@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://www.blender.org/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Blender_(Software)) |
+| Referenzhandbuch | [www.blender.org](https://www.blender.org/) |
+| Wikipedia | [de.wikipedia.org/wiki/Blender_(Software](https://de.wikipedia.org/wiki/Blender_(Software)) |
 
 ## Installation (Ubuntu 24.04)
 

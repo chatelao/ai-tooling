@@ -11,7 +11,7 @@ Step CI ist ein deklaratives Framework zum Testen und Überwachen von REST-, Gra
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://stepci.com/) |
+| Referenzhandbuch | [stepci.com](https://stepci.com/) |
 
 ## Installation (Ubuntu 24.04)
 

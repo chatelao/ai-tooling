@@ -15,8 +15,8 @@ die lokale Inferenz benötigen.
 | Reifegrad | Stabil (Aktiv gewartet, v0.20.7 Stand April 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://ollama.com/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Ollama) |
+| Referenzhandbuch | [ollama.com](https://ollama.com/) |
+| Wikipedia | [de.wikipedia.org/wiki/Ollama](https://de.wikipedia.org/wiki/Ollama) |
 
 ## Installation (Ubuntu 24.04)
 

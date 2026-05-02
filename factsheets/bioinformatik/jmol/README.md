@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://jmol.sourceforge.net/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Jmol) |
+| Referenzhandbuch | [jmol.sourceforge.net](https://jmol.sourceforge.net/) |
+| Wikipedia | [de.wikipedia.org/wiki/Jmol](https://de.wikipedia.org/wiki/Jmol) |
 
 ## Installation (Ubuntu 24.04)
 

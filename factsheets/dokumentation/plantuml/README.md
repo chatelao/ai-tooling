@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://plantuml.com/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/PlantUML) |
+| Referenzhandbuch | [plantuml.com](https://plantuml.com/) |
+| Wikipedia | [de.wikipedia.org/wiki/PlantUML](https://de.wikipedia.org/wiki/PlantUML) |
 
 ## Installation (Ubuntu 24.04)
 

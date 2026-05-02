@@ -14,11 +14,11 @@ wählen und Best Practices einzuhalten.
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://github.com/awslabs/mcp) |
+| Referenzhandbuch | [github.com/awslabs/mcp](https://github.com/awslabs/mcp) |
 
 ## Installation (Ubuntu 24.04)
 
-Voraussetzung: [uv](https://github.com/astral-sh/uv) muss installiert sein.
+Voraussetzung: [github.com/astral-sh/uv](https://github.com/astral-sh/uv) muss installiert sein.
 
 ```bash
 uvx awslabs.aws-api-mcp-server@latest

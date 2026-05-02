@@ -15,8 +15,8 @@ und zu kompilieren.
 | Reifegrad | Stabil (Aktiv gewartet, v6.1.19 Stand April 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://platformio.org/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/PlatformIO) |
+| Referenzhandbuch | [platformio.org](https://platformio.org/) |
+| Wikipedia | [de.wikipedia.org/wiki/PlatformIO](https://de.wikipedia.org/wiki/PlatformIO) |
 
 ## Installation (Ubuntu 24.04)
 

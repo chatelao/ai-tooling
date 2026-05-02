@@ -15,8 +15,8 @@ angewiesen zu sein.
 | Reifegrad | Stabil (Aktiv gewartet, v1.4.1 Stand Jan 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://arduino.github.io/arduino-cli/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Arduino_(Plattform)) |
+| Referenzhandbuch | [arduino.github.io/arduino-cli](https://arduino.github.io/arduino-cli/) |
+| Wikipedia | [de.wikipedia.org/wiki/Arduino_(Plattform](https://de.wikipedia.org/wiki/Arduino_(Plattform)) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -9,7 +9,7 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://github.com/e-m-b-a/emba) |
+| Referenzhandbuch | [github.com/e-m-b-a/emba](https://github.com/e-m-b-a/emba) |
 
 ## Installation (Ubuntu 24.04)
 

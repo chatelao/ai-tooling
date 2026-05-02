@@ -9,7 +9,7 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://renode.io/) |
+| Referenzhandbuch | [renode.io](https://renode.io/) |
 
 ## Installation (Ubuntu 24.04)
 

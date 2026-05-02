@@ -11,8 +11,8 @@ React ist eine JavaScript-Bibliothek zum Erstellen von Benutzeroberflächen, die
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://react.dev/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/React) |
+| Referenzhandbuch | [react.dev](https://react.dev/) |
+| Wikipedia | [de.wikipedia.org/wiki/React](https://de.wikipedia.org/wiki/React) |
 
 ## Installation (Ubuntu 24.04)
 

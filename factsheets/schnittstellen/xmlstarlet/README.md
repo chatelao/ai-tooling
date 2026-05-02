@@ -11,8 +11,8 @@ XMLStarlet ist ein Toolkit zur XML-Verarbeitung von der Kommandozeile (Validieru
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://xmlstar.sourceforge.net/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/XMLStarlet) |
+| Referenzhandbuch | [xmlstar.sourceforge.net](https://xmlstar.sourceforge.net/) |
+| Wikipedia | [de.wikipedia.org/wiki/XMLStarlet](https://de.wikipedia.org/wiki/XMLStarlet) |
 
 ## Installation (Ubuntu 24.04)
 

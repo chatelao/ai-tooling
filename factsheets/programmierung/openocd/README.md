@@ -13,8 +13,8 @@ von Hardware-Adaptern und Zielarchitekturen.
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://openocd.org/) |
-| Wikipedia | [Link](https://en.wikipedia.org/wiki/OpenOCD) |
+| Referenzhandbuch | [openocd.org](https://openocd.org/) |
+| Wikipedia | [en.wikipedia.org/wiki/OpenOCD](https://en.wikipedia.org/wiki/OpenOCD) |
 
 ## Installation (Ubuntu 24.04)
 

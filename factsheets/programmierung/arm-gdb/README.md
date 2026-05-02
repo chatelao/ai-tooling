@@ -13,8 +13,8 @@ Cortex-R Mikrocontroller.
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://www.gnu.org/software/gdb/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/GNU_Debugger) |
+| Referenzhandbuch | [www.gnu.org/software/gdb](https://www.gnu.org/software/gdb/) |
+| Wikipedia | [de.wikipedia.org/wiki/GNU_Debugger](https://de.wikipedia.org/wiki/GNU_Debugger) |
 
 ## Installation (Ubuntu 24.04)
 

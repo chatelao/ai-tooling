@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://www.synfig.org/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Synfig) |
+| Referenzhandbuch | [www.synfig.org](https://www.synfig.org/) |
+| Wikipedia | [de.wikipedia.org/wiki/Synfig](https://de.wikipedia.org/wiki/Synfig) |
 
 ## Installation (Ubuntu 24.04)
 

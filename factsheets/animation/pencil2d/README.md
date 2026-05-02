@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://www.pencil2d.org/) |
-| Wikipedia | [Link](https://en.wikipedia.org/wiki/Pencil2D) |
+| Referenzhandbuch | [www.pencil2d.org](https://www.pencil2d.org/) |
+| Wikipedia | [en.wikipedia.org/wiki/Pencil2D](https://en.wikipedia.org/wiki/Pencil2D) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -9,7 +9,7 @@ Docker ist eine Open-Source-Plattform zur Containerisierung von Anwendungen. Sie
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Docker_(Software)) |
+| Wikipedia | [de.wikipedia.org/wiki/Docker_(Software](https://de.wikipedia.org/wiki/Docker_(Software)) |
 
 ## Installation (Ubuntu 24.04)
 

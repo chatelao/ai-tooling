@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://osm2pgsql.org/) |
-| Wikipedia | [Link](https://en.wikipedia.org/wiki/Osm2pgsql) |
+| Referenzhandbuch | [osm2pgsql.org](https://osm2pgsql.org/) |
+| Wikipedia | [en.wikipedia.org/wiki/Osm2pgsql](https://en.wikipedia.org/wiki/Osm2pgsql) |
 
 ## Installation (Ubuntu 24.04)
 

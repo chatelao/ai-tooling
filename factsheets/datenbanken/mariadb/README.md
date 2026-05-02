@@ -11,8 +11,8 @@ MariaDB ist eines der populärsten Open-Source-Relationalen Datenbankmanagements
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://mariadb.org/documentation/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/MariaDB) |
+| Referenzhandbuch | [mariadb.org/documentation](https://mariadb.org/documentation/) |
+| Wikipedia | [de.wikipedia.org/wiki/MariaDB](https://de.wikipedia.org/wiki/MariaDB) |
 
 ## Installation (Ubuntu 24.04)
 

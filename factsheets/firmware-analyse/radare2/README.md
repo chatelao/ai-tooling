@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://www.radare.org/) |
-| Wikipedia | [Link](https://en.wikipedia.org/wiki/Radare2) |
+| Referenzhandbuch | [www.radare.org](https://www.radare.org/) |
+| Wikipedia | [en.wikipedia.org/wiki/Radare2](https://en.wikipedia.org/wiki/Radare2) |
 
 ## Installation (Ubuntu 24.04)
 

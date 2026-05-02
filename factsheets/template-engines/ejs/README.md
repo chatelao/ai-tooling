@@ -11,7 +11,7 @@ Sehr populär im Express.js-Umfeld. Verwendet eine einfache <% %> Syntax, bei de
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://ejs.co/) |
+| Referenzhandbuch | [ejs.co](https://ejs.co/) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://www.rdkit.org/) |
-| Wikipedia | [Link](https://en.wikipedia.org/wiki/RDKit) |
+| Referenzhandbuch | [www.rdkit.org](https://www.rdkit.org/) |
+| Wikipedia | [en.wikipedia.org/wiki/RDKit](https://en.wikipedia.org/wiki/RDKit) |
 
 ## Installation (Ubuntu 24.04)
 

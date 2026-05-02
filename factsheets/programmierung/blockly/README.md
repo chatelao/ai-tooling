@@ -14,8 +14,8 @@ zu übersetzen oder um komplexe Logikstrukturen visuell darzustellen.
 | Reifegrad | Stabil (Aktiv gewartet, v12.5.1 Stand April 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://developers.google.com/blockly) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Blockly) |
+| Referenzhandbuch | [developers.google.com/blockly](https://developers.google.com/blockly) |
+| Wikipedia | [de.wikipedia.org/wiki/Blockly](https://de.wikipedia.org/wiki/Blockly) |
 
 ## Installation (Ubuntu 24.04)
 

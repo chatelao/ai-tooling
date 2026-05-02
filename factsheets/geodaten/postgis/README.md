@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://postgis.net/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/PostGIS) |
+| Referenzhandbuch | [postgis.net](https://postgis.net/) |
+| Wikipedia | [de.wikipedia.org/wiki/PostGIS](https://de.wikipedia.org/wiki/PostGIS) |
 
 ## Installation (Ubuntu 24.04)
 

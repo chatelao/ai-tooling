@@ -11,8 +11,8 @@ Microsoft SQL Server Express ist eine kostenlos nutzbare Edition des relationale
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://learn.microsoft.com/de-de/sql/sql-server/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Microsoft_SQL_Server) |
+| Referenzhandbuch | [learn.microsoft.com/de-de/sql/sql-server](https://learn.microsoft.com/de-de/sql/sql-server/) |
+| Wikipedia | [de.wikipedia.org/wiki/Microsoft_SQL_Server](https://de.wikipedia.org/wiki/Microsoft_SQL_Server) |
 
 ## Installation (Ubuntu 24.04)
 

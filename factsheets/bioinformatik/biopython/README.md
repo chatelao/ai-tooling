@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://biopython.org/) |
-| Wikipedia | [Link](https://en.wikipedia.org/wiki/Biopython) |
+| Referenzhandbuch | [biopython.org](https://biopython.org/) |
+| Wikipedia | [en.wikipedia.org/wiki/Biopython](https://en.wikipedia.org/wiki/Biopython) |
 
 ## Installation (Ubuntu 24.04)
 

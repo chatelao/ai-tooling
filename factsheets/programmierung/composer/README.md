@@ -11,7 +11,7 @@ Composer ist ein Abhängigkeitsmanager für PHP, der es ermöglicht, Bibliotheke
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://getcomposer.org/) |
+| Referenzhandbuch | [getcomposer.org](https://getcomposer.org/) |
 
 ## Installation (Ubuntu 24.04)
 

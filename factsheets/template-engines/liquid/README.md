@@ -11,7 +11,7 @@ Ursprünglich von Shopify für E-Commerce-Templates entwickelt. Heute ist es der
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://shopify.github.io/liquid/) |
+| Referenzhandbuch | [shopify.github.io/liquid](https://shopify.github.io/liquid/) |
 
 ## Installation (Ubuntu 24.04)
 

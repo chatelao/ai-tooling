@@ -11,8 +11,8 @@ Flutter ist ein UI-Toolkit von Google für die Entwicklung nativ kompilierter An
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://flutter.dev/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Flutter_(Software)) |
+| Referenzhandbuch | [flutter.dev](https://flutter.dev/) |
+| Wikipedia | [de.wikipedia.org/wiki/Flutter_(Software](https://de.wikipedia.org/wiki/Flutter_(Software)) |
 
 ## Installation (Ubuntu 24.04)
 

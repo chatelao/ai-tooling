@@ -11,7 +11,7 @@ Twig ist die Standard-Engine des Symfony-Frameworks. Sie wurde stark von Jinja2 
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://twig.symfony.com/) |
+| Referenzhandbuch | [twig.symfony.com](https://twig.symfony.com/) |
 
 ## Installation (Ubuntu 24.04)
 

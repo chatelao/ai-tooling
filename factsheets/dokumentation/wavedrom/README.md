@@ -9,7 +9,7 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://wavedrom.com/) |
+| Referenzhandbuch | [wavedrom.com](https://wavedrom.com/) |
 
 ## Installation (Ubuntu 24.04)
 

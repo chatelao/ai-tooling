@@ -9,7 +9,7 @@ Docker Compose ist ein Werkzeug zur Definition und zum Betrieb von Multi-Contain
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Docker_(Software)#Docker_Compose) |
+| Wikipedia | [de.wikipedia.org/wiki/Docker_(Software](https://de.wikipedia.org/wiki/Docker_(Software)#Docker_Compose) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://osmocom.org/projects/rtl-sdr/wiki/Rtl-sdr) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/RTL-SDR) |
+| Referenzhandbuch | [osmocom.org/projects/rtl-sdr/wiki/Rtl-sdr](https://osmocom.org/projects/rtl-sdr/wiki/Rtl-sdr) |
+| Wikipedia | [de.wikipedia.org/wiki/RTL-SDR](https://de.wikipedia.org/wiki/RTL-SDR) |
 
 ## Installation (Ubuntu 24.04)
 

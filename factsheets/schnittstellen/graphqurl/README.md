@@ -11,8 +11,8 @@ graphqurl (gq) ist ein Kommandozeilenwerkzeug und eine JavaScript-Bibliothek fü
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://github.com/hasura/graphqurl) |
-| Wikipedia | [Link](https://en.wikipedia.org/wiki/GraphQL) |
+| Referenzhandbuch | [github.com/hasura/graphqurl](https://github.com/hasura/graphqurl) |
+| Wikipedia | [en.wikipedia.org/wiki/GraphQL](https://en.wikipedia.org/wiki/GraphQL) |
 
 ## Installation (Ubuntu 24.04)
 

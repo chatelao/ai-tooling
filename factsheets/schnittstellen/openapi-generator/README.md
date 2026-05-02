@@ -11,7 +11,7 @@ Das Tool ermöglicht die Generierung von API-Clients, Server-Stubs, Dokumentatio
 | Reifegrad | Stabil (Aktiv gewartet, v7.21.0 Stand März 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://openapi-generator.tech/) |
+| Referenzhandbuch | [openapi-generator.tech](https://openapi-generator.tech/) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -11,7 +11,7 @@ Die Standard-Engine in Ruby on Rails. Erlaubt das direkte Einbetten von Ruby-Cod
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://github.com/ruby/erb) |
+| Referenzhandbuch | [github.com/ruby/erb](https://github.com/ruby/erb) |
 
 ## Installation (Ubuntu 24.04)
 
