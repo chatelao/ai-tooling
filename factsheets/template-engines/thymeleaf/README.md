@@ -6,21 +6,12 @@
 
 Der De-facto-Standard für moderne Spring-Boot-Anwendungen. Die Besonderheit: Thymeleaf-Templates sind valides HTML und können auch ohne Server direkt im Browser als Mockup angezeigt werden.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://www.thymeleaf.org/)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://www.thymeleaf.org/) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -4,25 +4,13 @@
 
 ## Zweck: Ghidra ist ein von der NSA entwickeltes Framework für Software-Reverse-Engineering (SRE) mit Decompiler-Unterstützung.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://ghidra-re.org/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/Ghidra)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://ghidra-re.org/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/Ghidra) |
 
 ## Installation (Ubuntu 24.04)
 

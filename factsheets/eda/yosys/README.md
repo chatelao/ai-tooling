@@ -8,25 +8,13 @@ Yosys ist ein Open-Source-Framework für Verilog-RTL-Synthese. Es bietet eine
 umfangreiche Suite von Tools zum Transformieren, Analysieren und Optimieren von
 Hardware-Beschreibungen.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://yosyshq.net/yosys/)
-
-## Wikipedia
-
-[Link](https://en.wikipedia.org/wiki/Yosys)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://yosyshq.net/yosys/) |
+| Wikipedia | [Link](https://en.wikipedia.org/wiki/Yosys) |
 
 ## Installation (Ubuntu 24.04)
 

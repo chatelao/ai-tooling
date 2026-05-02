@@ -4,21 +4,12 @@
 
 ## Zweck: SKiDL ist eine Python-Bibliothek, die es ermöglicht, elektronische Schaltungen skriptbasiert zu entwerfen, anstatt sie grafisch zu zeichnen.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://devbisme.github.io/skidl/)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://devbisme.github.io/skidl/) |
 
 ## Installation (Ubuntu 24.04)
 

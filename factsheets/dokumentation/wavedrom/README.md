@@ -4,21 +4,12 @@
 
 ## Zweck: WaveDrom ist eine JavaScript-Engine zur Darstellung digitaler Zeitverlaufsdiagramme (Waveforms) aus einer JSON-basierten Textbeschreibung.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://wavedrom.com/)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://wavedrom.com/) |
 
 ## Installation (Ubuntu 24.04)
 

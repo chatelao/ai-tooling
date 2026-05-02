@@ -6,21 +6,12 @@
 
 Ursprünglich von Shopify für E-Commerce-Templates entwickelt. Heute ist es der Standard für Shopify-Themes und den weit verbreiteten Static Site Generator Jekyll.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://shopify.github.io/liquid/)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://shopify.github.io/liquid/) |
 
 ## Installation (Ubuntu 24.04)
 

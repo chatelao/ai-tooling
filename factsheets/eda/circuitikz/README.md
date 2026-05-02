@@ -4,25 +4,13 @@
 
 ## Zweck: CircuiTikZ ist ein LaTeX-Paket zur Erstellung von elektronischen Schaltkreisen mit TikZ.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://mirror.init7.net/ctan/graphics/pgf/contrib/circuitikz/doc/circuitikzmanual.pdf)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/PGF/TikZ)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://mirror.init7.net/ctan/graphics/pgf/contrib/circuitikz/doc/circuitikzmanual.pdf) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/PGF/TikZ) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -9,25 +9,13 @@ visuellen Programmiersprachen. KI-Agenten nutzen Blockly, um grafische
 Codeblöcke in syntaktisch korrekten Code (JavaScript, Python, PHP, Lua, Dart)
 zu übersetzen oder um komplexe Logikstrukturen visuell darzustellen.
 
-## Reifegrad
-
-Stabil (Aktiv gewartet, v12.5.1 Stand April 2026)
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://developers.google.com/blockly)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/Blockly)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil (Aktiv gewartet, v12.5.1 Stand April 2026) |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://developers.google.com/blockly) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/Blockly) |
 
 ## Installation (Ubuntu 24.04)
 

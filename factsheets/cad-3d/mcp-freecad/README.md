@@ -4,21 +4,12 @@
 
 ## Zweck: MCP-FreeCAD ist ein Model Context Protocol Server zur Fernsteuerung und Automatisierung von FreeCAD.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://github.com/jango-blockchained/mcp-freecad)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://github.com/jango-blockchained/mcp-freecad) |
 
 ## Installation (Ubuntu 24.04)
 

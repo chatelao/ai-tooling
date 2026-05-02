@@ -4,25 +4,13 @@
 
 ## Zweck: Inspectrum ist ein Werkzeug zur visuellen Analyse von erfassten Funksignalen
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://github.com/miek/inspectrum)
-
-## Wikipedia
-
-[Link](https://en.wikipedia.org/wiki/Software-defined_radio)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://github.com/miek/inspectrum) |
+| Wikipedia | [Link](https://en.wikipedia.org/wiki/Software-defined_radio) |
 
 ## Installation (Ubuntu 24.04)
 

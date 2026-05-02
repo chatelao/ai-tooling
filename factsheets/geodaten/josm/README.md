@@ -4,25 +4,13 @@
 
 ## Zweck: JOSM ist ein Editor für die Erstellung und Bearbeitung von OpenStreetMap-Daten
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://josm.openstreetmap.de/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/JOSM)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://josm.openstreetmap.de/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/JOSM) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -4,25 +4,13 @@
 
 ## Zweck: Krita ist ein professionelles, freies Malprogramm für digitale Künstler, spezialisiert auf Konzeptkunst, Illustration sowie Textur- und Matte-Painting.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://krita.org/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/Krita)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://krita.org/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/Krita) |
 
 ## Installation (Ubuntu 24.04)
 

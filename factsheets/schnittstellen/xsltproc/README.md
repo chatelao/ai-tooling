@@ -6,25 +6,13 @@
 
 xsltproc ist ein Kommandozeilen-Werkzeug zur Anwendung von XSLT-Stylesheets auf XML-Dokumente.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](http://xmlsoft.org/XSLT/xsltproc2.html)
-
-## Wikipedia
-
-[Link](https://en.wikipedia.org/wiki/Libxslt)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](http://xmlsoft.org/XSLT/xsltproc2.html) |
+| Wikipedia | [Link](https://en.wikipedia.org/wiki/Libxslt) |
 
 ## Installation (Ubuntu 24.04)
 

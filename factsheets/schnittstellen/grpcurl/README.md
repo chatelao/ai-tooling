@@ -6,25 +6,13 @@
 
 grpcurl ist ein Kommandozeilenwerkzeug, das die Interaktion mit gRPC-Servern ermöglicht, ähnlich wie curl für HTTP.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://github.com/fullstorydev/grpcurl)
-
-## Wikipedia
-
-[Link](https://en.wikipedia.org/wiki/GRPC)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://github.com/fullstorydev/grpcurl) |
+| Wikipedia | [Link](https://en.wikipedia.org/wiki/GRPC) |
 
 ## Installation (Ubuntu 24.04)
 

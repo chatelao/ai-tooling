@@ -6,21 +6,12 @@
 
 Sehr populär im Express.js-Umfeld. Verwendet eine einfache <% %> Syntax, bei der man nahezu normales JavaScript in HTML einbetten kann.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://ejs.co/)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://ejs.co/) |
 
 ## Installation (Ubuntu 24.04)
 

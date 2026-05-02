@@ -6,25 +6,13 @@
 
 xmllint ist ein Werkzeug aus dem libxml2-Paket zur Validierung, Formatierung und Analyse von XML-Dateien.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](http://xmlsoft.org/xmllint.html)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/Libxml2)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](http://xmlsoft.org/xmllint.html) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/Libxml2) |
 
 ## Installation (Ubuntu 24.04)
 

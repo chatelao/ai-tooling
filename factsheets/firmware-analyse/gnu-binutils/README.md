@@ -4,25 +4,13 @@
 
 ## Zweck: Die GNU Binutils sind eine Sammlung von Werkzeugen zur Manipulation von Objektdateien (z.B. ld, as, objdump, nm).
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://www.gnu.org/software/binutils/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/GNU_Binutils)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://www.gnu.org/software/binutils/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/GNU_Binutils) |
 
 ## Installation (Ubuntu 24.04)
 

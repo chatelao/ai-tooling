@@ -8,21 +8,12 @@ bereitstellt. Er bietet eine tiefere Integration als die CLI, da er dem Modell
 strukturierten Zugriff auf über 40 Azure-Dienste bietet, inklusive
 Sicherheitsbewertungen und Architektur-Empfehlungen.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://github.com/microsoft/mcp)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://github.com/microsoft/mcp) |
 
 ## Installation (Ubuntu 24.04)
 

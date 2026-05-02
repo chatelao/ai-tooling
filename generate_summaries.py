@@ -26,6 +26,11 @@ def extract_info(filepath):
     name = name_match.group(1).strip() if name_match else os.path.basename(os.path.dirname(filepath))
 
     def extract_section(header):
+        # Try to find in a table row first (e.g., | Reifegrad | Stabil |)
+        table_match = re.search(rf'^\|\s*{header}\s*\|\s*([^|]+)\s*\|', content, re.MULTILINE)
+        if table_match:
+            return table_match.group(1).strip()
+
         match = re.search(rf'^## {header}:?\s*(.*)', content, re.MULTILINE)
         if not match: return ""
         val = match.group(1).strip()

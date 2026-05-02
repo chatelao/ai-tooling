@@ -4,25 +4,13 @@
 
 ## Zweck: PostGIS ist eine räumliche Datenbank-Erweiterung für PostgreSQL
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://postgis.net/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/PostGIS)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://postgis.net/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/PostGIS) |
 
 ## Installation (Ubuntu 24.04)
 

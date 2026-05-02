@@ -6,21 +6,12 @@
 
 Step CI ist ein deklaratives Framework zum Testen und Überwachen von REST-, GraphQL- und gRPC-APIs. Tests werden in YAML oder JSON definiert und können einfach in CI/CD-Pipelines integriert werden.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://stepci.com/)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://stepci.com/) |
 
 ## Installation (Ubuntu 24.04)
 

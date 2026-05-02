@@ -4,21 +4,12 @@
 
 ## Zweck: SeqKit ist ein schnelles und vielseitiges Kommandozeilenwerkzeug zur Manipulation und Analyse von Sequenzdaten in den Formaten FASTA und FASTQ.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://bioinf.shenwei.me/seqkit/)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://bioinf.shenwei.me/seqkit/) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -9,21 +9,12 @@ automatisch Mock-Server zu erstellen. Diese Server können API-Anfragen
 validieren und basierend auf dem Schema realistische Beispiel-Antworten
 generieren.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://stoplight.io/open-source/prism)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://stoplight.io/open-source/prism) |
 
 ## Installation (Ubuntu 24.04)
 

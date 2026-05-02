@@ -9,25 +9,13 @@ Linkern und Utilities zum Erstellen von Software für ARM Cortex-M und Cortex-R
 Mikrocontroller ("Bare-Metal"). Sie ist das Standardwerkzeug für die
 Embedded-Entwicklung auf Linux-Systemen.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://developer.arm.com/Tools%20and%20Software/GNU%20Toolchain)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/GNU_Compiler_Collection)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://developer.arm.com/Tools%20and%20Software/GNU%20Toolchain) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/GNU_Compiler_Collection) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -4,25 +4,13 @@
 
 ## Zweck: Osmosis ist eine Java-Anwendung zur Verarbeitung von OpenStreetMap-Daten
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://wiki.openstreetmap.org/wiki/Osmosis)
-
-## Wikipedia
-
-[Link](https://en.wikipedia.org/wiki/Osmosis_(software))
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://wiki.openstreetmap.org/wiki/Osmosis) |
+| Wikipedia | [Link](https://en.wikipedia.org/wiki/Osmosis_(software)) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -4,25 +4,13 @@
 
 ## Zweck: Hexdump ist ein Dienstprogramm zur Anzeige von Dateiinhalten in hexadezimaler, dezimaler, oktaler oder ASCII-Darstellung.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://www.kernel.org/pub/linux/utils/util-linux/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/Hexdump)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://www.kernel.org/pub/linux/utils/util-linux/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/Hexdump) |
 
 ## Installation (Ubuntu 24.04)
 

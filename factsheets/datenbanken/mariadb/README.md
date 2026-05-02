@@ -6,25 +6,13 @@
 
 MariaDB ist eines der populärsten Open-Source-Relationalen Datenbankmanagementsysteme. Es wurde von den ursprünglichen Entwicklern von MySQL als Fork erstellt und ist als Drop-in-Ersatz konzipiert.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://mariadb.org/documentation/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/MariaDB)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://mariadb.org/documentation/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/MariaDB) |
 
 ## Installation (Ubuntu 24.04)
 

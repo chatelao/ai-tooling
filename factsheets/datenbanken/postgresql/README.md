@@ -6,25 +6,13 @@
 
 PostgreSQL ist ein fortschrittliches, objekt-relationales Open-Source-Datenbankmanagementsystem (ORDBMS). Es zeichnet sich durch seine Zuverlässigkeit, Feature-Reichtum und die Einhaltung von SQL-Standards aus.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://www.postgresql.org/docs/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/PostgreSQL)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://www.postgresql.org/docs/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/PostgreSQL) |
 
 ## Installation (Ubuntu 24.04)
 

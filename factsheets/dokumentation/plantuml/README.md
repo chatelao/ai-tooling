@@ -4,25 +4,13 @@
 
 ## Zweck: PlantUML ist ein Werkzeug, das die Erstellung von UML-Diagrammen aus einer einfachen und intuitiven Textbeschreibung ermöglicht.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://plantuml.com/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/PlantUML)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://plantuml.com/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/PlantUML) |
 
 ## Installation (Ubuntu 24.04)
 

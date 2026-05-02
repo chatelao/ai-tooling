@@ -8,25 +8,13 @@
 - die Erstellung von komplexen Molekülen, Mechanismen und Schemata.
 - die Anpassung von Bindungswinkeln, Längen und Beschriftungen.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://mirror.init7.net/ctan/macros/generic/chemfig/chemfig-en.pdf)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/LaTeX)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://mirror.init7.net/ctan/macros/generic/chemfig/chemfig-en.pdf) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/LaTeX) |
 
 ## Installation (Ubuntu 24.04)
 

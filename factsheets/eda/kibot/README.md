@@ -4,21 +4,12 @@
 
 ## Zweck: KiBot ist ein Werkzeug zur Automatisierung von KiCad-Workflows, wie der Generierung von Fertigungsdaten.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://github.com/INTI-CMNB/KiBot)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://github.com/INTI-CMNB/KiBot) |
 
 ## Installation (Ubuntu 24.04)
 

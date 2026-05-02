@@ -4,21 +4,12 @@
 
 ## Zweck: PANDA (Platform for Architecture-Neutral Dynamic Analysis) ist ein Framework für die dynamische Analyse von Programmen.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://panda.re/)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://panda.re/) |
 
 ## Installation (Ubuntu 24.04)
 

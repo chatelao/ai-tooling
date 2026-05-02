@@ -4,25 +4,13 @@
 
 ## Zweck: KiCad 10.0 ist eine Suite für das Design von elektronischen Schaltungen und Leiterplatten (EDA).
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://www.kicad.org/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/KiCad)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://www.kicad.org/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/KiCad) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -6,25 +6,13 @@
 
 Rasqal ist eine C-Bibliothek, die das Parsen und Ausführen von SPARQL-Abfragen ermöglicht. Sie enthält das Kommandozeilenwerkzeug `roqet`.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://librdf.org/rasqal/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/Rasqal)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://librdf.org/rasqal/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/Rasqal) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -6,25 +6,13 @@
 
 React Native ist ein Framework zum Erstellen nativer Apps für Android und iOS unter Verwendung von React.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://reactnative.dev/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/React_Native)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://reactnative.dev/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/React_Native) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -4,21 +4,12 @@
 
 Kubernetes ist ein Open-Source-System zur Automatisierung der Bereitstellung, Skalierung und Verwaltung von containerisierten Anwendungen. `kubectl` ist das primäre Befehlszeilenwerkzeug zur Interaktion mit Kubernetes-Clustern. Für KI-Agenten ist es unverzichtbar, um GPU-Cluster zu steuern, Inferenz-Endpunkte zu skalieren und den Status von großflächigen Bereitstellungen zu überwachen.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/Kubernetes)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/Kubernetes) |
 
 ## Installation (Ubuntu 24.04)
 
