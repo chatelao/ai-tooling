@@ -1,0 +1,235 @@
+site_name: KI-Agenten Werkzeuge & Quellen
+repo_url: https://github.com/chatelao/ai-tooling
+docs_dir: .
+theme:
+  name: material
+  features:
+  - navigation.tabs
+  - navigation.sections
+  - navigation.expand
+  - navigation.top
+  - search.suggest
+  - search.highlight
+  - content.code.copy
+  language: de
+  palette:
+  - media: '(prefers-color-scheme: light)'
+    scheme: default
+    primary: indigo
+    accent: indigo
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - media: '(prefers-color-scheme: dark)'
+    scheme: slate
+    primary: indigo
+    accent: indigo
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+plugins:
+- search
+- with-pdf:
+    author: KI-Agenten Team
+    copyright: 2024 KI-Agenten Team
+    output_path: ki-agenten-werkzeuge.pdf
+    cover: true
+    toc_title: Inhaltsverzeichnis
+markdown_extensions:
+- admonition
+- attr_list
+- def_list
+- footnotes
+- md_in_html
+- toc
+- pymdownx.highlight:
+    anchor_linenums: true
+    line_spans: __span
+    pygments_lang_class: true
+- pymdownx.inlinehilite
+- pymdownx.snippets
+- pymdownx.superfences
+- pymdownx.tabbed:
+    alternate_style: true
+- tables
+nav:
+- Home: README.md
+- Strategie: GEMINI.md
+- Werkzeuge: TOOLS.md
+- Datenquellen: DATASOURCES.md
+- Visualisierung: VISUALIZATION.md
+- Roadmap: FACTSHEET_ROADMAP.md
+- Factsheets:
+  - Übersicht: factsheets/README.md
+  - Animation:
+    - Übersicht: factsheets/animation/README.md
+    - Blender: factsheets/animation/blender/README.md
+    - Ffmpeg: factsheets/animation/ffmpeg/README.md
+    - Imagemagick: factsheets/animation/imagemagick/README.md
+    - Krita: factsheets/animation/krita/README.md
+    - Manim: factsheets/animation/manim/README.md
+    - Pencil2D: factsheets/animation/pencil2d/README.md
+    - Synfig Studio: factsheets/animation/synfig-studio/README.md
+  - App-entwicklung:
+    - Übersicht: factsheets/app-entwicklung/README.md
+    - Flutter: factsheets/app-entwicklung/flutter/README.md
+    - React: factsheets/app-entwicklung/react/README.md
+    - React Native: factsheets/app-entwicklung/react-native/README.md
+    - Spring Boot: factsheets/app-entwicklung/spring-boot/README.md
+  - Bioinformatik:
+    - Übersicht: factsheets/bioinformatik/README.md
+    - Biopython: factsheets/bioinformatik/biopython/README.md
+    - Bkchem: factsheets/bioinformatik/bkchem/README.md
+    - Chemfig: factsheets/bioinformatik/chemfig/README.md
+    - Jmol: factsheets/bioinformatik/jmol/README.md
+    - Pymol: factsheets/bioinformatik/pymol/README.md
+    - Rdkit: factsheets/bioinformatik/rdkit/README.md
+    - Seqkit: factsheets/bioinformatik/seqkit/README.md
+  - Cad-3d:
+    - Übersicht: factsheets/cad-3d/README.md
+    - Freecad: factsheets/cad-3d/freecad/README.md
+    - Ldview: factsheets/cad-3d/ldview/README.md
+    - Mcp Freecad: factsheets/cad-3d/mcp-freecad/README.md
+    - Meshlab: factsheets/cad-3d/meshlab/README.md
+    - Openscad: factsheets/cad-3d/openscad/README.md
+  - Datenbanken:
+    - Übersicht: factsheets/datenbanken/README.md
+    - Mariadb: factsheets/datenbanken/mariadb/README.md
+    - Mssql: factsheets/datenbanken/mssql/README.md
+    - Oracle: factsheets/datenbanken/oracle/README.md
+    - Postgresql: factsheets/datenbanken/postgresql/README.md
+  - Dokumentation:
+    - Übersicht: factsheets/dokumentation/README.md
+    - Apache Fop: factsheets/dokumentation/apache-fop/README.md
+    - Img2Pdf: factsheets/dokumentation/img2pdf/README.md
+    - Plantuml: factsheets/dokumentation/plantuml/README.md
+    - Redocly Cli: factsheets/dokumentation/redocly-cli/README.md
+    - Wavedrom: factsheets/dokumentation/wavedrom/README.md
+  - Eda:
+    - Übersicht: factsheets/eda/README.md
+    - Circuitikz: factsheets/eda/circuitikz/README.md
+    - Cocotb: factsheets/eda/cocotb/README.md
+    - Kibot: factsheets/eda/kibot/README.md
+    - Kicad 10 0: factsheets/eda/kicad-10-0/README.md
+    - Openfpgaloader: factsheets/eda/openfpgaloader/README.md
+    - Skidl: factsheets/eda/skidl/README.md
+    - Yosys: factsheets/eda/yosys/README.md
+  - Firmware-analyse:
+    - Übersicht: factsheets/firmware-analyse/README.md
+    - Binwalk: factsheets/firmware-analyse/binwalk/README.md
+    - Cve Bin Tool: factsheets/firmware-analyse/cve-bin-tool/README.md
+    - Emba: factsheets/firmware-analyse/emba/README.md
+    - Ghidra: factsheets/firmware-analyse/ghidra/README.md
+    - Gnu Binutils: factsheets/firmware-analyse/gnu-binutils/README.md
+    - Hexdump: factsheets/firmware-analyse/hexdump/README.md
+    - Panda: factsheets/firmware-analyse/panda/README.md
+    - Radare2: factsheets/firmware-analyse/radare2/README.md
+    - Yara: factsheets/firmware-analyse/yara/README.md
+  - Funktechnik:
+    - Übersicht: factsheets/funktechnik/README.md
+    - Gnuradio: factsheets/funktechnik/gnuradio/README.md
+    - Gqrx Sdr: factsheets/funktechnik/gqrx-sdr/README.md
+    - Inspectrum: factsheets/funktechnik/inspectrum/README.md
+    - Node Red: factsheets/funktechnik/node-red/README.md
+    - Rtl Sdr: factsheets/funktechnik/rtl-sdr/README.md
+    - Urh: factsheets/funktechnik/urh/README.md
+  - Geodaten:
+    - Übersicht: factsheets/geodaten/README.md
+    - Josm: factsheets/geodaten/josm/README.md
+    - Osm2Pgsql: factsheets/geodaten/osm2pgsql/README.md
+    - Osmium Tool: factsheets/geodaten/osmium-tool/README.md
+    - Osmosis: factsheets/geodaten/osmosis/README.md
+    - Postgis: factsheets/geodaten/postgis/README.md
+  - Hardware-simulation:
+    - Übersicht: factsheets/hardware-simulation/README.md
+    - Renode: factsheets/hardware-simulation/renode/README.md
+  - Infrastruktur:
+    - Übersicht: factsheets/infrastruktur/README.md
+    - Aws Cli: factsheets/infrastruktur/aws-cli/README.md
+    - Aws Mcp Server: factsheets/infrastruktur/aws-mcp-server/README.md
+    - Azure Cli: factsheets/infrastruktur/azure-cli/README.md
+    - Azure Mcp Server: factsheets/infrastruktur/azure-mcp-server/README.md
+    - Docker: factsheets/infrastruktur/docker/README.md
+    - Docker Compose: factsheets/infrastruktur/docker-compose/README.md
+    - Google Cloud Run Mcp: factsheets/infrastruktur/google-cloud-run-mcp/README.md
+    - Google Cloud Sdk: factsheets/infrastruktur/google-cloud-sdk/README.md
+    - Kubernetes: factsheets/infrastruktur/kubernetes/README.md
+    - Vast Ai Sdk: factsheets/infrastruktur/vast-ai-sdk/README.md
+    - Xvfb: factsheets/infrastruktur/xvfb/README.md
+  - Ki-inferenz:
+    - Übersicht: factsheets/ki-inferenz/README.md
+    - Ollama: factsheets/ki-inferenz/ollama/README.md
+    - Vllm: factsheets/ki-inferenz/vllm/README.md
+  - Programmierung:
+    - Übersicht: factsheets/programmierung/README.md
+    - Ant: factsheets/programmierung/ant/README.md
+    - Arduino Cli: factsheets/programmierung/arduino-cli/README.md
+    - Arm Gdb: factsheets/programmierung/arm-gdb/README.md
+    - Blockly: factsheets/programmierung/blockly/README.md
+    - Composer: factsheets/programmierung/composer/README.md
+    - Gnu Toolchain For Arm: factsheets/programmierung/gnu-toolchain-for-arm/README.md
+    - Java: factsheets/programmierung/java/README.md
+    - Maven: factsheets/programmierung/maven/README.md
+    - Nodejs: factsheets/programmierung/nodejs/README.md
+    - Openocd: factsheets/programmierung/openocd/README.md
+    - Pawn Compiler: factsheets/programmierung/pawn-compiler/README.md
+    - Pillow: factsheets/programmierung/pillow/README.md
+    - Platformio Core: factsheets/programmierung/platformio-core/README.md
+  - Schnittstellen:
+    - Übersicht: factsheets/schnittstellen/README.md
+    - Graphqurl: factsheets/schnittstellen/graphqurl/README.md
+    - Grpcurl: factsheets/schnittstellen/grpcurl/README.md
+    - Openapi Generator: factsheets/schnittstellen/openapi-generator/README.md
+    - Rasqal: factsheets/schnittstellen/rasqal/README.md
+    - Sparkql: factsheets/schnittstellen/sparkql/README.md
+    - Sparqlwrapper: factsheets/schnittstellen/sparqlwrapper/README.md
+    - Xmllint: factsheets/schnittstellen/xmllint/README.md
+    - Xmlstarlet: factsheets/schnittstellen/xmlstarlet/README.md
+    - Xsltproc: factsheets/schnittstellen/xsltproc/README.md
+    - Zeep: factsheets/schnittstellen/zeep/README.md
+  - Template-engines:
+    - Übersicht: factsheets/template-engines/README.md
+    - Blade: factsheets/template-engines/blade/README.md
+    - Ejs: factsheets/template-engines/ejs/README.md
+    - Erb: factsheets/template-engines/erb/README.md
+    - Handlebars: factsheets/template-engines/handlebars/README.md
+    - Jinja2: factsheets/template-engines/jinja2/README.md
+    - Liquid: factsheets/template-engines/liquid/README.md
+    - Mustache: factsheets/template-engines/mustache/README.md
+    - Pug: factsheets/template-engines/pug/README.md
+    - Razor: factsheets/template-engines/razor/README.md
+    - Thymeleaf: factsheets/template-engines/thymeleaf/README.md
+    - Twig: factsheets/template-engines/twig/README.md
+  - Testing:
+    - Übersicht: factsheets/testing/README.md
+    - Hurl: factsheets/testing/hurl/README.md
+    - Playwright: factsheets/testing/playwright/README.md
+    - Prism: factsheets/testing/prism/README.md
+    - Schemathesis: factsheets/testing/schemathesis/README.md
+    - Spectral: factsheets/testing/spectral/README.md
+    - Step Ci: factsheets/testing/step-ci/README.md
+exclude_docs: 'scripts/**
+
+  docs-requirements.txt
+
+  .readthedocs.yaml
+
+  generate_summaries.py
+
+  generate_tool_scripts.py
+
+  .gitignore
+
+  LICENSE
+
+  **/*.sh
+
+  **/*.hash.sha256
+
+  **/*.log
+
+  **/node_modules/**
+
+  log/**
+
+  site/**'
