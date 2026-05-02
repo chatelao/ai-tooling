@@ -1,0 +1,10 @@
+{
+  "project": {
+    "name": "Project X",
+    "lead": {
+      "name": "Jane Doe",
+      "email": "jane@example.com"
+    },
+    "status": "Active"
+  }
+}
