@@ -6,25 +6,13 @@
 
 React ist eine JavaScript-Bibliothek zum Erstellen von Benutzeroberflächen, die auf Komponenten basiert und von Meta entwickelt wurde.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://react.dev/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/React)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://react.dev/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/React) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -4,25 +4,13 @@
 
 ## Zweck: Biopython ist eine Sammlung von frei verfügbaren Python-Werkzeugen für die biologische Datenverarbeitung (Bioinformatik), die Funktionen für Sequenzanalyse, Strukturdaten und Zugriff auf Online-Datenbanken bietet.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://biopython.org/)
-
-## Wikipedia
-
-[Link](https://en.wikipedia.org/wiki/Biopython)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://biopython.org/) |
+| Wikipedia | [Link](https://en.wikipedia.org/wiki/Biopython) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -9,21 +9,12 @@ Gegensatz zur reinen CLI bietet der MCP Server dem Agenten Werkzeuge (Tools)
 mit Metadaten an, die es dem Modell erleichtern, die richtigen Parameter zu
 wählen und Best Practices einzuhalten.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://github.com/awslabs/mcp)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://github.com/awslabs/mcp) |
 
 ## Installation (Ubuntu 24.04)
 

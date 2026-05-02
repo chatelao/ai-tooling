@@ -6,25 +6,13 @@
 
 Spring Boot ist ein Java-basiertes Framework zur Erstellung von produktionsreifen, eigenständigen Anwendungen, die direkt gestartet werden können. Es vereinfacht die Entwicklung von Spring-Anwendungen durch "Opinionated Configuration".
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://spring.io/projects/spring-boot)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/Spring_Boot)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://spring.io/projects/spring-boot) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/Spring_Boot) |
 
 ## Installation (Ubuntu 24.04)
 

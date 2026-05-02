@@ -6,21 +6,12 @@
 
 Handlebars ist eine leistungsstarke Template-Engine, die auf Mustache aufbaut und diese um zusätzliche Funktionen wie Helper und Block-Helper erweitert, während sie die "logic-less" Philosophie weitgehend beibehält. Sie ermöglicht die Erstellung semantischer Templates, die sowohl auf dem Server (Node.js) als auch im Browser verwendet werden können.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://handlebarsjs.com/)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://handlebarsjs.com/) |
 
 ## Installation (Ubuntu 24.04)
 

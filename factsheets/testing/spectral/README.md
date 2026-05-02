@@ -8,21 +8,12 @@ Spectral ermöglicht das Linting von API-Beschreibungen (OpenAPI v2/v3, AsyncAPI
 um die Einhaltung von Best Practices und Design-Richtlinien sicherzustellen. Es
 ist hochgradig erweiterbar durch eigene Regelsätze.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://stoplight.io/open-source/spectral)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://stoplight.io/open-source/spectral) |
 
 ## Installation (Ubuntu 24.04)
 

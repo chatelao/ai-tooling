@@ -4,25 +4,13 @@
 
 ## Zweck: OpenSCAD ist eine skriptbasierte 3D-CAD-Software zur Erstellung von festen Konstruktionsobjekten.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://openscad.org/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/OpenSCAD)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://openscad.org/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/OpenSCAD) |
 
 ## Installation (Ubuntu 24.04)
 

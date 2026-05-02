@@ -6,21 +6,12 @@
 
 Die Standard-Engine in Ruby on Rails. Erlaubt das direkte Einbetten von Ruby-Code in Textdokumente.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://github.com/ruby/erb)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://github.com/ruby/erb) |
 
 ## Installation (Ubuntu 24.04)
 

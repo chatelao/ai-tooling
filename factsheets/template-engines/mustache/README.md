@@ -6,21 +6,12 @@
 
 Mustache ist eine "logikfreie" Template-Engine, die eine strikte Trennung zwischen Daten und Präsentation erzwingt. Da sie fast keine Programmierlogik (wie if-else oder Schleifen im herkömmlichen Sinne) direkt in den Templates zulässt, ist sie besonders wartungsfreundlich und sprachübergreifend einsetzbar (Implementierungen existieren für Ruby, JavaScript, Python, PHP, Java und viele mehr).
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://mustache.github.io/)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://mustache.github.io/) |
 
 ## Installation (Ubuntu 24.04)
 

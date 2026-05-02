@@ -4,25 +4,13 @@
 
 ## Zweck: Jmol ist ein Open-Source-Java-Viewer für chemische Strukturen in 3D mit Funktionen für Moleküle, Kristalle, Materialien und Biomoleküle.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://jmol.sourceforge.net/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/Jmol)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://jmol.sourceforge.net/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/Jmol) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -4,25 +4,13 @@
 
 ## Zweck: MeshLab ist ein Open-Source-System zur Verarbeitung und Bearbeitung großer, unstrukturierter 3D-Netze.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://www.meshlab.net/)
-
-## Wikipedia
-
-[Link](https://en.wikipedia.org/wiki/MeshLab)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://www.meshlab.net/) |
+| Wikipedia | [Link](https://en.wikipedia.org/wiki/MeshLab) |
 
 ## Installation (Ubuntu 24.04)
 

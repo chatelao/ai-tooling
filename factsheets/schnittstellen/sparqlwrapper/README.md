@@ -6,25 +6,13 @@
 
 SPARQLWrapper ist eine Python-Bibliothek, die als Wrapper um einen SPARQL-Endpunkt dient. Sie vereinfacht die Erstellung von Abfragen und das Parsen der Ergebnisse.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://sparqlwrapper.readthedocs.io/)
-
-## Wikipedia
-
-[Link](https://en.wikipedia.org/wiki/SPARQL)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://sparqlwrapper.readthedocs.io/) |
+| Wikipedia | [Link](https://en.wikipedia.org/wiki/SPARQL) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -4,25 +4,13 @@
 
 ## Zweck: Radare2 ist ein quelloffenes Framework für Reverse Engineering und die Analyse von Binärdateien.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://www.radare.org/)
-
-## Wikipedia
-
-[Link](https://en.wikipedia.org/wiki/Radare2)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://www.radare.org/) |
+| Wikipedia | [Link](https://en.wikipedia.org/wiki/Radare2) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -6,21 +6,12 @@
 
 Apache Ant ist ein Java-basiertes Build-Management-Tool, das vor allem für die Automatisierung von Kompiliervorgängen und anderen Aufgaben in der Softwareentwicklung verwendet wird.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://ant.apache.org/)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://ant.apache.org/) |
 
 ## Installation (Ubuntu 24.04)
 

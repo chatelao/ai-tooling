@@ -4,21 +4,12 @@
 
 ## Zweck: Renode ist ein Werkzeug für die Simulation von eingebetteten Systemen.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://renode.io/)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://renode.io/) |
 
 ## Installation (Ubuntu 24.04)
 

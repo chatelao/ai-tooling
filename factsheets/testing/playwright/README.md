@@ -10,25 +10,13 @@ KI-Agenten nutzen Playwright, um komplexe Interaktionen in Webanwendungen zu
 simulieren, Screenshots zu erstellen und die korrekte Funktion von Frontends zu
 verifizieren.
 
-## Reifegrad
-
-Stabil (Aktiv gewartet, v1.59.1 Stand April 2026)
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://playwright.dev/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/Playwright_(Software))
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil (Aktiv gewartet, v1.59.1 Stand April 2026) |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://playwright.dev/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/Playwright_(Software)) |
 
 ## Installation (Ubuntu 24.04)
 

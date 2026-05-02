@@ -4,25 +4,13 @@
 
 ## Zweck: LDView ist ein Echtzeit-3D-Viewer für LDraw-LEGO-Modelle mit Hardware-Beschleunigung.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://tc3d.com/ldview/)
-
-## Wikipedia
-
-[Link](https://en.wikipedia.org/wiki/LDraw)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://tc3d.com/ldview/) |
+| Wikipedia | [Link](https://en.wikipedia.org/wiki/LDraw) |
 
 ## Installation (Ubuntu 24.04)
 

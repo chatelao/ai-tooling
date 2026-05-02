@@ -4,25 +4,13 @@
 
 ## Zweck: RDKit ist eine Open-Source-Sammlung von Software für die Chemoinformatik und das maschinelle Lernen, die Funktionen für die Manipulation chemischer Strukturen und die Deskriptorberechnung bietet.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://www.rdkit.org/)
-
-## Wikipedia
-
-[Link](https://en.wikipedia.org/wiki/RDKit)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://www.rdkit.org/) |
+| Wikipedia | [Link](https://en.wikipedia.org/wiki/RDKit) |
 
 ## Installation (Ubuntu 24.04)
 

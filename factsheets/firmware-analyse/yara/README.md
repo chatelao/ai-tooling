@@ -4,25 +4,13 @@
 
 ## Zweck: YARA ist ein Werkzeug zur Identifizierung und Klassifizierung von Malware-Mustern basierend auf textuellen oder binären Regeln.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://virustotal.github.io/yara/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/YARA)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://virustotal.github.io/yara/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/YARA) |
 
 ## Installation (Ubuntu 24.04)
 

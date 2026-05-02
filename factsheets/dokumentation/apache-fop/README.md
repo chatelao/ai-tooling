@@ -4,25 +4,13 @@
 
 ## Zweck: Apache FOP (Formatting Objects Processor) ist ein Java-basierter Print-Formatter, der XSL-Formatting-Objects (XSL-FO) in verschiedene Ausgabeformate wie PDF, PostScript oder PCL konvertiert.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://xmlgraphics.apache.org/fop/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/Apache_FOP)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://xmlgraphics.apache.org/fop/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/Apache_FOP) |
 
 ## Installation (Ubuntu 24.04)
 

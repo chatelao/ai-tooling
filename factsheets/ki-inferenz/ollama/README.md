@@ -10,25 +10,13 @@ Konfiguration und Datensatz in einem "Modelfile" und bietet eine einfache API
 sowie ein CLI-Interface, was es ideal für die Integration in KI-Agenten macht,
 die lokale Inferenz benötigen.
 
-## Reifegrad
-
-Stabil (Aktiv gewartet, v0.20.7 Stand April 2026)
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://ollama.com/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/Ollama)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil (Aktiv gewartet, v0.20.7 Stand April 2026) |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://ollama.com/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/Ollama) |
 
 ## Installation (Ubuntu 24.04)
 

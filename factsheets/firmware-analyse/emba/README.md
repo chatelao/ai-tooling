@@ -4,21 +4,12 @@
 
 ## Zweck: EMBA ist ein Sicherheitsanalysator für Firmware von eingebetteten Geräten, der automatisierte Penetrationstests durchführt.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://github.com/e-m-b-a/emba)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://github.com/e-m-b-a/emba) |
 
 ## Installation (Ubuntu 24.04)
 

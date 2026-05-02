@@ -4,25 +4,13 @@
 
 ## Zweck: Binwalk ist ein Werkzeug zur Analyse, Reverse Engineering und Extraktion von Firmware-Images.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://github.com/ReFirmLabs/binwalk)
-
-## Wikipedia
-
-[Link](https://en.wikipedia.org/wiki/Binwalk)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://github.com/ReFirmLabs/binwalk) |
+| Wikipedia | [Link](https://en.wikipedia.org/wiki/Binwalk) |
 
 ## Installation (Ubuntu 24.04)
 

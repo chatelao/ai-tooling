@@ -6,25 +6,13 @@
 
 Oracle Database Free (ehemals Express Edition/XE) ist eine kostenlos nutzbare Edition der Oracle-Datenbank. Sie bietet den vollen Funktionsumfang der Oracle-Datenbank in einem kompakten Paket für Entwickler und kleine Unternehmen.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://www.oracle.com/database/technologies/oracle-database-free-downloads.html)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/Oracle_(Datenbank))
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://www.oracle.com/database/technologies/oracle-database-free-downloads.html) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/Oracle_(Datenbank)) |
 
 ## Installation (Ubuntu 24.04)
 

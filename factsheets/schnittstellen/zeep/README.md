@@ -6,25 +6,13 @@
 
 Zeep ist eine moderne SOAP-Client-Bibliothek für Python, die WSDL-Dateien parst und eine komfortable API bietet.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://docs.python-zeep.org/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/SOAP)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://docs.python-zeep.org/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/SOAP) |
 
 ## Installation (Ubuntu 24.04)
 

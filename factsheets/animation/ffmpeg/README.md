@@ -4,25 +4,13 @@
 
 ## Zweck: FFmpeg ist ein leistungsstarkes Framework zum Aufzeichnen, Konvertieren und Streamen von Audio- und Videodateien in nahezu jedem Format.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://ffmpeg.org/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/FFmpeg)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://ffmpeg.org/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/FFmpeg) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -4,25 +4,13 @@
 
 ## Zweck: Manim ist eine von Grant Sanderson (3Blue1Brown) entwickelte Python-Bibliothek zur Erstellung präziser mathematischer Animationen.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://www.manim.community/)
-
-## Wikipedia
-
-[Link](https://en.wikipedia.org/wiki/Manim)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://www.manim.community/) |
+| Wikipedia | [Link](https://en.wikipedia.org/wiki/Manim) |
 
 ## Installation (Ubuntu 24.04)
 

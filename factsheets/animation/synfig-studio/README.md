@@ -4,25 +4,13 @@
 
 ## Zweck: Synfig Studio ist eine freie 2D-Vektor-Animationssoftware, die für die Erstellung von Animationen in Filmqualität mit weniger Ressourcen konzipiert ist.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://www.synfig.org/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/Synfig)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://www.synfig.org/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/Synfig) |
 
 ## Installation (Ubuntu 24.04)
 

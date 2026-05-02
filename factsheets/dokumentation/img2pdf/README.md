@@ -4,21 +4,12 @@
 
 ## Zweck: Img2pdf ist ein Werkzeug, das Bilddateien verlustfrei und ohne Neukodierung der Pixeldaten in PDF-Dokumente konvertiert.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://github.com/josch/img2pdf)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://github.com/josch/img2pdf) |
 
 ## Installation (Ubuntu 24.04)
 

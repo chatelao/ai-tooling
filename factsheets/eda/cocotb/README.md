@@ -7,21 +7,12 @@
 cocotb ist ein Koroutinen-basiertes Co-Simulations-Verifikations-Framework für
 das Testen von VHDL- und Verilog-Hardware-Designs mit Python.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://www.cocotb.org/)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://www.cocotb.org/) |
 
 ## Installation (Ubuntu 24.04)
 

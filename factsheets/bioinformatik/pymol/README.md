@@ -4,25 +4,13 @@
 
 ## Zweck: PyMOL ist ein leistungsstarkes molekulares Grafiksystem zur Visualisierung und Erstellung hochwertiger 3D-Bilder von kleinen Molekülen und biologischen Makromolekülen wie Proteinen.
 
-## Reifegrad
-
-Stabil (gepatched für Python 3.12 Kompatibilität)
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://pymol.org/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/PyMOL)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil (gepatched für Python 3.12 Kompatibilität) |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://pymol.org/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/PyMOL) |
 
 ## Installation (Ubuntu 24.04)
 

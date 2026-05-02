@@ -6,25 +6,13 @@
 
 sparkql ist ein NPM-Paket zur Erstellung von SPARQL-Abfragen mit einer flüssigen API in JavaScript/TypeScript.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://npm.im/sparkql)
-
-## Wikipedia
-
-[Link](https://en.wikipedia.org/wiki/SPARQL)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://npm.im/sparkql) |
+| Wikipedia | [Link](https://en.wikipedia.org/wiki/SPARQL) |
 
 ## Installation (Ubuntu 24.04)
 

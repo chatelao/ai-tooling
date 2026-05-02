@@ -4,25 +4,13 @@
 
 ## Zweck: ImageMagick ist eine vielseitige Software-Suite zum Erstellen, Bearbeiten, Konvertieren und Anzeigen von Bitmap-Bildern.
 
-## Reifegrad
-
-Stabil
-
-## Technische Schulden
-
-Gering
-
-## Erwartetes Lebensende
-
-Kein EOL bekannt
-
-## Referenzhandbuch
-
-[Link](https://imagemagick.org/)
-
-## Wikipedia
-
-[Link](https://de.wikipedia.org/wiki/ImageMagick)
+| Eigenschaft | Wert |
+| :--- | :--- |
+| Reifegrad | Stabil |
+| Technische Schulden | Gering |
+| Erwartetes Lebensende | Kein EOL bekannt |
+| Referenzhandbuch | [Link](https://imagemagick.org/) |
+| Wikipedia | [Link](https://de.wikipedia.org/wiki/ImageMagick) |
 
 ## Installation (Ubuntu 24.04)
 
