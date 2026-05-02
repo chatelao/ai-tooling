@@ -33,3 +33,13 @@ pip install Jinja2
 ```bash
 python3 -c "import jinja2; print(jinja2.__version__)"
 ```
+
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene Jinja2-Templates:
+
+1.  `hello.html.j2`: Ein einfaches HTML-Template mit Variablenersetzung.
+2.  `inventory.ini.j2`: Ein komplexeres Beispiel für die Generierung einer Ansible-ähnlichen Inventory-Datei unter Verwendung von Schleifen.
+3.  `report.txt.j2`: Ein Textbericht-Template mit Datumsangaben, Schleifen und Filtern.
+4.  `user_profile.html.j2`: Ein HTML-Snippet für ein Benutzerprofil, das bedingte Logik und Filter nutzt.
+5.  `web_config.yaml.j2`: Ein Konfigurations-Template im YAML-Format mit Standardwerten.

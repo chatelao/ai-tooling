@@ -1,0 +1,9 @@
+[web_servers]
+{% for host in groups['web_servers'] %}
+{{ host }} ansible_host={{ hostvars[host]['ansible_host'] }}
+{% endfor %}
+
+[db_servers]
+{% for host in groups['db_servers'] %}
+{{ host }} ansible_host={{ hostvars[host]['ansible_host'] }}
+{% endfor %}
