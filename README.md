@@ -1,5 +1,7 @@
 # KI-Agenten Werkzeuge & Quellen
 
+[![Documentation Status](https://readthedocs.org/projects/ai-tooling/badge/?version=latest)](https://ai-tooling.readthedocs.io/en/latest/?badge=latest)
+
 Dieses Repository dient der Dokumentation und Verwaltung von Werkzeugen und
 Datenquellen, die für den Einsatz mit KI-Agenten auf Ubuntu 24.04 (Noble)
 optimiert sind. Es stellt eine strukturierte Basis dar, um die Interaktion

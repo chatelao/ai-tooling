@@ -1,6 +1,6 @@
 site_name: KI-Agenten Werkzeuge & Quellen
 repo_url: https://github.com/chatelao/ai-tooling
-docs_dir: .
+docs_dir: docs
 theme:
   name: material
   features:
@@ -208,28 +208,3 @@ nav:
     - Schemathesis: factsheets/testing/schemathesis/README.md
     - Spectral: factsheets/testing/spectral/README.md
     - Step Ci: factsheets/testing/step-ci/README.md
-exclude_docs: 'scripts/**
-
-  docs-requirements.txt
-
-  .readthedocs.yaml
-
-  generate_summaries.py
-
-  generate_tool_scripts.py
-
-  .gitignore
-
-  LICENSE
-
-  **/*.sh
-
-  **/*.hash.sha256
-
-  **/*.log
-
-  **/node_modules/**
-
-  log/**
-
-  site/**'

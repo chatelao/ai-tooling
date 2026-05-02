@@ -5,7 +5,7 @@ def generate_mkdocs_config():
     config = {
         'site_name': 'KI-Agenten Werkzeuge & Quellen',
         'repo_url': 'https://github.com/chatelao/ai-tooling',
-        'docs_dir': '.',
+        'docs_dir': 'docs',
         'theme': {
             'name': 'material',
             'features': [
@@ -92,10 +92,12 @@ def generate_mkdocs_config():
     factsheets_nav = [{'Übersicht': 'factsheets/README.md'}]
 
     factsheets_dir = 'factsheets'
-    groups = sorted([d for d in os.listdir(factsheets_dir) if os.path.isdir(os.path.join(factsheets_dir, d))])
+    # Use the real directory to discover tools, but documentation will use the linked one in 'docs/'
+    real_factsheets_dir = 'factsheets'
+    groups = sorted([d for d in os.listdir(real_factsheets_dir) if os.path.isdir(os.path.join(real_factsheets_dir, d))])
 
     for group in groups:
-        group_path = os.path.join(factsheets_dir, group)
+        group_path = os.path.join(real_factsheets_dir, group)
         group_readme = os.path.join(group_path, 'README.md')
 
         group_items = []
@@ -114,24 +116,6 @@ def generate_mkdocs_config():
             factsheets_nav.append({group.capitalize(): group_items})
 
     config['nav'].append({'Factsheets': factsheets_nav})
-
-    # Exclude non-documentation files from the build
-    exclude_list = [
-        'scripts/**',
-        'docs-requirements.txt',
-        '.readthedocs.yaml',
-        'generate_summaries.py',
-        'generate_tool_scripts.py',
-        '.gitignore',
-        'LICENSE',
-        '**/*.sh',
-        '**/*.hash.sha256',
-        '**/*.log',
-        '**/node_modules/**',
-        'log/**',
-        'site/**'
-    ]
-    config['exclude_docs'] = "\n".join(exclude_list)
 
     with open('mkdocs.yml', 'w', encoding='utf-8') as f:
         yaml.dump(config, f, allow_unicode=True, sort_keys=False)
