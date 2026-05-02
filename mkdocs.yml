@@ -29,6 +29,12 @@ theme:
       name: Switch to light mode
 plugins:
 - search
+- with-pdf:
+    author: KI-Agenten Team
+    copyright: 2024 KI-Agenten Team
+    output_path: ki-agenten-werkzeuge.pdf
+    cover: true
+    toc_title: Inhaltsverzeichnis
 markdown_extensions:
 - admonition
 - attr_list

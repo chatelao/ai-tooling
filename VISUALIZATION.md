@@ -58,3 +58,7 @@ Diese Dokumentation ordnet gewünschte Visualisierungsergebnisse den entsprechen
 | HTML-Rendering | [Thymeleaf](factsheets/template-engines/thymeleaf/README.md) | Template-Engines |
 | HTML-Rendering | [Liquid](factsheets/template-engines/liquid/README.md) | Template-Engines |
 | HTML-Rendering | [ERB (Embedded Ruby)](factsheets/template-engines/erb/README.md) | Template-Engines |
+| Firmware-Analyse | [Binwalk](factsheets/firmware-analyse/binwalk/README.md) | Firmware-Analyse |
+| Firmware-Analyse | [Ghidra](factsheets/firmware-analyse/ghidra/README.md) | Firmware-Analyse |
+| Firmware-Analyse | [Radare2](factsheets/firmware-analyse/radare2/README.md) | Firmware-Analyse |
+| Hex-Ansicht | [Hexdump](factsheets/firmware-analyse/hexdump/README.md) | Firmware-Analyse |
