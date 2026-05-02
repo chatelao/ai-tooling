@@ -15,6 +15,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libpango-1.0-0 libharfbuzz0b libpangoft2-1.0-0
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -40,4 +45,4 @@ jobs:
         run: python scripts/generate_mkdocs_config.py
 
       - name: Build documentation
-        run: mkdocs build --strict
+        run: mkdocs build

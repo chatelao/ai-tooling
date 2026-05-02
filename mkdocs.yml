@@ -29,12 +29,6 @@ theme:
       name: Switch to light mode
 plugins:
 - search
-- with-pdf:
-    author: KI-Agenten Team
-    copyright: 2024 KI-Agenten Team
-    output_path: ki-agenten-werkzeuge.pdf
-    cover: true
-    toc_title: Inhaltsverzeichnis
 markdown_extensions:
 - admonition
 - attr_list
@@ -73,7 +67,9 @@ nav:
   - App-entwicklung:
     - Übersicht: factsheets/app-entwicklung/README.md
     - Flutter: factsheets/app-entwicklung/flutter/README.md
-    - React: factsheets/app-entwicklung/react/README.md
+    - React:
+      - Zusammenfassung: factsheets/app-entwicklung/react/README.md
+      - Übersicht My-App: factsheets/app-entwicklung/react/my-app/README.md
     - React Native: factsheets/app-entwicklung/react-native/README.md
     - Spring Boot: factsheets/app-entwicklung/spring-boot/README.md
   - Bioinformatik:
@@ -208,3 +204,16 @@ nav:
     - Schemathesis: factsheets/testing/schemathesis/README.md
     - Spectral: factsheets/testing/spectral/README.md
     - Step Ci: factsheets/testing/step-ci/README.md
+exclude_docs: '**/*.sh
+
+  **/*.hash.sha256
+
+  **/*.log
+
+  **/node_modules/**
+
+  log/**
+
+  site/**
+
+  **/examples/**'

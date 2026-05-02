@@ -91,8 +91,6 @@ def generate_mkdocs_config():
     # Factsheets navigation
     factsheets_nav = [{'Übersicht': 'factsheets/README.md'}]
 
-    factsheets_dir = 'factsheets'
-    # Use the real directory to discover tools, but documentation will use the linked one in 'docs/'
     real_factsheets_dir = 'factsheets'
     groups = sorted([d for d in os.listdir(real_factsheets_dir) if os.path.isdir(os.path.join(real_factsheets_dir, d))])
 
@@ -106,16 +104,55 @@ def generate_mkdocs_config():
 
         tools = sorted([d for d in os.listdir(group_path) if os.path.isdir(os.path.join(group_path, d))])
         for tool in tools:
-            tool_readme = os.path.join(group_path, tool, 'README.md')
-            if os.path.exists(tool_readme):
-                # Capitalize tool name for display
-                display_name = tool.replace('-', ' ').title()
-                group_items.append({display_name: f'factsheets/{group}/{tool}/README.md'})
+            tool_path = os.path.join(group_path, tool)
+
+            tool_items = []
+
+            # Recursively find all Markdown files
+            for root, dirs, files in os.walk(tool_path):
+                # Skip examples directory for navigation to keep it clean
+                if 'examples' in root.split(os.sep):
+                    continue
+
+                for file in sorted(files):
+                    if file.endswith('.md'):
+                        rel_path = os.path.relpath(os.path.join(root, file), real_factsheets_dir)
+                        # Create a nice name
+                        if file == 'README.md':
+                            if root == tool_path:
+                                name = 'Zusammenfassung'
+                            else:
+                                sub_dir = os.path.basename(root)
+                                name = f'Übersicht {sub_dir.title()}'
+                        else:
+                            name = os.path.splitext(file)[0].replace('-', ' ').replace('_', ' ').title()
+
+                        tool_items.append({name: f'factsheets/{rel_path}'})
+
+            display_name = tool.replace('-', ' ').title()
+            if len(tool_items) > 1:
+                # Ensure Summary is first
+                tool_items.sort(key=lambda x: 0 if 'Zusammenfassung' in x else 1)
+                group_items.append({display_name: tool_items})
+            elif len(tool_items) == 1:
+                group_items.append({display_name: list(tool_items[0].values())[0]})
 
         if group_items:
             factsheets_nav.append({group.capitalize(): group_items})
 
     config['nav'].append({'Factsheets': factsheets_nav})
+
+    # Exclude non-documentation files from the build
+    exclude_list = [
+        '**/*.sh',
+        '**/*.hash.sha256',
+        '**/*.log',
+        '**/node_modules/**',
+        'log/**',
+        'site/**',
+        '**/examples/**', # Exclude all examples
+    ]
+    config['exclude_docs'] = "\n".join(exclude_list)
 
     with open('mkdocs.yml', 'w', encoding='utf-8') as f:
         yaml.dump(config, f, allow_unicode=True, sort_keys=False)
