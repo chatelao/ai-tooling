@@ -20,6 +20,14 @@ das Testen von VHDL- und Verilog-Hardware-Designs mit Python.
 pip install cocotb
 ```
 
+## Hello World
+
+```python
+@cocotb.test()
+async def test(dut):
+    dut._log.info("Hello World")
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

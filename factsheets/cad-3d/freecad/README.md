@@ -18,6 +18,13 @@
 sudo add-apt-repository ppa:freecad-maintainers/freecad-stable; sudo apt update; sudo apt install freecad
 ```
 
+## Hello World
+
+```python
+import FreeCAD
+FreeCAD.Console.PrintMessage("Hello World\n")
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

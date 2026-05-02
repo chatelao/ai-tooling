@@ -19,6 +19,13 @@ sudo apt update
 sudo apt install python3-biopython
 ```
 
+## Hello World
+
+```python
+from Bio.Seq import Seq
+print(Seq("AGT").reverse_complement())
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

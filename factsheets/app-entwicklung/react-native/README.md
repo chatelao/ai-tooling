@@ -22,6 +22,15 @@ React Native erfordert Node.js und JDK. Die CLI kann über npm ausgeführt werde
 npx react-native init MyProject
 ```
 
+## Hello World
+
+```jsx
+import React from 'react';
+import { Text } from 'react-native';
+
+export default () => <Text>Hello World</Text>;
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

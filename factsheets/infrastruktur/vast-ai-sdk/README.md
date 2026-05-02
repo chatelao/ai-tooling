@@ -22,6 +22,12 @@ Daten/Modelle auf Remote-GPUs zu übertragen.
 pip install vastai
 ```
 
+## Hello World
+
+```bash
+vastai --version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

@@ -21,6 +21,12 @@ sudo apt update
 sudo apt install postgresql
 ```
 
+## Hello World
+
+```sql
+SELECT 'Hello World';
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

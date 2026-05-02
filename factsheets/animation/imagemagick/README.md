@@ -19,6 +19,12 @@ sudo apt update
 sudo apt install imagemagick
 ```
 
+## Hello World
+
+```bash
+convert -size 100x100 xc:white -draw "text 10,50 'Hello World'" hello.png
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

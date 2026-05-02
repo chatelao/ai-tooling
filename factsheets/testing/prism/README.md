@@ -22,6 +22,12 @@ generieren.
 npm install @stoplight/prism-cli
 ```
 
+## Hello World
+
+```bash
+prism mock api.yaml
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

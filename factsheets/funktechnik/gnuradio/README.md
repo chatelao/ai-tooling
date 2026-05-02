@@ -19,6 +19,12 @@ sudo apt update
 sudo apt install -y gnuradio
 ```
 
+## Hello World
+
+```bash
+gnuradio-config-info --version
+```
+
 ## Validierung
 
 ```bash

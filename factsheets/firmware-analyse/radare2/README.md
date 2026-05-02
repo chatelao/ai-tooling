@@ -18,6 +18,12 @@
 sudo apt install radare2
 ```
 
+## Hello World
+
+```bash
+r2 -c "pd 10" /bin/ls
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

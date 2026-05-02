@@ -19,6 +19,12 @@ Ursprünglich von Shopify für E-Commerce-Templates entwickelt. Heute ist es der
 sudo apt install -y ruby-liquid
 ```
 
+## Hello World
+
+```liquid
+{{ "Hello World" | upcase }}
+```
+
 ## Validierung
 
 ```bash

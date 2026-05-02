@@ -18,6 +18,12 @@
 sudo apt install yara
 ```
 
+## Hello World
+
+```yara
+rule hello { condition: true }
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

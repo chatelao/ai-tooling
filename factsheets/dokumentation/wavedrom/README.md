@@ -17,6 +17,12 @@
 npm install wavedrom
 ```
 
+## Hello World
+
+```json
+{ "signal": [ { "name": "clk", "wave": "p....." } ] }
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

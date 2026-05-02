@@ -22,6 +22,13 @@ sudo sed -i 's/^from imp import find_module/import importlib.util/' /usr/lib/pyt
 sudo sed -i "s/find_module('pymol')\[1\]/importlib.util.find_spec('pymol').submodule_search_locations[0]/" /usr/lib/python3/dist-packages/pymol/__init__.py
 ```
 
+## Hello World
+
+```python
+import pymol
+pymol.finish_launching()
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

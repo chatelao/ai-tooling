@@ -20,6 +20,17 @@ SPARQLWrapper ist eine Python-Bibliothek, die als Wrapper um einen SPARQL-Endpun
 sudo apt install python3-sparqlwrapper
 ```
 
+## Hello World
+
+```python
+from SPARQLWrapper import SPARQLWrapper
+
+sparql = SPARQLWrapper("http://dbpedia.org/sparql")
+sparql.setQuery("SELECT * WHERE { ?s ?p ?o } LIMIT 1")
+results = sparql.query().convert()
+print(results)
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

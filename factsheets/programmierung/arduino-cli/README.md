@@ -24,6 +24,12 @@ angewiesen zu sein.
 curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh | BINDIR=$HOME/.local/bin sh
 ```
 
+## Hello World
+
+```bash
+arduino-cli version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

@@ -17,6 +17,12 @@
 sudo apt install img2pdf
 ```
 
+## Hello World
+
+```bash
+img2pdf -o out.pdf in.jpg
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

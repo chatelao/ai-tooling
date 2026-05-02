@@ -19,6 +19,12 @@ sudo apt update
 sudo apt install synfigstudio
 ```
 
+## Hello World
+
+```bash
+synfig --version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

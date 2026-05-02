@@ -24,6 +24,12 @@ Voraussetzung: [uv](https://github.com/astral-sh/uv) muss installiert sein.
 uvx awslabs.aws-api-mcp-server@latest
 ```
 
+## Hello World
+
+```bash
+npx @awslabs/aws-api-mcp-server
+```
+
 ## Validierung
 
 Der Server wird normalerweise über einen MCP-Client konfiguriert. Manuell kann

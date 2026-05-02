@@ -23,6 +23,12 @@ bereitzustellen.
 pip install vllm
 ```
 
+## Hello World
+
+```bash
+python3 -m vllm.entrypoints.openai.api_server
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

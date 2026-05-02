@@ -26,6 +26,16 @@ sudo ln -sf /opt/spring-boot-cli/bin/spring /usr/local/bin/spring
 rm spring-boot-cli.tar.gz
 ```
 
+## Hello World
+
+```java
+@RestController
+class Hello {
+    @GetMapping("/")
+    String hi() { return "Hello World"; }
+}
+```
+
 ## Validierung
 
 ```bash

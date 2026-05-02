@@ -18,6 +18,12 @@
 sudo apt install bsdextrautils
 ```
 
+## Hello World
+
+```bash
+echo "Hello" | hexdump -C
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

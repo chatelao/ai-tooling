@@ -19,6 +19,12 @@ sudo apt update
 sudo apt install -y osmium-tool
 ```
 
+## Hello World
+
+```bash
+osmium --version
+```
+
 ## Validierung
 
 ```bash

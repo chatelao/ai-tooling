@@ -25,6 +25,12 @@ pip install Jinja2
 python3 -c "import jinja2; print(jinja2.__version__)"
 ```
 
+## Hello World
+
+```jinja2
+Hello {{ name }}!
+```
+
 ## Beispiele
 
 Im Ordner `examples/` befinden sich verschiedene Jinja2-Templates:

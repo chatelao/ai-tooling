@@ -23,6 +23,14 @@ export PATH="$PATH:/opt/flutter/bin"
 flutter doctor
 ```
 
+## Hello World
+
+```dart
+import 'package:flutter/material.dart';
+
+void main() => runApp(Text('Hello World'));
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

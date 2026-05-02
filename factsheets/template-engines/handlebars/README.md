@@ -25,6 +25,12 @@ npm install -g handlebars
 handlebars --version
 ```
 
+## Hello World
+
+```handlebars
+{{title}}
+```
+
 ## Beispiele
 
 Im Ordner `examples/` befinden sich verschiedene Handlebars-Templates und zugehörige Datendateien:

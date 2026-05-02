@@ -23,6 +23,12 @@ sudo apt update
 sudo apt install -y kubectl
 ```
 
+## Hello World
+
+```bash
+kubectl version
+```
+
 ## Validierung
 
 ```bash

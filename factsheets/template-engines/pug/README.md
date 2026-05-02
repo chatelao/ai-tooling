@@ -19,6 +19,12 @@ Setzt auf eine stark abstrahierte, einrückungsbasierte Syntax komplett ohne sch
 npm install -g pug-cli
 ```
 
+## Hello World
+
+```pug
+p Hello World
+```
+
 ## Validierung
 
 ```bash

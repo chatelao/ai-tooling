@@ -17,6 +17,12 @@
 git clone https://github.com/e-m-b-a/emba.git
 ```
 
+## Hello World
+
+```bash
+./emba -h
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

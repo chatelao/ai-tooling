@@ -22,6 +22,12 @@ Hardware-Beschreibungen.
 sudo apt install yosys
 ```
 
+## Hello World
+
+```bash
+yosys -p "help"
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

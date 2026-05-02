@@ -19,6 +19,12 @@ sudo apt update
 sudo apt install -y rtl-sdr
 ```
 
+## Hello World
+
+```bash
+rtl_test
+```
+
 ## Validierung
 
 ```bash

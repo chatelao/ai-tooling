@@ -19,6 +19,12 @@ sudo apt update
 sudo apt install ffmpeg
 ```
 
+## Hello World
+
+```bash
+ffmpeg -version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

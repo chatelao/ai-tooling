@@ -20,6 +20,12 @@ Rasqal ist eine C-Bibliothek, die das Parsen und Ausführen von SPARQL-Abfragen 
 sudo apt install rasqal-utils
 ```
 
+## Hello World
+
+```bash
+roqet -q -e "SELECT * WHERE { ?s ?p ?o } LIMIT 1"
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

@@ -18,6 +18,12 @@ sudo apt update
 sudo apt install docker-ce
 ```
 
+## Hello World
+
+```bash
+docker run hello-world
+```
+
 ## Validierung
 
 ```bash

@@ -18,6 +18,12 @@
 sudo apt install binutils
 ```
 
+## Hello World
+
+```bash
+objdump -h file.o
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

@@ -21,6 +21,12 @@ ist hochgradig erweiterbar durch eigene Regelsätze.
 npm install @stoplight/spectral-cli
 ```
 
+## Hello World
+
+```bash
+spectral lint openapi.yaml
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

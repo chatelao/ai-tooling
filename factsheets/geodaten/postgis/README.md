@@ -19,6 +19,12 @@ sudo apt update
 sudo apt install -y postgis postgresql-16-postgis-3 gdal-bin
 ```
 
+## Hello World
+
+```sql
+SELECT PostGIS_Full_Version();
+```
+
 ## Validierung
 
 ```bash

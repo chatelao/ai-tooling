@@ -23,6 +23,12 @@ sudo mv grpcurl /usr/local/bin/
 rm grpcurl.tar.gz
 ```
 
+## Hello World
+
+```bash
+grpcurl -plaintext localhost:50051 list
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

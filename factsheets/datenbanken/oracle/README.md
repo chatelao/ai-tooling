@@ -25,6 +25,12 @@ docker pull container-registry.oracle.com/database/free:latest
 Alternativ finden Sie die Downloads für andere Linux-Distributionen hier:
 [Download Link](https://www.oracle.com/database/technologies/oracle-database-free-downloads.html)
 
+## Hello World
+
+```sql
+SELECT 'Hello World' FROM dual;
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

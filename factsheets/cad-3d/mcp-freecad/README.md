@@ -18,6 +18,12 @@ git clone https://github.com/jango-blockchained/mcp-freecad.git
 cd mcp-freecad && pip install -r requirements.txt
 ```
 
+## Hello World
+
+```bash
+npx mcp-freecad
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

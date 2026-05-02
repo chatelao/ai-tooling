@@ -18,6 +18,12 @@
 sudo npm install -g --unsafe-perm node-red
 ```
 
+## Hello World
+
+```bash
+node-red --version
+```
+
 ## Validierung
 
 ```bash

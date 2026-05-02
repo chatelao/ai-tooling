@@ -22,6 +22,12 @@ Cortex-R Mikrocontroller.
 sudo apt install gdb-multiarch
 ```
 
+## Hello World
+
+```bash
+arm-none-eabi-gdb --version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

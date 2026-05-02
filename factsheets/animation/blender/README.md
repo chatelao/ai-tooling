@@ -19,6 +19,13 @@ sudo apt update
 sudo apt install blender
 ```
 
+## Hello World
+
+```python
+import bpy
+bpy.ops.mesh.primitive_cube_add()
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

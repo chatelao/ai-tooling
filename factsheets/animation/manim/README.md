@@ -20,6 +20,16 @@ sudo apt install ffmpeg libcairo2-dev libpango1.0-dev
 pip install manim
 ```
 
+## Hello World
+
+```python
+from manim import *
+
+class HelloWorld(Scene):
+    def construct(self):
+        self.add(Text("Hello World"))
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

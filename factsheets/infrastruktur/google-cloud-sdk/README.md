@@ -23,6 +23,12 @@ exec -l $SHELL
 gcloud init
 ```
 
+## Hello World
+
+```bash
+gcloud --version
+```
+
 ## Validierung
 
 ```bash

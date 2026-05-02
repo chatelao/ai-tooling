@@ -20,6 +20,12 @@ xmllint ist ein Werkzeug aus dem libxml2-Paket zur Validierung, Formatierung und
 sudo apt install libxml2-utils
 ```
 
+## Hello World
+
+```bash
+xmllint --version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

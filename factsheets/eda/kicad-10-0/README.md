@@ -18,6 +18,12 @@
 sudo add-apt-repository ppa:kicad/kicad-10.0-releases; sudo apt update; sudo apt install --install-recommends kicad
 ```
 
+## Hello World
+
+```bash
+kicad --version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

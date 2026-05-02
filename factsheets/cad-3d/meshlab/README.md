@@ -18,6 +18,12 @@
 sudo apt install meshlab
 ```
 
+## Hello World
+
+```bash
+meshlabserver -version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

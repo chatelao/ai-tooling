@@ -19,6 +19,12 @@ Node.js ist eine JavaScript-Laufzeitumgebung, die auf der Chrome V8 JavaScript-E
 sudo apt install nodejs npm
 ```
 
+## Hello World
+
+```javascript
+console.log("Hello World");
+```
+
 ## Validierung
 
 ```bash

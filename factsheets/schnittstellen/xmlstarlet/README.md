@@ -20,6 +20,12 @@ XMLStarlet ist ein Toolkit zur XML-Verarbeitung von der Kommandozeile (Validieru
 sudo apt install xmlstarlet
 ```
 
+## Hello World
+
+```bash
+xmlstarlet --version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

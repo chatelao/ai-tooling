@@ -23,6 +23,12 @@ Embedded-Entwicklung auf Linux-Systemen.
 sudo apt install gcc-arm-none-eabi
 ```
 
+## Hello World
+
+```bash
+arm-none-eabi-gcc --version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

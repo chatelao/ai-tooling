@@ -22,6 +22,12 @@ von Hardware-Adaptern und Zielarchitekturen.
 sudo apt install openocd
 ```
 
+## Hello World
+
+```bash
+openocd --version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
