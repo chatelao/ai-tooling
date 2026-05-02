@@ -7,7 +7,7 @@ Diese Roadmap dokumentiert den aktuellen Stand der Werkzeug-Factsheets und defin
 Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite identifiziert:
 
 - **Gesamtanzahl Factsheets:** 114 (geschätzt)
-- **Factsheets mit Verbesserungsbedarf:** 62
+- **Factsheets mit Verbesserungsbedarf:** 61
 - **Hauptprobleme:**
     - Platzhalter-Beschreibungen (Zweck-Sektion unvollständig)
     - Fehlende oder unzureichende Beispieldaten (weniger als 5 Beispiele)
@@ -86,7 +86,6 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Template-engines | blade | No examples |
 | Template-engines | ejs | No examples |
 | Template-engines | erb | No examples |
-| Template-engines | handlebars | No examples |
 | Template-engines | liquid | No examples |
 | Template-engines | pug | No examples |
 | Template-engines | razor | No examples |
