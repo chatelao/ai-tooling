@@ -1,0 +1,9 @@
+{{#if isAdmin}}
+  <p>Welcome, Admin!</p>
+{{else}}
+  <p>Welcome, User.</p>
+{{/if}}
+
+{{#unless accountActive}}
+  <p>Your account is inactive. Please activate it.</p>
+{{/unless}}

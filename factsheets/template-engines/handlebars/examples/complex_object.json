@@ -1,0 +1,8 @@
+{
+  "title": "Introduction to Handlebars",
+  "body": "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.",
+  "comments": [
+    {"author": "Dev1", "content": "Great tool!"},
+    {"author": "Dev2", "content": "I love the simplicity."}
+  ]
+}
