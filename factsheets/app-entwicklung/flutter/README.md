@@ -4,8 +4,7 @@
 
 ## Zweck
 
-Flutter ist ein UI-Toolkit von Google für die Entwicklung nativ kompilierter
-Anwendungen für Mobile, Web und Desktop aus einer einzigen Codebasis.
+Flutter ist ein UI-Toolkit von Google für die Entwicklung nativ kompilierter Anwendungen für Mobile, Web und Desktop aus einer einzigen Codebasis.
 
 ## Reifegrad
 

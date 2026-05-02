@@ -9,7 +9,7 @@
 | 4c8a9b89 | PANDA, Radare2, YARA, Renode, AWS CLI, AWS MCP Server, Azure CLI, Azure MCP Server, Google Cloud Run MCP, Google Cloud SDK, Docker, Docker Compose, Kubernetes (kubectl) |
 | 9fdadc99 | Vast.ai SDK, Xvfb, Ollama, vLLM, Arduino CLI, ARM GDB, Blockly, GNU Toolchain for ARM, OpenOCD |
 | 8e4c24e8 | Apache Ant, Hurl, Java (OpenJDK), Maven, Node.js, Pawn Compiler, PHP Composer, Pillow, PlatformIO Core, Playwright, Prism, xmllint, XMLStarlet, xsltproc, Zeep |
-| 16ca16e0 | Schemathesis, Spectral, Step CI, Rasqal, SPARQLWrapper, sparkql,  graphqurl, grpcurl, Schemathesis, Spectral, Step CI |
+| 16ca16e0 | Schemathesis, Spectral, Step CI, Rasqal, SPARQLWrapper, sparkql, graphqurl, grpcurl, OpenAPI Generator |
 | a445068e | GNU Radio, Gqrx SDR, Inspectrum, Node-RED, rtl-sdr, Universal Radio Hacker (URH) |
 | 88b35326 | MariaDB, MSSQL Express, Oracle Database Free, PostgreSQL |
 | 8fb010b4 | Jinja2, Twig, Blade, Mustache, Handlebars, EJS (Embedded JS), Pug, Razor, Thymeleaf, Liquid, ERB (Embedded Ruby) |

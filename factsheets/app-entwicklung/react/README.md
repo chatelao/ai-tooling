@@ -4,8 +4,7 @@
 
 ## Zweck
 
-React ist eine JavaScript-Bibliothek zum Erstellen von Benutzeroberflächen,
-insbesondere für Single-Page-Webanwendungen.
+React ist eine JavaScript-Bibliothek zum Erstellen von Benutzeroberflächen, die auf Komponenten basiert und von Meta entwickelt wurde.
 
 ## Reifegrad
 

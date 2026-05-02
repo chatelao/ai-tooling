@@ -4,8 +4,7 @@
 
 ## Zweck
 
-React Native ist ein Framework zum Erstellen nativer Apps für Android und iOS
-unter Verwendung von React.
+React Native ist ein Framework zum Erstellen nativer Apps für Android und iOS unter Verwendung von React.
 
 ## Reifegrad
 
