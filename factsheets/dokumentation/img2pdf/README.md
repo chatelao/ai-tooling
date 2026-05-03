@@ -25,13 +25,13 @@ img2pdf -o out.pdf in.jpg
 
 ## Beispieldaten
 
-Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
+Im Ordner `examples/` befinden sich verschiedene Skripte zur Nutzung von `img2pdf`:
 
-- `test1.jpg`
-- `test2.jpg`
-- `test3.jpg`
-- `test4.jpg`
-- `test5.jpg`
+1.  `convert_single.sh`: Grundlegende Konvertierung eines einzelnen Bildes.
+2.  `convert_multiple.sh`: Konvertierung mehrerer Bilder in ein einzelnes PDF.
+3.  `set_metadata.sh`: Setzen von PDF-Metadaten während der Konvertierung.
+4.  `set_pagesize.sh`: Festlegen einer spezifischen Seitengröße (z.B. A4).
+5.  `fit_image.sh`: Einpassen des Bildes in die Seite unter Beibehaltung des Seitenverhältnisses.
 
 ## Validierung
 

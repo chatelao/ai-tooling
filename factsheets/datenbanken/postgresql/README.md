@@ -31,8 +31,11 @@ SELECT 'Hello World';
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
-- `schema.sql`
-- `data.sql`
+- `schema.sql`: Grundlegendes Tabellenschema.
+- `data.sql`: Beispieldatensätze.
+- `join_query.sql`: Beispiel für eine JOIN-Abfrage.
+- `aggregate_query.sql`: Beispiel für Aggregatfunktionen und GROUP BY.
+- `window_function.sql`: Beispiel für eine Window-Funktion.
 
 ## Validierung
 
