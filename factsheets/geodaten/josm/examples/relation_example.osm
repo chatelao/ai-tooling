@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-1' lat='52.5200' lon='13.4050' />
+  <node id='-2' lat='52.5205' lon='13.4055' />
+  <node id='-3' lat='52.5200' lon='13.4060' />
+  <way id='-4'>
+    <nd ref='-1' />
+    <nd ref='-2' />
+    <nd ref='-3' />
+    <nd ref='-1' />
+  </way>
+  <relation id='-5' action='modify' visible='true'>
+    <member type='way' ref='-4' role='outer' />
+    <tag k='type' v='multipolygon' />
+    <tag k='landuse' v='grass' />
+  </relation>
+</osm>

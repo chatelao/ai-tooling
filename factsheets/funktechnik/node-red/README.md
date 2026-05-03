@@ -24,6 +24,16 @@ sudo npm install -g --unsafe-perm node-red
 node-red --version
 ```
 
+## Beispieldaten
+
+Die folgenden Beispiel-Flows befinden sich im Ordner `examples/`:
+
+- `hello_world.json`: Ein einfacher Inject- und Debug-Flow.
+- `http_endpoint.json`: Erzeugt einen HTTP-Endpunkt unter `/hello`.
+- `mqtt_bridge.json`: Beispiel für die Verarbeitung von MQTT-Nachrichten.
+- `dashboard_minimal.json`: Ein einfaches Dashboard mit Slider und Gauge.
+- `function_node.json`: Verwendung von JavaScript in einer Function-Node.
+
 ## Validierung
 
 ```bash

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-101' action='modify' visible='true' lat='52.5200' lon='13.4050'>
+    <tag k='amenity' v='bench' />
+    <tag k='backrest' v='yes' />
+    <tag k='material' v='wood' />
+  </node>
+  <node id='-102' action='modify' visible='true' lat='52.5201' lon='13.4051'>
+    <tag k='amenity' v='waste_basket' />
+  </node>
+</osm>

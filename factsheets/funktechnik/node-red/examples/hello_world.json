@@ -1,0 +1,54 @@
+[
+    {
+        "id": "e9366763.507428",
+        "type": "tab",
+        "label": "Hello World",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "f5b8a6a1.0a4758",
+        "type": "inject",
+        "z": "e9366763.507428",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "Hello Node-RED!",
+        "payloadType": "str",
+        "x": 150,
+        "y": 100,
+        "wires": [
+            [
+                "6b4999f9.94b668"
+            ]
+        ]
+    },
+    {
+        "id": "6b4999f9.94b668",
+        "type": "debug",
+        "z": "e9366763.507428",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 350,
+        "y": 100,
+        "wires": []
+    }
+]

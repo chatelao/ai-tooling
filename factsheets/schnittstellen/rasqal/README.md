@@ -32,6 +32,9 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
 - `example.rq`: Eine einfache SPARQL-Abfrage.
 - `data.ttl`: Eine Beispieldatei im Turtle-Format.
+- `filter_query.rq`: SPARQL-Abfrage mit Sprach-Filter.
+- `construct_query.rq`: SPARQL CONSTRUCT Beispiel.
+- `describe_query.rq`: SPARQL DESCRIBE Beispiel.
 
 ## Validierung
 

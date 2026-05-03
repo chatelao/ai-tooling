@@ -7,7 +7,7 @@ Diese Roadmap dokumentiert den aktuellen Stand der Werkzeug-Factsheets und defin
 Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite identifiziert:
 
 - **Gesamtanzahl Factsheets:** 114 (geschätzt)
-- **Factsheets mit Verbesserungsbedarf:** 34
+- **Factsheets mit Verbesserungsbedarf:** 29
 - **Hauptprobleme:**
     - Platzhalter-Beschreibungen (Zweck-Sektion unvollständig)
     - Fehlende oder unzureichende Beispieldaten (weniger als 5 Beispiele)
@@ -48,9 +48,6 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Eda | openfpgaloader | Few examples (2) |
 | Firmware-analyse | emba | Few examples (4) |
 | Firmware-analyse | panda | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
-| Funktechnik | inspectrum | No examples |
-| Funktechnik | node-red | No examples |
-| Geodaten | josm | No examples |
 | Hardware-simulation | renode | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Infrastruktur | aws-cli | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Infrastruktur | aws-mcp-server | Few examples (4), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
@@ -61,9 +58,7 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Infrastruktur | vast-ai-sdk | Few examples (4) |
 | Infrastruktur | xvfb | Few examples (3) |
 | Ki-inferenz | vllm | Few examples (4) |
-| Schnittstellen | graphqurl | Few examples (2) |
 | Schnittstellen | openapi-generator | Few examples (4) |
-| Schnittstellen | rasqal | Few examples (2) |
 | Testing | prism | Few examples (2) |
 | Testing | schemathesis | Installation issue: Log-Fehler: Fehlgeschlagen |
 | Testing | spectral | Few examples (4), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |

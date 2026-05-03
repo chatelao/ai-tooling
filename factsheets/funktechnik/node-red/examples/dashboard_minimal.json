@@ -1,0 +1,60 @@
+[
+    {
+        "id": "ui_tab",
+        "type": "tab",
+        "label": "Dashboard Minimal",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "slider",
+        "type": "ui_slider",
+        "z": "ui_tab",
+        "name": "",
+        "label": "Level",
+        "tooltip": "",
+        "group": "ui_group",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "outs": "all",
+        "topic": "level",
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "x": 120,
+        "y": 100,
+        "wires": [
+            [
+                "gauge"
+            ]
+        ]
+    },
+    {
+        "id": "gauge",
+        "type": "ui_gauge",
+        "z": "ui_tab",
+        "name": "",
+        "group": "ui_group",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Current Level",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": 100,
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 310,
+        "y": 100,
+        "wires": []
+    }
+]

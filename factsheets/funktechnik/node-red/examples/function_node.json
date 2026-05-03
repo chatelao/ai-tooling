@@ -1,0 +1,65 @@
+[
+    {
+        "id": "func_tab",
+        "type": "tab",
+        "label": "Function Node",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "inject_num",
+        "type": "inject",
+        "z": "func_tab",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "payload": "10",
+        "payloadType": "num",
+        "x": 130,
+        "y": 80,
+        "wires": [
+            [
+                "calc_node"
+            ]
+        ]
+    },
+    {
+        "id": "calc_node",
+        "type": "function",
+        "z": "func_tab",
+        "name": "Square calculation",
+        "func": "msg.payload = msg.payload * msg.payload;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 330,
+        "y": 80,
+        "wires": [
+            [
+                "debug_calc"
+            ]
+        ]
+    },
+    {
+        "id": "debug_calc",
+        "type": "debug",
+        "z": "func_tab",
+        "name": "Result",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "x": 510,
+        "y": 80,
+        "wires": []
+    }
+]
