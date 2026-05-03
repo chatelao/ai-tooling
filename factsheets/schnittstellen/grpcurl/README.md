@@ -35,6 +35,9 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
 - `helloworld.proto`: Definition eines einfachen gRPC-Dienstes.
 - `request.json`: Eine Beispielanfrage im JSON-Format.
+- `list_services.sh`: Skript zum Auflisten von gRPC-Diensten.
+- `describe_service.sh`: Skript zum Beschreiben eines Dienstes.
+- `say_hello.sh`: Skript zum Aufrufen einer gRPC-Methode.
 
 ## Validierung
 

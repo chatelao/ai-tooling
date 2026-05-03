@@ -25,6 +25,16 @@ sudo apt install -y osmosis
 osmosis --help
 ```
 
+## Beispieldaten
+
+Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
+
+- `simple_pipeline.xml`: Eine einfache Lese-Schreib-Pipeline.
+- `tag_filter.xml`: Filtern von Objekten nach Tags (z.B. Restaurants).
+- `bounding_box.xml`: Zuschneiden von Daten auf eine Bounding Box.
+- `run_pipeline.sh`: Skript zum Ausführen einer XML-Pipeline.
+- `merge_osm.sh`: Skript zum Zusammenführen zweier OSM-Dateien.
+
 ## Validierung
 
 ```bash

@@ -25,6 +25,16 @@ sudo apt install -y rtl-sdr
 rtl_test
 ```
 
+## Beispieldaten
+
+Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
+
+- `fm_radio.sh`: Skript zum Empfangen von UKW-Radio.
+- `scan_frequencies.sh`: Beispiel für einen Frequenzscan mit `rtl_power`.
+- `capture_raw.sh`: Erfassen von I/Q-Rohdaten.
+- `device_info.sh`: Abrufen von Geräteinformationen.
+- `ppm_test.sh`: Testen des Frequenzfehlers (PPM).
+
 ## Validierung
 
 ```bash

@@ -34,6 +34,7 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 - `test.mp3`
 - `test.png`
 - `test.jpg`
+- `extract_audio.sh`: Skript zum Extrahieren von Audio aus einer Videodatei.
 
 ## Validierung
 

@@ -1,0 +1,5 @@
+<osmosisPipeline>
+  <task id="read" type="read-pbf" file="input.osm.pbf"/>
+  <task id="filter" type="node-key-value" keyValueList="amenity.restaurant"/>
+  <task id="write" type="write-pbf" file="restaurants.osm.pbf"/>
+</osmosisPipeline>

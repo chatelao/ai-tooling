@@ -1,0 +1,5 @@
+<osmosisPipeline>
+  <task id="read" type="read-pbf" file="input.osm.pbf"/>
+  <task id="bbox" type="bounding-box" top="52.6" left="13.2" bottom="52.3" right="13.6"/>
+  <task id="write" type="write-pbf" file="berlin_center.osm.pbf"/>
+</osmosisPipeline>

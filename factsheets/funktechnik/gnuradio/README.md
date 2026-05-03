@@ -25,6 +25,16 @@ sudo apt install -y gnuradio
 gnuradio-config-info --version
 ```
 
+## Beispieldaten
+
+Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
+
+- `sine_wave.grc`: Flowgraph für eine einfache Sinuswelle.
+- `noise_source.grc`: Flowgraph für eine Rauschquelle.
+- `low_pass_filter.grc`: Beispiel für einen Tiefpassfilter.
+- `throttle.grc`: Verwendung des Throttle-Blocks zur CPU-Begrenzung.
+- `variable.grc`: Definition von Variablen in GNU Radio.
+
 ## Validierung
 
 ```bash

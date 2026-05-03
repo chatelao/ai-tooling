@@ -25,6 +25,16 @@ sudo apt install -y osmium-tool
 osmium --version
 ```
 
+## Beispieldaten
+
+Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
+
+- `extract_area.sh`: Extraktion eines Bereichs mittels Bounding Box.
+- `filter_amenities.sh`: Filtern von Objekten nach Tags.
+- `inspect_file.sh`: Anzeigen von Dateiinformationen.
+- `convert_format.sh`: Konvertierung zwischen OSM-Formaten.
+- `show_history.sh`: Anzeigen der Objekthistorie.
+
 ## Validierung
 
 ```bash
