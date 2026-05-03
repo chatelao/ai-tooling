@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "post-update-cmd": [
+            "Illuminate\\Foundation\\ComposerScripts::postUpdate"
+        ],
+        "test": "vendor/bin/phpunit",
+        "check-style": "phpcs src tests"
+    }
+}

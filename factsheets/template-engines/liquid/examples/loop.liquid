@@ -1,0 +1,7 @@
+<ul>
+  {% for product in collection.products %}
+    <li>{{ product.title }} - {{ forloop.index }}</li>
+  {% else %}
+    <p>This collection is empty.</p>
+  {% endfor %}
+</ul>

@@ -31,3 +31,13 @@ sudo apt install -y maven
 ```bash
 mvn --version
 ```
+
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene Thymeleaf-Templates (`.html`):
+
+1.  `basic.html`: Grundlegende Textausgabe, Attribut-Handling und URL-Generierung.
+2.  `loop.html`: Iteration über Listen mit `th:each`.
+3.  `conditional.html`: Bedingte Anzeige mit `th:if`, `th:unless` und `th:switch`.
+4.  `fragment.html`: Definition und Verwendung von wiederverwendbaren Fragmenten (`th:fragment`).
+5.  `expression_objects.html`: Verwendung von eingebauten Objekten wie `#calendars`, `#strings` und `#lists`.

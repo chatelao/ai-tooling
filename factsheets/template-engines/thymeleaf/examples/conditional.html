@@ -1,0 +1,12 @@
+<div th:if="${user.isAdmin()}">
+    <p>Welcome, Administrator!</p>
+</div>
+<div th:unless="${user.isSubscribed()}">
+    <p>Please subscribe to our newsletter.</p>
+</div>
+
+<div th:switch="${user.role}">
+  <p th:case="'ADMIN'">User is an admin</p>
+  <p th:case="'USER'">User is a standard user</p>
+  <p th:case="*">User has an unknown role</p>
+</div>

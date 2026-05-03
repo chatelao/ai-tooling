@@ -1,0 +1,9 @@
+{% assign my_variable = "tomato" %}
+{{ my_variable }}
+
+{% capture welcome_message %}
+  Hello {{ user.name }}, welcome to our store!
+{% endcapture %}
+{{ welcome_message }}
+
+{% include 'header', title: 'Home Page' %}

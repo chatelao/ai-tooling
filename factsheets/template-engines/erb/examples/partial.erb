@@ -1,0 +1,6 @@
+<div class="user-card">
+  <%= render partial: 'user_info', locals: { user: @user } %>
+  <div class="bio">
+    <%= @user.bio.html_safe %>
+  </div>
+</div>

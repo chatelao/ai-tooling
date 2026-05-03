@@ -25,6 +25,16 @@ sudo apt install composer
 composer --version
 ```
 
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene Composer-Konfigurationsbeispiele (`.json`):
+
+1.  `minimal-composer.json`: Eine grundlegende `composer.json` mit PHP-Version und einer Abhängigkeit.
+2.  `autoload-config.json`: Konfiguration von PSR-4 Autoloading für Source- und Test-Verzeichnisse.
+3.  `scripts-example.json`: Definition von benutzerdefinierten Skripten und Hooks.
+4.  `custom-repository.json`: Einbinden von privaten VCS-Repositories.
+5.  `config-options.json`: Verschiedene Konfigurationsoptionen zur Optimierung und Sicherheit.
+
 ## Validierung
 
 ```bash

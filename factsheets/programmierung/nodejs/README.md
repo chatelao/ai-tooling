@@ -31,3 +31,13 @@ console.log("Hello World");
 node --version
 npm --version
 ```
+
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene Node.js-Beispiele:
+
+1.  `hello.js`: Grundlegende Konsolenausgabe und Prozessinformationen.
+2.  `filesystem.js`: Lesen und Schreiben von Dateien mit dem `fs` Modul.
+3.  `server.js`: Erstellung eines einfachen HTTP-Servers.
+4.  `async_await.js`: Demonstration von asynchroner Programmierung mit Promises und async/await.
+5.  `os_path.js`: Verwendung der eingebauten `os` und `path` Module für Systeminformationen und Pfadmanipulation.

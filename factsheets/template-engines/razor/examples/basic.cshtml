@@ -1,0 +1,5 @@
+@model Project.Models.User
+
+<h1>Hello @Model.Name</h1>
+<p>Today is @DateTime.Now.ToShortDateString()</p>
+<p>Email: @(Model.Email ?? "No email provided")</p>

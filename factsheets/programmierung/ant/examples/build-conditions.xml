@@ -1,0 +1,20 @@
+<project name="ConditionDemo" default="check-os">
+  <target name="check-os">
+    <condition property="isWindows">
+      <os family="windows"/>
+    </condition>
+    <condition property="isUnix">
+      <os family="unix"/>
+    </condition>
+    <antcall target="print-windows"/>
+    <antcall target="print-unix"/>
+  </target>
+
+  <target name="print-windows" if="isWindows">
+    <echo message="Running on Windows"/>
+  </target>
+
+  <target name="print-unix" if="isUnix">
+    <echo message="Running on Unix"/>
+  </target>
+</project>

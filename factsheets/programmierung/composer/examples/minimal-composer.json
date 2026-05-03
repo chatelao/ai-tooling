@@ -1,0 +1,8 @@
+{
+    "name": "vendor/package",
+    "description": "A minimal composer.json example",
+    "require": {
+        "php": ">=8.1",
+        "monolog/monolog": "3.5.*"
+    }
+}

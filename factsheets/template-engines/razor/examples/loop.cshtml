@@ -1,0 +1,13 @@
+@model IEnumerable<Project.Models.Item>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.Name - @item.Price.ToString("C")</li>
+    }
+</ul>
+
+@for (int i = 0; i < 5; i++)
+{
+    <p>Iteration @i</p>
+}

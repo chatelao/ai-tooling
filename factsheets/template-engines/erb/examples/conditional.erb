@@ -1,0 +1,9 @@
+<% if @user.admin? %>
+  <h1>Admin Dashboard</h1>
+<% else %>
+  <h1>User Profile</h1>
+<% end %>
+
+<% unless @items.empty? %>
+  <p>You have items!</p>
+<% end %>

@@ -31,3 +31,13 @@ sudo apt install ant
 ```bash
 ant -version
 ```
+
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene Ant-Build-Dateien (`.xml`):
+
+1.  `build-minimal.xml`: Ein minimales Ant-Projekt mit einem "Hello World" Target.
+2.  `build-java.xml`: Ein strukturierter Build-Prozess für Java (Clean, Compile, Jar).
+3.  `build-properties.xml`: Verwendung von Properties und Laden von Property-Dateien.
+4.  `build-conditions.xml`: Einsatz von Bedingungen zur Steuerung des Build-Flusses.
+5.  `build-files.xml`: Dateioperationen wie Kopieren, Filtern und Archivieren.

@@ -1,0 +1,11 @@
+<project name="FileOps" default="copy-files">
+  <target name="copy-files">
+    <copy todir="dest">
+      <fileset dir="src">
+        <include name="**/*.java"/>
+        <exclude name="**/Test*.java"/>
+      </fileset>
+    </copy>
+    <zip destfile="backup.zip" basedir="dest"/>
+  </target>
+</project>

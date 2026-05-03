@@ -28,6 +28,16 @@ sudo rm -f /usr/share/maven/boot/plexus-classworlds-2.x.jar
 mvn -version
 ```
 
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene Maven-Konfigurationsbeispiele:
+
+1.  `minimal-pom.xml`: Eine grundlegende `pom.xml` für ein Java-Projekt.
+2.  `compiler-config.xml`: Konfiguration der Java-Version für den Compiler.
+3.  `shade-plugin-config.xml`: Beispiel für die Konfiguration des Maven Shade Plugins zur Erstellung eines "Fat JARs".
+4.  `dependencies-example.xml`: Beispiel für das Hinzufügen von Abhängigkeiten (z.B. Spring Boot).
+5.  `settings-example.xml`: Beispiel für eine `settings.xml` zur Konfiguration von Repositories und lokalen Pfaden.
+
 ## Validierung
 
 ```bash
