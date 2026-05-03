@@ -1,0 +1,8 @@
+{
+  "fuzzing": {
+    "template": "10101010XXXXXXXX11110000",
+    "rules": [
+      { "type": "bitflip", "probability": 0.1 }
+    ]
+  }
+}

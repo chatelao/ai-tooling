@@ -1,0 +1,8 @@
+{
+  "project": {
+    "name": "Example Project",
+    "description": "A sample URH project",
+    "paths": [],
+    "modulations": []
+  }
+}

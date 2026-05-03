@@ -38,6 +38,10 @@ console.log(query);
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
 - `builder.js`: Ein JavaScript-Skript, das eine Abfrage erstellt.
+- `select_complex.js`: Erstellung einer komplexeren SELECT-Abfrage mit Filtern und Sortierung.
+- `construct.js`: Erstellung einer CONSTRUCT-Abfrage.
+- `describe.js`: Erstellung einer DESCRIBE-Abfrage.
+- `ask.js`: Erstellung einer ASK-Abfrage.
 
 ## Validierung
 

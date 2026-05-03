@@ -25,6 +25,16 @@ sudo apt install -y osm2pgsql
 osm2pgsql --version
 ```
 
+## Beispieldaten
+
+Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
+
+- `default.style`: Standard-Style-Datei für die klassische Ausgabe.
+- `flex-config.lua`: Lua-Konfiguration für den flexiblen Output-Modus.
+- `import_pbf.sh`: Beispiel-Shell-Skript für einen Import-Vorgang.
+- `minimal.lua`: Eine minimale Lua-Konfigurationsdatei.
+- `custom.style`: Benutzerdefinierte Style-Datei für Gebäude und Straßen.
+
 ## Validierung
 
 ```bash

@@ -1,0 +1,12 @@
+# Standard style file for osm2pgsql
+# node/way   key        type    flags
+node,way   amenity    text    linear
+node,way   highway    text    polyline
+node,way   landuse    text    polygon
+node,way   leisure    text    polygon
+node,way   name       text    linear
+node,way   place      text    linear
+node,way   railway    text    polyline
+node,way   shop       text    linear
+node,way   tourism    text    linear
+node,way   waterway   text    polyline
