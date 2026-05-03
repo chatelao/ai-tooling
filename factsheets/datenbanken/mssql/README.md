@@ -33,7 +33,11 @@ SELECT 'Hello World';
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
-- `init.sql`
+- `init.sql`: Initialisierungsskript.
+- `create_table.sql`: Beispiel für die Tabellenerstellung.
+- `insert_data.sql`: Beispiel für das Einfügen von Daten.
+- `query_data.sql`: Beispiel für Datenabfragen.
+- `stored_procedure.sql`: Beispiel für eine gespeicherte Prozedur.
 
 ## Validierung
 

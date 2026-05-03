@@ -35,7 +35,11 @@ SELECT 'Hello World' FROM dual;
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
-- `create_user.sql`
+- `create_user.sql`: Skript zum Anlegen eines Benutzers.
+- `create_table.sql`: Beispiel für die Tabellenerstellung.
+- `insert_data.sql`: Beispiel für das Einfügen von Daten.
+- `query_data.sql`: Beispiel für Datenabfragen.
+- `plsql_block.sql`: Beispiel für einen PL/SQL-Block.
 
 ## Validierung
 
