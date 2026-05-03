@@ -30,3 +30,13 @@ sudo apt install -y node-ejs
 ```bash
 npm list ejs
 ```
+
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene EJS-Templates:
+
+1.  `basic_variable.ejs`: Einfache Variablen-Interpolation.
+2.  `list_iteration.ejs`: Iteration über eine Liste von Objekten.
+3.  `conditional_rendering.ejs`: Bedingte Anzeige von Inhalten.
+4.  `escaping.ejs`: Unterschied zwischen escapter und unescapter Ausgabe.
+5.  `comments.ejs`: Verwendung von Kommentaren in EJS.

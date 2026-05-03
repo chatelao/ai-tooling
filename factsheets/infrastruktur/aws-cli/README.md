@@ -37,6 +37,16 @@ aws --version
 aws --version
 ```
 
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene AWS CLI Befehlsbeispiele:
+
+1.  `s3_ls.sh`: Auflisten von S3-Buckets.
+2.  `ec2_describe.sh`: Abfragen von EC2-Instanzen mit Filterung.
+3.  `iam_list_users.sh`: Auflisten von IAM-Benutzern.
+4.  `lambda_list_functions.sh`: Abfragen von Lambda-Funktionen.
+5.  `configure_profile.sh`: Konfiguration eines AWS-Profils.
+
 ## Nutzung für KI-Agenten
 
 KI-Agenten können die AWS CLI nutzen, um:

@@ -7,7 +7,7 @@ Diese Roadmap dokumentiert den aktuellen Stand der Werkzeug-Factsheets und defin
 Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite identifiziert:
 
 - **Gesamtanzahl Factsheets:** 114 (geschätzt)
-- **Factsheets mit Verbesserungsbedarf:** 61
+- **Factsheets mit Verbesserungsbedarf:** 58
 - **Hauptprobleme:**
     - Platzhalter-Beschreibungen (Zweck-Sektion unvollständig)
     - Fehlende oder unzureichende Beispieldaten (weniger als 5 Beispiele)
@@ -45,8 +45,7 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Datenbanken | mariadb | Few examples (2), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Datenbanken | mssql | Few examples (1), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Datenbanken | oracle | Few examples (1), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
-| Datenbanken | postgresql | Few examples (2), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
-| Dokumentation | img2pdf | Few examples (1) |
+| Datenbanken | postgresql | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Dokumentation | redocly-cli | Few examples (2) |
 | Eda | openfpgaloader | Few examples (2) |
 | Firmware-analyse | emba | Few examples (4) |
@@ -63,7 +62,7 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Geodaten | osmosis | No examples |
 | Geodaten | postgis | No examples |
 | Hardware-simulation | renode | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
-| Infrastruktur | aws-cli | No examples, Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
+| Infrastruktur | aws-cli | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Infrastruktur | aws-mcp-server | Few examples (4), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Infrastruktur | azure-cli | No examples, Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Infrastruktur | azure-mcp-server | Few examples (4), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
@@ -84,13 +83,11 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Schnittstellen | sparkql | Few examples (1) |
 | Schnittstellen | sparqlwrapper | Few examples (1) |
 | Template-engines | blade | No examples |
-| Template-engines | ejs | No examples |
 | Template-engines | erb | No examples |
 | Template-engines | liquid | No examples |
 | Template-engines | pug | No examples |
 | Template-engines | razor | No examples |
 | Template-engines | thymeleaf | No examples |
-| Template-engines | twig | No examples |
 | Testing | prism | Few examples (2) |
 | Testing | schemathesis | Installation issue: Log-Fehler: Fehlgeschlagen |
 | Testing | spectral | Few examples (4), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
