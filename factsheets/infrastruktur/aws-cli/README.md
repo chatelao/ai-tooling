@@ -25,6 +25,12 @@ unzip awscliv2.zip
 sudo ./aws/install
 ```
 
+## Hello World
+
+```bash
+aws --version
+```
+
 ## Validierung
 
 ```bash

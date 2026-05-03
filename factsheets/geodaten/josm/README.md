@@ -19,6 +19,12 @@ sudo apt update
 sudo apt install -y josm
 ```
 
+## Hello World
+
+```bash
+josm --version
+```
+
 ## Validierung
 
 ```bash

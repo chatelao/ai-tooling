@@ -19,6 +19,12 @@ Step CI ist ein deklaratives Framework zum Testen und Überwachen von REST-, Gra
 npm install -g stepci
 ```
 
+## Hello World
+
+```bash
+step-ci run workflow.yml
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

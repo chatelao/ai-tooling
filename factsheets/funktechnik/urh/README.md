@@ -18,6 +18,12 @@
 pip install urh
 ```
 
+## Hello World
+
+```bash
+urh --version
+```
+
 ## Validierung
 
 ```bash

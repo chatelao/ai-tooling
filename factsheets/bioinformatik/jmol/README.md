@@ -19,6 +19,12 @@ sudo apt update
 sudo apt install jmol
 ```
 
+## Hello World
+
+```bash
+jmol -n -g 100x100 -J "load $caffeine; write image hello.png"
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

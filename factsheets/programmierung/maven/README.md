@@ -22,6 +22,12 @@ sudo apt install maven
 sudo rm -f /usr/share/maven/boot/plexus-classworlds-2.x.jar
 ```
 
+## Hello World
+
+```bash
+mvn -version
+```
+
 ## Validierung
 
 ```bash

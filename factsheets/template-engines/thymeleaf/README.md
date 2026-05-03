@@ -20,6 +20,12 @@ Der De-facto-Standard für moderne Spring-Boot-Anwendungen. Die Besonderheit: Th
 sudo apt install -y maven
 ```
 
+## Hello World
+
+```html
+<p th:text="'Hello World'"></p>
+```
+
 ## Validierung
 
 ```bash

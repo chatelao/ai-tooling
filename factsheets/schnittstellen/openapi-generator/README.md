@@ -19,6 +19,12 @@ Das Tool ermöglicht die Generierung von API-Clients, Server-Stubs, Dokumentatio
 npm install @openapitools/openapi-generator-cli
 ```
 
+## Hello World
+
+```bash
+openapi-generator-cli version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

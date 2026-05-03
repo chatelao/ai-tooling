@@ -20,6 +20,12 @@ sudo apt update
 sudo apt install ant
 ```
 
+## Hello World
+
+```xml
+<project><target name="hello"><echo>Hello World</echo></target></project>
+```
+
 ## Validierung
 
 ```bash

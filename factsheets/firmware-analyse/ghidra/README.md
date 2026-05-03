@@ -20,6 +20,12 @@ wget https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_1
 unzip ghidra_12.0.4_PUBLIC_20260303.zip
 ```
 
+## Hello World
+
+```bash
+./analyzeHeadless . temp -preScript HelloWorldScript.java
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

@@ -19,6 +19,12 @@ Schemathesis nutzt die OpenAPI-Spezifikation einer API, um automatisch Testfäll
 pip install schemathesis
 ```
 
+## Hello World
+
+```bash
+schemathesis run http://localhost:8080/openapi.json
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

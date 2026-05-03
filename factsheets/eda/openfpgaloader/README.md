@@ -21,6 +21,12 @@ Gowin, Efinix, Anlogic) und verschiedene Programmierkabel (JTAG, USB).
 sudo apt install openfpgaloader
 ```
 
+## Hello World
+
+```bash
+openFPGALoader --version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

@@ -19,6 +19,12 @@ Twig ist die Standard-Engine des Symfony-Frameworks. Sie wurde stark von Jinja2 
 sudo apt install -y php-twig
 ```
 
+## Hello World
+
+```twig
+{{ "Hello World" }}
+```
+
 ## Validierung
 
 ```bash

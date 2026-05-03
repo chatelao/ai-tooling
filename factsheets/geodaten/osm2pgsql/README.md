@@ -19,6 +19,12 @@ sudo apt update
 sudo apt install -y osm2pgsql
 ```
 
+## Hello World
+
+```bash
+osm2pgsql --version
+```
+
 ## Validierung
 
 ```bash

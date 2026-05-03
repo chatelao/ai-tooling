@@ -17,6 +17,12 @@
 git clone https://github.com/panda-re/panda.git
 ```
 
+## Hello World
+
+```bash
+panda-system-x86_64 --version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

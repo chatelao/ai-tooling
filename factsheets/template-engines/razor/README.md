@@ -19,6 +19,12 @@ Microsofts Standard-Engine für ASP.NET Core MVC und Blazor. Sie besticht durch 
 sudo apt install -y dotnet-sdk-8.0
 ```
 
+## Hello World
+
+```razor
+@("Hello World")
+```
+
 ## Validierung
 
 ```bash

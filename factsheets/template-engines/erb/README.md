@@ -19,6 +19,12 @@ Die Standard-Engine in Ruby on Rails. Erlaubt das direkte Einbetten von Ruby-Cod
 sudo apt install -y ruby
 ```
 
+## Hello World
+
+```erb
+<%= "Hello World" %>
+```
+
 ## Validierung
 
 ```bash

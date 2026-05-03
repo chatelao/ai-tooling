@@ -19,6 +19,12 @@ sudo apt update
 sudo apt install krita
 ```
 
+## Hello World
+
+```bash
+krita --version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

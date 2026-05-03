@@ -24,6 +24,12 @@ und zu kompilieren.
 pip install platformio
 ```
 
+## Hello World
+
+```bash
+pio --version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

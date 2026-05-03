@@ -23,6 +23,12 @@ sein.
 npx -y @google-cloud/cloud-run-mcp
 ```
 
+## Hello World
+
+```bash
+npx @google-cloud/cloud-run-mcp
+```
+
 ## Validierung
 
 Der Server wird normalerweise über einen MCP-Client konfiguriert. Manuell kann

@@ -28,6 +28,15 @@ Oder ein neues Projekt erstellen:
 npx create-react-app my-app
 ```
 
+## Hello World
+
+```jsx
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+ReactDOM.render(<h1>Hello, world!</h1>, document.getElementById('root'));
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

@@ -20,6 +20,12 @@ xsltproc ist ein Kommandozeilen-Werkzeug zur Anwendung von XSLT-Stylesheets auf 
 sudo apt install xsltproc
 ```
 
+## Hello World
+
+```bash
+xsltproc --version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

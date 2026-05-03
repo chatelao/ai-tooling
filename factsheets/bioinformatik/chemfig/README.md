@@ -23,6 +23,12 @@ sudo apt update
 sudo apt install texlive-science texlive-latex-extra texlive-fonts-recommended
 ```
 
+## Hello World
+
+```latex
+\chemfig{H-O-H}
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

@@ -19,6 +19,12 @@ Blade ist die native Template-Engine des populären Laravel-Frameworks. Sie komp
 composer require jenssegers/blade
 ```
 
+## Hello World
+
+```blade
+Hello, {{ $name }}!
+```
+
 ## Validierung
 
 ```bash

@@ -24,6 +24,12 @@ die lokale Inferenz benötigen.
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 
+## Hello World
+
+```bash
+ollama run llama3 "Hello World"
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

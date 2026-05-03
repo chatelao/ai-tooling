@@ -23,6 +23,12 @@ Voraussetzung: [github.com/astral-sh/uv](https://github.com/astral-sh/uv) muss i
 uvx --from msmcp-azure azmcp server start
 ```
 
+## Hello World
+
+```bash
+npx @microsoft/azmcp
+```
+
 ## Validierung
 
 ```bash

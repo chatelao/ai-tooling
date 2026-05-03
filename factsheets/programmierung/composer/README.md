@@ -19,6 +19,12 @@ Composer ist ein Abhängigkeitsmanager für PHP, der es ermöglicht, Bibliotheke
 sudo apt install composer
 ```
 
+## Hello World
+
+```bash
+composer --version
+```
+
 ## Validierung
 
 ```bash

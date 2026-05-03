@@ -17,6 +17,14 @@
 pip install skidl
 ```
 
+## Hello World
+
+```python
+from skidl import *
+r1 = Part("Device", "R")
+print("Hello SKiDL")
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

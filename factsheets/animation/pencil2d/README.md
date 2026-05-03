@@ -19,6 +19,12 @@ sudo apt update
 sudo apt install pencil2d
 ```
 
+## Hello World
+
+```bash
+pencil2d --version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

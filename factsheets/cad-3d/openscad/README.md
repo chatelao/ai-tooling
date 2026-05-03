@@ -18,6 +18,12 @@
 sudo apt install openscad
 ```
 
+## Hello World
+
+```openscad
+cube([10,10,10]);
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

@@ -20,6 +20,12 @@ graphqurl (gq) ist ein Kommandozeilenwerkzeug und eine JavaScript-Bibliothek fü
 sudo npm install -g graphqurl
 ```
 
+## Hello World
+
+```bash
+gq https://countries.trevorblades.com/ --query "{ countries { name } }"
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

@@ -23,6 +23,12 @@ sudo apt update
 sudo apt install bkchem
 ```
 
+## Hello World
+
+```bash
+bkchem --version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

@@ -19,6 +19,12 @@ Sehr populär im Express.js-Umfeld. Verwendet eine einfache <% %> Syntax, bei de
 sudo apt install -y node-ejs
 ```
 
+## Hello World
+
+```ejs
+<%= 'Hello World' %>
+```
+
 ## Validierung
 
 ```bash

@@ -18,6 +18,12 @@ sudo apt update
 sudo apt install seqkit
 ```
 
+## Hello World
+
+```bash
+seqkit version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

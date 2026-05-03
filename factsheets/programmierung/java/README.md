@@ -20,6 +20,16 @@ sudo apt update
 sudo apt install openjdk-21-jdk
 ```
 
+## Hello World
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
+```
+
 ## Validierung
 
 ```bash

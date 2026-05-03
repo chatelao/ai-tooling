@@ -24,6 +24,12 @@ Bioinformatik-Viewer) in Headless-Umgebungen (CI/CD, Server) validieren müssen.
 sudo apt install xvfb
 ```
 
+## Hello World
+
+```bash
+Xvfb :99 &
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

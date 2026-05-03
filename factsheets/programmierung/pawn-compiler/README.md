@@ -22,6 +22,14 @@ Skripting.
 
 Vom GitHub-Repository laden.
 
+## Hello World
+
+```pawn
+main() {
+    print("Hello World");
+}
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

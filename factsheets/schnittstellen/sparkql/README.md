@@ -20,6 +20,19 @@ sparkql ist ein NPM-Paket zur Erstellung von SPARQL-Abfragen mit einer flüssige
 npm install sparkql
 ```
 
+## Hello World
+
+```javascript
+const { select } = require('sparkql');
+
+const query = select('*')
+  .from('<http://dbpedia.org>')
+  .where('?s', '?p', '?o')
+  .limit(1)
+  .build();
+console.log(query);
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

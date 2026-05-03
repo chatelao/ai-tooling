@@ -18,6 +18,14 @@
 sudo apt install texlive-pictures
 ```
 
+## Hello World
+
+```latex
+\begin{circuitikz}
+\draw (0,0) to[R=1<\ohm>] (2,0);
+\end{circuitikz}
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

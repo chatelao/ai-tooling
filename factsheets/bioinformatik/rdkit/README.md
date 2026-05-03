@@ -19,6 +19,13 @@ sudo apt update
 sudo apt install python3-rdkit
 ```
 
+## Hello World
+
+```python
+from rdkit import Chem
+print(Chem.MolToSmiles(Chem.MolFromSmiles('C')))
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

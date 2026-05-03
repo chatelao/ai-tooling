@@ -22,6 +22,12 @@ steuern.
 curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
 ```
 
+## Hello World
+
+```bash
+az --version
+```
+
 ## Validierung
 
 ```bash

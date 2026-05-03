@@ -24,6 +24,20 @@ verifizieren.
 npm install playwright
 ```
 
+## Hello World
+
+```javascript
+const { chromium } = require('playwright');
+
+(async () => {
+  const browser = await chromium.launch();
+  const page = await browser.newPage();
+  await page.goto('https://playwright.dev/');
+  console.log(await page.title());
+  await browser.close();
+})();
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

@@ -22,6 +22,12 @@ generieren und APIs in der Vorschau anzeigen.
 npm install @redocly/cli
 ```
 
+## Hello World
+
+```bash
+redocly lint openapi.yaml
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

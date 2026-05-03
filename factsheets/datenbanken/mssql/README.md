@@ -23,6 +23,12 @@ sudo apt update
 sudo apt install mssql-server
 ```
 
+## Hello World
+
+```sql
+SELECT 'Hello World';
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

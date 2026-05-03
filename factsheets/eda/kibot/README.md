@@ -17,6 +17,12 @@
 pip install kibot
 ```
 
+## Hello World
+
+```bash
+kibot --version
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

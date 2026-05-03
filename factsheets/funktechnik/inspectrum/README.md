@@ -19,6 +19,12 @@ sudo apt update
 sudo apt install -y inspectrum
 ```
 
+## Hello World
+
+```bash
+inspectrum --version
+```
+
 ## Validierung
 
 ```bash

@@ -23,6 +23,14 @@ Generierung von Visualisierungen.
 pip install Pillow
 ```
 
+## Hello World
+
+```python
+from PIL import Image
+img = Image.new('RGB', (100, 100), color='red')
+img.save('hello.png')
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

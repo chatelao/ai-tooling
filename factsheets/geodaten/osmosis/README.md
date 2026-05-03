@@ -19,6 +19,12 @@ sudo apt update
 sudo apt install -y osmosis
 ```
 
+## Hello World
+
+```bash
+osmosis --help
+```
+
 ## Validierung
 
 ```bash

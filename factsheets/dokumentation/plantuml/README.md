@@ -18,6 +18,14 @@
 sudo apt install plantuml
 ```
 
+## Hello World
+
+```plantuml
+@startuml
+Alice -> Bob: Hello World
+@enduml
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

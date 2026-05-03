@@ -18,6 +18,12 @@
 sudo apt install fop
 ```
 
+## Hello World
+
+```xml
+<fo:block>Hello World</fo:block>
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

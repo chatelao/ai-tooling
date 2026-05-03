@@ -23,6 +23,12 @@ zu übersetzen oder um komplexe Logikstrukturen visuell darzustellen.
 npm install blockly
 ```
 
+## Hello World
+
+```javascript
+Blockly.inject('blocklyDiv', {toolbox: toolbox});
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

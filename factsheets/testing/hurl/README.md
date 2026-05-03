@@ -23,6 +23,13 @@ autonom zu validieren.
 sudo add-apt-repository ppa:lepapareil/hurl; sudo apt update; sudo apt install hurl
 ```
 
+## Hello World
+
+```hurl
+GET http://localhost:3000
+HTTP 200
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

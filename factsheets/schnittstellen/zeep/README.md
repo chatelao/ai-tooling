@@ -20,6 +20,13 @@ Zeep ist eine moderne SOAP-Client-Bibliothek für Python, die WSDL-Dateien parst
 sudo apt install python3-zeep
 ```
 
+## Hello World
+
+```python
+import zeep
+client = zeep.Client(wsdl='http://www.soapclient.com/xml/soapresponder.wsdl')
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

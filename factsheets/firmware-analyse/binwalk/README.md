@@ -18,6 +18,12 @@
 sudo apt install binwalk
 ```
 
+## Hello World
+
+```bash
+binwalk firmware.bin
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

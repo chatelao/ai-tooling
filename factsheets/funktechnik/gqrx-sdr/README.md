@@ -20,6 +20,12 @@ sudo touch /etc/modules
 sudo apt install -y gqrx-sdr
 ```
 
+## Hello World
+
+```bash
+gqrx --version
+```
+
 ## Validierung
 
 ```bash

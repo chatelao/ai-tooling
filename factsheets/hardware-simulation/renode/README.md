@@ -20,6 +20,12 @@ sudo apt-get install -y ./renode_1.16.1_amd64.deb
 rm renode_1.16.1_amd64.deb
 ```
 
+## Hello World
+
+```bash
+renode -e "echo 'Hello World'; quit"
+```
+
 ## Beispieldaten
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:

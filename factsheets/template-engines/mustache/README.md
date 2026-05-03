@@ -25,6 +25,12 @@ sudo apt install -y node-mustache
 mustache.js --version
 ```
 
+## Hello World
+
+```mustache
+{{name}}
+```
+
 ## Beispiele
 
 Im Ordner `examples/` befinden sich verschiedene Mustache-Templates und zugehörige Datendateien:
