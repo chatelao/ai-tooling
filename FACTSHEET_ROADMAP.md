@@ -7,7 +7,7 @@ Diese Roadmap dokumentiert den aktuellen Stand der Werkzeug-Factsheets und defin
 Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite identifiziert:
 
 - **Gesamtanzahl Factsheets:** 114 (geschätzt)
-- **Factsheets mit Verbesserungsbedarf:** 29
+- **Factsheets mit Verbesserungsbedarf:** 27
 - **Hauptprobleme:**
     - Platzhalter-Beschreibungen (Zweck-Sektion unvollständig)
     - Fehlende oder unzureichende Beispieldaten (weniger als 5 Beispiele)
@@ -41,10 +41,7 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Cad-3d | freecad | Installation issue: In FIXME.md gelistet, Listed in FIXME.md |
 | Cad-3d | mcp-freecad | Few examples (4) |
 | Datenbanken | mariadb | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
-| Datenbanken | mssql | Few examples (1), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
-| Datenbanken | oracle | Few examples (1), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Datenbanken | postgresql | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
-| Dokumentation | redocly-cli | Few examples (2) |
 | Eda | openfpgaloader | Few examples (2) |
 | Firmware-analyse | emba | Few examples (4) |
 | Firmware-analyse | panda | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
@@ -59,6 +56,4 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Infrastruktur | xvfb | Few examples (3) |
 | Ki-inferenz | vllm | Few examples (4) |
 | Schnittstellen | openapi-generator | Few examples (4) |
-| Testing | prism | Few examples (2) |
 | Testing | schemathesis | Installation issue: Log-Fehler: Fehlgeschlagen |
-| Testing | spectral | Few examples (4), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
