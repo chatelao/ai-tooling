@@ -25,6 +25,16 @@ sudo apt install -y inspectrum
 inspectrum --version
 ```
 
+## Beispieldaten
+
+Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
+
+- `generate_test_signal.py`: Sinuswelle mit Rauschen.
+- `generate_am_signal.py`: Amplitudenmoduliertes Signal.
+- `generate_fm_signal.py`: Frequenzmoduliertes Signal.
+- `generate_bpsk_signal.py`: BPSK-moduliertes Digitalsignal.
+- `generate_fsk_signal.py`: FSK-moduliertes Digitalsignal.
+
 ## Validierung
 
 ```bash

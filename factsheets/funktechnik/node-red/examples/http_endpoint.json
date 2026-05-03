@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "type": "tab",
+        "label": "HTTP Endpoint",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "2",
+        "type": "http in",
+        "z": "1",
+        "name": "",
+        "url": "/hello",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 80,
+        "wires": [
+            [
+                "3"
+            ]
+        ]
+    },
+    {
+        "id": "3",
+        "type": "template",
+        "z": "1",
+        "name": "HTML Response",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<h1>Hello from Node-RED!</h1><p>Timestamp: {{payload}}</p>",
+        "output": "str",
+        "x": 320,
+        "y": 80,
+        "wires": [
+            [
+                "4"
+            ]
+        ]
+    },
+    {
+        "id": "4",
+        "type": "http response",
+        "z": "1",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 510,
+        "y": 80,
+        "wires": []
+    }
+]

@@ -25,6 +25,16 @@ sudo apt install -y josm
 josm --version
 ```
 
+## Beispieldaten
+
+Die folgenden `.osm` Beispieldaten befinden sich im Ordner `examples/`:
+
+- `small_area.osm`: Ein einfacher Knoten für Berlin.
+- `nodes_with_tags.osm`: Beispiele für Knoten mit Attributen (Bank, Mülleimer).
+- `way_with_tags.osm`: Beispiel für einen Weg (Straße) mit Attributen.
+- `relation_example.osm`: Beispiel für ein Multipolygon (Wiese).
+- `changeset_dummy.osm`: Beispiel für eine `osmChange` Datei.
+
 ## Validierung
 
 ```bash

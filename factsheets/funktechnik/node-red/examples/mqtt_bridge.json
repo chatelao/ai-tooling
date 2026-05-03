@@ -1,0 +1,43 @@
+[
+    {
+        "id": "mqtt_tab",
+        "type": "tab",
+        "label": "MQTT Bridge",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "mqtt_in",
+        "type": "mqtt in",
+        "z": "mqtt_tab",
+        "name": "",
+        "topic": "sensors/+/temperature",
+        "qos": "2",
+        "datatype": "auto",
+        "broker": "broker_id",
+        "x": 160,
+        "y": 100,
+        "wires": [
+            [
+                "debug_out"
+            ]
+        ]
+    },
+    {
+        "id": "debug_out",
+        "type": "debug",
+        "z": "mqtt_tab",
+        "name": "Log Temperature",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 390,
+        "y": 100,
+        "wires": []
+    }
+]

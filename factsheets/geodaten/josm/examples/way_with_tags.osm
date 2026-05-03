@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-1' lat='52.5200' lon='13.4050' />
+  <node id='-2' lat='52.5205' lon='13.4055' />
+  <way id='-3' action='modify' visible='true'>
+    <nd ref='-1' />
+    <nd ref='-2' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Sample Street' />
+    <tag k='surface' v='asphalt' />
+  </way>
+</osm>

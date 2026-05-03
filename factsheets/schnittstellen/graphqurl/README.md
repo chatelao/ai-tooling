@@ -32,6 +32,9 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
 - `query.graphql`: Eine Beispiel-GraphQL-Abfrage.
 - `variables.json`: Variablen für die GraphQL-Abfrage.
+- `introspection_query.graphql`: Eine Abfrage zur Schemadurchsuchung.
+- `mutation_example.graphql`: Beispiel für eine GraphQL-Mutation.
+- `subscription_example.graphql`: Beispiel für eine GraphQL-Subscription.
 
 ## Validierung
 

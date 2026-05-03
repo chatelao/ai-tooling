@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osmChange version='0.6' generator='JOSM'>
+  <create>
+    <node id='-1' lat='52.5200' lon='13.4050'>
+      <tag k='note' v='Created in JOSM' />
+    </node>
+  </create>
+</osmChange>
