@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<flow_graph>
+  <block>
+    <key>blocks_throttle</key>
+    <param>
+      <key>type</key>
+      <value>complex</value>
+    </param>
+    <param>
+      <key>samples_per_second</key>
+      <value>samp_rate</value>
+    </param>
+  </block>
+</flow_graph>

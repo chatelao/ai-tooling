@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<flow_graph>
+  <block>
+    <key>analog_noise_source_x</key>
+    <param>
+      <key>type</key>
+      <value>complex</value>
+    </param>
+    <param>
+      <key>noise_type</key>
+      <value>analog.GR_GAUSSIAN</value>
+    </param>
+  </block>
+</flow_graph>

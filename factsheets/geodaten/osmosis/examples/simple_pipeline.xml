@@ -1,0 +1,4 @@
+<osmosisPipeline>
+  <task id="read" type="read-pbf" file="input.osm.pbf"/>
+  <task id="write" type="write-xml" file="output.osm"/>
+</osmosisPipeline>

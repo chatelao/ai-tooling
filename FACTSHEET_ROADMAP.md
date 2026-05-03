@@ -7,7 +7,7 @@ Diese Roadmap dokumentiert den aktuellen Stand der Werkzeug-Factsheets und defin
 Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite identifiziert:
 
 - **Gesamtanzahl Factsheets:** 114 (geschätzt)
-- **Factsheets mit Verbesserungsbedarf:** 45
+- **Factsheets mit Verbesserungsbedarf:** 39
 - **Hauptprobleme:**
     - Platzhalter-Beschreibungen (Zweck-Sektion unvollständig)
     - Fehlende oder unzureichende Beispieldaten (weniger als 5 Beispiele)
@@ -33,7 +33,6 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 
 | Gruppe | Werkzeug | Notwendige Verbesserungen |
 | :--- | :--- | :--- |
-| Animation | ffmpeg | Few examples (4) |
 | Animation | krita | Few examples (4) |
 | App-entwicklung | flutter | Few examples (4) |
 | App-entwicklung | react-native | Few examples (4) |
@@ -49,16 +48,12 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Eda | openfpgaloader | Few examples (2) |
 | Firmware-analyse | emba | Few examples (4) |
 | Firmware-analyse | panda | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
-| Funktechnik | gnuradio | No examples |
 | Funktechnik | gqrx-sdr | No examples |
 | Funktechnik | inspectrum | No examples |
 | Funktechnik | node-red | No examples |
-| Funktechnik | rtl-sdr | No examples |
 | Funktechnik | urh | No examples |
 | Geodaten | josm | No examples |
 | Geodaten | osm2pgsql | No examples |
-| Geodaten | osmium-tool | No examples |
-| Geodaten | osmosis | No examples |
 | Hardware-simulation | renode | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Infrastruktur | aws-cli | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Infrastruktur | aws-mcp-server | Few examples (4), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
@@ -70,7 +65,6 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Infrastruktur | xvfb | Few examples (3) |
 | Ki-inferenz | vllm | Few examples (4) |
 | Schnittstellen | graphqurl | Few examples (2) |
-| Schnittstellen | grpcurl | Few examples (2) |
 | Schnittstellen | openapi-generator | Few examples (4) |
 | Schnittstellen | rasqal | Few examples (2) |
 | Schnittstellen | sparkql | Few examples (1) |

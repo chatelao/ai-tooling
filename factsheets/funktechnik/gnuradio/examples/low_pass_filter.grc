@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<flow_graph>
+  <block>
+    <key>low_pass_filter</key>
+    <param>
+      <key>type</key>
+      <value>fir_filter_ccf</value>
+    </param>
+    <param>
+      <key>cutoff_freq</key>
+      <value>5000</value>
+    </param>
+  </block>
+</flow_graph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<flow_graph>
+  <block>
+    <key>variable</key>
+    <param>
+      <key>id</key>
+      <value>samp_rate</value>
+    </param>
+    <param>
+      <key>value</key>
+      <value>32000</value>
+    </param>
+  </block>
+</flow_graph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<flow_graph>
+  <timestamp>Thu May  2 10:00:00 2024</timestamp>
+  <block>
+    <key>options</key>
+    <param>
+      <key>id</key>
+      <value>sine_wave</value>
+    </param>
+  </block>
+  <block>
+    <key>analog_sig_source_x</key>
+    <param>
+      <key>type</key>
+      <value>complex</value>
+    </param>
+    <param>
+      <key>waveform</key>
+      <value>analog.GR_SIN_WAVE</value>
+    </param>
+  </block>
+</flow_graph>
