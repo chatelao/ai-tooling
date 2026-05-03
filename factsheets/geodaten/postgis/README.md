@@ -30,3 +30,13 @@ SELECT PostGIS_Full_Version();
 ```bash
 ogrinfo --version
 ```
+
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene PostGIS-Beispiele:
+
+1.  `setup_postgis.sql`: Aktivierung der Erweiterung.
+2.  `spatial_table.sql`: Erstellung einer Tabelle mit Geometriespalte und Index.
+3.  `insert_geometries.sql`: Einfügen von Punkt-Daten (WGS84).
+4.  `distance_calc.sql`: Berechnung der Entfernung zwischen Städten in Kilometern.
+5.  `spatial_query.sql`: Umkreissuche mit `ST_DWithin`.

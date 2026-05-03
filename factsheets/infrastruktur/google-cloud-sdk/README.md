@@ -35,6 +35,16 @@ gcloud --version
 gcloud version
 ```
 
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene Google Cloud SDK (gcloud) Beispiele:
+
+1.  `auth.sh`: Authentifizierung am Google Cloud Account.
+2.  `project_config.sh`: Konfiguration von Projekt-ID und Region.
+3.  `compute_instances.sh`: Auflisten und Erstellen von Compute Engine Instanzen.
+4.  `storage_buckets.sh`: Verwaltung von Cloud Storage Buckets und Dateien.
+5.  `cloud_run_deploy.sh`: Deployment eines Containers auf Cloud Run.
+
 ## Nutzung für KI-Agenten
 
 - **Cloud Run**: Deployment und Management von serverlosen Anwendungen.
