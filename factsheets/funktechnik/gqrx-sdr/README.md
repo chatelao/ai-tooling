@@ -26,6 +26,16 @@ sudo apt install -y gqrx-sdr
 gqrx --version
 ```
 
+## Beispieldaten
+
+Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
+
+- `bookmarks.csv`: Beispiel für Frequenz-Lesezeichen.
+- `remote_control.py`: Python-Skript zur Fernsteuerung über TCP (rigctld-Protokoll).
+- `gqrx_settings.conf`: Beispiel für eine Konfigurationsdatei.
+- `udp_stream.sh`: Hinweis zum Starten mit UDP-Streaming.
+- `record_wav.sh`: Hinweis zur Audio-Aufzeichnung.
+
 ## Validierung
 
 ```bash

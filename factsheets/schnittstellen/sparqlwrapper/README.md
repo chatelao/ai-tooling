@@ -36,6 +36,10 @@ print(results)
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
 - `query_wikidata.py`: Ein Python-Skript, das eine Abfrage an Wikidata sendet.
+- `query_dbpedia.py`: Abfrage von DBpedia-Labels.
+- `query_json.py`: Wikidata-Abfrage mit JSON-Rückgabeformat.
+- `query_xml.py`: DBpedia-Abfrage mit XML-Rückgabeformat.
+- `update_local.py`: Vorbereitetes Skript für SPARQL Update (POST).
 
 ## Validierung
 

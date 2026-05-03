@@ -1,0 +1,7 @@
+# Gqrx Bookmarks
+# Name;Frequency (Hz);Mode;Filter BW (Hz);Squelch (dB);Tags
+FM Station 1;95800000;WFM;160000;-40;Broadcast,FM
+Airband;118100000;AM;10000;-50;Aviation
+Marine Ch 16;156800000;NFM;12500;-45;Marine
+ISS Downlink;145800000;NFM;10000;-55;Satellite,Amateur
+PMR Channel 1;44600625;NFM;12500;-45;PMR

@@ -1,0 +1,5 @@
+# Custom style focusing on buildings and roads
+node,way   building   text    polygon
+node,way   highway    text    polyline
+node       addr:housenumber text linear
+node       addr:street      text linear
