@@ -1,0 +1,11 @@
+{% if user.name == 'elvis' %}
+  Hey Elvis!
+{% elsif user.name == 'anonymous' %}
+  Hey stranger!
+{% else %}
+  Hi {{ user.name }}!
+{% endif %}
+
+{% unless user.logged_in %}
+  Please log in.
+{% endunless %}

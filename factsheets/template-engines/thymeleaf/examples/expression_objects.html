@@ -1,0 +1,5 @@
+<p th:text="${#calendars.format(today, 'dd/MMM/yyyy HH:mm')}">13/Jan/2011 14:30</p>
+<p th:text="${#strings.toUpperCase(name)}">NAME</p>
+<ul th:if="${not #lists.isEmpty(users)}">
+    <li th:text="${#lists.size(users)}">3</li>
+</ul>

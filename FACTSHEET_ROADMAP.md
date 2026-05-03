@@ -7,7 +7,7 @@ Diese Roadmap dokumentiert den aktuellen Stand der Werkzeug-Factsheets und defin
 Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite identifiziert:
 
 - **Gesamtanzahl Factsheets:** 114 (geschätzt)
-- **Factsheets mit Verbesserungsbedarf:** 58
+- **Factsheets mit Verbesserungsbedarf:** 47
 - **Hauptprobleme:**
     - Platzhalter-Beschreibungen (Zweck-Sektion unvollständig)
     - Fehlende oder unzureichende Beispieldaten (weniger als 5 Beispiele)
@@ -71,23 +71,12 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Infrastruktur | vast-ai-sdk | Few examples (4) |
 | Infrastruktur | xvfb | Few examples (3) |
 | Ki-inferenz | vllm | Few examples (4) |
-| Programmierung | ant | No examples |
-| Programmierung | composer | No examples |
-| Programmierung | java | No examples |
-| Programmierung | maven | No examples |
-| Programmierung | nodejs | No examples |
 | Schnittstellen | graphqurl | Few examples (2) |
 | Schnittstellen | grpcurl | Few examples (2) |
 | Schnittstellen | openapi-generator | Few examples (4) |
 | Schnittstellen | rasqal | Few examples (2) |
 | Schnittstellen | sparkql | Few examples (1) |
 | Schnittstellen | sparqlwrapper | Few examples (1) |
-| Template-engines | blade | No examples |
-| Template-engines | erb | No examples |
-| Template-engines | liquid | No examples |
-| Template-engines | pug | No examples |
-| Template-engines | razor | No examples |
-| Template-engines | thymeleaf | No examples |
 | Testing | prism | Few examples (2) |
 | Testing | schemathesis | Installation issue: Log-Fehler: Fehlgeschlagen |
 | Testing | spectral | Few examples (4), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |

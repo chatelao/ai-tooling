@@ -1,0 +1,14 @@
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr th:each="user : ${users}">
+      <td th:text="${user.name}">John Doe</td>
+      <td th:text="${user.email}">john@example.com</td>
+    </tr>
+  </tbody>
+</table>

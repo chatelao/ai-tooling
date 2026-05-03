@@ -30,3 +30,13 @@ sudo apt install -y ruby
 ```bash
 erb -v
 ```
+
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene ERB-Templates:
+
+1.  `basic.erb`: Grundlegende Variablenersetzung und Ruby-Code-Ausführung.
+2.  `loop.erb`: Iteration über eine Liste von Objekten.
+3.  `conditional.erb`: Bedingte Logik mit `if` und `unless`.
+4.  `newline_control.erb`: Steuerung von Zeilenumbrüchen mit der `-` Syntax.
+5.  `partial.erb`: Konzept von Partials und sicherer HTML-Ausgabe.

@@ -1,0 +1,8 @@
+<project name="PropertiesDemo" default="print">
+  <property file="build.properties"/>
+  <property name="my.prop" value="Default Value"/>
+
+  <target name="print">
+    <echo message="Property value: ${my.prop}"/>
+  </target>
+</project>

@@ -1,0 +1,9 @@
+ul
+  each val, index in ['zero', 'one', 'two']
+    li= index + ': ' + val
+
+ul
+  each val in []
+    li= val
+  else
+    li There are no values

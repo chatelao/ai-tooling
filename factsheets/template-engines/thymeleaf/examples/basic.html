@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Thymeleaf Example</title>
+</head>
+<body>
+    <p th:text="'Hello, ' + ${name} + '!'">Hello, Guest!</p>
+    <p>Age: <span th:text="${user.age}">25</span></p>
+    <a th:href="@{/profile(id=${user.id})}">View Profile</a>
+</body>
+</html>

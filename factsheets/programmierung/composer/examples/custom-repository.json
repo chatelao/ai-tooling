@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mycompany/privaterepo"
+        }
+    ],
+    "require": {
+        "mycompany/privaterepo": "dev-main"
+    }
+}

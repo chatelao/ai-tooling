@@ -30,3 +30,13 @@ p Hello World
 ```bash
 pug --version
 ```
+
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene Pug-Templates:
+
+1.  `basic.pug`: Grundlegende Syntax mit Einrückung, Attributen und Variablen.
+2.  `loop.pug`: Iteration über Arrays mit `each`.
+3.  `conditional.pug`: Bedingte Logik mit `if` und `else`.
+4.  `mixin.pug`: Wiederverwendbare Code-Blöcke (Mixins) mit Parametern.
+5.  `inheritance.pug`: Layout-Konzept mit `extends`, `block` und `include`.

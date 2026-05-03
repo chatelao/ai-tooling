@@ -36,3 +36,13 @@ public class Main {
 java -version
 javac -version
 ```
+
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene Java-Beispiele:
+
+1.  `HelloWorld.java`: Ein klassisches "Hello World" Programm mit Argumentverarbeitung.
+2.  `CollectionsDemo.java`: Demonstration von Java Collections (ArrayList, HashMap).
+3.  `StreamApiDemo.java`: Verwendung der Stream API zum Filtern und Transformieren von Daten.
+4.  `FileIODemo.java`: Lesen und Schreiben von Dateien mit Try-with-Resources.
+5.  `ConcurrencyDemo.java`: Verwendung von Thread-Pools und ExecutorService für Nebenläufigkeit.
