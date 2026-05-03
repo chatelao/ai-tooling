@@ -13,8 +13,8 @@ Lambda-Funktionen aufzurufen.
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://aws.amazon.com/cli/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Amazon_Web_Services) |
+| Referenzhandbuch | [aws.amazon.com/cli](https://aws.amazon.com/cli/) |
+| Wikipedia | [de.wikipedia.org/wiki/Amazon_Web_Services](https://de.wikipedia.org/wiki/Amazon_Web_Services) |
 
 ## Installation (Ubuntu 24.04)
 

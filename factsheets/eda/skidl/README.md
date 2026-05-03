@@ -9,7 +9,7 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://devbisme.github.io/skidl/) |
+| Referenzhandbuch | [devbisme.github.io/skidl](https://devbisme.github.io/skidl/) |
 
 ## Installation (Ubuntu 24.04)
 

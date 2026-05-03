@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://github.com/miek/inspectrum) |
-| Wikipedia | [Link](https://en.wikipedia.org/wiki/Software-defined_radio) |
+| Referenzhandbuch | [github.com/miek/inspectrum](https://github.com/miek/inspectrum) |
+| Wikipedia | [en.wikipedia.org/wiki/Software-defined_radio](https://en.wikipedia.org/wiki/Software-defined_radio) |
 
 ## Installation (Ubuntu 24.04)
 

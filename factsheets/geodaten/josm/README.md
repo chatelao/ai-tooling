@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://josm.openstreetmap.de/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/JOSM) |
+| Referenzhandbuch | [josm.openstreetmap.de](https://josm.openstreetmap.de/) |
+| Wikipedia | [de.wikipedia.org/wiki/JOSM](https://de.wikipedia.org/wiki/JOSM) |
 
 ## Installation (Ubuntu 24.04)
 

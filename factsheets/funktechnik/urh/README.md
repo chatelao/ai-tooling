@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://github.com/jopohl/urh) |
-| Wikipedia | [Link](https://en.wikipedia.org/wiki/Software-defined_radio) |
+| Referenzhandbuch | [github.com/jopohl/urh](https://github.com/jopohl/urh) |
+| Wikipedia | [en.wikipedia.org/wiki/Software-defined_radio](https://en.wikipedia.org/wiki/Software-defined_radio) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -13,8 +13,8 @@ steuern.
 | Reifegrad | Stabil (Aktiv gewartet, v2.85.0 Stand April 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://docs.microsoft.com/en-us/cli/azure/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Microsoft_Azure) |
+| Referenzhandbuch | [docs.microsoft.com/en-us/cli/azure](https://docs.microsoft.com/en-us/cli/azure/) |
+| Wikipedia | [de.wikipedia.org/wiki/Microsoft_Azure](https://de.wikipedia.org/wiki/Microsoft_Azure) |
 
 ## Installation (Ubuntu 24.04)
 

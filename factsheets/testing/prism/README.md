@@ -14,7 +14,7 @@ generieren.
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://stoplight.io/open-source/prism) |
+| Referenzhandbuch | [stoplight.io/open-source/prism](https://stoplight.io/open-source/prism) |
 
 ## Installation (Ubuntu 24.04)
 

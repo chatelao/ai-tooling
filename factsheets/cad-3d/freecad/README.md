@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://www.freecad.org/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/FreeCAD) |
+| Referenzhandbuch | [www.freecad.org](https://www.freecad.org/) |
+| Wikipedia | [de.wikipedia.org/wiki/FreeCAD](https://de.wikipedia.org/wiki/FreeCAD) |
 
 ## Installation (Ubuntu 24.04)
 

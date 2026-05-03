@@ -11,7 +11,7 @@ Mustache ist eine "logikfreie" Template-Engine, die eine strikte Trennung zwisch
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://mustache.github.io/) |
+| Referenzhandbuch | [mustache.github.io](https://mustache.github.io/) |
 
 ## Installation (Ubuntu 24.04)
 

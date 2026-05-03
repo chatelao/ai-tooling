@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://www.kicad.org/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/KiCad) |
+| Referenzhandbuch | [www.kicad.org](https://www.kicad.org/) |
+| Wikipedia | [de.wikipedia.org/wiki/KiCad](https://de.wikipedia.org/wiki/KiCad) |
 
 ## Installation (Ubuntu 24.04)
 

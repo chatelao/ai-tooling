@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://xmlgraphics.apache.org/fop/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Apache_FOP) |
+| Referenzhandbuch | [xmlgraphics.apache.org/fop](https://xmlgraphics.apache.org/fop/) |
+| Wikipedia | [de.wikipedia.org/wiki/Apache_FOP](https://de.wikipedia.org/wiki/Apache_FOP) |
 
 ## Installation (Ubuntu 24.04)
 

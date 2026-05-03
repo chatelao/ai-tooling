@@ -15,8 +15,8 @@ Skripting.
 | Reifegrad | Stabil (Eingeschränkte Wartung) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://github.com/compuphase/pawn) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Pawn_(Programmiersprache)) |
+| Referenzhandbuch | [github.com/compuphase/pawn](https://github.com/compuphase/pawn) |
+| Wikipedia | [de.wikipedia.org/wiki/Pawn_(Programmiersprache](https://de.wikipedia.org/wiki/Pawn_(Programmiersprache)) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -9,7 +9,7 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://github.com/jango-blockchained/mcp-freecad) |
+| Referenzhandbuch | [github.com/jango-blockchained/mcp-freecad](https://github.com/jango-blockchained/mcp-freecad) |
 
 ## Installation (Ubuntu 24.04)
 

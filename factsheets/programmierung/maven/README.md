@@ -11,7 +11,7 @@ Apache Maven ist ein Build-Management-Tool für Java-Projekte, das auf dem Proje
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://maven.apache.org/) |
+| Referenzhandbuch | [maven.apache.org](https://maven.apache.org/) |
 
 ## Installation (Ubuntu 24.04)
 

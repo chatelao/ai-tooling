@@ -15,8 +15,8 @@ verifizieren.
 | Reifegrad | Stabil (Aktiv gewartet, v1.59.1 Stand April 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://playwright.dev/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Playwright_(Software)) |
+| Referenzhandbuch | [playwright.dev](https://playwright.dev/) |
+| Wikipedia | [de.wikipedia.org/wiki/Playwright_(Software](https://de.wikipedia.org/wiki/Playwright_(Software)) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://imagemagick.org/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/ImageMagick) |
+| Referenzhandbuch | [imagemagick.org](https://imagemagick.org/) |
+| Wikipedia | [de.wikipedia.org/wiki/ImageMagick](https://de.wikipedia.org/wiki/ImageMagick) |
 
 ## Installation (Ubuntu 24.04)
 

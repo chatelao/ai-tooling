@@ -9,7 +9,7 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://github.com/INTI-CMNB/KiBot) |
+| Referenzhandbuch | [github.com/INTI-CMNB/KiBot](https://github.com/INTI-CMNB/KiBot) |
 
 ## Installation (Ubuntu 24.04)
 

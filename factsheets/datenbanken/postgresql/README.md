@@ -11,8 +11,8 @@ PostgreSQL ist ein fortschrittliches, objekt-relationales Open-Source-Datenbankm
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://www.postgresql.org/docs/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/PostgreSQL) |
+| Referenzhandbuch | [www.postgresql.org/docs](https://www.postgresql.org/docs/) |
+| Wikipedia | [de.wikipedia.org/wiki/PostgreSQL](https://de.wikipedia.org/wiki/PostgreSQL) |
 
 ## Installation (Ubuntu 24.04)
 

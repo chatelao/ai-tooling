@@ -13,7 +13,7 @@ ist hochgradig erweiterbar durch eigene Regelsätze.
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://stoplight.io/open-source/spectral) |
+| Referenzhandbuch | [stoplight.io/open-source/spectral](https://stoplight.io/open-source/spectral) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://www.manim.community/) |
-| Wikipedia | [Link](https://en.wikipedia.org/wiki/Manim) |
+| Referenzhandbuch | [www.manim.community](https://www.manim.community/) |
+| Wikipedia | [en.wikipedia.org/wiki/Manim](https://en.wikipedia.org/wiki/Manim) |
 
 ## Installation (Ubuntu 24.04)
 

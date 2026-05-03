@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://gqrx.dk/doc/user-manual) |
-| Wikipedia | [Link](https://en.wikipedia.org/wiki/Gqrx) |
+| Referenzhandbuch | [gqrx.dk/doc/user-manual](https://gqrx.dk/doc/user-manual) |
+| Wikipedia | [en.wikipedia.org/wiki/Gqrx](https://en.wikipedia.org/wiki/Gqrx) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://tc3d.com/ldview/) |
-| Wikipedia | [Link](https://en.wikipedia.org/wiki/LDraw) |
+| Referenzhandbuch | [tc3d.com/ldview](https://tc3d.com/ldview/) |
+| Wikipedia | [en.wikipedia.org/wiki/LDraw](https://en.wikipedia.org/wiki/LDraw) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -13,7 +13,7 @@ Gowin, Efinix, Anlogic) und verschiedene Programmierkabel (JTAG, USB).
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://github.com/trabucayre/openFPGALoader) |
+| Referenzhandbuch | [github.com/trabucayre/openFPGALoader](https://github.com/trabucayre/openFPGALoader) |
 
 ## Installation (Ubuntu 24.04)
 

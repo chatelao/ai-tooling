@@ -9,7 +9,7 @@ Kubernetes ist ein Open-Source-System zur Automatisierung der Bereitstellung, Sk
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Kubernetes) |
+| Wikipedia | [de.wikipedia.org/wiki/Kubernetes](https://de.wikipedia.org/wiki/Kubernetes) |
 
 ## Installation (Ubuntu 24.04)
 

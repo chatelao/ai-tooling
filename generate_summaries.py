@@ -86,7 +86,8 @@ def generate_summaries():
                 short_zweck = tool['zweck'].replace('|', '\\|')
                 if len(short_zweck) > 100:
                     short_zweck = short_zweck[:97] + "..."
-                group_readme_content += f"| {tool['name']} | {short_zweck} | {tool['reifegrad']} | {tool['schulden']} | {tool['eol']} | [Link]({tool['path']}/README.md) |\n"
+                link_label = f"{tool['path']}/README.md"
+                group_readme_content += f"| {tool['name']} | {short_zweck} | {tool['reifegrad']} | {tool['schulden']} | {tool['eol']} | [{link_label}]({tool['path']}/README.md) |\n"
 
             with open(os.path.join(group_path, 'README.md'), 'w', encoding='utf-8') as f:
                 f.write(group_readme_content)
@@ -98,7 +99,8 @@ def generate_summaries():
     factsheets_readme_content += "| :--- | :---: | :--- |\n"
     for group_name in sorted(groups.keys()):
         count = len(groups[group_name])
-        factsheets_readme_content += f"| {group_name.capitalize()} | {count} | [Link]({group_name}/README.md) |\n"
+        link_label = f"{group_name}/README.md"
+        factsheets_readme_content += f"| {group_name.capitalize()} | {count} | [{link_label}]({group_name}/README.md) |\n"
 
     with open(os.path.join(factsheets_dir, 'README.md'), 'w', encoding='utf-8') as f:
         f.write(factsheets_readme_content)

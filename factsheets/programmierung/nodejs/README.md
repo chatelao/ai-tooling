@@ -11,7 +11,7 @@ Node.js ist eine JavaScript-Laufzeitumgebung, die auf der Chrome V8 JavaScript-E
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://nodejs.org/) |
+| Referenzhandbuch | [nodejs.org](https://nodejs.org/) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://www.meshlab.net/) |
-| Wikipedia | [Link](https://en.wikipedia.org/wiki/MeshLab) |
+| Referenzhandbuch | [www.meshlab.net](https://www.meshlab.net/) |
+| Wikipedia | [en.wikipedia.org/wiki/MeshLab](https://en.wikipedia.org/wiki/MeshLab) |
 
 ## Installation (Ubuntu 24.04)
 

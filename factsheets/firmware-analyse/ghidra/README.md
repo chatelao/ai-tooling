@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://ghidra-re.org/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Ghidra) |
+| Referenzhandbuch | [ghidra-re.org](https://ghidra-re.org/) |
+| Wikipedia | [de.wikipedia.org/wiki/Ghidra](https://de.wikipedia.org/wiki/Ghidra) |
 
 ## Installation (Ubuntu 24.04)
 

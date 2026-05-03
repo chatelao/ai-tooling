@@ -11,7 +11,7 @@ Java ist eine objektorientierte Programmiersprache und Laufzeitumgebung, die fü
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://openjdk.org/) |
+| Referenzhandbuch | [openjdk.org](https://openjdk.org/) |
 
 ## Installation (Ubuntu 24.04)
 

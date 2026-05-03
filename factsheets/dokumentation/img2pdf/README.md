@@ -9,7 +9,7 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://github.com/josch/img2pdf) |
+| Referenzhandbuch | [github.com/josch/img2pdf](https://github.com/josch/img2pdf) |
 
 ## Installation (Ubuntu 24.04)
 

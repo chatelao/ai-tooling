@@ -13,11 +13,11 @@ Sicherheitsbewertungen und Architektur-Empfehlungen.
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://github.com/microsoft/mcp) |
+| Referenzhandbuch | [github.com/microsoft/mcp](https://github.com/microsoft/mcp) |
 
 ## Installation (Ubuntu 24.04)
 
-Voraussetzung: [uv](https://github.com/astral-sh/uv) muss installiert sein.
+Voraussetzung: [github.com/astral-sh/uv](https://github.com/astral-sh/uv) muss installiert sein.
 
 ```bash
 uvx --from msmcp-azure azmcp server start

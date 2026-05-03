@@ -9,8 +9,8 @@
 | Reifegrad | Stabil (gepatched für Python 3.12 Kompatibilität) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://pymol.org/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/PyMOL) |
+| Referenzhandbuch | [pymol.org](https://pymol.org/) |
+| Wikipedia | [de.wikipedia.org/wiki/PyMOL](https://de.wikipedia.org/wiki/PyMOL) |
 
 ## Installation (Ubuntu 24.04)
 

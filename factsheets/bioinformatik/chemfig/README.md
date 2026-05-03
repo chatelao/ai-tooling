@@ -13,8 +13,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://mirror.init7.net/ctan/macros/generic/chemfig/chemfig-en.pdf) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/LaTeX) |
+| Referenzhandbuch | [mirror.init7.net/ctan/macros/generic/chemfig/chemfig-en.pdf](https://mirror.init7.net/ctan/macros/generic/chemfig/chemfig-en.pdf) |
+| Wikipedia | [de.wikipedia.org/wiki/LaTeX](https://de.wikipedia.org/wiki/LaTeX) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -14,8 +14,8 @@ Embedded-Entwicklung auf Linux-Systemen.
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://developer.arm.com/Tools%20and%20Software/GNU%20Toolchain) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/GNU_Compiler_Collection) |
+| Referenzhandbuch | [developer.arm.com/Tools%20and%20Software/GNU%20Toolchain](https://developer.arm.com/Tools%20and%20Software/GNU%20Toolchain) |
+| Wikipedia | [de.wikipedia.org/wiki/GNU_Compiler_Collection](https://de.wikipedia.org/wiki/GNU_Compiler_Collection) |
 
 ## Installation (Ubuntu 24.04)
 

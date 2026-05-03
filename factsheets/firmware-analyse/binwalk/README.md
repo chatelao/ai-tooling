@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://github.com/ReFirmLabs/binwalk) |
-| Wikipedia | [Link](https://en.wikipedia.org/wiki/Binwalk) |
+| Referenzhandbuch | [github.com/ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) |
+| Wikipedia | [en.wikipedia.org/wiki/Binwalk](https://en.wikipedia.org/wiki/Binwalk) |
 
 ## Installation (Ubuntu 24.04)
 

@@ -12,11 +12,11 @@ idealen Werkzeug für Agenten macht, die Web-Apps oder Microservices entwickeln.
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://github.com/GoogleCloudPlatform/cloud-run-mcp) |
+| Referenzhandbuch | [github.com/GoogleCloudPlatform/cloud-run-mcp](https://github.com/GoogleCloudPlatform/cloud-run-mcp) |
 
 ## Installation (Ubuntu 24.04)
 
-Voraussetzung: [Node.js](https://nodejs.org/) und `gcloud` müssen installiert
+Voraussetzung: [nodejs.org](https://nodejs.org/) und `gcloud` müssen installiert
 sein.
 
 ```bash

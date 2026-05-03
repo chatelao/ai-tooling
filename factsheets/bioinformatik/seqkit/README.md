@@ -9,7 +9,7 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://bioinf.shenwei.me/seqkit/) |
+| Referenzhandbuch | [bioinf.shenwei.me/seqkit](https://bioinf.shenwei.me/seqkit/) |
 
 ## Installation (Ubuntu 24.04)
 

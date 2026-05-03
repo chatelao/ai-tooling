@@ -15,7 +15,7 @@ bereitzustellen.
 | Reifegrad | Stabil (Aktiv gewartet, v0.19.0 Stand April 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://github.com/vllm-project/vllm) |
+| Referenzhandbuch | [github.com/vllm-project/vllm](https://github.com/vllm-project/vllm) |
 
 ## Installation (Ubuntu 24.04)
 

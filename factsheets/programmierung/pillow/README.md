@@ -14,8 +14,8 @@ Generierung von Visualisierungen.
 | Reifegrad | Stabil (Aktiv gewartet, v12.2.0 Stand April 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://python-pillow.org/) |
-| Wikipedia | [Link](https://en.wikipedia.org/wiki/Python_Imaging_Library) |
+| Referenzhandbuch | [python-pillow.org](https://python-pillow.org/) |
+| Wikipedia | [en.wikipedia.org/wiki/Python_Imaging_Library](https://en.wikipedia.org/wiki/Python_Imaging_Library) |
 
 ## Installation (Ubuntu 24.04)
 

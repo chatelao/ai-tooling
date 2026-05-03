@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://nodered.org/docs/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Node-RED) |
+| Referenzhandbuch | [nodered.org/docs](https://nodered.org/docs/) |
+| Wikipedia | [de.wikipedia.org/wiki/Node-RED](https://de.wikipedia.org/wiki/Node-RED) |
 
 ## Installation (Ubuntu 24.04)
 

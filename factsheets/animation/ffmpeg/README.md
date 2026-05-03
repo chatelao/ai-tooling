@@ -9,8 +9,8 @@
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://ffmpeg.org/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/FFmpeg) |
+| Referenzhandbuch | [ffmpeg.org](https://ffmpeg.org/) |
+| Wikipedia | [de.wikipedia.org/wiki/FFmpeg](https://de.wikipedia.org/wiki/FFmpeg) |
 
 ## Installation (Ubuntu 24.04)
 

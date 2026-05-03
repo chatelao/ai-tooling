@@ -12,8 +12,8 @@ verwalten oder BigQuery-Daten abzufragen.
 | Reifegrad | Stabil (Aktiv gewartet, Stand April 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://cloud.google.com/sdk) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Google_Cloud_Platform) |
+| Referenzhandbuch | [cloud.google.com/sdk](https://cloud.google.com/sdk) |
+| Wikipedia | [de.wikipedia.org/wiki/Google_Cloud_Platform](https://de.wikipedia.org/wiki/Google_Cloud_Platform) |
 
 ## Installation (Ubuntu 24.04)
 

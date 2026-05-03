@@ -11,7 +11,7 @@ Microsofts Standard-Engine für ASP.NET Core MVC und Blazor. Sie besticht durch 
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor) |
+| Referenzhandbuch | [learn.microsoft.com/en-us/aspnet/core/mvc/views/razor](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor) |
 
 ## Installation (Ubuntu 24.04)
 

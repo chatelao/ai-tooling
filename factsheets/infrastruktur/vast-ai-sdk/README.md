@@ -14,7 +14,7 @@ Daten/Modelle auf Remote-GPUs zu übertragen.
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://github.com/Vast-ai/vast-python) |
+| Referenzhandbuch | [github.com/Vast-ai/vast-python](https://github.com/Vast-ai/vast-python) |
 
 ## Installation (Ubuntu 24.04)
 

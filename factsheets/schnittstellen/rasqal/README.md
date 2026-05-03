@@ -11,8 +11,8 @@ Rasqal ist eine C-Bibliothek, die das Parsen und Ausführen von SPARQL-Abfragen 
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
-| Referenzhandbuch | [Link](https://librdf.org/rasqal/) |
-| Wikipedia | [Link](https://de.wikipedia.org/wiki/Rasqal) |
+| Referenzhandbuch | [librdf.org/rasqal](https://librdf.org/rasqal/) |
+| Wikipedia | [de.wikipedia.org/wiki/Rasqal](https://de.wikipedia.org/wiki/Rasqal) |
 
 ## Installation (Ubuntu 24.04)
 
