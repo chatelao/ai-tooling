@@ -27,12 +27,15 @@ sudo apt install mariadb-server
 SELECT 'Hello World';
 ```
 
-## Beispieldaten
+## Beispiele
 
-Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
+Im Ordner `examples/` befinden sich verschiedene MariaDB-Beispiele:
 
-- `setup.sql`
-- `dump.sql`
+1.  `setup.sql`: Grundlegende Tabellenerstellung.
+2.  `dump.sql`: Beispiel für einen Datenbank-Dump.
+3.  `insert_data.sql`: Einfügen von Testdaten.
+4.  `complex_query.sql`: Eine JOIN-Abfrage mit Aggregation.
+5.  `backup.sh`: Ein einfaches Backup-Skript mit `mysqldump`.
 
 ## Validierung
 

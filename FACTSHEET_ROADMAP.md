@@ -7,7 +7,7 @@ Diese Roadmap dokumentiert den aktuellen Stand der Werkzeug-Factsheets und defin
 Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite identifiziert:
 
 - **Gesamtanzahl Factsheets:** 114 (geschätzt)
-- **Factsheets mit Verbesserungsbedarf:** 47
+- **Factsheets mit Verbesserungsbedarf:** 45
 - **Hauptprobleme:**
     - Platzhalter-Beschreibungen (Zweck-Sektion unvollständig)
     - Fehlende oder unzureichende Beispieldaten (weniger als 5 Beispiele)
@@ -37,12 +37,11 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Animation | krita | Few examples (4) |
 | App-entwicklung | flutter | Few examples (4) |
 | App-entwicklung | react-native | Few examples (4) |
-| App-entwicklung | spring-boot | No examples |
 | Bioinformatik | bkchem | Few examples (2), Installation issue: Log-Fehler: ModuleNotFoundError, Python Traceback |
 | Bioinformatik | chemfig | Few examples (1), Installation issue: Log-Fehler: LaTeX Error |
 | Cad-3d | freecad | Installation issue: In FIXME.md gelistet, Listed in FIXME.md |
 | Cad-3d | mcp-freecad | Few examples (4) |
-| Datenbanken | mariadb | Few examples (2), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
+| Datenbanken | mariadb | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Datenbanken | mssql | Few examples (1), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Datenbanken | oracle | Few examples (1), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Datenbanken | postgresql | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
@@ -60,14 +59,13 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
 | Geodaten | osm2pgsql | No examples |
 | Geodaten | osmium-tool | No examples |
 | Geodaten | osmosis | No examples |
-| Geodaten | postgis | No examples |
 | Hardware-simulation | renode | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Infrastruktur | aws-cli | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Infrastruktur | aws-mcp-server | Few examples (4), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
-| Infrastruktur | azure-cli | No examples, Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
+| Infrastruktur | azure-cli | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Infrastruktur | azure-mcp-server | Few examples (4), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Infrastruktur | google-cloud-run-mcp | Few examples (4), Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
-| Infrastruktur | google-cloud-sdk | No examples, Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
+| Infrastruktur | google-cloud-sdk | Installation issue: Verifizierungsdatei fehlt (.hash.sha256) |
 | Infrastruktur | vast-ai-sdk | Few examples (4) |
 | Infrastruktur | xvfb | Few examples (3) |
 | Ki-inferenz | vllm | Few examples (4) |

@@ -41,3 +41,13 @@ class Hello {
 ```bash
 spring --version
 ```
+
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene Spring Boot Konfigurations- und Codebeispiele:
+
+1.  `HelloController.java`: Ein einfacher REST-Controller.
+2.  `application.properties`: Standard-Konfigurationsdatei.
+3.  `pom.xml`: Maven-Projektkonfiguration mit Spring Boot Parent.
+4.  `User.java`: Eine einfache POJO-Klasse (Model).
+5.  `SecurityConfig.java`: Beispiel für eine Sicherheitskonfiguration mit Spring Security.

@@ -34,6 +34,16 @@ az --version
 az --version
 ```
 
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene Azure CLI Beispiele:
+
+1.  `login.sh`: Anmeldung am Azure-Konto.
+2.  `resource_group.sh`: Erstellen einer Ressourcengruppe.
+3.  `vm_operations.sh`: Erstellen und Auflisten von virtuellen Maschinen.
+4.  `storage_blob.sh`: Verwaltung von Storage Accounts und Blobs.
+5.  `network_vnet.sh`: Erstellen eines virtuellen Netzwerks und Subnetzes.
+
 ## Nutzung für KI-Agenten
 
 - **Ressourcen-Management**: Erstellen und Verwalten von Resource Groups, VMs
