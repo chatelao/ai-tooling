@@ -1,1 +1,1 @@
-S
+# Radare2 script

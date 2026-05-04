@@ -29,6 +29,16 @@ sudo apt install -y kubectl
 kubectl version
 ```
 
+## Beispiele
+
+Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
+
+- `deployment.yaml`: Definition eines Workloads.
+- `service.yaml`: Netzwerk-Zugriff auf den Workload.
+- `ingress.yaml`: Externer Zugriff über einen Ingress-Controller.
+- `configmap.yaml`: Verwaltung von Konfigurationsdaten.
+- `gpu-pod.yaml`: Beispiel für die Anforderung von GPU-Ressourcen.
+
 ## Validierung
 
 ```bash

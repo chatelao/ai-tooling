@@ -1,1 +1,1 @@
-H
+GET http://localhost

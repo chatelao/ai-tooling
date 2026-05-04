@@ -1,1 +1,1 @@
-R
+Example text content
