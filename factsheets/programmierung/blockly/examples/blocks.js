@@ -1,1 +1,1 @@
-B
+// JS example

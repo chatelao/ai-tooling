@@ -24,6 +24,18 @@ sudo apt install docker-ce
 docker run hello-world
 ```
 
+## Beispiele
+
+Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
+
+- `Dockerfile`: Definition des Container-Images.
+- `docker-compose.yml`: (Falls vorhanden) Orchestrierung mehrerer Container.
+- `app.py`: Eine einfache Python-Anwendung für den Container.
+- `requirements.txt`: Python-Abhängigkeiten für die Anwendung.
+- `nginx.conf`: Konfigurationsdatei für einen Nginx-Webserver im Container.
+- `entrypoint.sh`: Start-Skript für den Container.
+- `deploy-config.json`: Beispiel für eine Deployment-Konfiguration.
+
 ## Validierung
 
 ```bash

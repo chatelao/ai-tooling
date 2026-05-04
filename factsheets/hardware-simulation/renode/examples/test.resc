@@ -1,1 +1,2 @@
-s
+mach create
+machine LoadPlatformDescription @factsheets/hardware-simulation/renode/examples/machine.repl

@@ -1,1 +1,1 @@
-M
+# Manifest example

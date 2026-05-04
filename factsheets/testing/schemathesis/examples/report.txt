@@ -1,1 +1,6 @@
-R
+Schemathesis Test Report
+========================
+Status: Passed
+Time: 2024-05-04 12:00:00
+Total cases: 50
+Failures: 0

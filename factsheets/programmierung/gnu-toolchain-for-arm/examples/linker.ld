@@ -1,1 +1,1 @@
-L
+/* Linker script */
