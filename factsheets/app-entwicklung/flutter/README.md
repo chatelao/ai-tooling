@@ -39,6 +39,7 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 - `pubspec.yaml` (Projektkonfiguration)
 - `widget_test.dart` (Beispiel-Test)
 - `analysis_options.yaml` (Linter-Konfiguration)
+- `README.md` (Dokumentation der Beispiele)
 
 ## Validierung
 

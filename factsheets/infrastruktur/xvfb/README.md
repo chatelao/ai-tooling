@@ -34,8 +34,8 @@ Xvfb :99 &
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
-- `start.sh`
-- `stop.sh`
+- `run_xvfb.sh` (Skript zum Starten)
+- `screenshot.sh` (Beispiel für Screenshot-Erfassung)
 - `config.conf`
 - `log.txt`
 - `test.py`

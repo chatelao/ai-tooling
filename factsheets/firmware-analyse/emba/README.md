@@ -29,7 +29,7 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
 - `firmware.zip`
 - `logs.txt`
-- `config.sh`
+- `config.emba` (EMBA-Konfigurationsdatei)
 - `test.bin`
 - `results.md`
 

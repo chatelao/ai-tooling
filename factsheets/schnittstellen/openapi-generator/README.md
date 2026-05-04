@@ -30,8 +30,8 @@ openapi-generator-cli version
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
 - `api.yaml`: Eine Beispiel-OpenAPI-Spezifikation.
+- `petstore.yaml`: Standard Petstore-Beispiel.
 - `config.json`: Konfiguration für den Generator.
-- `out.sh`: Skript zur Ausführung der Codegenerierung.
 - `test.json`: Beispieldaten für Tests.
 - `doc.md`: Generierte Dokumentationsvorschau.
 
