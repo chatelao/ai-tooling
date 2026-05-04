@@ -32,11 +32,23 @@ openFPGALoader --version
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
 - `tangnano4k/led_blink.v`: Verilog-Code für ein LED-Blink-Beispiel auf dem
+- `ulx3s.bit` (ULX3S Board)
+- `flea_fpga.bit` (FleaFPGA Board)
+- `arty_a7.bit` (Arty A7 Board)
   Tang Nano 4K.
 - `tangnano4k/pins.cst`: Constraints-Datei (Physical Constraints) für den
+- `ulx3s.bit` (ULX3S Board)
+- `flea_fpga.bit` (FleaFPGA Board)
+- `arty_a7.bit` (Arty A7 Board)
   Tang Nano 4K.
 - `tangnano4k/Makefile`: Makefile zum Bauen (mit externen Tools) und Flashen.
+- `ulx3s.bit` (ULX3S Board)
+- `flea_fpga.bit` (FleaFPGA Board)
+- `arty_a7.bit` (Arty A7 Board)
 - `tangnano4k/flash.sh`: Shell-Skript zum direkten Programmieren des
+- `ulx3s.bit` (ULX3S Board)
+- `flea_fpga.bit` (FleaFPGA Board)
+- `arty_a7.bit` (Arty A7 Board)
   Tang Nano 4K mit openFPGALoader.
 - `generic_ice40.bin`: Beispiel-Bitstream für iCE40 FPGAs.
 - `generic_ecp5.bit`: Beispiel-Bitstream für ECP5 FPGAs.

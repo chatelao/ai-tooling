@@ -37,7 +37,7 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 - `config.json`
 - `prompt.txt`
 - `output.txt`
-- `env.sh`
+- `run_server.sh`
 
 ## Validierung
 

@@ -39,6 +39,7 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 - `package.json` (Projektkonfiguration)
 - `app.json` (Expo/Native Konfiguration)
 - `metro.config.js` (Bundler-Konfiguration)
+- `tsconfig.json` (TypeScript-Konfiguration)
 
 ## Validierung
 

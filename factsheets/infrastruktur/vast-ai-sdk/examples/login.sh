@@ -1,0 +1,1 @@
+vast login <api-key>

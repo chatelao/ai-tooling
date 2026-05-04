@@ -30,6 +30,7 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
 - `config.json`
 - `test.py`
+- `plugin.py` (Beispiel-Plugin)
 - `doc.md`
 - `env.sh`
 - `readme.txt`
