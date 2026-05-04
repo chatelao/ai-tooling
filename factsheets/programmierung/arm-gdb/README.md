@@ -38,6 +38,7 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 - `break_and_log.gdb`: Skript zum Setzen von Breakpoints mit automatischem
   Logging.
 - `display_registers.gdb`: Skript zur formatierten Anzeige von CPU-Registern.
+- `dump_stack.gdb`: GDB-Skript zur Analyse des Stacks.
 
 ## Validierung
 

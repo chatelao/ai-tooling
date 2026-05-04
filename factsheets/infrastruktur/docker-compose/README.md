@@ -38,3 +38,14 @@ KI-Agenten können Docker Compose nutzen, um:
 - Abhängigkeiten wie Vektordatenbanken (Pinecone, Milvus) oder Caches (Redis) lokal zu starten.
 - Microservice-Architekturen lokal zu simulieren.
 - Standardisierte Entwicklungsumgebungen für Teams bereitzustellen.
+
+## Beispieldaten
+
+Im Ordner `examples/` befinden sich Konfigurationsbeispiele für Docker Compose:
+
+- `docker-compose.yml`: Basis-Konfiguration für eine Multi-Container-Anwendung.
+- `docker-compose.gpu.yml`: Beispiel für die Einbindung von NVIDIA-GPUs.
+- `docker-compose.test.yml`: Konfiguration für Testumgebungen.
+- `monitoring.yml`: Stack für Monitoring (z.B. Prometheus/Grafana).
+- `networks.yml`: Fortgeschrittene Netzwerk-Konfigurationen.
+- `.env.example`: Vorlage für Umgebungsvariablen.

@@ -32,6 +32,7 @@ spectral lint openapi.yaml
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
 - `api.yaml`: Eine einfache, valide OpenAPI-Spezifikation.
+- `api-v2.yaml`: Eine OpenAPI 2.0 (Swagger) Spezifikation.
 - `invalid.yaml`: Eine OpenAPI-Spezifikation mit absichtlichen Design-Fehlern.
 - `.spectral.yaml`: Standard-Konfigurationsdatei für Spectral.
 - `custom-ruleset.yaml`: Ein Beispiel für benutzerdefinierte Regeln.
