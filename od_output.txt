@@ -1,8 +1,0 @@
-0000000   |       W   i   k   i   p   e   d   i   a       |       [   d
-0000020   e   .   w   i   k   i   p   e   d   i   a   .   o   r   g   /
-0000040   w   i   k   i   /   O   r   a   c   l   e   _   (   D   a   t
-0000060   e   n   b   a   n   k   ]   (   h   t   t   p   s   :   /   /
-0000100   d   e   .   w   i   k   i   p   e   d   i   a   .   o   r   g
-0000120   /   w   i   k   i   /   O   r   a   c   l   e   _   (   D   a
-0000140   t   e   n   b   a   n   k   )   )       |  \n
-0000154
