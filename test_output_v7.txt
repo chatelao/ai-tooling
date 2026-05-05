@@ -1,2 +1,0 @@
-Original: '| Wikipedia | [Link](https://de.wikipedia.org/wiki/Oracle_(Datenbank)) |'
-Fixed:    '| Wikipedia | [de.wikipedia.org/wiki/Oracle_(Datenbank)](https://de.wikipedia.org/wiki/Oracle_(Datenbank)) |'
