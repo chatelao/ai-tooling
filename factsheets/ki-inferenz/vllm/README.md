@@ -38,6 +38,7 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 - `prompt.txt`
 - `output.txt`
 - `run_server.sh`
+- `openai_client.py`: Python-Client für die OpenAI-kompatible API.
 
 ## Validierung
 

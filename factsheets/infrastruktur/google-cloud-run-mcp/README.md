@@ -38,6 +38,16 @@ die Funktionsfähigkeit (Hilfe) geprüft werden durch:
 npx -y @google-cloud/cloud-run-mcp --help
 ```
 
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene Beispiele für Google Cloud Run MCP:
+
+1.  `config_claude_desktop.json`: Konfiguration für Claude Desktop.
+2.  `deploy.sh`: Beispielskript für ein manuelles Deployment.
+3.  `prompt_deploy.txt`: Beispiel-Prompt für ein Deployment über den Agenten.
+4.  `prompt_list.txt`: Beispiel-Prompt zum Auflisten der Services.
+5.  `prompt_logs.txt`: Beispiel-Prompt zur Abfrage von Service-Logs.
+
 ## Nutzung für KI-Agenten
 
 - **Deployment**: `deploy-file-contents` ermöglicht es dem Agenten, den
