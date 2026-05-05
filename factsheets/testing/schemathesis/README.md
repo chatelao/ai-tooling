@@ -34,6 +34,7 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 - `config.json`: Testkonfiguration.
 - `report.txt`: Beispiel für einen Testbericht.
 - `hooks.py`: Benutzerdefinierte Hooks für den Testprozess.
+- `docker-compose.yml`: Docker Compose Konfiguration für API-Tests.
 
 ## Validierung
 

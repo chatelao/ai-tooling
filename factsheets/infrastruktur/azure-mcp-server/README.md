@@ -35,6 +35,16 @@ npx @microsoft/azmcp
 uvx --from msmcp-azure azmcp --help
 ```
 
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene Beispiele für den Azure MCP Server:
+
+1.  `config_claude_desktop.json`: Konfiguration für Claude Desktop.
+2.  `credentials.json`: Beispiel für die Struktur der Anmeldedaten.
+3.  `prompt_advisor.txt`: Beispiel-Prompt zur Abfrage von Azure Advisor Empfehlungen.
+4.  `prompt_aks.txt`: Beispiel-Prompt zur Interaktion mit Azure Kubernetes Service.
+5.  `prompt_keyvault.txt`: Beispiel-Prompt zur Verwaltung von Geheimnissen im Key Vault.
+
 ## Nutzung für KI-Agenten
 
 - **Dienste**: Zugriff auf Azure Compute, Storage, Cosmos DB, Key Vault uvm.

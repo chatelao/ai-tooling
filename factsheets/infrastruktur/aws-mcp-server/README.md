@@ -39,6 +39,16 @@ die Funktionsfähigkeit geprüft werden durch:
 uvx awslabs.aws-api-mcp-server@latest --help
 ```
 
+## Beispiele
+
+Im Ordner `examples/` befinden sich verschiedene Beispiele für den AWS MCP Server:
+
+1.  `config.json`: Allgemeine Konfigurationsdatei.
+2.  `config_claude_desktop.json`: Konfiguration für Claude Desktop.
+3.  `prompt_lambda.txt`: Beispiel-Prompt zur Interaktion mit Lambda.
+4.  `prompt_logs.txt`: Beispiel-Prompt zur Abfrage von CloudWatch-Logs.
+5.  `prompt_s3.txt`: Beispiel-Prompt zur Verwaltung von S3-Buckets.
+
 ## Nutzung für KI-Agenten
 
 - **Tools**: Der Server registriert Funktionen für S3, EC2, Lambda etc. direkt

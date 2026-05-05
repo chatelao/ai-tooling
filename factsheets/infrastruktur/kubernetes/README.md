@@ -38,6 +38,7 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 - `ingress.yaml`: Externer Zugriff über einen Ingress-Controller.
 - `configmap.yaml`: Verwaltung von Konfigurationsdaten.
 - `gpu-pod.yaml`: Beispiel für die Anforderung von GPU-Ressourcen.
+- `secret.yaml`: Verwaltung von sensiblen Daten.
 
 ## Validierung
 
