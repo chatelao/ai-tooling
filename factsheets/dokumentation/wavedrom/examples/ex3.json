@@ -1,1 +1,7 @@
-{}
+{ "signal": [
+  { "name": "CLK",   "wave": "p......." },
+  { "name": "RESET", "wave": "1.0.1..." },
+  { "name": "DATA",  "wave": "x.3.4.5.", "data": ["A", "B", "C"] }
+],
+"head": { "text": "Clock with Async Reset" }
+}

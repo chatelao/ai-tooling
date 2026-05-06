@@ -1,1 +1,20 @@
-<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format"></fo:root>
+<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
+  <fo:layout-master-set>
+    <fo:simple-page-master master-name="A4" page-height="29.7cm" page-width="21cm" margin="2cm">
+      <fo:region-body margin-top="2cm" margin-bottom="2cm"/>
+      <fo:region-before extent="1.5cm"/>
+      <fo:region-after extent="1.5cm"/>
+    </fo:simple-page-master>
+  </fo:layout-master-set>
+  <fo:page-sequence master-reference="A4">
+    <fo:static-content flow-name="xsl-region-before">
+      <fo:block text-align="center" font-size="8pt" border-bottom="0.5pt solid gray">Dokumenttitel - Kopfzeile</fo:block>
+    </fo:static-content>
+    <fo:static-content flow-name="xsl-region-after">
+      <fo:block text-align="center" font-size="8pt" border-top="0.5pt solid gray">Seite <fo:page-number/></fo:block>
+    </fo:static-content>
+    <fo:flow flow-name="xsl-region-body">
+      <fo:block>Hier steht der Hauptinhalt des Dokuments mit Kopf- und Fußzeile.</fo:block>
+    </fo:flow>
+  </fo:page-sequence>
+</fo:root>

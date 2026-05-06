@@ -34,11 +34,11 @@ HTTP 200
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
-- `test.hurl`
-- `ex1.hurl`
-- `ex2.hurl`
-- `ex3.hurl`
-- `ex4.hurl`
+- `test.hurl`: Einfacher GET-Request Test.
+- `ex1.hurl`: POST-Request mit JSON-Body und Feld-Validierung.
+- `ex2.hurl`: Test mit Custom Headers, Bearer Token und Cookie-Prüfung.
+- `ex3.hurl`: Mehrstufiger Test mit Variablen-Capture (Chaining).
+- `ex4.hurl`: Test von Redirects und Basic Authentication.
 
 ## Validierung
 
