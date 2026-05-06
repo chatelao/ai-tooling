@@ -1,1 +1,6 @@
-{}
+{ "signal": [
+  { "name": "clk", "wave": "p....." },
+  { "name": "state", "wave": "3.4.5.", "data": ["IDLE", "FETCH", "EXEC"] }
+],
+"config": { "hscale": 2 }
+}

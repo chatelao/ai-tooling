@@ -1,1 +1,16 @@
-<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format"></fo:root>
+<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
+  <fo:layout-master-set>
+    <fo:simple-page-master master-name="A4" page-height="29.7cm" page-width="21cm" margin="2cm">
+      <fo:region-body/>
+    </fo:simple-page-master>
+  </fo:layout-master-set>
+  <fo:page-sequence master-reference="A4">
+    <fo:flow flow-name="xsl-region-body">
+      <fo:block font-size="16pt" font-weight="bold" margin-bottom="10pt">Bild-Integration</fo:block>
+      <fo:block text-align="center">
+        <fo:external-graphic src="url('test.png')" content-width="scale-to-fit" width="10cm" content-height="100%"/>
+      </fo:block>
+      <fo:block font-style="italic" text-align="center">Abbildung 1: Beispielbild</fo:block>
+    </fo:flow>
+  </fo:page-sequence>
+</fo:root>

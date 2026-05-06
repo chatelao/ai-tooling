@@ -1,1 +1,32 @@
-<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format"></fo:root>
+<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
+  <fo:layout-master-set>
+    <fo:simple-page-master master-name="A4" page-height="29.7cm" page-width="21cm" margin="2cm">
+      <fo:region-body/>
+    </fo:simple-page-master>
+  </fo:layout-master-set>
+  <fo:page-sequence master-reference="A4">
+    <fo:flow flow-name="xsl-region-body">
+      <fo:block font-size="16pt" font-weight="bold" margin-bottom="10pt">Beispieltabelle</fo:block>
+      <fo:table border="0.5pt solid black" table-layout="fixed" width="100%">
+        <fo:table-column column-width="50%"/>
+        <fo:table-column column-width="50%"/>
+        <fo:table-header>
+          <fo:table-row background-color="#eeeeee">
+            <fo:table-cell border="0.5pt solid black" padding="2pt"><fo:block font-weight="bold">Name</fo:block></fo:table-cell>
+            <fo:table-cell border="0.5pt solid black" padding="2pt"><fo:block font-weight="bold">Wert</fo:block></fo:table-cell>
+          </fo:table-row>
+        </fo:table-header>
+        <fo:table-body>
+          <fo:table-row>
+            <fo:table-cell border="0.5pt solid black" padding="2pt"><fo:block>Beispiel A</fo:block></fo:table-cell>
+            <fo:table-cell border="0.5pt solid black" padding="2pt"><fo:block>100</fo:block></fo:table-cell>
+          </fo:table-row>
+          <fo:table-row>
+            <fo:table-cell border="0.5pt solid black" padding="2pt"><fo:block>Beispiel B</fo:block></fo:table-cell>
+            <fo:table-cell border="0.5pt solid black" padding="2pt"><fo:block>200</fo:block></fo:table-cell>
+          </fo:table-row>
+        </fo:table-body>
+      </fo:table>
+    </fo:flow>
+  </fo:page-sequence>
+</fo:root>

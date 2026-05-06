@@ -1,1 +1,8 @@
-{}
+{ "signal": [
+  { "name": "SCK",  "wave": "p........" },
+  { "name": "MOSI", "wave": "0.3.4.5.x", "data": ["D7", "D6", "D5"] },
+  { "name": "MISO", "wave": "z..5.6.x.", "data": ["Q7", "Q6"] },
+  { "name": "SS",   "wave": "1.0.....1" }
+],
+"head": { "text": "SPI Bus Transaction" }
+}

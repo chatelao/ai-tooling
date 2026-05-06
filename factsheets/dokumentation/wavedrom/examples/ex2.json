@@ -1,1 +1,6 @@
-{}
+{ "signal": [
+  { "name": "SCL", "wave": "1.p......1" },
+  { "name": "SDA", "wave": "10.3.4.5.1", "data": ["ADDR", "W", "ACK", "DATA"] }
+],
+"head": { "text": "I2C Write Cycle (simplified)" }
+}

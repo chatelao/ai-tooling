@@ -27,11 +27,11 @@ npm install wavedrom
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
-- `test.json`
-- `ex1.json`
-- `ex2.json`
-- `ex3.json`
-- `ex4.json`
+- `test.json`: Einfaches Taktsignal.
+- `ex1.json`: SPI-Bus Transaktion mit MISO/MOSI und Select.
+- `ex2.json`: I2C Schreibzyklus (vereinfacht).
+- `ex3.json`: Taktsignal mit asynchronem Reset und Datenbus.
+- `ex4.json`: Zustandsübergänge einer State Machine.
 
 ## Validierung
 

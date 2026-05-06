@@ -28,11 +28,11 @@ sudo apt install fop
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
-- `test.fo`
-- `ex1.fo`
-- `ex2.fo`
-- `ex3.fo`
-- `ex4.fo`
+- `test.fo`: Grundlegendes XSL-FO Dokument.
+- `ex1.fo`: Beispiel für eine formatierte Tabelle.
+- `ex2.fo`: Beispiel für eine Aufzählungsliste.
+- `ex3.fo`: Layout mit Kopf- und Fußzeile sowie Seitennummern.
+- `ex4.fo`: Einbindung externer Grafiken.
 
 ## Validierung
 

@@ -35,7 +35,8 @@ step-ci run workflow.yml
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
-- `workflow.yml`: Definition des Test-Workflows.
+- `workflow.yml`: Definition eines REST-API Test-Workflows.
+- `graphql_test.yml`: Definition eines GraphQL-API Tests.
 - `test.js`: Zusätzliche Testlogik in JavaScript.
 - `config.json`: Globale Konfiguration.
 - `env.env`: Umgebungsvariablen für Tests.
