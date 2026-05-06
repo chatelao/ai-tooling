@@ -35,12 +35,12 @@ schemathesis run http://localhost:8080/openapi.json
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
-- `api.yaml`: OpenAPI-Schema als Testgrundlage.
-- `test.py`: Python-Skript für fortgeschrittene Schemathesis-Tests.
-- `config.json`: Testkonfiguration.
-- `report.txt`: Beispiel für einen Testbericht.
-- `hooks.py`: Benutzerdefinierte Hooks für den Testprozess.
-- `docker-compose.yml`: Docker Compose Konfiguration für API-Tests.
+- `api.yaml`: Umfassendes OpenAPI 3.0 Schema einer Produkt-API als Testgrundlage.
+- `test.py`: Python-Skript, das zeigt, wie Schemathesis mit Pytest und Hypothesis-Einstellungen integriert wird.
+- `config.json`: Konfigurationsdatei zur Definition von Checks (z.B. Statuscode-Konformität) und Hypothesis-Limits.
+- `report.txt`: Beispiel für einen generierten Testbericht.
+- `hooks.py`: Python-Skript mit benutzerdefinierten Hooks (z.B. Hinzufügen von Test-Headern oder benutzerdefinierte Validierung).
+- `docker-compose.yml`: Konfiguration zum Starten einer Testumgebung mit API-Server und Schemathesis-Runner.
 
 ## Validierung
 

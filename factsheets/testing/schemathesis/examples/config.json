@@ -1,5 +1,12 @@
 {
   "hypothesis": {
-    "max_examples": 50
-  }
+    "max_examples": 100,
+    "deadline": 500
+  },
+  "checks": [
+    "not_a_server_error",
+    "status_code_conformance",
+    "content_type_conformance",
+    "response_schema_conformance"
+  ]
 }

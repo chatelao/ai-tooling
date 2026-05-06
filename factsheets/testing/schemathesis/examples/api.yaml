@@ -1,10 +1,50 @@
 openapi: 3.0.0
 info:
-  title: Sample API
+  title: Product API
   version: 1.0.0
 paths:
-  /hello:
+  /products:
     get:
+      summary: List all products
       responses:
         '200':
-          description: OK
+          description: A list of products
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Product'
+  /products/{productId}:
+    get:
+      summary: Get a product by ID
+      parameters:
+        - name: productId
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: A product object
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+        '404':
+          description: Product not found
+components:
+  schemas:
+    Product:
+      type: object
+      required:
+        - id
+        - name
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        price:
+          type: number
+          minimum: 0
