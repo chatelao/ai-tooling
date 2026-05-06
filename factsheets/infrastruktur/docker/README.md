@@ -35,6 +35,8 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 - `nginx.conf`: Konfigurationsdatei für einen Nginx-Webserver im Container.
 - `entrypoint.sh`: Start-Skript für den Container.
 - `deploy-config.json`: Beispiel für eine Deployment-Konfiguration.
+- `.dockerignore`: Ausschlussliste für den Image-Build.
+- `requirements.txt`: Python-Abhängigkeitsliste für die Anwendung.
 
 ## Validierung
 

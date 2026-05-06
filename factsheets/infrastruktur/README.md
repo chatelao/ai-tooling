@@ -6,7 +6,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | AWS CLI | Das AWS Command Line Interface (AWS CLI) ist ein Open-Source-Werkzeug, mit dem | Stabil | Gering | Kein EOL bekannt | [aws-cli/README.md](aws-cli/README.md) |
 | AWS MCP Server | Der AWS MCP Server implementiert das Model Context Protocol (MCP), um | Stabil | Gering | Kein EOL bekannt | [aws-mcp-server/README.md](aws-mcp-server/README.md) |
-| Azure CLI | Die Azure CLI ist ein plattformübergreifendes Befehlszeilenprogramm zur | Stabil (Aktiv gewartet, v2.85.0 Stand April 2026) | Gering | Kein EOL bekannt | [azure-cli/README.md](azure-cli/README.md) |
+| Azure CLI | Die Azure CLI ist ein leistungsstarkes, plattformübergreifendes Befehlszeilenwerkzeug zur Verwalt... | Stabil (Aktiv gewartet, v2.85.0 Stand April 2026) | Gering | Kein EOL bekannt | [azure-cli/README.md](azure-cli/README.md) |
 | Azure MCP Server | Der Azure MCP Server ermöglicht es KI-Agenten, direkt mit Azure-Diensten zu | Stabil | Gering | Kein EOL bekannt | [azure-mcp-server/README.md](azure-mcp-server/README.md) |
 | Docker | Docker ist eine Open-Source-Plattform zur Containerisierung von Anwendungen. Sie ermöglicht es, A... | Stabil | Gering | Kein EOL bekannt | [docker/README.md](docker/README.md) |
 | Docker Compose | Docker Compose ist ein Werkzeug zur Definition und zum Betrieb von Multi-Container-Anwendungen. M... | Stabil | Gering | Kein EOL bekannt | [docker-compose/README.md](docker-compose/README.md) |

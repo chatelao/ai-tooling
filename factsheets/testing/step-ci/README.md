@@ -2,9 +2,15 @@
 
 ## Gruppe: Testing
 
-## Zweck: Step-ci ist ein Werkzeug für automatisierte API-Tests und Monitoring
+## Zweck
 
-Step CI ist ein deklaratives Framework zum Testen und Überwachen von REST-, GraphQL- und gRPC-APIs. Tests werden in YAML oder JSON definiert und können einfach in CI/CD-Pipelines integriert werden.
+Step CI ist ein modernes, deklaratives Framework für automatisierte API-Tests und Monitoring. Es unterstützt REST, GraphQL und gRPC und ermöglicht es Entwicklern, komplexe Test-Workflows in einfachen YAML- oder JSON-Dateien zu definieren.
+
+Einsatzbereiche:
+- Regressionstests in CI/CD-Pipelines (z.B. GitHub Actions).
+- Kontinuierliches Monitoring der API-Verfügbarkeit und Performance.
+- Lasttests und Validierung von Antwortzeiten.
+- Unterstützung für Sicherheits-Checks und Datenvalidierung.
 
 | Eigenschaft | Wert |
 | :--- | :--- |

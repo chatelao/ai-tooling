@@ -2,11 +2,15 @@
 
 ## Gruppe: Bioinformatik
 
-## Zweck: BKChem ist ein freier Editor für chemische Strukturen, der in Python geschrieben ist und den Export in verschiedene Formate wie SVG, EPS oder PNG ermöglicht.
+## Zweck
 
-- das Zeichnen chemischer Strukturen in 2D.
-- den Export von Strukturen in verschiedene Formate (SVG, PDF, PNG, CDML).
-- die Bearbeitung von Moleküleigenschaften.
+BKChem ist ein freier Editor für chemische Strukturen, der in Python geschrieben ist. Es ermöglicht das Zeichnen von 2D-Molekülen und deren Export in verschiedene Formate wie SVG, EPS, PDF und PNG.
+
+Hauptmerkmale:
+- Intuitives Zeichnen chemischer Strukturen in 2D.
+- Export in vektor- und rasterbasierte Grafikformate.
+- Native Unterstützung für CDML (Chemical Design Markup Language).
+- Unterstützung für Plugins zur Erweiterung der Funktionalität.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
@@ -33,8 +37,11 @@ bkchem --version
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
-- `benzene.mol` - Eine Model-Datei für Benzol.
-- `water.cdml` - Eine BKChem-native XML-Datei für Wasser.
+- `benzene.mol`: Eine Model-Datei für Benzol.
+- `water.cdml`: Eine BKChem-native XML-Datei für Wasser.
+- `molecule.cdml`: Beispiel für eine komplexere Molekülstruktur in CDML.
+- `aspirin.svg`: Exportiertes Vektorbild der Aspirin-Struktur.
+- `plugin.py`: Beispiel für ein Python-Plugin zur Funktionserweiterung.
 
 ## Validierung
 

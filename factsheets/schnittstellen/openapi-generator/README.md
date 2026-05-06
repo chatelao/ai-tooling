@@ -2,9 +2,15 @@
 
 ## Gruppe: Schnittstellen
 
-## Zweck: Openapi-generator ist ein Werkzeug für die automatische Codegenerierung
+## Zweck
 
-Das Tool ermöglicht die Generierung von API-Clients, Server-Stubs, Dokumentationen und Konfigurationsdateien aus OpenAPI-Spezifikationen (v2, v3). Es unterstützt eine Vielzahl von Programmiersprachen und Frameworks.
+Der OpenAPI Generator ist ein vielseitiges Werkzeug für die automatische Codegenerierung basierend auf OpenAPI-Spezifikationen (v2 und v3). Er hilft Entwicklern, Konsistenz zwischen API-Definition und Implementierung zu gewährleisten, indem er Boilerplate-Code automatisiert erstellt.
+
+Funktionen:
+- Generierung von API-Clients für über 50 Programmiersprachen.
+- Erstellung von Server-Stubs für zahlreiche Frameworks (z.B. Spring Boot, Go, Node.js).
+- Automatisierte Erstellung von API-Dokumentationen (HTML, Markdown).
+- Generierung von Konfigurationsdateien und Postman-Kollektionen.
 
 | Eigenschaft | Wert |
 | :--- | :--- |

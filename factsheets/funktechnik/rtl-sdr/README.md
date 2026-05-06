@@ -2,7 +2,15 @@
 
 ## Gruppe: Funktechnik
 
-## Zweck: rtl-sdr ist ein Werkzeug für den Zugriff auf RTL2832U-basierte SDR-Empfänger
+## Zweck
+
+RTL-SDR ist ein extrem kostengünstiges Software Defined Radio (SDR), das auf DVB-T-TV-Tunern mit dem RTL2832U-Chip basiert. Die `rtl-sdr`-Softwarebibliothek bietet Treiber und Kommandozeilenwerkzeuge, um diese USB-Dongles als universelle Breitband-Empfänger zu nutzen.
+
+Hauptanwendungen:
+- Empfang und Dekodierung von Funksignalen (UKW, Flugfunk, Wetterstationen).
+- Spektrum-Analyse und Frequenzüberwachung.
+- Signalaufzeichnung (I/Q-Daten) für die spätere Analyse.
+- Unterstützung für zahlreiche Drittanbieter-Software (Gqrx, SDR#, dump1090).
 
 | Eigenschaft | Wert |
 | :--- | :--- |

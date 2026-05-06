@@ -2,7 +2,15 @@
 
 ## Gruppe: Hardware/simulation
 
-## Zweck: Renode ist ein Werkzeug für die Simulation von eingebetteten Systemen.
+## Zweck
+
+Renode ist ein Open-Source-Simulations-Framework für komplexe eingebettete Systeme (Embedded Systems). Es ermöglicht die Simulation von Hardware-Plattformen inklusive CPUs (ARM, RISC-V, etc.), Peripheriegeräten, Sensoren und sogar ganzen Netzwerken von Geräten.
+
+Vorteile für die Entwicklung:
+- Software-Tests ohne physische Hardware.
+- Simulation von Multi-Node-Systemen und deren Kommunikation.
+- Deterministische Ausführung für einfaches Debugging.
+- Integration in CI/CD-Pipelines für automatisiertes Testen von Firmware.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
