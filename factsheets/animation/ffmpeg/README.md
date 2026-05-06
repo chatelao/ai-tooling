@@ -35,6 +35,8 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 - `test.png`
 - `test.jpg`
 - `extract_audio.sh`: Skript zum Extrahieren von Audio aus einer Videodatei.
+- `merge_videos.sh`: Zusammenfügen mehrerer Videodateien.
+- `overlay_logo.sh`: Einblenden eines Logos in ein Video.
 
 ## Validierung
 

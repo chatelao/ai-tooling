@@ -39,6 +39,8 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 - `output.txt`
 - `run_server.sh`
 - `openai_client.py`: Python-Client für die OpenAI-kompatible API.
+- `offline_inference.py`: Beispiel für die direkte Nutzung der vLLM-Engine ohne Server.
+- `distributed_inference.py`: Hinweise zur verteilten Inferenz auf mehreren GPUs.
 
 ## Validierung
 
