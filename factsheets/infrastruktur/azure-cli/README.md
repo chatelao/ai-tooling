@@ -2,11 +2,13 @@
 
 ## Zweck
 
-Die Azure CLI ist ein plattformübergreifendes Befehlszeilenprogramm zur
-Verbindung mit Azure und zur Ausführung von Verwaltungsbefehlen für
-Azure-Ressourcen. KI-Agenten nutzen die Azure CLI, um Abfragen über die
-Infrastruktur zu tätigen, Ressourcen zu skalieren oder DevOps-Pipelines zu
-steuern.
+Die Azure CLI ist ein leistungsstarkes, plattformübergreifendes Befehlszeilenwerkzeug zur Verwaltung von Microsoft Azure-Ressourcen. Sie ermöglicht die Automatisierung von Cloud-Infrastruktur, das Management von Diensten und die Durchführung komplexer Abfragen direkt vom Terminal aus.
+
+KI-Agenten und Entwickler nutzen die Azure CLI für:
+- Provisionierung und Management von Ressourcen (VMs, Datenbanken, Web Apps).
+- Automatisierung von DevOps-Workflows und CI/CD-Pipelines.
+- Abfrage von Infrastruktur-Daten mit JMESPath-Filtern.
+- Verwaltung von Identitäten und Zugriffsrechten (RBAC).
 
 | Eigenschaft | Wert |
 | :--- | :--- |

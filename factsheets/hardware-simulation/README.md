@@ -4,4 +4,4 @@
 
 | Werkzeug | Zweck | Reifegrad | Technische Schulden | Erwartetes Lebensende | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Renode | Renode ist ein Werkzeug für die Simulation von eingebetteten Systemen. | Stabil | Gering | Kein EOL bekannt | [renode/README.md](renode/README.md) |
+| Renode | Renode ist ein Open-Source-Simulations-Framework für komplexe eingebettete Systeme (Embedded Syst... | Stabil | Gering | Kein EOL bekannt | [renode/README.md](renode/README.md) |

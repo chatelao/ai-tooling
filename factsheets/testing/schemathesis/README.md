@@ -2,9 +2,15 @@
 
 ## Gruppe: Testing
 
-## Zweck: Schemathesis ist ein Werkzeug für das eigenschaftsbasierte Testen von APIs
+## Zweck
 
-Schemathesis nutzt die OpenAPI-Spezifikation einer API, um automatisch Testfälle zu generieren, die die API auf Konformität und Robustheit prüfen. Es findet Abstürze, unerwartete Fehlercodes und Abweichungen von der Spezifikation.
+Schemathesis ist ein leistungsstarkes Werkzeug für das eigenschaftsbasierte Testen (Property-based Testing) von APIs. Es nutzt die OpenAPI- oder GraphQL-Spezifikation einer API, um automatisch eine Vielzahl von Testfällen zu generieren, die die API auf Konformität, Robustheit und Sicherheit prüfen.
+
+Vorteile:
+- Automatisches Finden von Abstürzen und unerwarteten Fehlern (5xx).
+- Verifizierung der Spezifikationstreue (Validierung von Response-Schemas).
+- Integration in Python-Test-Suites (Pytest) oder als Standalone-CLI.
+- Unterstützung für zustandshafte Tests und komplexe Workflows.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
