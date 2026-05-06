@@ -39,6 +39,8 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 - `configmap.yaml`: Verwaltung von Konfigurationsdaten.
 - `gpu-pod.yaml`: Beispiel für die Anforderung von GPU-Ressourcen.
 - `secret.yaml`: Verwaltung von sensiblen Daten.
+- `hpa.yaml`: Beispiel für Horizontal Pod Autoscaling.
+- `pvc.yaml`: Definition eines Persistent Volume Claims für Datenspeicher.
 
 ## Validierung
 

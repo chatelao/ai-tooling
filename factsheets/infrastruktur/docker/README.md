@@ -37,6 +37,8 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 - `deploy-config.json`: Beispiel für eine Deployment-Konfiguration.
 - `.dockerignore`: Ausschlussliste für den Image-Build.
 - `requirements.txt`: Python-Abhängigkeitsliste für die Anwendung.
+- `multi-stage.Dockerfile`: Beispiel für einen effizienten Multi-Stage-Build.
+- `docker-healthcheck.sh`: Skript für Container-Healthchecks.
 
 ## Validierung
 

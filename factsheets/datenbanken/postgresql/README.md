@@ -36,6 +36,7 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 - `join_query.sql`: Beispiel für eine JOIN-Abfrage.
 - `aggregate_query.sql`: Beispiel für Aggregatfunktionen und GROUP BY.
 - `window_function.sql`: Beispiel für eine Window-Funktion.
+- `json_ops.sql`: Operationen mit JSONB-Datentypen (ideal für KI-Metadaten).
 
 ## Validierung
 
