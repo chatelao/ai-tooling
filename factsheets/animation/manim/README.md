@@ -34,11 +34,11 @@ class HelloWorld(Scene):
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
-- `example.py`
-- `scene1.py`
-- `scene2.py`
-- `scene3.py`
-- `scene4.py`
+- `example.py`: Grundlegendes Beispiel für die Animation eines Quadrats zu einem Kreis.
+- `scene1.py`: Demonstration von geometrischen Grundformen und deren Animationen.
+- `scene2.py`: Erstellung und Animation von mathematischen Formeln (LaTeX).
+- `scene3.py`: Darstellung und Animation von Funktionsgraphen in einem Koordinatensystem.
+- `scene4.py`: Beispiel für eine 3D-Szene mit einer Purple Sphere und Kamera-Rotation.
 
 ## Validierung
 

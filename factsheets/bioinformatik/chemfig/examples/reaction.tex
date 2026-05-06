@@ -1,1 +1,14 @@
-% TeX example
+\documentclass{standalone}
+\usepackage{chemfig}
+\begin{document}
+% Esterification reaction
+\schemestart
+\chemfig{R-C(=[1]O)-[7]OH}
+\+
+\chemfig{R'OH}
+\arrow{<=>}
+\chemfig{R-C(=[1]O)-[7]OR'}
+\+
+\chemfig{H_2O}
+\schemestop
+\end{document}

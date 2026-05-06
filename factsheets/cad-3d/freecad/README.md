@@ -29,11 +29,11 @@ FreeCAD.Console.PrintMessage("Hello World\n")
 
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
-- `test.fcstd`
-- `part1.step`
-- `part2.step`
-- `model.obj`
-- `script.py`
+- `test.fcstd`: Beispiel für eine native FreeCAD-Projektdatei.
+- `part1.step`: Exportiertes 3D-Modell im standardisierten STEP-Format.
+- `part2.step`: Ein weiteres Beispielmodell im STEP-Format.
+- `model.obj`: 3D-Geometriedaten im Wavefront OBJ-Format.
+- `script.py`: Python-Skript zur automatisierten Erstellung von 3D-Objekten (Box und Zylinder) über die FreeCAD API.
 
 ## Validierung
 
