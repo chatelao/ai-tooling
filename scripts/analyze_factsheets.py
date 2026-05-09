@@ -33,6 +33,7 @@ def analyze():
                 fixme_info[tool.lower()] = 'Listed in FIXME.md'
 
     roadmap_data = []
+    total_factsheets = 0
 
     for category in os.listdir(factsheets_root):
         cat_path = os.path.join(factsheets_root, category)
@@ -48,6 +49,7 @@ def analyze():
             if not os.path.exists(readme_path):
                 continue
 
+            total_factsheets += 1
             group, tool_name = category, tool
 
             with open(readme_path, 'r') as f:
@@ -93,9 +95,9 @@ def analyze():
 
     # Sort by group then tool
     roadmap_data.sort(key=lambda x: (x['group'], x['tool']))
-    return roadmap_data
+    return roadmap_data, total_factsheets
 
-def generate_roadmap(roadmap_data):
+def generate_roadmap(roadmap_data, total_factsheets):
     content = """# Roadmap für Factsheet-Verbesserungen
 
 Diese Roadmap dokumentiert den aktuellen Stand der Werkzeug-Factsheets und definiert Meilensteine zur Erreichung einer vollständigen und qualitativ hochwertigen Dokumentation gemäß [GEMINI.md](GEMINI.md).
@@ -104,7 +106,7 @@ Diese Roadmap dokumentiert den aktuellen Stand der Werkzeug-Factsheets und defin
 
 Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite identifiziert:
 
-- **Gesamtanzahl Factsheets:** 114 (geschätzt)
+- **Gesamtanzahl Factsheets:** """ + str(total_factsheets) + """
 - **Factsheets mit Verbesserungsbedarf:** """ + str(len(roadmap_data)) + """
 - **Hauptprobleme:**
     - Platzhalter-Beschreibungen (Zweck-Sektion unvollständig)
@@ -141,5 +143,5 @@ Nach einer automatisierten Analyse aller Factsheets wurden folgende Defizite ide
     print(f"Roadmap generated at {roadmap_file}")
 
 if __name__ == "__main__":
-    data = analyze()
-    generate_roadmap(data)
+    data, total = analyze()
+    generate_roadmap(data, total)
