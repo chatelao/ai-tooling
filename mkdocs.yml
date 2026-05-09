@@ -170,6 +170,7 @@ nav:
     - Blockly: factsheets/programmierung/blockly/README.md
     - Composer: factsheets/programmierung/composer/README.md
     - Gnu Toolchain For Arm: factsheets/programmierung/gnu-toolchain-for-arm/README.md
+    - Hibernate: factsheets/programmierung/hibernate/README.md
     - Java: factsheets/programmierung/java/README.md
     - Maven: factsheets/programmierung/maven/README.md
     - Nodejs: factsheets/programmierung/nodejs/README.md
