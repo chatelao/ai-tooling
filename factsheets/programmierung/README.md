@@ -10,6 +10,7 @@
 | Blockly | Blockly ist eine von Google entwickelte Bibliothek zum Erstellen von | Stabil (Aktiv gewartet, v12.5.1 Stand April 2026) | Gering | Kein EOL bekannt | [blockly/README.md](blockly/README.md) |
 | PHP Composer | Composer ist ein Abhängigkeitsmanager für PHP, der es ermöglicht, Bibliotheken und Abhängigkeiten... | Stabil | Gering | Kein EOL bekannt | [composer/README.md](composer/README.md) |
 | Gnu toolchain for arm | Die GNU Toolchain for ARM (gcc-arm-none-eabi) ist eine Sammlung von Compilern, | Stabil | Gering | Kein EOL bekannt | [gnu-toolchain-for-arm/README.md](gnu-toolchain-for-arm/README.md) |
+| Hibernate ORM | Hibernate ORM ist ein Framework für Java-Anwendungen zur Abbildung von objektorientierten Datenmo... | Stabil | Gering | Kein EOL bekannt | [hibernate/README.md](hibernate/README.md) |
 | Java (OpenJDK) | Java ist eine objektorientierte Programmiersprache und Laufzeitumgebung, die für die Entwicklung ... | Stabil | Gering | Kein EOL bekannt | [java/README.md](java/README.md) |
 | Apache Maven | Apache Maven ist ein Build-Management-Tool für Java-Projekte, das auf dem Project Object Model (P... | Stabil | Gering | Kein EOL bekannt | [maven/README.md](maven/README.md) |
 | Node.js und npm | Node.js ist eine JavaScript-Laufzeitumgebung, die auf der Chrome V8 JavaScript-Engine basiert. np... | Stabil | Gering | Kein EOL bekannt | [nodejs/README.md](nodejs/README.md) |

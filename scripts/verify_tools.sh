@@ -8,7 +8,7 @@ rm -f log/version.txt
 # For img2pdf
 mkdir -p factsheets/dokumentation/img2pdf/examples
 for i in {1..5}; do
-    /usr/bin/python3 -c "from PIL import Image; img = Image.new('RGB', (100, 100), color = 'red'); img.save('factsheets/dokumentation/img2pdf/examples/test$i.jpg', 'JPEG')"
+    python3 -c "from PIL import Image; img = Image.new('RGB', (100, 100), color = 'red'); img.save('factsheets/dokumentation/img2pdf/examples/test$i.jpg', 'JPEG')"
 done
 
 tools=(
@@ -54,5 +54,5 @@ for tool_path in "${tools[@]}"; do
 done
 
 # Cleanup generated test data
-/usr/bin/python3 -c "import os; [os.remove(f'factsheets/dokumentation/img2pdf/examples/test{i}.jpg') for i in range(1,6) if os.path.exists(f'factsheets/dokumentation/img2pdf/examples/test{i}.jpg')]"
+python3 -c "import os; [os.remove(f'factsheets/dokumentation/img2pdf/examples/test{i}.jpg') for i in range(1,6) if os.path.exists(f'factsheets/dokumentation/img2pdf/examples/test{i}.jpg')]"
 rm -f factsheets/dokumentation/img2pdf/output.pdf factsheets/dokumentation/apache-fop/examples/test.pdf
