@@ -49,5 +49,6 @@ Im Ordner `examples/` befinden sich verschiedene Spring Boot Konfigurations- und
 1.  `HelloController.java`: Ein einfacher REST-Controller.
 2.  `application.properties`: Standard-Konfigurationsdatei.
 3.  `pom.xml`: Maven-Projektkonfiguration mit Spring Boot Parent.
-4.  `User.java`: Eine einfache POJO-Klasse (Model).
-5.  `SecurityConfig.java`: Beispiel für eine Sicherheitskonfiguration mit Spring Security.
+4.  `User.java`: Eine mit JPA-Annotationen versehene Entity-Klasse (Hibernate).
+5.  `UserRepository.java`: Ein Spring Data JPA Repository Interface.
+6.  `SecurityConfig.java`: Beispiel für eine Sicherheitskonfiguration mit Spring Security.
