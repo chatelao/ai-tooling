@@ -1,0 +1,13 @@
+# Beispiel für benutzerdefinierte Linting-Regeln in Redocly
+rules:
+  no-empty-description:
+    severity: error
+    message: Descriptions should not be empty.
+    recommended: true
+    type: style
+    subject:
+      type: Tag
+      property: description
+    assertions:
+      defined: true
+      notEmpty: true

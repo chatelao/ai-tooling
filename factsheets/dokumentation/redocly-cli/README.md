@@ -37,6 +37,7 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 - `bundle.sh`: Skript zum Bündeln mehrteiliger API-Definitionen.
 - `build-docs.sh`: Skript zum Generieren statischer HTML-Dokumentation.
 - `preview.sh`: Skript zur Vorschau der API-Dokumentation.
+- `rules.yaml`: Beispiel für benutzerdefinierte Linting-Regeln.
 
 ## Validierung
 

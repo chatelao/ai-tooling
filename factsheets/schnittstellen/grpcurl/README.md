@@ -38,6 +38,8 @@ Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 - `list_services.sh`: Skript zum Auflisten von gRPC-Diensten.
 - `describe_service.sh`: Skript zum Beschreiben eines Dienstes.
 - `say_hello.sh`: Skript zum Aufrufen einer gRPC-Methode.
+- `metadata.json`: Beispiel für gRPC-Metadaten (Header).
+- `complex.proto`: Eine komplexere Proto-Definition für einen Inventardienst.
 
 ## Validierung
 
