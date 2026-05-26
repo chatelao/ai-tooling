@@ -36,6 +36,7 @@ Im Ordner `examples/` befinden sich verschiedene MariaDB-Beispiele:
 3.  `insert_data.sql`: Einfügen von Testdaten.
 4.  `complex_query.sql`: Eine JOIN-Abfrage mit Aggregation.
 5.  `backup.sh`: Ein einfaches Backup-Skript mit `mysqldump`.
+6.  `transactions.sql`: Beispiel für die Verwendung von Transaktionen (COMMIT/ROLLBACK).
 
 ## Validierung
 

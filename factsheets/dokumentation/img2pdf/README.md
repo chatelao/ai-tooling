@@ -32,6 +32,8 @@ Im Ordner `examples/` befinden sich verschiedene Skripte zur Nutzung von `img2pd
 3.  `set_metadata.sh`: Setzen von PDF-Metadaten während der Konvertierung.
 4.  `set_pagesize.sh`: Festlegen einer spezifischen Seitengröße (z.B. A4).
 5.  `fit_image.sh`: Einpassen des Bildes in die Seite unter Beibehaltung des Seitenverhältnisses.
+6.  `test.jpg`: Minimales JPEG-Bild für Testzwecke.
+7.  `test.png`: Minimales PNG-Bild für Testzwecke.
 
 ## Validierung
 
