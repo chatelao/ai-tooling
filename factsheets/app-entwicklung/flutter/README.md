@@ -8,6 +8,8 @@ Flutter ist ein UI-Toolkit von Google für die Entwicklung nativ kompilierter An
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 3.24.5 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

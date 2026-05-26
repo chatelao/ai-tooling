@@ -6,6 +6,8 @@
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 3.0.0 |
+| LTS | N/A |
 | Reifegrad | Stabil (gepatched für Python 3.12 Kompatibilität) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

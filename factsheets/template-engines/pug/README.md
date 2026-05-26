@@ -8,6 +8,8 @@ Setzt auf eine stark abstrahierte, einrückungsbasierte Syntax komplett ohne sch
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 3.0.3 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

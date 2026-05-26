@@ -11,6 +11,8 @@ Generierung von Visualisierungen.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 11.0.0 |
+| LTS | N/A |
 | Reifegrad | Stabil (Aktiv gewartet, v12.2.0 Stand April 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

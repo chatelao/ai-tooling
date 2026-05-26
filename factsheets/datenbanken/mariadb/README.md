@@ -8,6 +8,8 @@ MariaDB ist eines der populärsten Open-Source-Relationalen Datenbankmanagements
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 11.5 |
+| LTS | 11.4 (LTS) |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

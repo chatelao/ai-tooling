@@ -12,6 +12,8 @@ und zu kompilieren.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 6.1.16 |
+| LTS | N/A |
 | Reifegrad | Stabil (Aktiv gewartet, v6.1.19 Stand April 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

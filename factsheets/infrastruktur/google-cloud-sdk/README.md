@@ -9,6 +9,8 @@ verwalten oder BigQuery-Daten abzufragen.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 499.0.0 |
+| LTS | N/A |
 | Reifegrad | Stabil (Aktiv gewartet, Stand April 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

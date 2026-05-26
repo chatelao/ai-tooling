@@ -8,6 +8,8 @@ Hibernate ORM ist ein Framework für Java-Anwendungen zur Abbildung von objektor
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 6.6.1 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

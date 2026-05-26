@@ -8,6 +8,8 @@ Sehr populär im Express.js-Umfeld. Verwendet eine einfache <% %> Syntax, bei de
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 3.1.10 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

@@ -8,6 +8,8 @@ graphqurl (gq) ist ein Kommandozeilenwerkzeug und eine JavaScript-Bibliothek fü
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 1.0.3 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

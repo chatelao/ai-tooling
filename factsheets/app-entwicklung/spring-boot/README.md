@@ -8,6 +8,8 @@ Spring Boot ist ein Java-basiertes Framework zur Erstellung von produktionsreife
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 3.4.0 |
+| LTS | 3.3.x |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

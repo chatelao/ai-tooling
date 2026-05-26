@@ -10,6 +10,8 @@ Sicherheitsbewertungen und Architektur-Empfehlungen.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 1.0.1 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

@@ -10,6 +10,8 @@ generieren und APIs in der Vorschau anzeigen.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 1.25.0 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

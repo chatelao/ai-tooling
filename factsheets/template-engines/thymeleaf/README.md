@@ -8,6 +8,8 @@ Der De-facto-Standard für moderne Spring-Boot-Anwendungen. Die Besonderheit: Th
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 3.1.2 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

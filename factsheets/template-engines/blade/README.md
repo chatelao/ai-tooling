@@ -8,6 +8,8 @@ Blade ist die native Template-Engine des populären Laravel-Frameworks. Sie komp
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 11.0 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

@@ -8,6 +8,8 @@ Java ist eine objektorientierte Programmiersprache und Laufzeitumgebung, die fü
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 23 |
+| LTS | 21 (LTS) |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

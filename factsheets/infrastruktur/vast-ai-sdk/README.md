@@ -11,6 +11,8 @@ Daten/Modelle auf Remote-GPUs zu übertragen.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 0.1.34 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

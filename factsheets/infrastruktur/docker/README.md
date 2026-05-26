@@ -6,6 +6,8 @@ Docker ist eine Open-Source-Plattform zur Containerisierung von Anwendungen. Sie
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 27.3.1 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

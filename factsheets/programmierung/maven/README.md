@@ -8,6 +8,8 @@ Apache Maven ist ein Build-Management-Tool für Java-Projekte, das auf dem Proje
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 3.9.9 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

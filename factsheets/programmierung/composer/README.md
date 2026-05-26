@@ -8,6 +8,8 @@ Composer ist ein Abhängigkeitsmanager für PHP, der es ermöglicht, Bibliotheke
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 2.8.2 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

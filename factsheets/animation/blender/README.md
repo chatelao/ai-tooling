@@ -6,6 +6,8 @@
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 4.3.2 |
+| LTS | 4.2 LTS |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

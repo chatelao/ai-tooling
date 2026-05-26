@@ -9,6 +9,8 @@ das Testen von VHDL- und Verilog-Hardware-Designs mit Python.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 1.9.0 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

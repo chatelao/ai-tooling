@@ -10,6 +10,8 @@ von Hardware-Adaptern und Zielarchitekturen.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 0.12.0 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

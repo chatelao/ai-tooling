@@ -8,6 +8,8 @@ Mustache ist eine "logikfreie" Template-Engine, die eine strikte Trennung zwisch
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 4.2.0 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

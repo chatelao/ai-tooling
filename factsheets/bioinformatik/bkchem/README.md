@@ -14,6 +14,8 @@ Hauptmerkmale:
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 0.14.0-pre4 |
+| LTS | N/A |
 | Reifegrad | Veraltet (Inkompatibel mit Python 3.12) |
 | Technische Schulden | Hoch |
 | Erwartetes Lebensende | Projekt eingestellt |

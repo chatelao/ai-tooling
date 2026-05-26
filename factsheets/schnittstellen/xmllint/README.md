@@ -8,6 +8,8 @@ xmllint ist ein Werkzeug aus dem libxml2-Paket zur Validierung, Formatierung und
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 2.13.5 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

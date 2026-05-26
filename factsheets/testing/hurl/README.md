@@ -12,6 +12,8 @@ autonom zu validieren.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 5.0.0 |
+| LTS | N/A |
 | Reifegrad | Stabil (Aktiv gewartet, v7.1.0 Stand Nov 2025) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

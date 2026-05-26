@@ -11,6 +11,8 @@ wählen und Best Practices einzuhalten.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 1.0.1 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

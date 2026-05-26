@@ -8,6 +8,8 @@ React Native ist ein Framework zum Erstellen nativer Apps für Android und iOS u
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 0.76.3 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

@@ -10,6 +10,8 @@ ist hochgradig erweiterbar durch eigene Regelsätze.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 6.11.1 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

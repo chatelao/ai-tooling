@@ -8,6 +8,8 @@ Twig ist die Standard-Engine des Symfony-Frameworks. Sie wurde stark von Jinja2 
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 3.14.0 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

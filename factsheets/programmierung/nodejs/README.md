@@ -8,6 +8,8 @@ Node.js ist eine JavaScript-Laufzeitumgebung, die auf der Chrome V8 JavaScript-E
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 23.2.0 |
+| LTS | 22.11.0 (LTS) |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

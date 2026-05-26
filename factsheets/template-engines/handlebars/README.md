@@ -8,6 +8,8 @@ Handlebars ist eine leistungsstarke Template-Engine, die auf Mustache aufbaut un
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 4.7.8 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

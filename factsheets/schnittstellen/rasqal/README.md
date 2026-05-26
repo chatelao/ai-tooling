@@ -8,6 +8,8 @@ Rasqal ist eine C-Bibliothek, die das Parsen und Ausführen von SPARQL-Abfragen 
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 0.9.33 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

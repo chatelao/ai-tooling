@@ -8,6 +8,8 @@ SPARQLWrapper ist eine Python-Bibliothek, die als Wrapper um einen SPARQL-Endpun
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 2.0.0 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

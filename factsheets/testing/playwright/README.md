@@ -12,6 +12,8 @@ verifizieren.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 1.49.0 |
+| LTS | N/A |
 | Reifegrad | Stabil (Aktiv gewartet, v1.59.1 Stand April 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
