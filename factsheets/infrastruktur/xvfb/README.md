@@ -12,6 +12,8 @@ Bioinformatik-Viewer) in Headless-Umgebungen (CI/CD, Server) validieren müssen.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 21.1 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

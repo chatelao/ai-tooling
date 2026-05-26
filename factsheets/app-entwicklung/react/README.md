@@ -8,6 +8,8 @@ React ist eine JavaScript-Bibliothek zum Erstellen von Benutzeroberflächen, die
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 18.3.1 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

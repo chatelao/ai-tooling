@@ -14,6 +14,8 @@ Hauptmerkmale:
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 1.67 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

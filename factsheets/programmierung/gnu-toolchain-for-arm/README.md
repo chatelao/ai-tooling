@@ -11,6 +11,8 @@ Embedded-Entwicklung auf Linux-Systemen.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 13.2 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

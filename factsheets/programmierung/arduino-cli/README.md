@@ -12,6 +12,8 @@ angewiesen zu sein.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 1.1.0 |
+| LTS | N/A |
 | Reifegrad | Stabil (Aktiv gewartet, v1.4.1 Stand Jan 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

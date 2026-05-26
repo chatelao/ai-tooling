@@ -8,6 +8,8 @@ Die Standard-Engine in Ruby on Rails. Erlaubt das direkte Einbetten von Ruby-Cod
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 4.0.4 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

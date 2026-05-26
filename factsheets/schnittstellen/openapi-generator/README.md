@@ -14,6 +14,8 @@ Funktionen:
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 7.10.0 |
+| LTS | N/A |
 | Reifegrad | Stabil (Aktiv gewartet, v7.21.0 Stand März 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

@@ -12,6 +12,8 @@ die lokale Inferenz benötigen.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 0.4.1 |
+| LTS | N/A |
 | Reifegrad | Stabil (Aktiv gewartet, v0.20.7 Stand April 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

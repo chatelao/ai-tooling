@@ -8,6 +8,8 @@ Oracle Database Free (ehemals Express Edition/XE) ist eine kostenlos nutzbare Ed
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 23c |
+| LTS | 19c |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

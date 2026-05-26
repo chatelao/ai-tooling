@@ -8,6 +8,8 @@ Jinja2 ist eine sehr mächtige und ausdrucksstarke Template-Engine für Python. 
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 3.1.4 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

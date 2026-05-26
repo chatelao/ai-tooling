@@ -12,6 +12,8 @@ KI-Agenten und Entwickler nutzen die Azure CLI für:
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 2.66.0 |
+| LTS | N/A |
 | Reifegrad | Stabil (Aktiv gewartet, v2.85.0 Stand April 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

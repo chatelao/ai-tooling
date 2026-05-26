@@ -6,6 +6,8 @@ Docker Compose ist ein Werkzeug zur Definition und zum Betrieb von Multi-Contain
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 2.29.7 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

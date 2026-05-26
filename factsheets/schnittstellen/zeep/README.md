@@ -8,6 +8,8 @@ Zeep ist eine moderne SOAP-Client-Bibliothek für Python, die WSDL-Dateien parst
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 4.3.1 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

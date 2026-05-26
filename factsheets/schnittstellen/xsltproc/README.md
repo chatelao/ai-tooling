@@ -8,6 +8,8 @@ xsltproc ist ein Kommandozeilen-Werkzeug zur Anwendung von XSLT-Stylesheets auf 
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 1.1.42 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

@@ -8,6 +8,8 @@ Apache Ant ist ein Java-basiertes Build-Management-Tool, das vor allem für die 
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 1.10.15 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

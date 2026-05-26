@@ -12,6 +12,8 @@ Skripting.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 3.10.10 |
+| LTS | N/A |
 | Reifegrad | Stabil (Eingeschränkte Wartung) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

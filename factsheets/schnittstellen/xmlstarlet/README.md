@@ -8,6 +8,8 @@ XMLStarlet ist ein Toolkit zur XML-Verarbeitung von der Kommandozeile (Validieru
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 1.6.1 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

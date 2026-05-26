@@ -8,6 +8,8 @@ Microsoft SQL Server Express ist eine kostenlos nutzbare Edition des relationale
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 2022 |
+| LTS | 2022 |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

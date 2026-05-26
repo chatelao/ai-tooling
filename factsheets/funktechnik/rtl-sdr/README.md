@@ -14,6 +14,8 @@ Hauptanwendungen:
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 2.0.2 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

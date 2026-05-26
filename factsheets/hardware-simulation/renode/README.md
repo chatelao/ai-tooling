@@ -14,6 +14,8 @@ Vorteile für die Entwicklung:
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 1.15.3 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

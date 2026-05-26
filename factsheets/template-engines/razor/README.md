@@ -8,6 +8,8 @@ Microsofts Standard-Engine für ASP.NET Core MVC und Blazor. Sie besticht durch 
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 8.0 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

@@ -8,6 +8,8 @@ Ursprünglich von Shopify für E-Commerce-Templates entwickelt. Heute ist es der
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 5.5.0 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

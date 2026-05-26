@@ -12,6 +12,8 @@ bereitzustellen.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 0.6.3 |
+| LTS | N/A |
 | Reifegrad | Stabil (Aktiv gewartet, v0.19.0 Stand April 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

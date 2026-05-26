@@ -6,6 +6,8 @@ Kubernetes ist ein Open-Source-System zur Automatisierung der Bereitstellung, Sk
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 1.31.2 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

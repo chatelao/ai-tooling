@@ -8,6 +8,8 @@ grpcurl ist ein Kommandozeilenwerkzeug, das die Interaktion mit gRPC-Servern erm
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 1.9.1 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

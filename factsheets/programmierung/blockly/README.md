@@ -11,6 +11,8 @@ zu übersetzen oder um komplexe Logikstrukturen visuell darzustellen.
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 11.1.1 |
+| LTS | N/A |
 | Reifegrad | Stabil (Aktiv gewartet, v12.5.1 Stand April 2026) |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

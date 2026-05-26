@@ -8,6 +8,8 @@ sparkql ist ein NPM-Paket zur Erstellung von SPARQL-Abfragen mit einer flüssige
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 2.4.0 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |

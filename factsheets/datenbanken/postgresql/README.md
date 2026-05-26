@@ -8,6 +8,8 @@ PostgreSQL ist ein fortschrittliches, objekt-relationales Open-Source-Datenbankm
 
 | Eigenschaft | Wert |
 | :--- | :--- |
+| Latest | 17.2 |
+| LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
 | Erwartetes Lebensende | Kein EOL bekannt |
