@@ -32,6 +32,7 @@ jmol -n -g 100x100 -J "load $caffeine; write image hello.png"
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
 - `molecule.pdb`
+- `ball_and_stick.jmol`: Skript für ein "Ball and Stick"-Modell mit O/N-Farbcodierung.
 - `test.cif`
 - `test.mol`
 - `sample1.pdb`

@@ -36,7 +36,8 @@ pymol.finish_launching()
 Die folgenden Beispieldaten befinden sich im Ordner `examples/`:
 
 - `protein.pdb`
-- `script.pml`
+- `script.pml`: Basis-Skript zur Darstellung von Sticks.
+- `ball_and_stick.pml`: Erweitertes Skript für ein "Ball and Stick"-Modell mit O/N-Farbcodierung.
 - `ex1.pdb`
 - `ex2.pdb`
 - `ex3.pdb`

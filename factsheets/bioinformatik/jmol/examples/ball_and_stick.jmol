@@ -1,0 +1,18 @@
+# Jmol Ball and Stick Model
+# Load molecule if not already loaded (standard path for example)
+load factsheets/bioinformatik/jmol/examples/molecule.pdb
+
+# Ball and stick style
+wireframe 0.15
+spacefill 0.25
+
+# Show multiple bonds
+set bondvalence on
+
+# Standard CPK colors (O: red, N: blue)
+color oxygen red
+color nitrogen blue
+color carbon green
+
+# Optional: label atoms
+# label %a
