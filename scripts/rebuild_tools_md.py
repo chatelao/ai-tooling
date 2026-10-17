@@ -1,14 +1,31 @@
 import os
 import re
 
+def sanitize(text):
+    if not text:
+        return "-"
+    return str(text).replace('\n', ' ').replace('|', '\\|').strip()
+
 def extract_all_info(readme_path):
     with open(readme_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
     def extract_section(header):
+        # Try to find in a table row first (e.g., | Reifegrad | Stabil |)
         table_match = re.search(rf'^\|\s*{header}\s*\|\s*([^|]+)\s*\|', content, re.MULTILINE)
         if table_match:
             return table_match.group(1).strip()
+
+        # Try to find as a header (e.g., ## Latest: 1.0)
+        match = re.search(rf'^## {header}:?\s*(.*)', content, re.MULTILINE)
+        if match:
+            val = match.group(1).strip()
+            if val: return val
+            lines = content[match.end():].splitlines()
+            for line in lines:
+                if line.strip().startswith('##'): break
+                if line.strip():
+                    return line.strip()
         return "N/A"
 
     name_match = re.search(r'^# (?:Factsheet:)?\s*(.*)', content, re.MULTILINE)
@@ -41,6 +58,30 @@ def extract_all_info(readme_path):
     if grp_match:
         gruppe = grp_match.group(1).strip()
 
+    if not gruppe:
+        # Fallback to directory name
+        dir_name = os.path.basename(os.path.dirname(os.path.dirname(readme_path)))
+        group_mapping = {
+            'animation': 'Animation',
+            'app-entwicklung': 'App-Entwicklung',
+            'bioinformatik': 'Bioinformatik',
+            'cad-3d': 'CAD-3D',
+            'datenbanken': 'Datenbanken',
+            'dokumentation': 'Dokumentation',
+            'eda': 'EDA',
+            'firmware-analyse': 'Firmware-Analyse',
+            'funktechnik': 'Funktechnik',
+            'geodaten': 'Geodaten',
+            'hardware-simulation': 'Hardware-Simulation',
+            'infrastruktur': 'Infrastruktur',
+            'ki-inferenz': 'KI-Inferenz',
+            'programmierung': 'Programmierung',
+            'schnittstellen': 'Schnittstellen',
+            'template-engines': 'Template-Engines',
+            'testing': 'Testing'
+        }
+        gruppe = group_mapping.get(dir_name.lower(), dir_name.replace('-', ' ').capitalize())
+
     # Installation (minimal version for the table)
     inst = ""
     inst_match = re.search(r'## Installation.*?\n+```(?:bash)?\n(.*?)\n```', content, re.DOTALL)
@@ -50,22 +91,24 @@ def extract_all_info(readme_path):
             inst = inst[:97] + "..."
 
     return {
-        'gruppe': gruppe,
-        'name': name,
-        'latest': latest,
-        'lts': lts,
-        'zweck': zweck,
-        'inst': f"`{inst}`" if inst else "-",
-        'manual': manual,
-        'reifegrad': reifegrad,
-        'schulden': schulden,
-        'eol': eol,
+        'gruppe': sanitize(gruppe),
+        'name': sanitize(name),
+        'latest': sanitize(latest),
+        'lts': sanitize(lts),
+        'zweck': sanitize(zweck),
+        'inst': f"`{sanitize(inst)}`" if inst else "-",
+        'manual': sanitize(manual),
+        'reifegrad': sanitize(reifegrad),
+        'schulden': sanitize(schulden),
+        'eol': sanitize(eol),
         'path': readme_path
     }
 
 def rebuild_tools_md():
     factsheets_root = 'factsheets'
     all_tools = []
+
+    # Traverse factsheets directory exactly two levels deep
     for category in sorted(os.listdir(factsheets_root)):
         cat_path = os.path.join(factsheets_root, category)
         if not os.path.isdir(cat_path): continue
@@ -81,8 +124,9 @@ def rebuild_tools_md():
 
     rows = []
     for t in all_tools:
-        name_link = f"[{t['path']}]({t['path']})"
-        row = f"| {t['gruppe']} | {name_link} | {t['latest']} | {t['lts']} | {t['zweck']} | {t['inst']} | {t['manual']} | {t['reifegrad']} | {t['schulden']} | {t['eol']} | {name_link} |\n"
+        name_link = f"[{t['name']}]({t['path']})"
+        factsheet_link = f"[README.md]({t['path']})"
+        row = f"| {t['gruppe']} | {name_link} | {t['latest']} | {t['lts']} | {t['zweck']} | {t['inst']} | {t['manual']} | {t['reifegrad']} | {t['schulden']} | {t['eol']} | {factsheet_link} |\n"
         rows.append(row)
 
     with open('TOOLS.md', 'w', encoding='utf-8') as f:
