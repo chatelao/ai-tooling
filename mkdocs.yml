@@ -83,6 +83,7 @@ nav:
     - Spring Boot: factsheets/app-entwicklung/spring-boot/README.md
   - Audio-musik:
     - Fluidsynth: factsheets/audio-musik/fluidsynth/README.md
+    - Lilypond: factsheets/audio-musik/lilypond/README.md
   - Bioinformatik:
     - Übersicht: factsheets/bioinformatik/README.md
     - Biopython: factsheets/bioinformatik/biopython/README.md

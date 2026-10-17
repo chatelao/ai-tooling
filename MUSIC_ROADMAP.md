@@ -65,8 +65,8 @@ In der folgenden Tabelle sind alle 25 Musik-Tools mit ihren Zielpfaden, Beispiel
 
 | # | Werkzeug ID | Kategorie | Factsheet-Pfad | Phase | Geplante Beispieldaten (`examples/`) | Headless / CI Validierungsstrategie | Status |
 | :-: | :--- | :--- | :--- | :-: | :--- | :--- | :-: |
-| 1 | `fluidsynth` | Synthesizer | `factsheets/audio-musik/fluidsynth/` | Phase 1 | `.mid`, `.sf2`, `.conf`, `.cmd`, `.wav` | Native CLI Audio-Rendering (`fluidsynth -F`) | Geplant |
-| 2 | `lilypond` | Notensatz | `factsheets/audio-musik/lilypond/` | Phase 1 | `.ly`, `.ily` (Include), Layout-Config, `.pdf`, `.mid` | Native CLI Compilation (`lilypond --png --pdf`) | Geplant |
+| 1 | `fluidsynth` | Synthesizer | `factsheets/audio-musik/fluidsynth/` | Phase 1 | `.mid`, `.sf2`, `.conf`, `.cmd`, `.wav` | Native CLI Audio-Rendering (`fluidsynth -F`) | Abgeschlossen |
+| 2 | `lilypond` | Notensatz | `factsheets/audio-musik/lilypond/` | Phase 1 | `.ly`, `.ily` (Include), Layout-Config, `.pdf`, `.mid` | Native CLI Compilation (`lilypond --png --pdf`) | Abgeschlossen |
 | 3 | `csound` | Live Coding / DSP | `factsheets/audio-musik/csound/` | Phase 1 | `.csd`, `.orc`, `.sco`, Reverb Patch, `.wav` | Native CLI Compilation (`csound -o output.wav`) | Geplant |
 | 4 | `supercollider` | Live Coding / DSP | `factsheets/audio-musik/supercollider/` | Phase 1 | `.scd` (Drone), `.scd` (SynthDef), Pattern, Server-Config, `.wav` | Headless `sclang` Non-Realtime Synthesis (NRT) | Geplant |
 | 5 | `pure-data` | Visuelle Prog. | `factsheets/audio-musik/pure-data/` | Phase 1 | Main `.pd`, Sub-Patch `.pd`, Effect `.pd`, MIDI `.pd`, Wavetable Array | Headless DSP Processing (`pd -nogui -batch`) | Geplant |
