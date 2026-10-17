@@ -14,3 +14,4 @@
 | 88b35326 | MariaDB, MSSQL Express, Oracle Database Free, PostgreSQL |
 | 8fb010b4 | Jinja2, Twig, Blade, Mustache, Handlebars, EJS (Embedded JS), Pug, Razor, Thymeleaf, Liquid, ERB (Embedded Ruby) |
 | cc4ed927 | JOSM, osm2pgsql, osmium-tool, Osmosis, PostGIS |
+| e3a91b2c | FluidSynth |
