@@ -87,6 +87,7 @@ def generate_mkdocs_config():
     config['nav'].append({'Datenquellen': 'DATASOURCES.md'})
     config['nav'].append({'Visualisierung': 'VISUALIZATION.md'})
     config['nav'].append({'Musik-Konzept': 'MUSIC_CONCEPT.md'})
+    config['nav'].append({'Musik-Design': 'MUSIC_DESIGN.md'})
     config['nav'].append({'Roadmap': 'FACTSHEET_ROADMAP.md'})
 
     # Factsheets navigation
