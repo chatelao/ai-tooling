@@ -1,5 +1,6 @@
-scripts/verify_tools.sh: line 43: img2pdf: command not found
-scripts/verify_tools.sh: line 44: xmllint: command not found
+img2pdf 0.5.1
+xmllint: using libxml version 20914
+   compiled with: Threads Tree Output Push Reader Patterns Writer SAXv1 FTP HTTP DTDValid HTML Legacy C14N Catalog XPath XPointer XInclude Iconv ICU ISO8859X Unicode Regexps Automata Schemas Schematron Modules Debug Zlib Lzma
 1.6.1
 compiled against libxml2 2.9.14, linked with 20914
 compiled against libxslt 1.1.35, linked with 10139

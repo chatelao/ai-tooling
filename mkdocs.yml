@@ -81,6 +81,8 @@ nav:
       - Übersicht My-App: factsheets/app-entwicklung/react/my-app/README.md
     - React Native: factsheets/app-entwicklung/react-native/README.md
     - Spring Boot: factsheets/app-entwicklung/spring-boot/README.md
+  - Audio-musik:
+    - Fluidsynth: factsheets/audio-musik/fluidsynth/README.md
   - Bioinformatik:
     - Übersicht: factsheets/bioinformatik/README.md
     - Biopython: factsheets/bioinformatik/biopython/README.md
