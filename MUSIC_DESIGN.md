@@ -6,7 +6,7 @@ Dieses Dokument überführt das High-Level-Konzept aus **[MUSIC_CONCEPT.md](MUSI
 
 ## 1. Übersicht & Architekturansatz
 
-Das Ziel dieser Design-Spezifikation ist die systematische Einbindung aller in `MUSIC_CONCEPT.md` genannten Musikproduktions-, Synthese-, Notensatz-, Audiobearbeitungs- und Live-Coding-Werkzeuge in die automatisierten Workflows des KI-Agenten-Repositorys (gemäß [GEMINI.md](GEMINI.md) und [FACTSHEET_ROADMAP.md](FACTSHEET_ROADMAP.md)).
+Das Ziel dieser Design-Spezifikation ist die systematische Einbindung aller in `MUSIC_CONCEPT.md` genannten Musikproduktions-, Synthese-, Notensatz-, Audiobearbeitungs- und Live-Coding-Werkzeuge in die automatisierten Workflows des KI-Agenten-Repositorys (gemäß [GEMINI.md](GEMINI.md), [FACTSHEET_ROADMAP.md](FACTSHEET_ROADMAP.md) und der operativen [MUSIC_ROADMAP.md](MUSIC_ROADMAP.md)).
 
 ### Core Design Principles:
 1. **Neue Kategorie `Audio & Musik`:** Erstellung des Verzeichnisses `factsheets/audio-musik/`.
@@ -447,7 +447,7 @@ python3 scripts/analyze_factsheets.py
 
 ## 5. Meilensteine & Zeitplan für das Rollout
 
-Die Onboarding-Phase der Musik-Tools ist in 3 Meilensteine gegliedert:
+Die Onboarding-Phase der Musik-Tools ist in 3 Meilensteine gegliedert (detailliert in **[MUSIC_ROADMAP.md](MUSIC_ROADMAP.md)**):
 
 | Meilenstein | Zielstellung | Fokus-Werkzeuge |
 | :--- | :--- | :--- |
@@ -461,4 +461,4 @@ Die Onboarding-Phase der Musik-Tools ist in 3 Meilensteine gegliedert:
 
 Mit dieser Design-Spezifikation ist ein reproduzierbarer, automatisierbarer und voll integrierter Leitfaden vorhanden, um das Repository von 114 Factsheets auf 139 Factsheets zu erweitern.
 
-Die Einbindung von `MUSIC_DESIGN.md` in die Hauptnavigation von `mkdocs.yml` stellt sicher, dass Entwickler und KI-Agenten jederzeit Zugriff auf diese Spezifikation haben.
+Die Einbindung von `MUSIC_DESIGN.md` und `MUSIC_ROADMAP.md` in die Hauptnavigation von `mkdocs.yml` stellt sicher, dass Entwickler und KI-Agenten jederzeit Zugriff auf diese Spezifikation und den operativen Rollout-Plan haben.

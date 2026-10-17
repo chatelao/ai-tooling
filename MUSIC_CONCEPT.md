@@ -1,6 +1,6 @@
 # Open-Source-Werkzeuge für Musikerstellung, -bearbeitung und -produktion
 
-Dieses Dokument bietet eine umfassende Übersicht über die führenden Open-Source-Software-Werkzeuge für digitale Musikproduktion, Audiobearbeitung, Klangerzeugung, Notensatz und algorithmische Komposition auf modernen Betriebssystemen (insbesondere Ubuntu Linux).
+Dieses Dokument bietet eine umfassende Übersicht über die führenden Open-Source-Software-Werkzeuge für digitale Musikproduktion, Audiobearbeitung, Klangerzeugung, Notensatz und algorithmische Komposition auf modernen Betriebssystemen (insbesondere Ubuntu Linux). Siehe auch **[MUSIC_DESIGN.md](MUSIC_DESIGN.md)** für das technische Design und **[MUSIC_ROADMAP.md](MUSIC_ROADMAP.md)** für die schrittweise Rollout-Roadmap.
 
 ---
 
