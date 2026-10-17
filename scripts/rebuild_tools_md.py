@@ -64,6 +64,7 @@ def extract_all_info(readme_path):
         group_mapping = {
             'animation': 'Animation',
             'app-entwicklung': 'App-Entwicklung',
+            'audio-musik': 'Audio & Musik',
             'bioinformatik': 'Bioinformatik',
             'cad-3d': 'CAD-3D',
             'datenbanken': 'Datenbanken',
