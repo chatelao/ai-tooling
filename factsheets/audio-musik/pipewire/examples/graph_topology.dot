@@ -1,0 +1,31 @@
+digraph pipewire_audio_graph {
+    rankdir=LR;
+    node [shape=rectangle, style="filled,rounded", fontname="Helvetica"];
+
+    subgraph cluster_sources {
+        label = "Audio Sources";
+        color = lightgray;
+        src_mic [label="Hardware Mic\n(Audio/Source)", fillcolor=lightgreen];
+        src_synth [label="FluidSynth Generator\n(Audio/Source)", fillcolor=lightcyan];
+    }
+
+    subgraph cluster_pipewire_core {
+        label = "PipeWire Processing Graph";
+        color = blue;
+        node_mixer [label="PipeWire Mixer / Adapter\n(Audio/Duplex)", fillcolor=yellow];
+        node_v_sink [label="Virtual Stereo Sink\n(Audio/Sink)", fillcolor=orange];
+    }
+
+    subgraph cluster_sinks {
+        label = "Audio Outputs";
+        color = lightgray;
+        sink_speaker [label="ALSA Speaker Output\n(Audio/Sink)", fillcolor=pink];
+        sink_recorder [label="File Stream Recorder\n(Audio/Sink)", fillcolor=violet];
+    }
+
+    src_mic -> node_mixer [label="FL, FR"];
+    src_synth -> node_mixer [label="FL, FR"];
+    node_mixer -> node_v_sink [label="PCM 48kHz"];
+    node_v_sink -> sink_speaker [label="Master Out"];
+    node_v_sink -> sink_recorder [label="Monitor Out"];
+}

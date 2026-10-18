@@ -1,0 +1,8 @@
+PipeWire Monitor Event Stream Log
+=================================
+[2025-01-01 12:00:00.000000] core 0x55d7f10a3000: bound proxy 1 type PipeWire:Interface:Core/3 v3
+[2025-01-01 12:00:00.001200] core 0x55d7f10a3000: added node id 34 name 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+[2025-01-01 12:00:00.002100] core 0x55d7f10a3000: added node id 45 name 'alsa_output.pci-0000_00_1f.3.analog-stereo'
+[2025-01-01 12:00:00.003500] core 0x55d7f10a3000: added node id 52 name 'Virtual_Stereo_Sink'
+[2025-01-01 12:00:00.004800] core 0x55d7f10a3000: linked port 45:1 -> port 52:1 (Audio/Sink Link)
+[2025-01-01 12:00:00.005000] core 0x55d7f10a3000: state changed 'suspended' -> 'running' (Quantum: 1024, Rate: 48000Hz)
