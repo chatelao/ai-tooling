@@ -1,0 +1,3 @@
+0.000000	0.250000	Intro Count-In
+0.250000	0.600000	Main Tone 440Hz
+0.600000	1.000000	Outro Fade
