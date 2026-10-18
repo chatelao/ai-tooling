@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patchbay version="0.9.9" name="jack_default_patchbay">
+  <cables>
+    <cable output="system:capture_1" input="system:playback_1"/>
+    <cable output="system:capture_2" input="system:playback_2"/>
+    <cable output="synth:out_1" input="system:playback_1"/>
+    <cable output="synth:out_2" input="system:playback_2"/>
+  </cables>
+  <sockets>
+    <socket type="jack-audio" name="system_out" client="system" direction="output">
+      <plug name="capture_1"/>
+      <plug name="capture_2"/>
+    </socket>
+    <socket type="jack-audio" name="system_in" client="system" direction="input">
+      <plug name="playback_1"/>
+      <plug name="playback_2"/>
+    </socket>
+  </sockets>
+</patchbay>

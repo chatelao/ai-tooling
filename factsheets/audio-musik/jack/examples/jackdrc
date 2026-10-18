@@ -1,0 +1,3 @@
+# JACK daemon runtime configuration file (~/.jackdrc)
+# Executes jackd with dummy audio driver for headless/CI environments
+/usr/bin/jackd -d dummy -r 44100 -p 1024
