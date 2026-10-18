@@ -1,0 +1,11 @@
+JACK Audio Connection Kit - Latency & Buffer Diagnostic Report
+============================================================
+Server Status: Running
+Driver: dummy (Headless Audio Null Driver)
+Sample Rate: 48000 Hz
+Period Size (Frames): 512
+Periods Per Buffer: 2
+Calculated Latency: 21.33 ms
+Realtime Mode: Enabled (Priority 10)
+Xrun Statistics: 0 xruns recorded
+Active Ports: 4 (2 capture, 2 playback)

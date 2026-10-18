@@ -1,0 +1,9 @@
+system:capture_1
+system:capture_2
+system:playback_1
+system:playback_2
+pure_data:input_1
+pure_data:output_1
+pure_data:output_2
+fluidsynth:left
+fluidsynth:right
