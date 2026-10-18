@@ -69,7 +69,7 @@ In der folgenden Tabelle sind alle 25 Musik-Tools mit ihren Zielpfaden, Beispiel
 | 2 | `lilypond` | Notensatz | `factsheets/audio-musik/lilypond/` | Phase 1 | `.ly`, `.ily` (Include), Layout-Config, `.pdf`, `.mid` | Native CLI Compilation (`lilypond --png --pdf`) | Abgeschlossen |
 | 3 | `csound` | Live Coding / DSP | `factsheets/audio-musik/csound/` | Phase 1 | `.csd`, `.orc`, `.sco`, Reverb Patch, `.wav` | Native CLI Compilation (`csound -o output.wav`) | Abgeschlossen |
 | 4 | `supercollider` | Live Coding / DSP | `factsheets/audio-musik/supercollider/` | Phase 1 | `.scd` (Drone), `.scd` (SynthDef), Pattern, Server-Config, `.wav` | Headless `sclang` Non-Realtime Synthesis (NRT) | Abgeschlossen |
-| 5 | `pure-data` | Visuelle Prog. | `factsheets/audio-musik/pure-data/` | Phase 1 | Main `.pd`, Sub-Patch `.pd`, Effect `.pd`, MIDI `.pd`, Wavetable Array | Headless DSP Processing (`pd -nogui -batch`) | Geplant |
+| 5 | `pure-data` | Visuelle Prog. | `factsheets/audio-musik/pure-data/` | Phase 1 | Main `.pd`, Sub-Patch `.pd`, Effect `.pd`, MIDI `.pd`, Wavetable Array | Headless DSP Processing (`pd -nogui -batch`) | Abgeschlossen |
 | 6 | `pipewire` | Infrastruktur | `factsheets/audio-musik/pipewire/` | Phase 1 | `.conf`, WirePlumber Lua, `.dot` Graph, JACK Config, Mon-Log | CLI Graph & Node Management (`pw-cli`, `pw-dot`) | Geplant |
 | 7 | `jack` | Infrastruktur | `factsheets/audio-musik/jack/` | Phase 1 | `jackdrc`, Patchbay XML, Dummy Driver Script, Latency Log, LSP Log | `jackd` mit Dummy-Treiber (`jackd -d dummy`) | Geplant |
 | 8 | `audacity` | Audio-Editor | `factsheets/audio-musik/audacity/` | Phase 2 | Nyquist `.ny`, Noise Profile, Macro Chain, Label Track, Sample `.wav` | Nyquist Script Batch Mode & `xvfb-run` | Geplant |

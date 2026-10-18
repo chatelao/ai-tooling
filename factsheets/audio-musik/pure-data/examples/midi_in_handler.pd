@@ -1,0 +1,9 @@
+#N canvas 200 200 450 300 12;
+#X obj 50 50 notein;
+#X obj 50 80 stripnote;
+#X obj 50 110 mtof;
+#X obj 50 140 outlet;
+#X connect 0 0 1 0;
+#X connect 0 1 1 1;
+#X connect 1 0 2 0;
+#X connect 2 0 3 0;
