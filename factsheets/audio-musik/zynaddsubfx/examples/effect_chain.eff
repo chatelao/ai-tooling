@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ZynAddSubFX-Parameters>
+<ZynAddSubFX-Parameters version="3.0.6" ZynAddSubFX-author="ZynAddSubFX Team">
+  <EFFPAR>
+    <par name="type" value="1"/>
+    <par name="volume" value="100"/>
+    <par name="preset" value="0"/>
+  </EFFPAR>
+</ZynAddSubFX-Parameters>

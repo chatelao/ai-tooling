@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ZynAddSubFX-Parameters>
+<ZynAddSubFX-Parameters version="3.0.6" ZynAddSubFX-author="ZynAddSubFX Team">
+  <INFORMATION>
+    <par_bool name="panning_law" value="0"/>
+  </INFORMATION>
+  <BASE_PARAMETERS>
+    <par name="max_main_volume" value="127"/>
+    <par name="volume" value="100"/>
+    <par name="key_shift" value="64"/>
+  </BASE_PARAMETERS>
+  <MASTER>
+    <par name="volume" value="100"/>
+    <par name="key_shift" value="64"/>
+  </MASTER>
+</ZynAddSubFX-Parameters>
