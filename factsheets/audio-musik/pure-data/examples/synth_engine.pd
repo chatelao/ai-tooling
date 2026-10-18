@@ -1,0 +1,4 @@
+#N canvas 200 200 450 300 12;
+#X obj 50 50 loadbang;
+#X obj 50 80 print pure_data_synth_engine_loaded;
+#X connect 0 0 1 0;
