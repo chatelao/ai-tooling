@@ -85,6 +85,7 @@ nav:
     - Csound: factsheets/audio-musik/csound/README.md
     - Fluidsynth: factsheets/audio-musik/fluidsynth/README.md
     - Lilypond: factsheets/audio-musik/lilypond/README.md
+    - Pipewire: factsheets/audio-musik/pipewire/README.md
     - Pure Data: factsheets/audio-musik/pure-data/README.md
     - Supercollider: factsheets/audio-musik/supercollider/README.md
   - Bioinformatik:
