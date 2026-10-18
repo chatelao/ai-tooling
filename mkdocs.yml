@@ -82,6 +82,7 @@ nav:
     - React Native: factsheets/app-entwicklung/react-native/README.md
     - Spring Boot: factsheets/app-entwicklung/spring-boot/README.md
   - Audio-musik:
+    - Audacity: factsheets/audio-musik/audacity/README.md
     - Csound: factsheets/audio-musik/csound/README.md
     - Fluidsynth: factsheets/audio-musik/fluidsynth/README.md
     - Jack: factsheets/audio-musik/jack/README.md
