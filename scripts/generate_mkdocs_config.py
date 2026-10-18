@@ -90,6 +90,8 @@ def generate_mkdocs_config():
     config['nav'].append({'Musik-Design': 'MUSIC_DESIGN.md'})
     config['nav'].append({'Musik-Roadmap': 'MUSIC_ROADMAP.md'})
     config['nav'].append({'Roadmap': 'FACTSHEET_ROADMAP.md'})
+    config['nav'].append({'Update-Kandidaten': 'UPDATE_CANDIDATES.md'})
+    config['nav'].append({'Update-Roadmap': 'UPDATE_CANDIDATES_ROADMAP.md'})
 
     # Factsheets navigation
     factsheets_nav = [{'Übersicht': 'factsheets/README.md'}]
