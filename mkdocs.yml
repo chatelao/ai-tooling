@@ -90,6 +90,7 @@ nav:
     - Pipewire: factsheets/audio-musik/pipewire/README.md
     - Pure Data: factsheets/audio-musik/pure-data/README.md
     - Supercollider: factsheets/audio-musik/supercollider/README.md
+    - Tenacity: factsheets/audio-musik/tenacity/README.md
   - Bioinformatik:
     - Übersicht: factsheets/bioinformatik/README.md
     - Biopython: factsheets/bioinformatik/biopython/README.md

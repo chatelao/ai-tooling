@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compressorversion>2</compressorversion>
+<compressor name="Vocal Dynamic Control">
+	<threshold db="-18.0"/>
+	<noisefloor db="-60.0"/>
+	<ratio ratio="3.0"/>
+	<attacktime time="0.2"/>
+	<releasetime time="1.0"/>
+	<normalize gain="yes"/>
+	<usepeaks peaks="no"/>
+</compressor>
