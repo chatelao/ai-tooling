@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ZynAddSubFX-Parameters>
+<ZynAddSubFX-Parameters version="3.0.6" ZynAddSubFX-author="ZynAddSubFX Team">
+  <INSTRUMENT>
+    <INFO>
+      <string name="name">Subtractive Bass</string>
+      <string name="author">ZynAddSubFX User</string>
+      <string name="comments">Classic subtractive synth bass preset</string>
+    </INFO>
+    <INSTRUMENT_KIT>
+      <par name="kit_mode" value="0"/>
+    </INSTRUMENT_KIT>
+  </INSTRUMENT>
+</ZynAddSubFX-Parameters>
