@@ -115,9 +115,8 @@ def generate_mkdocs_config():
 
             # Recursively find all Markdown files
             for root, dirs, files in os.walk(tool_path):
-                # Skip examples directory for navigation to keep it clean
-                if 'examples' in root.split(os.sep):
-                    continue
+                # Skip examples and node_modules directory for navigation to keep it clean
+                dirs[:] = [d for d in dirs if d not in ('examples', 'node_modules')]
 
                 for file in sorted(files):
                     if file.endswith('.md'):
