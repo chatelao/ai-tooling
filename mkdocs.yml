@@ -87,6 +87,7 @@ nav:
     - Fluidsynth: factsheets/audio-musik/fluidsynth/README.md
     - Jack: factsheets/audio-musik/jack/README.md
     - Lilypond: factsheets/audio-musik/lilypond/README.md
+    - Musescore: factsheets/audio-musik/musescore/README.md
     - Pipewire: factsheets/audio-musik/pipewire/README.md
     - Pure Data: factsheets/audio-musik/pure-data/README.md
     - Supercollider: factsheets/audio-musik/supercollider/README.md
