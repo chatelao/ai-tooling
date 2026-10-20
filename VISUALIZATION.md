@@ -63,4 +63,5 @@ Diese Dokumentation ordnet gewünschte Visualisierungsergebnisse den entsprechen
 | Firmware-Analyse | [Radare2](factsheets/firmware-analyse/radare2/README.md) | Firmware-Analyse |
 | Hex-Ansicht | [Hexdump](factsheets/firmware-analyse/hexdump/README.md) | Firmware-Analyse |
 | Spektrogramme & Frequenzanalyse | [Audacity](factsheets/audio-musik/audacity/README.md) | Audio & Musik |
+| Partitur- & Notensatz-Rendering (PDF/PNG) | [MuseScore](factsheets/audio-musik/musescore/README.md) | Audio & Musik |
 | Vektorbasiertes Notengravur-Rendering | [LilyPond](factsheets/audio-musik/lilypond/README.md) | Audio & Musik |
