@@ -69,7 +69,7 @@ In der folgenden Tabelle sind alle 81 Update-Kandidaten geordnet nach Phase, Kat
 
 | Kategorie | Werkzeug / Modul | Aktuelle Version | Zielversion | Update-Typ | Validierungsstrategie | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Animation | [ImageMagick](factsheets/animation/imagemagick/README.md) | `7.1.1` | `7.1.2-34` | Sicherheitsfix | CLI-Render-Tests & Image Decoder Check | Geplant |
+| Animation | [ImageMagick](factsheets/animation/imagemagick/README.md) | `7.1.1` | `7.1.2-34` | Sicherheitsfix | CLI-Render-Tests & Image Decoder Check | Abgeschlossen |
 | Animation | [FFmpeg](factsheets/animation/ffmpeg/README.md) | `7.1` | `9.0.2` | Hauptversion / Security | Media Encoding & Filter-Pipeline-Tests | Geplant |
 | Audio-musik | [FluidSynth](factsheets/audio-musik/fluidsynth/README.md) | `2.3.4` | `2.6.1` | Security / Patch | SoundFont2/3 Parsing Test (`fluidsynth -F`) | Geplant |
 | Audio-musik | [PipeWire](factsheets/audio-musik/pipewire/README.md) | `1.0.5` | `1.6.9` | Security / Patch | IPC & JACK-Emulation Test (`pw-cli`) | Geplant |
