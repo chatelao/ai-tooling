@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-RACK-SET>
+<CARLA-RACK-SET VERSION='2.0'>
+ <Rack>
+  <Slot index='1'>
+   <PluginName>Stereo Delay</PluginName>
+   <PluginType>LADSPA</PluginType>
+   <Bypass>False</Bypass>
+   <Parameter id='0' name='Delay Time (s)'>0.25</Parameter>
+   <Parameter id='1' name='Feedback'>0.40</Parameter>
+   <Parameter id='2' name='Dry/Wet'>0.50</Parameter>
+  </Slot>
+  <Slot index='2'>
+   <PluginName>Reverb Engine</PluginName>
+   <PluginType>LV2</PluginType>
+   <Bypass>False</Bypass>
+   <Parameter id='0' name='Room Size'>0.75</Parameter>
+   <Parameter id='1' name='Damping'>0.30</Parameter>
+  </Slot>
+ </Rack>
+</CARLA-RACK-SET>
