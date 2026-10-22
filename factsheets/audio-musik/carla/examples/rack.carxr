@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-RACK>
+<CARLA-RACK VERSION='2.5'>
+ <Plugin>
+  <Info>
+   <Type>INTERNAL</Type>
+   <Name>Volume Controller</Name>
+   <Label>volume</Label>
+  </Info>
+  <Data>
+   <Active>Yes</Active>
+   <Volume>1.0</Volume>
+  </Data>
+ </Plugin>
+</CARLA-RACK>
