@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-PROJECT>
+<CARLA-PROJECT VERSION='2.5'>
+ <EngineOptions>
+  <Option name='ProcessMode'>1</Option>
+  <Option name='AudioDriver'>Jack</Option>
+  <Option name='SampleRate'>44100</Option>
+  <Option name='BufferSize'>512</Option>
+ </EngineOptions>
+ <Plugin>
+  <Info>
+   <Type>INTERNAL</Type>
+   <Name>Audio Gain / Pan</Name>
+   <Filename>audio-gain</Filename>
+  </Info>
+  <Data>
+   <Active>Yes</Active>
+   <Volume>1.0</Volume>
+  </Data>
+ </Plugin>
+</CARLA-PROJECT>
