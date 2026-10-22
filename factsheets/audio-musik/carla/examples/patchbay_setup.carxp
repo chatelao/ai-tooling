@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-PROJECT>
+<CARLA-PROJECT VERSION='2.0'>
+ <EngineSettings>
+  <Option name='ProcessMode'>1</Option>
+  <Option name='TransportMode'>1</Option>
+  <Option name='SampleRate'>44100</Option>
+  <Option name='BufferSize'>512</Option>
+ </EngineSettings>
+ <Plugin>
+  <Info>
+   <Type>INTERNAL</Type>
+   <Name>Audio Gain / Pan</Name>
+   <Label>audio-gain-pan</Label>
+  </Info>
+  <Data>
+   <Option name='Volume'>1.0</Option>
+   <Option name='Balance'>0.0</Option>
+  </Data>
+ </Plugin>
+</CARLA-PROJECT>
