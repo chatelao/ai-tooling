@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-PROJECT>
+<CARLA-PROJECT VERSION='2.5'>
+ <EngineSettings>
+  <Option name='ProcessMode'>1</Option>
+  <Option name='AudioDriver'>jack</Option>
+  <Option name='SampleRate'>44100</Option>
+ </EngineSettings>
+ <Plugin>
+  <Info>
+   <Type>LV2</Type>
+   <Name>Synth Instrument</Name>
+   <URI>http://example.org/plugins/synth</URI>
+  </Info>
+  <Data>
+   <Active>Yes</Active>
+   <Volume>0.85</Volume>
+  </Data>
+ </Plugin>
+</CARLA-PROJECT>
