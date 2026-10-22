@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tuning-presets version="1.0">
+  <preset name="Standard E">
+    <string number="1" note="64" name="E4"/>
+    <string number="2" note="59" name="B3"/>
+    <string number="3" note="55" name="G3"/>
+    <string number="4" note="50" name="D3"/>
+    <string number="5" note="45" name="A2"/>
+    <string number="6" note="40" name="E2"/>
+  </preset>
+
+  <preset name="Drop D">
+    <string number="1" note="64" name="E4"/>
+    <string number="2" note="59" name="B3"/>
+    <string number="3" note="55" name="G3"/>
+    <string number="4" note="50" name="D3"/>
+    <string number="5" note="45" name="A2"/>
+    <string number="6" note="38" name="D2"/>
+  </preset>
+
+  <preset name="Open G">
+    <string number="1" note="62" name="D4"/>
+    <string number="2" note="59" name="B3"/>
+    <string number="3" note="55" name="G3"/>
+    <string number="4" note="50" name="D3"/>
+    <string number="5" note="43" name="G2"/>
+    <string number="6" note="38" name="D2"/>
+  </preset>
+
+  <preset name="DADGAD">
+    <string number="1" note="62" name="D4"/>
+    <string number="2" note="57" name="A3"/>
+    <string number="3" note="55" name="G3"/>
+    <string number="4" note="50" name="D3"/>
+    <string number="5" note="45" name="A2"/>
+    <string number="6" note="38" name="D2"/>
+  </preset>
+</tuning-presets>
