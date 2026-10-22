@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tg:song xmlns:tg="http://www.tuxguitar.com.ar/schema/tg.xsd">
+  <tg:header>
+    <tg:title>Riff Master Demo</tg:title>
+    <tg:artist>TuxGuitar Artist</tg:artist>
+    <tg:album>Onboarding Album</tg:album>
+    <tg:author>Jules</tg:author>
+    <tg:tempo>120</tg:tempo>
+  </tg:header>
+  <tg:tracks>
+    <tg:track id="1" name="Electric Guitar" channel="0">
+      <tg:tuning strings="6">E4 B3 G3 D3 A2 E2</tg:tuning>
+      <tg:measure number="1" key="C" tempo="120">
+        <tg:beat duration="4">
+          <tg:note string="6" fret="0"/>
+        </tg:beat>
+        <tg:beat duration="4">
+          <tg:note string="6" fret="3"/>
+        </tg:beat>
+        <tg:beat duration="4">
+          <tg:note string="6" fret="5"/>
+        </tg:beat>
+      </tg:measure>
+    </tg:track>
+  </tg:tracks>
+</tg:song>
