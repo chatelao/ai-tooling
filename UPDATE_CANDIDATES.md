@@ -25,7 +25,7 @@ Dieses Dokument bietet eine vollständige Übersicht aller in den Factsheets erf
 | App-entwicklung | [React Native](factsheets/app-entwicklung/react-native/README.md) | `0.76.3` | `0.88.0` | Minor / Patch Update | Sicherheits- & Stabilitätsfixes für neue Architektur und React 18/19 Integration. |
 | App-entwicklung | [Spring Boot](factsheets/app-entwicklung/spring-boot/README.md) | `3.4.0` | `4.1.1` | Hauptversion | Spring Boot 3.4.x / 4.x Updates inklusive Sicherheitsfixies für Spring Framework CVEs und Java 21+ Unterstützung. |
 | Audio-musik | [Csound](factsheets/audio-musik/csound/README.md) | `6.18.1` | `window-6.14.0` | Minor / Patch Update | Neuere Upstream-Version verfügbar. Enhancements und Sicherheitsupdates. |
-| Audio-musik | [FluidSynth](factsheets/audio-musik/fluidsynth/README.md) | `2.3.4` | `2.6.1` | Minor / Patch Update | Sicherheits- & Speicherkorrekturen beim SoundFont2/3 Parsing und Sound-Treiber-Anbindung. |
+| Audio-musik | [FluidSynth](factsheets/audio-musik/fluidsynth/README.md) | `2.6.1` | `2.6.1` | Minor / Patch Update | Sicherheits- & Speicherkorrekturen beim SoundFont2/3 Parsing und Sound-Treiber-Anbindung. |
 | Audio-musik | [LilyPond](factsheets/audio-musik/lilypond/README.md) | `2.24.3` | `2.27.3` | Minor / Patch Update | Wartungsupdate mit Schriftart- und Gravur-Korrekturen. |
 | Audio-musik | [PipeWire](factsheets/audio-musik/pipewire/README.md) | `1.0.5` | `1.6.9` | Minor / Patch Update | Sicherheitsfixes im IPC-Protokoll und Latenz-Optimierungen für JACK/ALSA Emulation. |
 | Audio-musik | [Pure Data](factsheets/audio-musik/pure-data/README.md) | `0.54.1` | `0.57-0` | Minor / Patch Update | Sicherheits- & System-Korrekturen für GUI-Kommunikation und Audio-I/O. |
