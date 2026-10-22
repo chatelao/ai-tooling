@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-RACK>
+<CARLA-RACK VERSION='2.0'>
+ <RackPlugin id='1'>
+  <Name>Master Compressor</Name>
+  <Type>LV2</Type>
+  <URI>http://calf.sourceforge.net/plugins/Compressor</URI>
+  <Active>Yes</Active>
+  <Volume>1.0</Volume>
+  <Parameters>
+   <Parameter index='0' value='0.25'>Threshold</Parameter>
+   <Parameter index='1' value='4.00'>Ratio</Parameter>
+   <Parameter index='2' value='10.0'>Attack</Parameter>
+   <Parameter index='3' value='100.0'>Release</Parameter>
+  </Parameters>
+ </RackPlugin>
+</CARLA-RACK>

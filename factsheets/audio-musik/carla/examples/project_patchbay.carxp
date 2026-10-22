@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-PROJECT>
+<CARLA-PROJECT VERSION='2.0'>
+ <EngineSettings>
+  <Option name='ProcessMode'>1</Option>
+  <Option name='AudioDriver'>ALSA</Option>
+  <Option name='SampleRate'>44100</Option>
+  <Option name='BufferSize'>512</Option>
+ </EngineSettings>
+ <Plugin>
+  <Info>
+   <Type>1</Type>
+   <Name>Simple Reverb</Name>
+   <Binary>freeverb.so</Binary>
+  </Info>
+  <Data>
+   <Active>Yes</Active>
+   <Volume>0.8</Volume>
+   <Parameter id="0">0.5</Parameter>
+   <Parameter id="1">0.7</Parameter>
+  </Data>
+ </Plugin>
+ <ExternalPatchbay>
+  <Connection>
+   <Source>system:capture_1</Source>
+   <Target>Simple Reverb:input_1</Target>
+  </Connection>
+  <Connection>
+   <Source>Simple Reverb:output_1</Source>
+   <Target>system:playback_1</Target>
+  </Connection>
+ </ExternalPatchbay>
+</CARLA-PROJECT>
