@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-RACK>
+<CARLA-RACK VERSION='2.0'>
+ <RackPlugin index='0'>
+  <Name>Reverb Effect</Name>
+  <Type>LADSPA</Type>
+  <Filename>freeverb.so</Filename>
+  <Enabled>True</Enabled>
+ </RackPlugin>
+</CARLA-RACK>
