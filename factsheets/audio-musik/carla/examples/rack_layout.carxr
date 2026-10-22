@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-RACK>
+<CARLA-RACK VERSION='2.0'>
+ <Plugin id='0'>
+  <Info>
+   <Type>INTERNAL</Type>
+   <Name>Audio Equalizer</Name>
+  </Info>
+  <Parameter id='0'>
+   <Name>Low Gain</Name>
+   <Value>0.0</Value>
+  </Parameter>
+  <Parameter id='1'>
+   <Name>High Gain</Name>
+   <Value>2.5</Value>
+  </Parameter>
+ </Plugin>
+</CARLA-RACK>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-PROJECT>
+<CARLA-PROJECT VERSION='2.0'>
+ <EngineSettings>
+  <Option name='ProcessMode'>1</Option>
+  <Option name='AudioDriver'>JACK</Option>
+  <Option name='SampleRate'>44100</Option>
+ </EngineSettings>
+ <Plugin>
+  <Info>
+   <Type>INTERNAL</Type>
+   <Name>Audio Gain/Pan</Name>
+   <Label>gain</Label>
+  </Info>
+  <Data>
+   <Active>Yes</Active>
+   <Volume>1.0</Volume>
+  </Data>
+ </Plugin>
+</CARLA-PROJECT>
