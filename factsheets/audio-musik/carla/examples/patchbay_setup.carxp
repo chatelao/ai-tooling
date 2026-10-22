@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-PROJECT>
+<CARLA-PROJECT VERSION='2.0'>
+ <EngineSettings>
+  <Option name='ProcessMode'>1</Option>
+  <Option name='AudioDriver'>Dummy</Option>
+  <Option name='SampleRate'>44100</Option>
+  <Option name='BufferSize'>512</Option>
+ </EngineSettings>
+ <Transport>
+  <Option name='BeatsPerMinute'>120</Option>
+  <Option name='TimeSignatureNumerator'>4</Option>
+  <Option name='TimeSignatureDenominator'>4</Option>
+ </Transport>
+ <Plugin>
+  <Info>
+   <Type>INTERNAL</Type>
+   <Name>Audio Input</Name>
+   <Label>audioinput</Label>
+  </Info>
+  <Data>
+   <Option name='Active'>1</Option>
+   <Option name='Volume'>1.0</Option>
+  </Data>
+ </Plugin>
+ <Plugin>
+  <Info>
+   <Type>INTERNAL</Type>
+   <Name>Audio Output</Name>
+   <Label>audiooutput</Label>
+  </Info>
+  <Data>
+   <Option name='Active'>1</Option>
+   <Option name='Volume'>1.0</Option>
+  </Data>
+ </Plugin>
+ <Patchbay>
+  <Connection>
+   <Source>Audio Input:capture_1</Source>
+   <Target>Audio Output:playback_1</Target>
+  </Connection>
+  <Connection>
+   <Source>Audio Input:capture_2</Source>
+   <Target>Audio Output:playback_2</Target>
+  </Connection>
+ </Patchbay>
+</CARLA-PROJECT>
