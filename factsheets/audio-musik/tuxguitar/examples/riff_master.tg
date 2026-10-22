@@ -1,0 +1,22 @@
+TUXGUITAR_TAB_FILE_V1.5
+[SONG_INFO]
+TITLE=Riff Master
+ARTIST=Jules
+ALBUM=Guitar Tab Samples
+KEY=E Minor
+TEMPO=120
+
+[TRACK_1]
+NAME=Lead Guitar
+TUNING=E,B,G,D,A,E
+CHANNEL=1
+PROGRAM=29
+
+[TAB_DATA]
+MEASURE 1:
+e|-------------------|
+B|-------------------|
+G|--2/4-2-0---0------|
+D|----------2---2-0--|
+A|-------------------|
+E|-------------------|
