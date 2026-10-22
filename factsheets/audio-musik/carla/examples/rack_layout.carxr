@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-RACK>
+<CARLA-RACK VERSION='2.0'>
+ <Plugin>
+  <Info>
+   <Type>INTERNAL</Type>
+   <Name>Audio File Player</Name>
+   <Binary>audiofile</Binary>
+  </Info>
+  <Data>
+   <Active>Yes</Active>
+   <Volume>0.8</Volume>
+  </Data>
+ </Plugin>
+</CARLA-RACK>
