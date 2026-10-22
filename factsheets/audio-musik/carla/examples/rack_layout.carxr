@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-RACK-LAYOUT>
+<CARLA-RACK-LAYOUT VERSION='1.0'>
+ <Rack>
+  <Slot index='1'>
+   <PluginName>Equalizer 3 Band</PluginName>
+   <Type>INTERNAL</Type>
+   <Active>true</Active>
+   <Volume>0.85</Volume>
+   <Parameter id='0' name='Low Gain'>0.0</Parameter>
+   <Parameter id='1' name='Mid Gain'>1.5</Parameter>
+   <Parameter id='2' name='High Gain'>-0.5</Parameter>
+  </Slot>
+  <Slot index='2'>
+   <PluginName>Stereo Limiter</PluginName>
+   <Type>INTERNAL</Type>
+   <Active>true</Active>
+   <Volume>1.0</Volume>
+   <Parameter id='0' name='Threshold'>-1.0</Parameter>
+  </Slot>
+ </Rack>
+</CARLA-RACK-LAYOUT>
