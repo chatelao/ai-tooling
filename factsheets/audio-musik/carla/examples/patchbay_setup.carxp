@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-PROJECT>
+<CARLA-PROJECT VERSION='2.0'>
+ <EngineOptions>
+  <Option name='ProcessMode'>1</Option>
+  <Option name='AudioDriver'>ALSA</Option>
+  <Option name='SampleRate'>44100</Option>
+  <Option name='BufferSize'>512</Option>
+ </EngineOptions>
+
+ <Plugin>
+  <Info>
+   <Type>LV2</Type>
+   <Name>Simple Sine Synth</Name>
+   <URI>http://mda.co.uk/synth</URI>
+  </Info>
+  <Data>
+   <Active>Yes</Active>
+   <Volume>0.85</Volume>
+  </Data>
+ </Plugin>
+
+ <ExternalPatchbay>
+  <Connection>
+   <Source>system:capture_1</Source>
+   <Target>Simple Sine Synth:events_in</Target>
+  </Connection>
+  <Connection>
+   <Source>Simple Sine Synth:audio_out_l</Source>
+   <Target>system:playback_1</Target>
+  </Connection>
+  <Connection>
+   <Source>Simple Sine Synth:audio_out_r</Source>
+   <Target>system:playback_2</Target>
+  </Connection>
+ </ExternalPatchbay>
+</CARLA-PROJECT>
