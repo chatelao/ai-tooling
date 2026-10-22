@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-PROJECT>
+<CARLA-PROJECT VERSION='2.0'>
+ <EngineOptions>
+  <Option name='AudioDriver'>JACK</Option>
+  <Option name='SampleRate'>44100</Option>
+  <Option name='ProcessMode'>SingleThread</Option>
+ </EngineOptions>
+ <Plugin>
+  <Info>
+   <Type>LV2</Type>
+   <Name>Simple Sine Synth</Name>
+   <URI>http://morsen.org/plugins/simple_sine</URI>
+  </Info>
+  <Data>
+   <Active>Yes</Active>
+   <Volume>0.85</Volume>
+  </Data>
+ </Plugin>
+</CARLA-PROJECT>

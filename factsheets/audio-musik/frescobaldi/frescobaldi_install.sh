@@ -1,5 +1,6 @@
-#!/usr/bin/env bash
+#!/bin/bash
 set -e
+export DEBIAN_FRONTEND=noninteractive
+cd "$(dirname "$0")"
 
-sudo apt-get update
-sudo apt-get install -y frescobaldi xvfb
+sudo apt-get update && sudo apt-get install -y frescobaldi xvfb
