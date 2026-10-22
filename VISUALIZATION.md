@@ -66,3 +66,4 @@ Diese Dokumentation ordnet gewünschte Visualisierungsergebnisse den entsprechen
 | Partitur- & Notensatz-Rendering (PDF/PNG) | [MuseScore](factsheets/audio-musik/musescore/README.md) | Audio & Musik |
 | Vektorbasiertes Notengravur-Rendering | [LilyPond](factsheets/audio-musik/lilypond/README.md) | Audio & Musik |
 | Tabulatur- & Bundinstrumenten-Notation | [TuxGuitar](factsheets/audio-musik/tuxguitar/README.md) | Audio & Musik |
+| Audio-Routing- & Patchbay-Visualisierung | [Carla](factsheets/audio-musik/carla/README.md) | Audio & Musik |
