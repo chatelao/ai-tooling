@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-RACK>
+<CARLA-RACK VERSION='2.0'>
+ <EngineOptions>
+  <Option name='ProcessMode'>1</Option>
+ </EngineOptions>
+ <RackLayout>
+  <Columns>2</Columns>
+  <Height>600</Height>
+ </RackLayout>
+</CARLA-RACK>
