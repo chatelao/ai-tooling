@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tunings>
+  <preset name="Standard E" instrument="Guitar" strings="6">E4,B3,G3,D3,A2,E2</preset>
+  <preset name="Drop D" instrument="Guitar" strings="6">E4,B3,G3,D3,A2,D2</preset>
+  <preset name="DADGAD" instrument="Guitar" strings="6">D4,A3,G3,D3,A2,D2</preset>
+  <preset name="Open G" instrument="Guitar" strings="6">D4,B3,G3,D3,G2,D2</preset>
+  <preset name="Standard Bass" instrument="Bass" strings="4">G2,D2,A1,E1</preset>
+</tunings>

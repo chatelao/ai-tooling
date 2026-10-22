@@ -1,5 +1,6 @@
-#!/usr/bin/env bash
-set -euo pipefail
+#!/bin/bash
+set -e
+export DEBIAN_FRONTEND=noninteractive
+cd "$(dirname "$0")"
 
-# Installation script for ZynAddSubFX
-sudo apt-get update && sudo DEBIAN_FRONTEND=noninteractive apt-get install -y zynaddsubfx zynaddsubfx-data
+sudo apt-get update && sudo apt-get install -y zynaddsubfx zynaddsubfx-data

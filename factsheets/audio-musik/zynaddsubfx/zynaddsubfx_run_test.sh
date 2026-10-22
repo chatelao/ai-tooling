@@ -1,6 +1,6 @@
-#!/usr/bin/env bash
-set -euo pipefail
+#!/bin/bash
+set -e
+export DEBIAN_FRONTEND=noninteractive
+cd "$(dirname "$0")"
 
-# Run test script for ZynAddSubFX
-echo "Testing ZynAddSubFX CLI..."
 zynaddsubfx --version
