@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-RACK>
+<CARLA-RACK VERSION='2.5'>
+ <RackSlot index='0'>
+  <PluginName>Equalizer 3-Band</PluginName>
+  <PluginType>LV2</PluginType>
+  <Enabled>true</Enabled>
+ </RackSlot>
+ <RackSlot index='1'>
+  <PluginName>Reverb Effect</PluginName>
+  <PluginType>VST2</PluginType>
+  <Enabled>true</Enabled>
+ </RackSlot>
+</CARLA-RACK>
