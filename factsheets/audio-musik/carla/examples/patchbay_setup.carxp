@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-PROJECT>
+<CARLA-PROJECT VERSION='2.0'>
+ <EngineOptions>
+  <Option name='ProcessMode'>0</Option>
+  <Option name='TransportExtraOptions'>0</Option>
+  <Option name='MaxMidiEvents'>512</Option>
+ </EngineOptions>
+ <Plugin>
+  <Info>
+   <Type>1</Type>
+   <Name>Audio Input</Name>
+   <Filename>system</Filename>
+  </Info>
+  <Data>
+   <Active>Yes</Active>
+  </Data>
+ </Plugin>
+ <Plugin>
+  <Info>
+   <Type>1</Type>
+   <Name>Audio Output</Name>
+   <Filename>system</Filename>
+  </Info>
+  <Data>
+   <Active>Yes</Active>
+  </Data>
+ </Plugin>
+</CARLA-PROJECT>
