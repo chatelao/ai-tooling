@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-PROJECT>
+<CARLA-PROJECT VERSION='2.0'>
+ <EngineOptions>
+  <Option name='ProcessMode'>1</Option>
+  <Option name='AudioDriver'>Dummy</Option>
+  <Option name='SampleRate'>44100</Option>
+  <Option name='BufferSize'>512</Option>
+ </EngineOptions>
+ <Plugin>
+  <Info>
+   <Type>INTERNAL</Type>
+   <Name>Audio Gain</Name>
+   <Label>audio-gain</Label>
+  </Info>
+  <Data>
+   <Active>Yes</Active>
+   <Control>
+    <Symbol>gain</Symbol>
+    <Value>1.0</Value>
+   </Control>
+  </Data>
+ </Plugin>
+ <ExternalPatchbay>
+  <Connection>
+   <Source>system:capture_1</Source>
+   <Target>Audio Gain:input_1</Target>
+  </Connection>
+  <Connection>
+   <Source>Audio Gain:output_1</Source>
+   <Target>system:playback_1</Target>
+  </Connection>
+ </ExternalPatchbay>
+</CARLA-PROJECT>

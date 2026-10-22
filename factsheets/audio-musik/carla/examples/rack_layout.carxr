@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-RACK>
+<CARLA-RACK VERSION='2.0'>
+ <Slot id='0'>
+  <Plugin>
+   <Info>
+    <Type>INTERNAL</Type>
+    <Name>Simple Chorus</Name>
+    <Label>chorus</Label>
+   </Info>
+   <Data>
+    <Active>Yes</Active>
+    <Volume>0.8</Volume>
+   </Data>
+  </Plugin>
+ </Slot>
+ <Slot id='1'>
+  <Plugin>
+   <Info>
+    <Type>INTERNAL</Type>
+    <Name>Stereo Delay</Name>
+    <Label>delay</Label>
+   </Info>
+   <Data>
+    <Active>Yes</Active>
+    <Volume>0.6</Volume>
+   </Data>
+  </Plugin>
+ </Slot>
+</CARLA-RACK>
