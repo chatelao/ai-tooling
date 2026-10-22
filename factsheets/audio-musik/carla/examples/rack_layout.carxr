@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-RACK>
+<CARLA-RACK VERSION='2.0'>
+ <RackSettings>
+  <Option name='Skin'>default</Option>
+  <Option name='Slots'>4</Option>
+ </RackSettings>
+ <Slot index='0'>
+  <PluginName>Internal Audio Gain</PluginName>
+  <Enabled>true</Enabled>
+ </Slot>
+</CARLA-RACK>
