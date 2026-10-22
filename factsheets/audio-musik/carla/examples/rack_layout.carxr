@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-RACK>
+<CARLA-RACK VERSION='2.5'>
+ <Plugin>
+  <Info>
+   <Type>INTERNAL</Type>
+   <Name>Rack Reverb</Name>
+  </Info>
+  <Data>
+   <Active>Yes</Active>
+   <DryWet>0.3</DryWet>
+  </Data>
+ </Plugin>
+</CARLA-RACK>
