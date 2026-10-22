@@ -65,3 +65,4 @@ Diese Dokumentation ordnet gewünschte Visualisierungsergebnisse den entsprechen
 | Spektrogramme & Frequenzanalyse | [Audacity](factsheets/audio-musik/audacity/README.md) | Audio & Musik |
 | Partitur- & Notensatz-Rendering (PDF/PNG) | [MuseScore](factsheets/audio-musik/musescore/README.md) | Audio & Musik |
 | Vektorbasiertes Notengravur-Rendering | [LilyPond](factsheets/audio-musik/lilypond/README.md) | Audio & Musik |
+| Tabulatur- & Bundinstrumenten-Notation | [TuxGuitar](factsheets/audio-musik/tuxguitar/README.md) | Audio & Musik |

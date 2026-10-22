@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tg:song xmlns:tg="http://www.tuxguitar.com.ar/TuxGuitar">
+  <header>
+    <title>Riff Master</title>
+    <artist>Open Source Guitarist</artist>
+    <album>TuxGuitar Collection</album>
+    <author>Jules</author>
+  </header>
+  <measure-header number="1">
+    <tempo bpm="120"/>
+    <time-signature numerator="4" denominator="4"/>
+  </measure-header>
+  <track id="1" name="Electric Guitar">
+    <tuning strings="6">
+      <string pitch="64"/> <!-- E4 -->
+      <string pitch="59"/> <!-- B3 -->
+      <string pitch="55"/> <!-- G3 -->
+      <string pitch="50"/> <!-- D3 -->
+      <string pitch="45"/> <!-- A2 -->
+      <string pitch="40"/> <!-- E2 -->
+    </tuning>
+  </track>
+</tg:song>
