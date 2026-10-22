@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tunings>
+    <tuning name="Standard E" instrument="Guitar" strings="6">
+        <string pitch="64" name="E4"/>
+        <string pitch="59" name="B3"/>
+        <string pitch="55" name="G3"/>
+        <string pitch="50" name="D3"/>
+        <string pitch="45" name="A2"/>
+        <string pitch="40" name="E2"/>
+    </tuning>
+    <tuning name="Drop D" instrument="Guitar" strings="6">
+        <string pitch="64" name="E4"/>
+        <string pitch="59" name="B3"/>
+        <string pitch="55" name="G3"/>
+        <string pitch="50" name="D3"/>
+        <string pitch="45" name="A2"/>
+        <string pitch="38" name="D2"/>
+    </tuning>
+    <tuning name="Open G" instrument="Guitar" strings="6">
+        <string pitch="62" name="D4"/>
+        <string pitch="59" name="B3"/>
+        <string pitch="55" name="G3"/>
+        <string pitch="50" name="D3"/>
+        <string pitch="43" name="G2"/>
+        <string pitch="38" name="D2"/>
+    </tuning>
+</tunings>
