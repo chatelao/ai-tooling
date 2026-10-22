@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippets name="Frescobaldi Notation Helpers">
+  <snippet title="StaffGroup Setup" shortcut="Ctrl+Alt+S">
+    <code><![CDATA[\new StaffGroup <<
+  \new Staff \with { instrumentName = "$1" } {
+    $2
+  }
+>>]]></code>
+  </snippet>
+  <snippet title="Dynamic Crescendo" shortcut="Ctrl+Alt+C">
+    <code><![CDATA[\p\< $1 \f]]></code>
+  </snippet>
+  <snippet title="Repeat Block" shortcut="Ctrl+Alt+R">
+    <code><![CDATA[\repeat volta 2 {
+  $1
+}]]></code>
+  </snippet>
+</snippets>

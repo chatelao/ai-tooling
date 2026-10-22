@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<frescobaldi-session version="1.0">
+  <session name="Orchestral Workspace">
+    <documents>
+      <document path="template_orchestra.ly" active="true">
+        <cursor position="142" line="12" column="8"/>
+        <view zoom="1.2" split="vertical"/>
+      </document>
+    </documents>
+    <panel-layout>
+      <panel id="music-view" visible="true" position="right"/>
+      <panel id="midi-player" visible="true" position="bottom"/>
+      <panel id="log-view" visible="true" position="bottom"/>
+    </panel-layout>
+  </session>
+</frescobaldi-session>

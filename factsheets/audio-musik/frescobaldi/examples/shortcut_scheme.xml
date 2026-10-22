@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcuts name="Default Frescobaldi Schemes">
+  <shortcut command="file_compile" key="Ctrl+M"/>
+  <shortcut command="music_view_preview" key="Ctrl+P"/>
+  <shortcut command="tools_indent" key="Ctrl+I"/>
+  <shortcut command="tools_transpose" key="Ctrl+T"/>
+  <shortcut command="midi_play_pause" key="Space"/>
+</shortcuts>
