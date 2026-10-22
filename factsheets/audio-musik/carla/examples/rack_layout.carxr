@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-RACK>
+<CARLA-RACK VERSION='2.0'>
+ <Plugin>
+  <Info>
+   <Type>INTERNAL</Type>
+   <Name>Rack Reverb</Name>
+   <Binary>reverb</Binary>
+  </Info>
+  <Data>
+   <Option name='Active'>1</Option>
+   <Option name='Dry'>0.8</Option>
+   <Option name='Wet'>0.2</Option>
+  </Data>
+ </Plugin>
+</CARLA-RACK>

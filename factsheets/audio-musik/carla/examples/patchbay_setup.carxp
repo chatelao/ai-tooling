@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE CARLA-PROJECT>
+<CARLA-PROJECT VERSION='2.0'>
+ <EngineSettings>
+  <Option name='ProcessMode'>1</Option>
+  <Option name='TransportExtraOptions'>0</Option>
+  <Option name='DebugMode'>0</Option>
+ </EngineSettings>
+ <Transport>
+  <Option name='Bpm'>120.0</Option>
+ </Transport>
+ <Plugin>
+  <Info>
+   <Type>INTERNAL</Type>
+   <Name>Audio In</Name>
+   <Binary>audio-in</Binary>
+  </Info>
+  <Data>
+   <Option name='Active'>1</Option>
+   <Option name='Volume'>1.0</Option>
+  </Data>
+ </Plugin>
+ <Plugin>
+  <Info>
+   <Type>INTERNAL</Type>
+   <Name>Audio Out</Name>
+   <Binary>audio-out</Binary>
+  </Info>
+  <Data>
+   <Option name='Active'>1</Option>
+   <Option name='Volume'>1.0</Option>
+  </Data>
+ </Plugin>
+</CARLA-PROJECT>
