@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tunings>
+  <tuning name="E Standard">
+    <string octave="4" pitch="E"/>
+    <string octave="3" pitch="B"/>
+    <string octave="3" pitch="G"/>
+    <string octave="3" pitch="D"/>
+    <string octave="2" pitch="A"/>
+    <string octave="2" pitch="E"/>
+  </tuning>
+  <tuning name="Drop D">
+    <string octave="4" pitch="E"/>
+    <string octave="3" pitch="B"/>
+    <string octave="3" pitch="G"/>
+    <string octave="3" pitch="D"/>
+    <string octave="2" pitch="A"/>
+    <string octave="2" pitch="D"/>
+  </tuning>
+  <tuning name="DADGAD">
+    <string octave="4" pitch="D"/>
+    <string octave="3" pitch="A"/>
+    <string octave="3" pitch="G"/>
+    <string octave="3" pitch="D"/>
+    <string octave="2" pitch="A"/>
+    <string octave="2" pitch="D"/>
+  </tuning>
+  <tuning name="Open G">
+    <string octave="4" pitch="D"/>
+    <string octave="3" pitch="B"/>
+    <string octave="3" pitch="G"/>
+    <string octave="3" pitch="D"/>
+    <string octave="2" pitch="G"/>
+    <string octave="2" pitch="D"/>
+  </tuning>
+</tunings>
