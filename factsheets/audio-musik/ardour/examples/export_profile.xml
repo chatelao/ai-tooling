@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportFormatSpecification version="1.0">
+  <Format name="Stereo WAV 24-bit 44.1kHz" extension="wav" sample-rate="44100">
+    <Encoding format="WAVE" sample-format="Format24"/>
+    <Quality src-quality="SRC_SINC_BEST"/>
+    <ChannelMapping stereo="true" count="2"/>
+  </Format>
+</ExportFormatSpecification>

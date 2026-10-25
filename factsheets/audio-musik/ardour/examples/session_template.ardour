@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArdourSession version="8.0.0" name="session_template" id-counter="100">
+  <Config>
+    <Option name="sample-rate" value="44100"/>
+    <Option name="native-file-data-format" value="FormatFloat"/>
+    <Option name="native-file-header-format" value="WAVE"/>
+  </Config>
+  <Sources/>
+  <Regions/>
+  <Locations/>
+  <Bundles/>
+  <Routes>
+    <Route id="1" name="Master" flags="MasterOut" default-type="audio" active="true">
+      <IO name="Master" id="2" direction="Input" default-type="audio" inputs="2">
+        <Port name="Master/audio_in 1" type="audio"/>
+        <Port name="Master/audio_in 2" type="audio"/>
+      </IO>
+      <IO name="Master" id="3" direction="Output" default-type="audio" outputs="2">
+        <Port name="Master/audio_out 1" type="audio"/>
+        <Port name="Master/audio_out 2" type="audio"/>
+      </IO>
+    </Route>
+  </Routes>
+</ArdourSession>

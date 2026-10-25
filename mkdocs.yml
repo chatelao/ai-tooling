@@ -84,6 +84,7 @@ nav:
     - React Native: factsheets/app-entwicklung/react-native/README.md
     - Spring Boot: factsheets/app-entwicklung/spring-boot/README.md
   - Audio-musik:
+    - Ardour: factsheets/audio-musik/ardour/README.md
     - Audacity: factsheets/audio-musik/audacity/README.md
     - Carla: factsheets/audio-musik/carla/README.md
     - Csound: factsheets/audio-musik/csound/README.md
