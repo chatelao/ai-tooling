@@ -81,7 +81,7 @@ In der folgenden Tabelle sind alle 25 Musik-Tools mit ihren Zielpfaden, Beispiel
 | 14 | `frescobaldi` | Notensatz | `factsheets/audio-musik/frescobaldi/` | Phase 2 | Template `.ly`, Session XML, Snippets XML, MIDI Config, Hotkeys XML | `xvfb-run -a frescobaldi --version` & Linting | Abgeschlossen |
 | 15 | `tuxguitar` | Notensatz | `factsheets/audio-musik/tuxguitar/` | Phase 2 | Native `.tg`, Guitar Pro `.gp5`, PowerTab `.ptb`, Tunings XML, Export `.pdf` | Headless Export via Java CLI & `xvfb-run` | Abgeschlossen |
 | 16 | `carla` | Plugin-Host | `factsheets/audio-musik/carla/` | Phase 2 | Project `.carxp`, Rack `.carxr`, Blacklist Conf, Python MIDI Filter, Canvas `.svg` | Headless Plugin-Host CLI (`carla-single`) | Abgeschlossen |
-| 17 | `ardour` | DAW | `factsheets/audio-musik/ardour/` | Phase 3 | Session XML, Export Profile XML, Lua Render Script, Track Template, Loop `.wav` | Lua Batch Render Mode & `xvfb-run` | Geplant |
+| 17 | `ardour` | DAW | `factsheets/audio-musik/ardour/` | Phase 3 | Session XML, Export Profile XML, Lua Render Script, Track Template, Loop `.wav` | Lua Batch Render Mode & `xvfb-run` | Abgeschlossen |
 | 18 | `lmms` | DAW | `factsheets/audio-musik/lmms/` | Phase 3 | Beat `.mmpz`, Synth Preset `.xspf`, Chord `.mid`, Drum Kit XML, Render Conf | Native CLI Renderer (`lmms render`) | Abgeschlossen |
 | 19 | `qtractor` | DAW | `factsheets/audio-musik/qtractor/` | Phase 3 | Session `.qtr`, Multi-Channel `.mid`, Bus Routing XML, Connections XML, Metronome | Session Verification via `xvfb-run` | Geplant |
 | 20 | `zrythm` | DAW | `factsheets/audio-musik/zrythm/` | Phase 3 | Archive `.zrythm`, Chord `.mid`, Pool Sample `.wav`, Plugin Chain XML, Automation | CLI Batch Export & `xvfb-run` | Geplant |

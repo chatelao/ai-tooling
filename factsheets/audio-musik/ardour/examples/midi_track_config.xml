@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrackTemplate name="MIDI Synth Track" type="midi">
+  <IO name="MIDI In" direction="Input" default-type="midi" inputs="1">
+    <Port name="MIDI Track/midi_in 1" type="midi"/>
+  </IO>
+  <IO name="MIDI Out" direction="Output" default-type="audio" outputs="2">
+    <Port name="MIDI Track/audio_out 1" type="audio"/>
+    <Port name="MIDI Track/audio_out 2" type="audio"/>
+  </IO>
+  <Diskstream flags="Recordable" channels="1"/>
+</TrackTemplate>
