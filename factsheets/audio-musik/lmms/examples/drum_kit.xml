@@ -1,0 +1,7 @@
+<lmms-drumkit name="Basic Electronic Kit" version="1.0">
+  <sample name="Kick" src="drums/kick01.ogg" volume="100" pan="0"/>
+  <sample name="Snare" src="drums/snare01.ogg" volume="90" pan="0"/>
+  <sample name="Clap" src="drums/clap01.ogg" volume="85" pan="10"/>
+  <sample name="HiHat_Closed" src="drums/hihat_closed01.ogg" volume="75" pan="-15"/>
+  <sample name="HiHat_Open" src="drums/hihat_open01.ogg" volume="80" pan="-10"/>
+</lmms-drumkit>
