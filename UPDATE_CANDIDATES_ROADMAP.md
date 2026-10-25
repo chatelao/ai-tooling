@@ -73,7 +73,7 @@ In der folgenden Tabelle sind alle 81 Update-Kandidaten geordnet nach Phase, Kat
 | Animation | [FFmpeg](factsheets/animation/ffmpeg/README.md) | `7.1` | `9.0.2` | Hauptversion / Security | Media Encoding & Filter-Pipeline-Tests | Abgeschlossen |
 | Audio-musik | [FluidSynth](factsheets/audio-musik/fluidsynth/README.md) | `2.3.4` | `2.6.1` | Security / Patch | SoundFont2/3 Parsing Test (`fluidsynth -F`) | Abgeschlossen |
 | Audio-musik | [PipeWire](factsheets/audio-musik/pipewire/README.md) | `1.0.5` | `1.6.9` | Security / Patch | IPC & JACK-Emulation Test (`pw-cli`) | Abgeschlossen |
-| Audio-musik | [Pure Data](factsheets/audio-musik/pure-data/README.md) | `0.54.1` | `0.57-0` | Security / Patch | Headless GUI & DSP Audio Test (`pd -nogui`) | Geplant |
+| Audio-musik | [Pure Data](factsheets/audio-musik/pure-data/README.md) | `0.54.1` | `0.57-0` | Security / Patch | Headless GUI & DSP Audio Test (`pd -nogui`) | Abgeschlossen |
 | Bioinformatik | [Biopython](factsheets/bioinformatik/biopython/README.md) | `1.84` | `1.88` | Security / Patch | PDB/NCBI Parser Verification Script | Geplant |
 | Bioinformatik | [RDKit](factsheets/bioinformatik/rdkit/README.md) | `2024.09.1` | `2026.9.1` | Security / Major | C++ SMILES Parser & Mol-Draw Test | Geplant |
 | Datenbanken | [PostgreSQL](factsheets/datenbanken/postgresql/README.md) | `17.2` | `18.6` | Security / Major | SQL-Injektion & Ext-Security Validation | Geplant |
