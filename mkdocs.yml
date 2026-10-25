@@ -91,6 +91,7 @@ nav:
     - Frescobaldi: factsheets/audio-musik/frescobaldi/README.md
     - Jack: factsheets/audio-musik/jack/README.md
     - Lilypond: factsheets/audio-musik/lilypond/README.md
+    - Lmms: factsheets/audio-musik/lmms/README.md
     - Musescore: factsheets/audio-musik/musescore/README.md
     - Pipewire: factsheets/audio-musik/pipewire/README.md
     - Pure Data: factsheets/audio-musik/pure-data/README.md

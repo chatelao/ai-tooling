@@ -1,0 +1,11 @@
+<lmms-render-config>
+  <settings>
+    <format value="wav"/>
+    <samplerate value="44100"/>
+    <bitrate value="160"/>
+    <depth value="16"/>
+    <interpolation value="sincfastest"/>
+    <oversampling value="2"/>
+    <stereo-mode value="joint"/>
+  </settings>
+</lmms-render-config>

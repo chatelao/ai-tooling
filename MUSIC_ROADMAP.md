@@ -82,7 +82,7 @@ In der folgenden Tabelle sind alle 25 Musik-Tools mit ihren Zielpfaden, Beispiel
 | 15 | `tuxguitar` | Notensatz | `factsheets/audio-musik/tuxguitar/` | Phase 2 | Native `.tg`, Guitar Pro `.gp5`, PowerTab `.ptb`, Tunings XML, Export `.pdf` | Headless Export via Java CLI & `xvfb-run` | Abgeschlossen |
 | 16 | `carla` | Plugin-Host | `factsheets/audio-musik/carla/` | Phase 2 | Project `.carxp`, Rack `.carxr`, Blacklist Conf, Python MIDI Filter, Canvas `.svg` | Headless Plugin-Host CLI (`carla-single`) | Abgeschlossen |
 | 17 | `ardour` | DAW | `factsheets/audio-musik/ardour/` | Phase 3 | Session XML, Export Profile XML, Lua Render Script, Track Template, Loop `.wav` | Lua Batch Render Mode & `xvfb-run` | Geplant |
-| 18 | `lmms` | DAW | `factsheets/audio-musik/lmms/` | Phase 3 | Beat `.mmpz`, Synth Preset `.xspf`, Chord `.mid`, Drum Kit XML, Render Conf | Native CLI Renderer (`lmms render`) | Geplant |
+| 18 | `lmms` | DAW | `factsheets/audio-musik/lmms/` | Phase 3 | Beat `.mmpz`, Synth Preset `.xspf`, Chord `.mid`, Drum Kit XML, Render Conf | Native CLI Renderer (`lmms render`) | Abgeschlossen |
 | 19 | `qtractor` | DAW | `factsheets/audio-musik/qtractor/` | Phase 3 | Session `.qtr`, Multi-Channel `.mid`, Bus Routing XML, Connections XML, Metronome | Session Verification via `xvfb-run` | Geplant |
 | 20 | `zrythm` | DAW | `factsheets/audio-musik/zrythm/` | Phase 3 | Archive `.zrythm`, Chord `.mid`, Pool Sample `.wav`, Plugin Chain XML, Automation | CLI Batch Export & `xvfb-run` | Geplant |
 | 21 | `helio-workstation` | DAW | `factsheets/audio-musik/helio-workstation/` | Phase 3 | Project `.helio`, Melody `.mid`, Theme JSON, Git VCS JSON, Keybindings | Headless JSON-to-MIDI Render via `xvfb-run` | Geplant |
