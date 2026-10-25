@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surge-patch patch-format-version="1">
+  <patch type="poly" name="Warm Pad">
+    <meta author="Jules" category="Pad" comment="Warm analog style pad preset for Surge XT"/>
+    <oscillator scene="A" index="1" type="classic">
+      <param id="shape" value="0.5"/>
+      <param id="pulse_width" value="0.5"/>
+      <param id="sub_osc" value="0.2"/>
+    </oscillator>
+    <filter scene="A" index="1" type="lp24">
+      <param id="cutoff" value="64.0"/>
+      <param id="resonance" value="12.0"/>
+    </filter>
+    <amplifier scene="A">
+      <envelope attack="0.8" decay="1.2" sustain="0.7" release="1.5"/>
+    </amplifier>
+  </patch>
+</surge-patch>
