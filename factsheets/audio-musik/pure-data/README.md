@@ -6,7 +6,7 @@
 
 | Eigenschaft | Wert |
 | :--- | :--- |
-| Latest | 0.54.1 |
+| Latest | 0.57-0 |
 | LTS | N/A |
 | Reifegrad | Stabil |
 | Technische Schulden | Gering |
