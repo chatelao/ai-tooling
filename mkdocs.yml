@@ -90,6 +90,7 @@ nav:
     - Csound: factsheets/audio-musik/csound/README.md
     - Fluidsynth: factsheets/audio-musik/fluidsynth/README.md
     - Frescobaldi: factsheets/audio-musik/frescobaldi/README.md
+    - Helm: factsheets/audio-musik/helm/README.md
     - Jack: factsheets/audio-musik/jack/README.md
     - Lilypond: factsheets/audio-musik/lilypond/README.md
     - Lmms: factsheets/audio-musik/lmms/README.md
