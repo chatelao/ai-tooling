@@ -14,7 +14,7 @@ Features (built-in): brotli
 zeep 4.2.1
 6.17.0
 5.14.2
-2.64.1
+2.71.0
 [warning] /usr/bin/fop: Unable to locate serializer in /usr/share/java
 [warning] /usr/bin/fop: Unable to locate xalan2 in /usr/share/java
 [warning] /usr/bin/fop: Unable to locate xercesImpl in /usr/share/java

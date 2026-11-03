@@ -75,7 +75,7 @@ In der folgenden Tabelle sind alle 81 Update-Kandidaten geordnet nach Phase, Kat
 | Audio-musik | [PipeWire](factsheets/audio-musik/pipewire/README.md) | `1.0.5` | `1.6.9` | Security / Patch | IPC & JACK-Emulation Test (`pw-cli`) | Abgeschlossen |
 | Audio-musik | [Pure Data](factsheets/audio-musik/pure-data/README.md) | `0.54.1` | `0.57-0` | Security / Patch | Headless GUI & DSP Audio Test (`pd -nogui`) | Abgeschlossen |
 | Bioinformatik | [Biopython](factsheets/bioinformatik/biopython/README.md) | `1.84` | `1.88` | Security / Patch | PDB/NCBI Parser Verification Script | Abgeschlossen |
-| Bioinformatik | [RDKit](factsheets/bioinformatik/rdkit/README.md) | `2024.09.1` | `2026.9.1` | Security / Major | C++ SMILES Parser & Mol-Draw Test | Geplant |
+| Bioinformatik | [RDKit](factsheets/bioinformatik/rdkit/README.md) | `2024.09.1` | `2026.9.1` | Security / Major | C++ SMILES Parser & Mol-Draw Test | Abgeschlossen |
 | Datenbanken | [PostgreSQL](factsheets/datenbanken/postgresql/README.md) | `17.2` | `18.6` | Security / Major | SQL-Injektion & Ext-Security Validation | Geplant |
 | Firmware-analyse | [YARA](factsheets/firmware-analyse/yara/README.md) | `4.5.1` | `4.5.8` | Security / Patch | PE/ELF Rule Match Test | Geplant |
 | Funktechnik | [URH](factsheets/funktechnik/urh/README.md) | `2.9.8` | `2.10.0` | Security / Patch | SDR Driver & Signal Decoders Check | Geplant |
