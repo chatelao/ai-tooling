@@ -1,0 +1,14 @@
+{
+  "name": "Custom Sine Vibrato",
+  "points": [
+    {"x": 0.0, "y": 0.5},
+    {"x": 0.25, "y": 1.0},
+    {"x": 0.5, "y": 0.5},
+    {"x": 0.75, "y": 0.0},
+    {"x": 1.0, "y": 0.5}
+  ],
+  "smooth": true,
+  "frequency": 2.5,
+  "sync": true,
+  "tempo_divider": 4
+}
